@@ -1,0 +1,13 @@
+##Paises con mayor cantidad según statista
+Colombia = []
+Peru = []
+Estados_Unidos = []
+España = []
+Chile = []
+Argentina = []
+Italia = []
+Portugal = []
+Ecuador = []
+Puerto_Rico = []
+Canada = []
+Bolivia = []
