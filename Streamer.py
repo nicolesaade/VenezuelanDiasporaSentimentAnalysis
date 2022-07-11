@@ -1,7 +1,7 @@
-from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
+import tweepy
 import Credentials
 import CoordinateList 
 
@@ -10,8 +10,8 @@ import CoordinateList
 class Authenticate():
 
     def authenticate(self):
-        authentication = OAuthHandler(Credentials.Consumer_Key, Credentials.Consumer_Secret)
-        authentication.set_access_token(Credentials.Access_Token, Credentials.Acess_Token_Secret)
+        authentication = OAuthHandler(Credentials.Consumer_Key, Credentials.Consumer_Secret) 
+        authentication.set_access_token(Credentials.Access_Token, Credentials.Access_Token_Secret)
         return authentication
 
 class TwitterStreamer():
@@ -20,9 +20,9 @@ class TwitterStreamer():
     def init(self):
         self.twitter_authenticator = Authenticate()
 
-    def stream_tweets(self, filename_of_where_we_want_it, hashtags):
+    def stream_tweets(self, filename_of_where_we_want_it):
         #Handling authentication and connection to API
-        listener = TweetListener(filename_of_where_we_want_it)
+        listener = TweetListener(Credentials.Consumer_Key, Credentials.Consumer_Secret, Credentials.Access_Token, Credentials.Access_Token_Secret)
         auth = self.twitter_authenticator.authenticate()
         stream = Stream(auth, listener)
         #Filter tweets by key word
@@ -33,7 +33,7 @@ class TwitterStreamer():
         stream.filter(locations=[CoordinateList.Colombia])
 
 
-class TweetListener(StreamListener):
+class TweetListener(tweepy.Stream):
 #Prints tweets
 
     #This is a constructor!
@@ -43,7 +43,6 @@ class TweetListener(StreamListener):
     #Will take in data from tweets
     def on_data(self, data):
         try:
-            print(data)
             #Write into file and the append
             with open(self.tweets_filename, 'a') as tf:
                 tf.write(data) 
@@ -56,9 +55,13 @@ class TweetListener(StreamListener):
     def on_status(self, status):
         hashtags = ["venezolanos", "venecos", "venezolanas", "venecas"]
         i = 0
-        while i <  hashtags.len():
-            if hashtags[i] in status.text.lower():
-                print(status)
+        j = 0
+        while j < 10:
+            for i in hashtags:
+                if hashtags[i] in status.text.lower():
+                    print(status.text)
+            j = j + 1        
+
 
 
     def on_error(self, status):
