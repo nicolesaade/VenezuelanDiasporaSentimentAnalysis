@@ -1,80 +1,39 @@
-from tweepy import OAuthHandler
-from tweepy import Stream
-
 import tweepy
 import Credentials
-import CoordinateList 
+import HashtagList
 
 
-###AUTHENTICATION CLASS
-class Authenticate():
-
-    def authenticate(self):
-        authentication = OAuthHandler(Credentials.Consumer_Key, Credentials.Consumer_Secret) 
-        authentication.set_access_token(Credentials.Access_Token, Credentials.Access_Token_Secret)
-        return authentication
-
-class TwitterStreamer():
-#Streams + Processes Tweets    
-
-    def init(self):
-        self.twitter_authenticator = Authenticate()
-
-    def stream_tweets(self, filename_of_where_we_want_it):
-        #Handling authentication and connection to API
-        listener = TweetListener(Credentials.Consumer_Key, Credentials.Consumer_Secret, Credentials.Access_Token, Credentials.Access_Token_Secret)
-        auth = self.twitter_authenticator.authenticate()
-        stream = Stream(auth, listener)
-        #Filter tweets by key word
-        #TO-DO: Filter these tweets by location!
-        #Hashtags must be a list that had to be passed later
-
-        #Apply filter based on vacation
-        stream.filter(locations=[CoordinateList.Colombia])
+#Variables for search
+hashtag_list = []
+tweet_amount = 10
 
 
-class TweetListener(tweepy.Stream):
-#Prints tweets
+#Authentication handler
 
-    #This is a constructor!
-    def init (self, tweets_filename):
-        self.tweets_filename = tweets_filename
+auth_Handler = tweepy.OAuthHandler(Credentials.Consumer_Key, Credentials.Consumer_Secret)
+auth_Handler.set_access_token(Credentials.Access_Token, Credentials.Access_Token_Secret)
 
-    #Will take in data from tweets
-    def on_data(self, data):
-        try:
-            #Write into file and the append
-            with open(self.tweets_filename, 'a') as tf:
-                tf.write(data) 
-            #Return boolean to ensure everything goes well
-            return True
-        except BaseException as e:
-            print("Error on data to print" % str(e))
-        return True
-    
-    def on_status(self, status):
-        hashtags = ["venezolanos", "venecos", "venezolanas", "venecas"]
-        i = 0
-        j = 0
-        while j < 10:
-            for i in hashtags:
-                if hashtags[i] in status.text.lower():
-                    print(status.text)
-            j = j + 1        
+api = tweepy.API(auth_Handler)
+
+i = 0
+tweet_count = 0
+while i < 4:
+    tweets = tweepy.Cursor(api.search_tweets, q=hashtags[i], land='es').items(3000)
+    for tweet in tweets:
+        final_tweet = tweet.text.replace('RT', '')  
+        with open("ColombiaTweets.txt", "r+") as file: 
+            if (final_tweet not in file.read()):
+                tweet_count = tweet_count + 1 
+                print("Tweet " + str(tweet_count) + ": " + final_tweet + " \n" , file=file)
+    i = i + 1
+
+file.close()
 
 
 
-    def on_error(self, status):
-        #If we mess up on Twitter and it doesn't like it
-        if status == 420:
-            #Stop it there
-            return False
-        #Print error message
-        print(status)
+
+
+
+
 
     
-        
-if __name__ == '__main__':
-    filename_for_tweets = "tweets_analyzed.txt"
-    streamer = TwitterStreamer()
-    streamer.stream_tweets(filename_for_tweets)
