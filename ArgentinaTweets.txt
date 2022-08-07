@@ -1022,3 +1022,9 @@ On the plane they were at… https://t.co/R4pzVKy2qr, pronunciation=[[]], extra_
 
 📆 Yolimar Martinez debuted on August 01 against Argentina., pronunciation=[[]], extra_data="{'translat...") 
 
+-0.8356  | Tweet 459: Translated(src=es, dest=en, text=@chocolateagridu: And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Peru,…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 460: Translated(src=es, dest=en, text=And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Pe… https://t.co/VJyQU2zop0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 461: Translated(src=es, dest=en, text=The new wave of Venezuelan migrants is coming, from Colombia... from Argentina it has already happened, without much noise https://t.co/fOpbxvdC32, pronunciation=The new wave of Venezuelan migrants is coming, from Colombia... from Argentina it has already happened, without much noise https://t.co/fOpbxvdC32, extra_data="{'translat...") 
+

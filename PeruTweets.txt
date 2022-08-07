@@ -1166,3 +1166,302 @@ In #Colombia 82.92% of the complaints are in the stage of…, pronunciation=[[]]
 
 -0.9451  | Tweet 489: Translated(src=es, dest=en, text=84% of foreign women who suffer violence in Peru are Venezuelan and are unprotected… https://t.co/z5Fa4Cp65p, pronunciation=84% of foreign women who suffer violence in Peru are Venezuelan and are unprotected… https://t.co/z5Fa4Cp65p, extra_data="{'translat...") 
 
+0.0772  | Tweet 490: Translated(src=es, dest=en, text=@NicolasMaduro Is Venezuela really prospering? Why are there so many Venezuelan immigrants committing crimes in Colomb… https://t.co/giSWl9wvom, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8619  | Tweet 491: Translated(src=es, dest=en, text=@NicolasMaduro It is so prosperous that 5 million venecos fled from that prosperity... and there are imbeciles in my Peru who want this...🤦🏽‍♂️, pronunciation=@NicolasMaduro It is so prosperous that 5 million venecos fled from that prosperity... and there are imbeciles in my Peru who want this...🤦🏽‍♂️, extra_data="{'translat...") 
+
+0.0  | Tweet 492: Translated(src=es, dest=en, text=@RPPNoticias THE PROGRES ARE MERETRICS OF THE GLOBALIST AGENDA AND THEY HAVE ALREADY OBTAINED PERMISSION FROM CASTILLO TO CONTINUE… https://t.co/nJvzY6Y3NJ, pronunciation=@RPPNoticias THE PROGRES ARE MERETRICS OF THE GLOBALIST AGENDA AND THEY HAVE ALREADY OBTAINED PERMISSION FROM CASTILLO TO CONTINUE… https://t.co/nJvzY6Y3NJ, extra_data="{'translat...") 
+
+-0.6369  | Tweet 493: Translated(src=es, dest=en, text=@KeikoFujimori Take your time and read the comments here there are no venecos to those who pay them 150 in the marches… https://t.co/7fIQvSxTwo, pronunciation=@KeikoFujimori Take your time and read the comments here there are no venecos to those who pay them 150 in the marches… https://t.co/7fIQvSxTwo, extra_data="{'translat...") 
+
+-0.296  | Tweet 494: Translated(src=es, dest=en, text=Jakakjakakajsjaa the venecas in Chile believing that they are crying webo like here in Peru kakwkdkdjsjaaka goodbye https://t.co/1bw14VLnqx, pronunciation=Jakakjakakajsjaa the venecas in Chile believing that they are crying webo like here in Peru kakwkdkdjsjaaka goodbye https://t.co/1bw14VLnqx, extra_data="{'translat...") 
+
+-0.7003  | Tweet 495: Translated(src=es, dest=en, text=@Berkeliana: This is what @Almagro_OEA2015 should worry about and raise its voice, Nicaragua is bleeding under the corrupt and communist regime of…, pronunciation=@Berkeliana: This is what @Almagro_OEA2015 should worry about and raise its voice, Nicaragua is bleeding under the corrupt and communist regime of…, extra_data="{'translat...") 
+
+-0.8689  | Tweet 496: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged assassins in Peru https://t.co/5sIwnvZswk… https://t.co/TtWfJ7eFhU, pronunciation=Two Venezuelans were murdered by other nationals and alleged assassins in Peru https://t.co/5sIwnvZswk… https://t.co/TtWfJ7eFhU, extra_data="{'translat...") 
+
+-0.8689  | Tweet 497: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/LP9gpABIeO, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/LP9gpABIeO, extra_data="{'translat...") 
+
+-0.7003  | Tweet 498: Translated(src=es, dest=en, text=@Almagro_OEA2015 should worry about this and raise his voice, Nicaragua is bleeding under the corrupt and common regime… https://t.co/mzuKApn8fc, pronunciation=@Almagro_OEA2015 should worry about this and raise his voice, Nicaragua is bleeding under the corrupt and common regime… https://t.co/mzuKApn8fc, extra_data="{'translat...") 
+
+-0.8689  | Tweet 499: Translated(src=es, dest=en, text=@la_patilla: Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/sLqR9P2vy9, pronunciation=@la_patilla: Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/sLqR9P2vy9, extra_data="{'translat...") 
+
+-0.8689  | Tweet 500: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9P2vy9, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9P2vy9, extra_data="{'translat...") 
+
+0.0  | Tweet 501: Translated(src=es, dest=en, text=@mv_negra2: @FranJ2303 @filomeno_trumps @Redsoxwillwin21 6 A MEMBER OF THE ARAGUA TRAIN, THEY ARE THE VENEZUELAN CHILDREN OF CHÁVEZ AND THE RE…, pronunciation=@mv_negra2: @FranJ2303 @filomeno_trumps @Redsoxwillwin21 6 A MEMBER OF THE ARAGUA TRAIN, THEY ARE THE VENEZUELAN CHILDREN OF CHÁVEZ AND THE RE…, extra_data="{'translat...") 
+
+0.0  | Tweet 502: Translated(src=es, dest=en, text=@FranJ2303 @filomeno_trumps @Redsoxwillwin21 6 A MEMBER OF THE ARAGUA TRAIN, THEY ARE THE VENEZUELAN CHILDREN OF CHÁVEZ AND… https://t.co/ILNHLTySCS, pronunciation=@FranJ2303 @filomeno_trumps @Redsoxwillwin21 6 A MEMBER OF THE ARAGUA TRAIN, THEY ARE THE VENEZUELAN CHILDREN OF CHÁVEZ AND… https://t.co/ILNHLTySCS, extra_data="{'translat...") 
+
+0.6597  | Tweet 503: Translated(src=es, dest=en, text=@virgilio_acuna @congresoperu Yes, but clarify that 99% are Venezuelans who came to the country fleeing from the left… https://t.co/tuPBV4W8Vk, pronunciation=@virgilio_acuna @congresoperu Yes, but clarify that 99% are Venezuelans who came to the country fleeing from the left… https://t.co/tuPBV4W8Vk, extra_data="{'translat...") 
+
+-0.7906  | Tweet 504: Translated(src=es, dest=en, text=@RodolfoDaloia @AlexaGomezDos Wait for the day that in some city suddenly there is an upturn in crime and the c… https://t.co/0FzIA1tLsB, pronunciation=@RodolfoDaloia @AlexaGomezDos Wait for the day that in some city suddenly there is an upturn in crime and the c… https://t.co/0FzIA1tLsB, extra_data="{'translat...") 
+
+-0.5514  | Tweet 505: Translated(src=es, dest=en, text=@victoria19563: @AndresVelasqz Really?... Did they give you a cut of the humanitarian aid from Venezuelans in Colombia, Peru, c…, pronunciation=@victoria19563: @AndresVelasqz Really?... Did they give you a cut of the humanitarian aid from Venezuelans in Colombia, Peru, c…, extra_data="{'translat...") 
+
+0.0  | Tweet 506: Translated(src=es, dest=en, text=BATTLE OF JUNIN PERU AUGUST 6, 1824 178 YEARS AGO SIMÓN BOLÍVAR, VENEZUELAN BY BIRTH, WAS VICTORIOUS IN… https://t.co/GXAILF5Bdx, pronunciation=BATTLE OF JUNIN PERU AUGUST 6, 1824 178 YEARS AGO SIMÓN BOLÍVAR, VENEZUELAN BY BIRTH, WAS VICTORIOUS IN… https://t.co/GXAILF5Bdx, extra_data="{'translat...") 
+
+-0.2066  | Tweet 507: Translated(src=es, dest=en, text=@DINELIAMARCANO @ArondonFT Yes, but 1,500 Venezuelans are in Peru, you without the gift of nature of the pet… https://t.co/zWx4e5Qfgu, pronunciation=@DINELIAMARCANO @ArondonFT Yes, but 1,500 Venezuelans are in Peru, you without the gift of nature of the pet… https://t.co/zWx4e5Qfgu, extra_data="{'translat...") 
+
+0.0  | Tweet 508: Translated(src=es, dest=en, text=@PadreHuerfano1 @IvanDuque Here in Peru Colombians have not been seen begging in the streets, here in Peru they have… https://t.co/CkGEeRPECf, pronunciation=@PadreHuerfano1 @IvanDuque Here in Peru Colombians have not been seen begging in the streets, here in Peru they have… https://t.co/CkGEeRPECf, extra_data="{'translat...") 
+
+0.546  | Tweet 509: Translated(src=es, dest=en, text=@SahzdiPaz I consider that the number of Venezuelans who have been in Peru for years and never bothered to legalize their… https://t.co/FlPFhMuzul, pronunciation=@SahzdiPaz I consider that the number of Venezuelans who have been in Peru for years and never bothered to legalize their… https://t.co/FlPFhMuzul, extra_data="{'translat...") 
+
+-0.6597  | Tweet 510: Translated(src=es, dest=en, text=2 Venezuelans recently arrived in Lima are murdered #Peru
+https://t.co/t9cNbGZYad
+@miguelnieto363 @lolelolay, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 511: Translated(src=gn, dest=en, text=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, pronunciation=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, extra_data="{'translat...") 
+
+0.0  | Tweet 512: Translated(src=es, dest=en, text=@AlexaGomezDos Finally, these explosions of irregular Venezuelan migrants end in anarchy, crime,… https://t.co/1felix2fVJ, pronunciation=@AlexaGomezDos Finally, these explosions of irregular Venezuelan migrants end in anarchy, crime,… https://t.co/1felix2fVJ, extra_data="{'translat...") 
+
+0.0  | Tweet 513: Translated(src=es, dest=en, text=@Reportero24: PERU: “Los Capuchas Negras de Aragua” gang captured. https://t.co/KqzNDbd5QZ performed satanic rituals before committing…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 514: Translated(src=es, dest=en, text=@TemplarioResis: WHEN THE MALANDROS OF VENEZUELA GO TO #Peru
+
+Criminal gangs made up of Venezuelans took over the Dis ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 515: Translated(src=es, dest=en, text=@patriayo: @marialemora @IRA_VENEZUELA #Peru opened the doors and heart to #Venezuelans, everything rotted when Maduro began to ma…, pronunciation=@patriayo: @marialemora @IRA_VENEZUELA #Peru opened the doors and heart to #Venezuelans, everything rotted when Maduro began to ma…, extra_data="{'translat...") 
+
+0.0  | Tweet 516: Translated(src=es, dest=en, text=@SaragozaElena @JonathanQuantip @FMCENTER That is not only an export product in Venezuela, I am in Chile and here… https://t.co/lczlimQ1Iw, pronunciation=@SaragozaElena @JonathanQuantip @FMCENTER That is not only an export product in Venezuela, I am in Chile and here… https://t.co/lczlimQ1Iw, extra_data="{'translat...") 
+
+0.0  | Tweet 517: Translated(src=es, dest=en, text=@rostrosven: Do you think the president will observe this legislative initiative?
+
+The project obliges the tenant to inform Immigration…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 518: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/s4fpbwoFEc, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/s4fpbwoFEc, extra_data="{'translat...") 
+
+0.0  | Tweet 519: Translated(src=es, dest=en, text=PERU: Captured gang "The Black Hoods of Aragua". https://t.co/KqzNDbd5QZ performed satanic rituals before… https://t.co/1aSDRPNOt7, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2755  | Tweet 520: Translated(src=es, dest=en, text=@radio_migrante: #6Ago In Lima it doesn't rain like in Barinas. 🌧️
+
+That smell of wet earth is something that connects many Venezuelans with their c…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8519  | Tweet 521: Translated(src=es, dest=en, text=@PdgNoticias: ⚠️ PERU.- They capture 6 Venezuelans who would be part of the criminal gang "El Tren de Aragua"
+
+👉 A policeman died in the confrontation..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 522: Translated(src=es, dest=en, text=@johanaonavas I am Spanish, I lived in Peru from 2008 to 2019. I saw the hundreds of thousands of Venezuelans walking 1,800 km… https://t.co/o3wAVDbluq, pronunciation=@johanaonavas I am Spanish, I lived in Peru from 2008 to 2019. I saw the hundreds of thousands of Venezuelans walking 1,800 km… https://t.co/o3wAVDbluq, extra_data="{'translat...") 
+
+-0.4188  | Tweet 523: Translated(src=es, dest=en, text=@larightdiario Migration brings many more bad people than good people in Ecuador we have been filled with Venezuelan immigrants… https://t.co/B7TjkCaXPx, pronunciation=@larightdiario Migration brings many more bad people than good people in Ecuador we have been filled with Venezuelan immigrants… https://t.co/B7TjkCaXPx, extra_data="{'translat...") 
+
+-0.5859  | Tweet 524: Translated(src=es, dest=en, text=@laprensa @Fabian_Med A well-intentioned warning that will fall on deaf ears, there is plenty of evidence, Colombians with… https://t.co/JixipSyL0F, pronunciation=@laprensa @Fabian_Med A well-intentioned warning that will fall on deaf ears, there is plenty of evidence, Colombians with… https://t.co/JixipSyL0F, extra_data="{'translat...") 
+
+0.5574  | Tweet 525: Translated(src=es, dest=en, text=@Tropatriunfante: @yuyokandanga Although you should expand the information, in those countries, Colombia, Peru, Ecuador, I don't know if Uruguay, the..., pronunciation=@Tropatriunfante: @yuyokandanga Although you should expand the information, in those countries, Colombia, Peru, Ecuador, I don't know if Uruguay, the..., extra_data="{'translat...") 
+
+0.0  | Tweet 526: Translated(src=es, dest=en, text=Do you think the president will observe this legislative initiative?
+
+The project requires the tenant to inform M… https://t.co/GQdTmuwVDp, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2755  | Tweet 527: Translated(src=es, dest=en, text=#6Ago In Lima it doesn't rain like in Barinas. 🌧️
+
+That smell of wet earth is something that connects many Venezuelans with… https://t.co/D1mVS8YYeL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 528: Translated(src=es, dest=en, text=@caracastv04: FRIDAY ENCOUNTER, with Dra Pérez
+@cperez1962
+, Dr. Carlos Guía @AbgGuia and the political scientist Aldo De Vivo
+@AldoDeVivo -…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8225  | Tweet 529: Translated(src=es, dest=en, text=@Almagro_OEA2015 Put, as you say, all your willingness and tools to help Venezuela and Venezuelans… https://t.co/fcFQkvnxJw, pronunciation=@Almagro_OEA2015 Put, as you say, all your willingness and tools to help Venezuela and Venezuelans… https://t.co/fcFQkvnxJw, extra_data="{'translat...") 
+
+0.0772  | Tweet 530: Translated(src=es, dest=en, text=@rostrosven: What do you think of this new legislative initiative?
+
+we want to read you
+
+This is our informative post with the latest news…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 531: Translated(src=es, dest=en, text=🤝As part of the closing phase of the enrollment of the #Lima headquarters of our project "Biobehavioral Survey on Migrants... https://t.co/WjeDEfb1Zb, pronunciation=🤝As part of the closing phase of the enrollment of the #Lima headquarters of our project "Biobehavioral Survey on Migrants... https://t.co/WjeDEfb1Zb, extra_data="{'translat...") 
+
+0.0  | Tweet 532: Translated(src=es, dest=en, text=@EdgarOchoaPezo @petrogustavo @PedroCastilloTe @congresoperu It's normal, it's a survival instinct, nobody wants… https://t.co/KqqJijh6Ql, pronunciation=@EdgarOchoaPezo @petrogustavo @PedroCastilloTe @congresoperu It's normal, it's a survival instinct, nobody wants… https://t.co/KqqJijh6Ql, extra_data="{'translat...") 
+
+0.8481  | Tweet 533: Translated(src=es, dest=en, text=@NubeluzOficial Remembered #DiegoBertie Great actor, who stood out on the television screens of our country… https://t.co/FtyTwZI31P, pronunciation=@NubeluzOficial Remembered #DiegoBertie Great actor, who stood out on the television screens of our country… https://t.co/FtyTwZI31P, extra_data="{'translat...") 
+
+0.0  | Tweet 534: Translated(src=es, dest=en, text=@biobio But keep saying not everyone is the same hahahahaha 🤣 Venezuelans destroyed their country then in Colombia d… https://t.co/98riLaJlei, pronunciation=@biobio But keep saying not everyone is the same hahahahaha 🤣 Venezuelans destroyed their country then in Colombia d… https://t.co/98riLaJlei, extra_data="{'translat...") 
+
+-0.6486  | Tweet 535: Translated(src=es, dest=en, text=#5Aug | Two Venezuelans recently arrived in Lima, Peru, were shot dead by alleged hitmen… https://t.co/gvmA7RUs3Y, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 536: Translated(src=es, dest=en, text=@MilyJuarezV It has to be like the one in Venezuela. The doctor cerron recommends it and the pencils applaud him. Let's be p… https://t.co/UAxOLoi2NZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 537: Translated(src=es, dest=en, text=@julianlunalor: @jfowks @congresoperu And these satraps who say about Venezuela because here in Peru there are more than two million Venezuelans…, pronunciation=@julianlunalor: @jfowks @congresoperu And these satraps who say about Venezuela because here in Peru there are more than two million Venezuelans…, extra_data="{'translat...") 
+
+0.0  | Tweet 538: Translated(src=es, dest=en, text=@jfowks @congresoperu And these satraps who say about Venezuela because here in Peru there are more than two million ven… https://t.co/vvEa0kOelE, pronunciation=@jfowks @congresoperu And these satraps who say about Venezuela because here in Peru there are more than two million ven… https://t.co/vvEa0kOelE, extra_data="{'translat...") 
+
+-0.9432  | Tweet 539: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wRn8z2dpv3, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wRn8z2dpv3, extra_data="{'translat...") 
+
+-0.7906  | Tweet 540: Translated(src=es, dest=en, text=The Rejection could bear witness to Venezuelans who are living in Venezuela and Venezuelans who are living… https://t.co/3nlVmArJjZ, pronunciation=The Rejection could bear witness to Venezuelans who are living in Venezuela and Venezuelans who are living… https://t.co/3nlVmArJjZ, extra_data="{'translat...") 
+
+-0.5864  | Tweet 541: Translated(src=es, dest=en, text=@Psicovivir In Peru the problem with Venezuelans is not only with criminals, there are also problems with… https://t.co/Jndy5lqJ2O, pronunciation=@Psicovivir In Peru the problem with Venezuelans is not only with criminals, there are also problems with… https://t.co/Jndy5lqJ2O, extra_data="{'translat...") 
+
+0.5803  | Tweet 542: Translated(src=es, dest=en, text=@AndresVelasqz Really?... Did they give you a share of the humanitarian aid from Venezuelans in Colombia, Pe… https://t.co/ZG4NfBTo9V, pronunciation=@AndresVelasqz Really?... Did they give you a share of the humanitarian aid from Venezuelans in Colombia, Pe… https://t.co/ZG4NfBTo9V, extra_data="{'translat...") 
+
+-0.93  | Tweet 543: Translated(src=es, dest=en, text=@Psicovivir There is a rejection throughout Peru towards Venezuelans for various criminal acts and also because… https://t.co/kF2KnY9NO8, pronunciation=@Psicovivir There is a rejection throughout Peru towards Venezuelans for various criminal acts and also because… https://t.co/kF2KnY9NO8, extra_data="{'translat...") 
+
+0.0  | Tweet 544: Translated(src=es, dest=en, text=@Psicovivir In Peru, Venezuelans appear in all the news every day for various crimes, especially for… https://t.co/j6LsRZTBUR, pronunciation=@Psicovivir In Peru, Venezuelans appear in all the news every day for various crimes, especially for… https://t.co/j6LsRZTBUR, extra_data="{'translat...") 
+
+0.5574  | Tweet 545: Translated(src=es, dest=en, text=@yuyokandanga Although you should expand the information, in those countries, Colombia, Peru, Ecuador, I don't know if Uruguay,… https://t.co/qlgdC43nkA, pronunciation=@yuyokandanga Although you should expand the information, in those countries, Colombia, Peru, Ecuador, I don't know if Uruguay,… https://t.co/qlgdC43nkA, extra_data="{'translat...") 
+
+0.0  | Tweet 546: Translated(src=es, dest=en, text=@AlexaGomezDos Because numerically Venezuelans are 4 cats in the USA. If proportionally they were what they are in P… https://t.co/GGYMCQjfLA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3164  | Tweet 547: Translated(src=es, dest=en, text=@OteroRuso: Nearly 1,000 Venezuelans per month return to their country from Argentina alone! The same thing happens with Venezuelans who are in…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 548: Translated(src=es, dest=en, text=MEETING FRIDAY, with Dr. Pérez
+@cperez1962
+, Dr. Carlos Guía @AbgGuia and the political scientist Aldo De Vivo… https://t.co/xhpsZ2DWK0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 549: Translated(src=es, dest=en, text=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/6rWiDQJFmv, pronunciation=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/6rWiDQJFmv, extra_data="{'translat...") 
+
+0.0  | Tweet 550: Translated(src=es, dest=en, text=@wilmerutrera @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on street corners… https://t.co/fSdw8gnVHO, pronunciation=@wilmerutrera @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on street corners… https://t.co/fSdw8gnVHO, extra_data="{'translat...") 
+
+0.0  | Tweet 551: Translated(src=es, dest=en, text=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/pvEVRYFrO2, pronunciation=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/pvEVRYFrO2, extra_data="{'translat...") 
+
+0.0  | Tweet 552: Translated(src=es, dest=en, text=@silvano_fuentes @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on the corners of… https://t.co/Yb8i9ajXVX, pronunciation=@silvano_fuentes @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on the corners of… https://t.co/Yb8i9ajXVX, extra_data="{'translat...") 
+
+0.0  | Tweet 553: Translated(src=es, dest=en, text=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/DEiEjeNM66, pronunciation=@NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg at the corners of the traffic lights in… https://t.co/DEiEjeNM66, extra_data="{'translat...") 
+
+-0.7509  | Tweet 554: Translated(src=es, dest=en, text=@PianoNocturno Even if they warn of the Fraud, they will not pay attention... just like in Peru when the Venezuelans warn him
+let them eat shit, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.875  | Tweet 555: Translated(src=es, dest=en, text=@Juana56973095: The Peruvian Police managed to arrest six foreigners, all Venezuelans who would be members of a dangerous gang..., pronunciation=@Juana56973095: The Peruvian Police managed to arrest six foreigners, all Venezuelans who would be members of a dangerous gang..., extra_data="{'translat...") 
+
+-0.9595  | Tweet 556: Translated(src=es, dest=en, text=That there are Venezuelans who, due to their ignorance and desperation due to the country's economic crisis, fall in Peru for… https://t.co/GQK9PNLdir, pronunciation=That there are Venezuelans who, due to their ignorance and desperation due to the country's economic crisis, fall in Peru for… https://t.co/GQK9PNLdir, extra_data="{'translat...") 
+
+0.0736  | Tweet 557: Translated(src=es, dest=en, text=@ElPitazoTV Well, they have applied it in Peru for a long time, and they were Colombian. They did not sell well since e… https://t.co/YNZ2k06sK7, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7906  | Tweet 558: Translated(src=es, dest=en, text=@larepublica_pe The Government, desperate, seeks measures that distract, as in this case, the expulsion of the Venezuelans… https://t.co/CDmVX8um1z, pronunciation=@larepublica_pe The Government, desperate, seeks measures that distract, as in this case, the expulsion of the Venezuelans… https://t.co/CDmVX8um1z, extra_data="{'translat...") 
+
+-0.9451  | Tweet 559: Translated(src=es, dest=en, text=@KettyChacon1 @CNLRLATAM Here in Peru we have the problem of Venezuelans everywhere stealing is no man's land… https://t.co/hU1ASwves8, pronunciation=@KettyChacon1 @CNLRLATAM Here in Peru we have the problem of Venezuelans everywhere stealing is no man's land… https://t.co/hU1ASwves8, extra_data="{'translat...") 
+
+-0.25  | Tweet 560: Translated(src=es, dest=en, text=@elsamuelrubio JAJAJA U B Í C A TE you are 'foreigners' VENEZUELANS in Peru, a FOREIGN country, go demand not… https://t.co/RfRIQBmjmr, pronunciation=@elsamuelrubio JAJAJA U B Í C A TE you are 'foreigners' VENEZUELANS in Peru, a FOREIGN country, go demand not… https://t.co/RfRIQBmjmr, extra_data="{'translat...") 
+
+-0.7885  | Tweet 561: Translated(src=es, dest=en, text=None of them reach 30 years of age. VENEZUELAN PRISONERS IN PERU VICTIMS OF THE GOVERNMENT OF NICOLÁS MADURON WITH HIS OPPONENT YUNTA. https://t.co/sRZhcmLDRn, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3164  | Tweet 562: Translated(src=es, dest=en, text=Nearly 1,000 Venezuelans per month return to their country from Argentina alone! The same goes for Venezuelans who… https://t.co/mb1VaxBrQD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 563: Translated(src=es, dest=en, text=@rostrosven @SahzdiPaz I think that the entire community of Venezuelans in Peru should make plans (those who can… https://t.co/2Ts2IebcwY, pronunciation=@rostrosven @SahzdiPaz I think that the entire community of Venezuelans in Peru should make plans (those who can… https://t.co/2Ts2IebcwY, extra_data="{'translat...") 
+
+-0.5216  | Tweet 564: Translated(src=es, dest=en, text=The first thing you find in Central Park in New York. A message for those who do not love Venezuelans. Lib… https://t.co/TBjlkqAGgz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 565: Translated(src=es, dest=en, text=@Gina_Milf_ I have lived and seen this in Peru, I have observed it in other countries. It would also explain that phenomenon where a… https://t.co/JmTVHNIJ0y, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 566: Translated(src=es, dest=en, text=@ solotachira74 Bro, but are those who are at traffic lights also your fellow Venezuelans or not? or was believed… https://t.co/ceXH61jt56, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1027  | Tweet 567: Translated(src=es, dest=en, text=Nothing stops them 🔥🇻🇪 | Venezuelans without limits: the migrants who dream of being part of the national team of… https://t.co/191ooMzznA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6124  | Tweet 568: Translated(src=es, dest=en, text=The allies of socialism have allowed guerrilla violence to reach other countries.
+This kind of conduct h… https://t.co/rHSmMJSN86, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6124  | Tweet 569: Translated(src=es, dest=en, text=@monitoreamos The allies of socialism have allowed guerrilla violence to reach other countries.
+This class… https://t.co/64RjPYZz3z, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 570: Translated(src=es, dest=en, text=What do you think of this new legislative initiative?
+
+we want to read you
+
+This is our informative post with the news… https://t.co/CqFMUOIeuJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 571: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/cx6SuJMHgw, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/cx6SuJMHgw, extra_data="{'translat...") 
+
+-0.3369  | Tweet 572: Translated(src=es, dest=en, text=The "Bolivarian Breeze" that @dcabellor once released through #SouthAmerica Today it blows very hard in #UnitedStates… https://t.co/x67faqVdPW, pronunciation=The "Bolivarian Breeze" that @dcabellor once released through #SouthAmerica Today it blows very hard in #UnitedStates… https://t.co/x67faqVdPW, extra_data="{'translat...") 
+
+-0.1761  | Tweet 573: Translated(src=es, dest=en, text=The "Bolivarian Breeze" that @dcabellor released through #SouthAmerica Today it blows very hard in #UnitedStates. REGRET… https://t.co/tJSo4ncSa5, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 574: Translated(src=es, dest=en, text=@PCaterianoB @soyfdelrincon @CNNEE Many Venezuelans who go to the USA and cross the Darién Gap leave Peru and… https://t.co/uU2zjZNNWS, pronunciation=@PCaterianoB @soyfdelrincon @CNNEE Many Venezuelans who go to the USA and cross the Darién Gap leave Peru and… https://t.co/uU2zjZNNWS, extra_data="{'translat...") 
+
+-0.6597  | Tweet 575: Translated(src=es, dest=en, text=6 Venezuelans detained in Peru, members of the Aragua train... https://t.co/UXTXU4hvra, pronunciation=6 Venezuelans detained in Peru, members of the Aragua train... https://t.co/UXTXU4hvra, extra_data="{'translat...") 
+
+0.7184  | Tweet 576: Translated(src=es, dest=en, text=@HCevallosFlores That donkey that can make intelligent decisions is advised by Cubans, Venezuelans, Arg… https://t.co/NmQFKCAvwi, pronunciation=@HCevallosFlores That donkey that can make intelligent decisions is advised by Cubans, Venezuelans, Arg… https://t.co/NmQFKCAvwi, extra_data="{'translat...") 
+
+0.3612  | Tweet 577: Translated(src=es, dest=en, text=@CarolaBriceno Natural selection
+
+We all have rights to survive, the issue is that when you don't know how to behave… https://t.co/ghTsPGY21V, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5859  | Tweet 578: Translated(src=es, dest=en, text=The Peruvian Police managed to arrest six foreigners, all Venezuelans who would be members of a dangerous… https://t.co/Ytrmi6ioBE, pronunciation=The Peruvian Police managed to arrest six foreigners, all Venezuelans who would be members of a dangerous… https://t.co/Ytrmi6ioBE, extra_data="{'translat...") 
+
+0.6124  | Tweet 579: Translated(src=es, dest=en, text=Errrrgaaa at least one different piece of news from Venezuelans in Peru, I mean, it's always: "Venezuelan got like crazy… https://t.co/UVPBXeE4QJ, pronunciation=Errrrgaaa at least one different piece of news from Venezuelans in Peru, I mean, it's always: "Venezuelan got like crazy… https://t.co/UVPBXeE4QJ, extra_data="{'translat...") 
+
+-0.1531  | Tweet 580: Translated(src=es, dest=en, text=#4Ago In a new Solemn Act, another 80 boys and girls of Venezuelan parents born in the Republic of Peru, acquired… https://t.co/cBgGf0NcyS, pronunciation=#4Ago In a new Solemn Act, another 80 boys and girls of Venezuelan parents born in the Republic of Peru, acquired… https://t.co/cBgGf0NcyS, extra_data="{'translat...") 
+
+-0.765  | Tweet 581: Translated(src=es, dest=en, text=@guaro1012: @EmbajadaVzlaPer How do I know they won't answer me, they are thieves with that mafia they have with their passports here in Peru to sa…, pronunciation=@guaro1012: @EmbajadaVzlaPer How do I know they won't answer me, they are thieves with that mafia they have with their passports here in Peru to sa…, extra_data="{'translat...") 
+
+0.0  | Tweet 582: Translated(src=es, dest=en, text=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights in Estad..., pronunciation=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights in Estad..., extra_data="{'translat...") 
+
+-0.6808  | Tweet 583: Translated(src=es, dest=en, text=@dialogoambiente No, brother, stop being stupid. The vast majority of Venezuelans who have passed and those who have died… https://t.co/AMeM1O7cwN, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9571  | Tweet 584: Translated(src=es, dest=en, text=In #Peru they arrest 6 Venezuelans who will be part of the criminal gang "El tren de Aragua" 1 police officer died in the confrontation… https://t.co/2owjYyqWYA, pronunciation=In #Peru they arrest 6 Venezuelans who will be part of the criminal gang "El tren de Aragua" 1 police officer died in the confrontation… https://t.co/2owjYyqWYA, extra_data="{'translat...") 
+
+0.0  | Tweet 585: Translated(src=es, dest=en, text=@SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights of Es... https://t.co/Te3DAv500M, pronunciation=@SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights of Es... https://t.co/Te3DAv500M, extra_data="{'translat...") 
+
+0.7351  | Tweet 586: Translated(src=es, dest=en, text=#Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 #Fiesta https://t.co/MOFm7QNkWn, pronunciation=#Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 #Fiesta https://t.co/MOFm7QNkWn, extra_data="{'translat...") 
+
+-0.6808  | Tweet 587: Translated(src=es, dest=en, text=They detain subjects who entered the municipal warehouse in Surco to get seized mototaxi https://t.co/4a6Yjb5lI7, pronunciation=They detain subjects who entered the municipal warehouse in Surco to get seized mototaxi https://t.co/4a6Yjb5lI7, extra_data="{'translat...") 
+
+0.0  | Tweet 588: Translated(src=es, dest=en, text=@LuisQuick_ @QueDelivery @ sinrendirse62 To those Venezuelans who are in Argentina, who lived in Peru and now… https://t.co/zoLcPk7t0w, pronunciation=@LuisQuick_ @QueDelivery @ sinrendirse62 To those Venezuelans who are in Argentina, who lived in Peru and now… https://t.co/zoLcPk7t0w, extra_data="{'translat...") 
+
+-0.9432  | Tweet 589: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wfIXOcLyfW, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wfIXOcLyfW, extra_data="{'translat...") 
+
+-0.765  | Tweet 590: Translated(src=es, dest=en, text=@pepisopadejabon @Jou_Kaiser What an idiot you are, the Peruvian president is not in the photo and in Peru there are 1 million people… https://t.co/nPOXDVzjdO, pronunciation=@pepisopadejabon @Jou_Kaiser What an idiot you are, the Peruvian president is not in the photo and in Peru there are 1 million people… https://t.co/nPOXDVzjdO, extra_data="{'translat...") 
+
+-0.3818  | Tweet 591: Translated(src=es, dest=en, text=@ssalazar_ Also Peruvians, Bolivians, etc. even even Colombians themselves, it bothers me a lot to listen to the… https://t.co/SESGdHxJxl, pronunciation=@ssalazar_ Also Peruvians, Bolivians, etc. even even Colombians themselves, it bothers me a lot to listen to the… https://t.co/SESGdHxJxl, extra_data="{'translat...") 
+
+-0.8689  | Tweet 592: Translated(src=es, dest=en, text=@la_patilla: Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/sLqR9OKU9z, pronunciation=@la_patilla: Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/sLqR9OKU9z, extra_data="{'translat...") 
+
+-0.8689  | Tweet 593: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9OKU9z, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9OKU9z, extra_data="{'translat...") 
+
+0.0  | Tweet 594: Translated(src=es, dest=en, text=@UrdialesOswaldo @TPro152 @FreQency_ @manuelspiers @E_FLEISCHMAN @TuFPF ECU COL even VEN are in the US and they don't have… https://t.co/gjSmYNv5Ph, pronunciation=@UrdialesOswaldo @TPro152 @FreQency_ @manuelspiers @E_FLEISCHMAN @TuFPF ECU COL even VEN are in the US and they don't have… https://t.co/gjSmYNv5Ph, extra_data="{'translat...") 
+
+-0.6705  | Tweet 595: Translated(src=es, dest=en, text=#LoÚltimo 🇵🇪🇻🇪 Venezuelan members of the Aragua Train are captured in Peru
+
+This high risk criminal group… https://t.co/HYuTzvxGlR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6908  | Tweet 596: Translated(src=es, dest=en, text=@lrangel25 Because there are mmgvos on both sides, the same thing happens here in Peru, where not everyone is bad and the Venecos are not only… https://t.co/SpEphvEoXr, pronunciation=@lrangel25 Because there are mmgvos on both sides, the same thing happens here in Peru, where not everyone is bad and the Venecos are not only… https://t.co/SpEphvEoXr, extra_data="{'translat...") 
+
+-0.8689  | Tweet 597: Translated(src=es, dest=en, text=@Antonio_De_Amat: @rodolfokluge @MissIzquierda What a pity that Venezuela in the hands of miserable COMMUNIST thugs here in Peru we have already r…, pronunciation=@Antonio_De_Amat: @rodolfokluge @MissIzquierda What a pity that Venezuela in the hands of miserable COMMUNIST thugs here in Peru we have already r…, extra_data="{'translat...") 
+
+0.0  | Tweet 598: Translated(src=es, dest=en, text=Ecuador-Peru border: Huaquillas. July 2022.
+Venezuelan citizens concentrated in the central park waiting… https://t.co/jaarGQWV5I, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7947  | Tweet 599: Translated(src=es, dest=en, text=@cimanewsdigital: #LoÚltimo 🇵🇪🇻🇪 Venezuelan members of the Aragua Train are captured in Peru
+
+This highly dangerous criminal group..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.9274  | Tweet 600: Translated(src=es, dest=en, text=@KarolCariola TRANLIsi wins the approval THE SAME IS KNOWN THAT THE SERVEL AND THE VOCALS WERE INTERVENED AND WHO GIVES THE VOICE… https://t.co/miSuMyFI4c, pronunciation=@KarolCariola TRANLIsi wins the approval THE SAME IS KNOWN THAT THE SERVEL AND THE VOCALS WERE INTERVENED AND WHO GIVES THE VOICE… https://t.co/miSuMyFI4c, extra_data="{'translat...") 
+
+0.0  | Tweet 601: Translated(src=es, dest=en, text=@PoliciaPeru @noticiAmerica @larepublica_pe @peru21noticias @canalN_ @diariocorreo @RPPNoticias Pure Venezuelan and… https://t.co/dHhaA1ZP4X, pronunciation=@PoliciaPeru @noticiAmerica @larepublica_pe @peru21noticias @canalN_ @diariocorreo @RPPNoticias Pure Venezuelan and… https://t.co/dHhaA1ZP4X, extra_data="{'translat...") 
+
+0.0  | Tweet 602: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his main victims…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 603: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/N0VfG7xDbJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 604: Translated(src=es, dest=en, text=@chocolateagridu: And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Peru,…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 605: Translated(src=es, dest=en, text=And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Pe… https://t.co/VJyQU2zop0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 606: Translated(src=es, dest=en, text=@DiarioTalCual: Physical effort is not just the journey through the jungle. Most start their journey on foot from Venezuela (77%), but also…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 607: Translated(src=es, dest=en, text=The physical effort is not only the journey through the jungle. Most start their journey on foot from Venezuela (77%), but… https://t.co/Okt8xEyYwh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 608: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/GG1tTR2wdN, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 609: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/rfiQWjhfli, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 610: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/dRlynbUMUO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 611: Translated(src=es, dest=en, text=Mexico deports 126 Venezuelans without papers https://t.co/qyy2csE03R, pronunciation=Mexico deports 126 Venezuelans without papers https://t.co/qyy2csE03R, extra_data="{'translat...") 
+
+-0.3182  | Tweet 612: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/MzdfM3N00W, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 613: Translated(src=es, dest=en, text=@ElPitazoTV: The Aragua Train extended its operations to #Bolivia, #Peru, #Chile and #Colombia. Among its main victims are…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 614: Translated(src=es, dest=en, text=The Aragua Train extended its operations to #Bolivia, #Peru, #Chile and #Colombia. Among his main victims… https://t.co/n1HTKWTZiz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 615: Translated(src=es, dest=en, text=@ElPitazoTV: One of the main targets of the Tren de Aragua gang are Venezuelan #migrants, as evidenced by an investigation…, pronunciation=@ElPitazoTV: One of the main targets of the Tren de Aragua gang are Venezuelan #migrants, as evidenced by an investigation…, extra_data="{'translat...") 
+
+0.0  | Tweet 616: Translated(src=es, dest=en, text=One of the main targets of the Tren de Aragua gang are Venezuelan #migrants, as evidenced by a… https://t.co/u4kEPlPEm5, pronunciation=One of the main targets of the Tren de Aragua gang are Venezuelan #migrants, as evidenced by a… https://t.co/u4kEPlPEm5, extra_data="{'translat...") 
+
+-0.3182  | Tweet 617: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/wF1OdDLIOZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 618: Translated(src=es, dest=en, text=@ElPitazoTV: One of the main targets of the megabanda the Tren de Aragua are Venezuelan #migrants, as evidenced by an inv…, pronunciation=@ElPitazoTV: One of the main targets of the megabanda the Tren de Aragua are Venezuelan #migrants, as evidenced by an inv…, extra_data="{'translat...") 
+
+0.0  | Tweet 619: Translated(src=es, dest=en, text=One of the main targets of the megabanda the Tren de Aragua are the Venezuelan #migrants, as evidenced… https://t.co/2J8qrjPTwk, pronunciation=One of the main targets of the megabanda the Tren de Aragua are the Venezuelan #migrants, as evidenced… https://t.co/2J8qrjPTwk, extra_data="{'translat...") 
+
+0.0  | Tweet 620: Translated(src=es, dest=en, text=The Aragua Train extended its operations to #Bolivia, #Peru, #Chile and #Colombia. Among his main victims… https://t.co/FQ4ABOSwJD, pronunciation=[[]], extra_data="{'translat...") 
+

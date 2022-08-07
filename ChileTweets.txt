@@ -35,3 +35,1118 @@ But:
 
 -0.9246  | Tweet 17: Translated(src=es, dest=en, text=Now I am coming to think that we Venecos are harming the world with the chili thing and its train, you know 😭, pronunciation=Now I am coming to think that we Venecos are harming the world with the chili thing and its train, you know 😭, extra_data="{'translat...") 
 
+0.1531  | Tweet 18: Translated(src=es, dest=en, text=@Pepepat66191529 How are you going to put Iquique in the same sentence as Talca, with all its shortcomings, Iquique is one of the cities… https://t.co/xnfBKHMjze, pronunciation=@Pepepat66191529 How are you going to put Iquique in the same sentence as Talca, with all its shortcomings, Iquique is one of the cities… https://t.co/xnfBKHMjze, extra_data="{'translat...") 
+
+0.0  | Tweet 19: Translated(src=es, dest=en, text=@LeonardoBelenoD @gene_llerena Exactly, with the same paw in the crack that their own multinational dictator gave them bo… https://t.co/Sy0C61ibtf, pronunciation=@LeonardoBelenoD @gene_llerena Exactly, with the same paw in the crack that their own multinational dictator gave them bo… https://t.co/Sy0C61ibtf, extra_data="{'translat...") 
+
+-0.0572  | Tweet 20: Translated(src=es, dest=en, text=@gene_llerena To all the venecos who believe that Chile is here to loot: go away, we don't want you. Go ha… https://t.co/J5hiVnHRcH, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2023  | Tweet 21: Translated(src=es, dest=en, text=@ricardorr: I was on the subway reading and concentrating on my business and some Venecos got on and started playing music.
+The tremendous conc…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2023  | Tweet 22: Translated(src=es, dest=en, text=I was on the subway reading and concentrating on my business and some Venecos got on and started playing music.
+The trem… https://t.co/widvwZn0hu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 23: Translated(src=es, dest=en, text=@bokashito That would be the game over, your mission is to start to Chile before the Peruvians eat you, but surprise… https://t.co/HSJOgxLO02, pronunciation=@bokashito That would be the game over, your mission is to start to Chile before the Peruvians eat you, but surprise… https://t.co/HSJOgxLO02, extra_data="{'translat...") 
+
+0.5574  | Tweet 24: Translated(src=es, dest=en, text=@AlexaGomezDos Hahaha the one from Peru and Chile is coming. When the gringos begin to discriminate against them, the Venecos come… https://t.co/f6wzUBRdAu, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 25: Translated(src=es, dest=en, text=@biobio To save Chile, I reject these shitty human beings, otherwise they won't be able to be deported. Those shit… https://t.co/Hm8D7p54dd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8436  | Tweet 26: Translated(src=es, dest=en, text=@MSocabon: @gene_llerena @lisperguer1707 Venecos de Chile out!!
+#Carabineros are respected yes or yes. https://t.co/1R2gaCO7tE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 27: Translated(src=es, dest=en, text=Hey @LIDERcl instead of your guards walking behind a couple of kids with Colo and Chile shirts, who were buying… https://t.co/DDag5lpoJq, pronunciation=Hey @LIDERcl instead of your guards walking behind a couple of kids with Colo and Chile shirts, who were buying… https://t.co/DDag5lpoJq, extra_data="{'translat...") 
+
+0.1531  | Tweet 28: Translated(src=es, dest=en, text=@JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be… https://t.co/G8MesGFmRt, pronunciation=@JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be… https://t.co/G8MesGFmRt, extra_data="{'translat...") 
+
+0.8555  | Tweet 29: Translated(src=es, dest=en, text=@JoviNomas I call on Patriots who love Chile to go after 11 pm onwards to cam… https://t.co/B9DIbddZ6U, pronunciation=@JoviNomas I call on Patriots who love Chile to go after 11 pm onwards to cam… https://t.co/B9DIbddZ6U, extra_data="{'translat...") 
+
+0.8402  | Tweet 30: Translated(src=es, dest=en, text=@JoviNomas @hugoguionista THE VENECOS ARE LEAVING THE SHIT IN CHILE., pronunciation=@JoviNomas @hugoguionista THE VENECOS ARE LEAVING THE SHIT IN CHILE., extra_data="{'translat...") 
+
+0.6597  | Tweet 31: Translated(src=es, dest=en, text=@Lubepina: @Gloriaborges Dear, we Chileans just want the Venecos that give juice to leave soon, we are up to ar..., pronunciation=@Lubepina: @Gloriaborges Dear, we Chileans just want the Venecos that give juice to leave soon, we are up to ar..., extra_data="{'translat...") 
+
+0.8436  | Tweet 32: Translated(src=es, dest=en, text=@gene_llerena @ lisperguer1707 Venecos out of Chile!!
+#Carabineros are respected yes or yes. https://t.co/1R2gaCO7tE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4007  | Tweet 33: Translated(src=es, dest=en, text=Colchane should be a great dark alley, where the venecos that enter, do not come out good or pa jerky. All C… https://t.co/psx5VffD7n, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8225  | Tweet 34: Translated(src=es, dest=en, text=@Gloriaborges @ivanporsi Chile must be interested in Venezuela doing well, ending the Yankee blockade, l… https://t.co/3fDLKp1QV4, pronunciation=@Gloriaborges @ivanporsi Chile must be interested in Venezuela doing well, ending the Yankee blockade, l… https://t.co/3fDLKp1QV4, extra_data="{'translat...") 
+
+0.5709  | Tweet 35: Translated(src=es, dest=en, text=In the 80s, during the dictatorship, at least in Chile, people lived more peacefully.
+
+Now you can't even go to the corner quietly… https://t.co/oJRxaSlULF, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9274  | Tweet 36: Translated(src=es, dest=en, text=@Alberto85366967: 12 VENEZUELAN ILLEGAL FOREIGN IMMIGRANT CRIMINALS ARRESTED,
+
+IN PUENTE ALTO AND RECOLETA,
+
+IT IS DEDI..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 37: Translated(src=es, dest=en, text=@Gloriaborges Dear Chileans, we just want the Venecos that give juice to leave soon, we are… https://t.co/E59PS2xfYc, pronunciation=@Gloriaborges Dear Chileans, we just want the Venecos that give juice to leave soon, we are… https://t.co/E59PS2xfYc, extra_data="{'translat...") 
+
+-0.8591  | Tweet 38: Translated(src=es, dest=en, text=Guaidó and his accomplices used them to create chaos and violently attack the Bolivarians...
+Veneco criminals… https://t.co/RW1qNvlJrR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9153  | Tweet 39: Translated(src=es, dest=en, text=@biobio Attacks the organized crime of the venecos x there we can believe you something santiasco is not all of Chile qlio, pronunciation=@biobio Attacks the organized crime of the venecos x there we can believe you something santiasco is not all of Chile qlio, extra_data="{'translat...") 
+
+0.0  | Tweet 40: Translated(src=es, dest=en, text=Venecos, Chile will grow 0% according to estimates. I that you return me. https://t.co/bYFof00w5f, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9274  | Tweet 41: Translated(src=es, dest=en, text=12 VENEZUELAN ILLEGAL FOREIGN IMMIGRANT CRIMINALS ARRESTED,
+
+IN PUENTE ALTO AND RECOLETA,
+
+SE D… https://t.co/GduF6Xxvv5, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9217  | Tweet 42: Translated(src=es, dest=en, text=@biobio Chile needs a sweep and expel all poisons, not one, pronunciation=@biobio Chile needs a sweep and expel all poisons, not one, extra_data="{'translat...") 
+
+0.0  | Tweet 43: Translated(src=es, dest=en, text=Any wea enters Chile, the wea will continue if we continue to let the venecos enter
+#contigochv, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9657  | Tweet 44: Translated(src=es, dest=en, text=@gabrielboric To pure peos liar qlio, they go blind with the murderous venecos that enter through Colchane for… https://t.co/kVz3ba1M4u, pronunciation=@gabrielboric To pure peos liar qlio, they go blind with the murderous venecos that enter through Colchane for… https://t.co/kVz3ba1M4u, extra_data="{'translat...") 
+
+-0.802  | Tweet 45: Translated(src=es, dest=en, text=@biobio Shitty Venecos, out of Chile, pronunciation=@biobio Shitty Venecos, out of Chile, extra_data="{'translat...") 
+
+0.886  | Tweet 46: Translated(src=es, dest=en, text=@CHVNoticias If they are rewarded like the Veneco banana growers of Chile, pronunciation=@CHVNoticias If they are rewarded like the Veneco banana growers of Chile, extra_data="{'translat...") 
+
+-0.5904  | Tweet 47: Translated(src=es, dest=en, text=@gente_deter: @CNNChile @maduro_en PICK UP YOUR GARBAGE, OUT WITH THE VENECA SCUM. OUT YOUR POOR TRASH. OUT YOUR BANANA CULTURE FROM CHILE.
+W…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5904  | Tweet 48: Translated(src=es, dest=en, text=@CNNChile @maduro_en PICK UP YOUR TRASH, OUT WITH THE VENECA SCUM. OUT YOUR POOR TRASH. OUT YOUR BANANA CULTURE FROM C… https://t.co/wuBlwF0PBt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 49: Translated(src=es, dest=en, text=Incredible to see former ministers of Piñera giving classes on the immigration issue. They were in power for 4 years, invite… https://t.co/QmZ7vQdI6J, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8225  | Tweet 50: Translated(src=es, dest=en, text=@opinantecl: A co-worker was just stabbed 5 or 6 blocks from La Moneda by a couple of Venecan motorbikes coming out of a box..., pronunciation=@opinantecl: A co-worker was just stabbed 5 or 6 blocks from La Moneda by a couple of Venecan motorbikes coming out of a box..., extra_data="{'translat...") 
+
+-0.8126  | Tweet 51: Translated(src=es, dest=en, text=@Vega4Julio: Chile is already getting fed up with criminals and Venetian maracas, pronunciation=@Vega4Julio: Chile is already getting fed up with criminals and Venetian maracas, extra_data="{'translat...") 
+
+-0.8541  | Tweet 52: Translated(src=es, dest=en, text=@biobio Out of Chile all the migrant scourges.
+TOTAL REJECTION OF THE MAMARRACHO, THAT if I know... everything will be worse, and neither… https://t.co/kMBVU9Evvo, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4588  | Tweet 53: Translated(src=es, dest=en, text=@ojuox @Edu_Enduro They should have noticed by now.
+I don't think that a pot is of interest to Venecos and Colombians… https://t.co/a89YPtEET0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 54: Translated(src=es, dest=en, text=@gustavo1cabrera It is time for the Carabineros to once again have the deterrence power of previous years in Chile… https://t.co/d1o2XV8E9p, pronunciation=@gustavo1cabrera It is time for the Carabineros to once again have the deterrence power of previous years in Chile… https://t.co/d1o2XV8E9p, extra_data="{'translat...") 
+
+-0.4515  | Tweet 55: Translated(src=es, dest=en, text=@RomyBustamante5: What is the justification @gabrielboric @izkia to continue letting poisons into Chile? HR? Well, my rights..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9  | Tweet 56: Translated(src=es, dest=en, text=@Alberto85366967: VENEZUELAN VENECOS MOCKING AND RIDICULING THE CARABINEROS OF CHILE 🇨🇱🇨🇱 WITH THEIR FAILED BANANA CULTURE
+👇👇👇👇…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 57: Translated(src=es, dest=en, text=@ingeconce1938 @sebastianpinera @katymartorell Literally the country was burning and short arms eating pizza and… https://t.co/GJpAN5EtFT, pronunciation=@ingeconce1938 @sebastianpinera @katymartorell Literally the country was burning and short arms eating pizza and… https://t.co/GJpAN5EtFT, extra_data="{'translat...") 
+
+-0.4515  | Tweet 58: Translated(src=es, dest=en, text=What is the justification @gabrielboric @izkia to continue letting poisons enter Chile? HR? Well, my rights… https://t.co/eotoY8Y3Wu, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7927  | Tweet 59: Translated(src=es, dest=en, text=THE ILLEGAL AND CRIMINAL FOREIGN WEONES THAT ENTER THROUGH THE NOE, AND YOU DO NOTHING TO STOP THIS. THE PEOPLE… https://t.co/nTwmmVBnWU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 60: Translated(src=es, dest=en, text=@midiarioenchile Me in 2017: Chile is wonderful, Venezuelans should come here at once
+
+Me at… https://t.co/qBta3GLK6j, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 61: Translated(src=es, dest=en, text=@biobio How many Caribbean people do we have with permanent tourist visas, all those Venezuelans and Colombians must be ex… https://t.co/T00GDyJs1O, pronunciation=@biobio How many Caribbean people do we have with permanent tourist visas, all those Venezuelans and Colombians must be ex… https://t.co/T00GDyJs1O, extra_data="{'translat...") 
+
+0.3612  | Tweet 62: Translated(src=es, dest=en, text=@ T13 Does anyone know the identity card of the Venecos? It's like the one we had in Chile in the 80s, that is, a little… https://t.co/1ZAizMdYX6, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8126  | Tweet 63: Translated(src=es, dest=en, text=Chile is already getting fed up with criminals and Veneco maracas, pronunciation=Chile is already getting fed up with criminals and Veneco maracas, extra_data="{'translat...") 
+
+0.4404  | Tweet 64: Translated(src=es, dest=en, text=@Eduardo19889000: I hope they broadcast live when they are putting them on the venecos who were stabbing in the alameda. Y…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 65: Translated(src=es, dest=en, text=I hope they broadcast live when they are putting them on the venecos who were stabbing in the alameda... https://t.co/nMCTTzbl2T, pronunciation=I hope they broadcast live when they are putting them on the venecos who were stabbing in the alameda... https://t.co/nMCTTzbl2T, extra_data="{'translat...") 
+
+0.6808  | Tweet 66: Translated(src=es, dest=en, text=@cris_hxc: @biobio it's true that those Venecos arrived in Chile in March..., pronunciation=@cris_hxc: @biobio it's true that those Venecos arrived in Chile in March..., extra_data="{'translat...") 
+
+-0.8402  | Tweet 67: Translated(src=es, dest=en, text=@meganoticiascl But if the venecos walk all over Chile using and abusing the Chilean pachamama everywhere... https://t.co/1aSMigJOJq, pronunciation=@meganoticiascl But if the venecos walk all over Chile using and abusing the Chilean pachamama everywhere... https://t.co/1aSMigJOJq, extra_data="{'translat...") 
+
+0.0  | Tweet 68: Translated(src=es, dest=en, text=@ezemismo2_0 While in this article, it is made known that the Aragua train is the one with the most incidence in terms of… https://t.co/lEmuJsAf4G, pronunciation=@ezemismo2_0 While in this article, it is made known that the Aragua train is the one with the most incidence in terms of… https://t.co/lEmuJsAf4G, extra_data="{'translat...") 
+
+0.0  | Tweet 69: Translated(src=es, dest=en, text=@HugeTuitero @biobio Do you know how I see it? That several come with the story, you have to be fed up to believe that ll… https://t.co/SqPBKjU5r4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7189  | Tweet 70: Translated(src=es, dest=en, text=Get all those venecos out of our country!!!11! Chile respects itself, there was not so much insecurity since Máx arrived… https://t.co/9xjLdyLAvY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 71: Translated(src=es, dest=en, text=@biobio It's true that those venecos arrived in Chile in March..., pronunciation=@biobio It's true that those venecos arrived in Chile in March..., extra_data="{'translat...") 
+
+-0.7227  | Tweet 72: Translated(src=es, dest=en, text=That's how he talks now but he said nothing when Piñera brought the Venecan criminals to Chile. If he went looking for them https://t.co/Z7xOGhuHOf, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9501  | Tweet 73: Translated(src=es, dest=en, text=@IndependienteTi: Some Venecos killed a Bolivian child and the Chileans, inflamed by the abominable fact, went out to protest and…, pronunciation=@IndependienteTi: Some Venecos killed a Bolivian child and the Chileans, inflamed by the abominable fact, went out to protest and…, extra_data="{'translat...") 
+
+0.4404  | Tweet 74: Translated(src=es, dest=en, text=@Funesmemorioso4: @evelynmatthei Status topic thanks to the ineptitude of your former government. He opened the doors wide for them, searching…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4404  | Tweet 75: Translated(src=es, dest=en, text=@evelynmatthei Status topic thanks to the ineptitude of your former government. He opened the doors wide for them, they look for… https://t.co/VnFqeozo26, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 76: Translated(src=es, dest=en, text=@TLAntofagasta Cursed Venecos outside are protected by this communist government and Guaton Boric There is a k to generate a… https://t.co/tm9pMnK3si, pronunciation=@TLAntofagasta Cursed Venecos outside are protected by this communist government and Guaton Boric There is a k to generate a… https://t.co/tm9pMnK3si, extra_data="{'translat...") 
+
+-0.0516  | Tweet 77: Translated(src=es, dest=en, text=@joseantoniokast In Colombia 3%. Your cheap labor immigrants are going to leave Chile. The venecos that the right AM… https://t.co/YWkoFCE7Mn, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 78: Translated(src=es, dest=en, text=@casti40484637 Out with the venecos of Chile, pronunciation=@casti40484637 Out with the venecos of Chile, extra_data="{'translat...") 
+
+-0.5267  | Tweet 79: Translated(src=es, dest=en, text=@gustavo1cabrera What a pity that this chubby man is not armed with a firearm, so Chile would have three blemishes less and… https://t.co/MjHN1F2Dlh, pronunciation=@gustavo1cabrera What a pity that this chubby man is not armed with a firearm, so Chile would have three blemishes less and… https://t.co/MjHN1F2Dlh, extra_data="{'translat...") 
+
+0.3561  | Tweet 80: Translated(src=es, dest=en, text=@GAMBA_CL How weird!!! If they say that the Venecos come to work and contribute to Chile... the solution is simple then... https://t.co/dB4i1HPs9R, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9255  | Tweet 81: Translated(src=es, dest=en, text=@kincadefinney @ Cototudo1976 And from when the Venecos are intellectual references, from the plebiscite of the YES and the… https://t.co/GcaWmlVa8N, pronunciation=@kincadefinney @ Cototudo1976 And from when the Venecos are intellectual references, from the plebiscite of the YES and the… https://t.co/GcaWmlVa8N, extra_data="{'translat...") 
+
+-0.9153  | Tweet 82: Translated(src=es, dest=en, text=@jorgeerrazuriz "Until the country resists" You destroyed #Chile, you from the #Miserable Right looking to enlarge your… https://t.co/rJw272b5YH, pronunciation=@jorgeerrazuriz "Until the country resists" You destroyed #Chile, you from the #Miserable Right looking to enlarge your… https://t.co/rJw272b5YH, extra_data="{'translat...") 
+
+0.7845  | Tweet 83: Translated(src=es, dest=en, text=They call themselves "patriots" and that they love Chile, but:
+
+- In their bio they write in English
+- They put gringo flags 💁
+- They support… https://t.co/9QyCH58lwe, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 84: Translated(src=es, dest=en, text=@Andres_lat_: Apart from bringing poisons to Chile, Piñera had the gall to take advantage of doing business in Colombia.
+Thank you Piñera https…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 85: Translated(src=es, dest=en, text=@artamumu: In Caracas, a few years ago and before the Venetian mega-entrepreneurs, Ricardito 'pharaón' Lagos said: "in Chile we must continue with…, pronunciation=@artamumu: In Caracas, a few years ago and before the Venetian mega-entrepreneurs, Ricardito 'pharaón' Lagos said: "in Chile we must continue with…, extra_data="{'translat...") 
+
+0.0  | Tweet 86: Translated(src=es, dest=en, text=In Caracas, a few years ago and before the Venetian mega-entrepreneurs, Ricardito 'pharaón' Lagos said: "in Chile we must… https://t.co/FeuKonYBzV, pronunciation=In Caracas, a few years ago and before the Venetian mega-entrepreneurs, Ricardito 'pharaón' Lagos said: "in Chile we must… https://t.co/FeuKonYBzV, extra_data="{'translat...") 
+
+-0.9325  | Tweet 87: Translated(src=es, dest=en, text=@TLAntofagasta The result of Piñera's shit and the #MERLUZOinept that prevents the expulsion of criminals and… https://t.co/jNixyGFHac, pronunciation=@TLAntofagasta The result of Piñera's shit and the #MERLUZOinept that prevents the expulsion of criminals and… https://t.co/jNixyGFHac, extra_data="{'translat...") 
+
+-0.4574  | Tweet 88: Translated(src=es, dest=en, text=Chilean! If you, the mortal, the barbecue, the one who cries with a goal from the red, the one who shakes hands with those who don't… https://t.co/T8pVn9KhTu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7798  | Tweet 89: Translated(src=es, dest=en, text=@ZurdaDeLaPobla: Now Guaidó enjoys the sun of Miami and Chile with its streets taken over by Venecos. THANK YOU PIÑERA CULIAO!, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 90: Translated(src=es, dest=en, text=@hernan_sr If Chile is full of venecos, that Spain put up with the illustrious gentlemen of the aristocratic fachos… https://t.co/uvsM9HLO4B, pronunciation=@hernan_sr If Chile is full of venecos, that Spain put up with the illustrious gentlemen of the aristocratic fachos… https://t.co/uvsM9HLO4B, extra_data="{'translat...") 
+
+-0.6219  | Tweet 91: Translated(src=es, dest=en, text=@biobio There will be no lack of progressive lefties, saying that it is xenophobia... the crime unleashed in Chile... and the great… https://t.co/RwQTGXJdEh, pronunciation=@biobio There will be no lack of progressive lefties, saying that it is xenophobia... the crime unleashed in Chile... and the great… https://t.co/RwQTGXJdEh, extra_data="{'translat...") 
+
+-0.9017  | Tweet 92: Translated(src=es, dest=en, text=A young man with dreams and aspirations murdered by exiled Venezuelan sons of bitches...!!! Enough shit in C… https://t.co/NSPZNG4trf, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9274  | Tweet 93: Translated(src=es, dest=en, text=And how arrochera to see that pure social resentful venecos of the m&€rd@ who are stealing in Chile, pronunciation=And how arrochera to see that pure social resentful venecos of the m&€rd@ who are stealing in Chile, extra_data="{'translat...") 
+
+0.0  | Tweet 94: Translated(src=es, dest=en, text=@8cielos Venecos out of Chile!!!!!!!!!!!, pronunciation=@8cielos Venecos out of Chile!!!!!!!!!!!, extra_data="{'translat...") 
+
+-0.93  | Tweet 95: Translated(src=es, dest=en, text=Some Venecos killed a Bolivian child and the Chileans, inflamed by the abominable fact, went out to protest… https://t.co/zSgQhrCdr7, pronunciation=Some Venecos killed a Bolivian child and the Chileans, inflamed by the abominable fact, went out to protest… https://t.co/zSgQhrCdr7, extra_data="{'translat...") 
+
+0.0516  | Tweet 96: Translated(src=es, dest=en, text=Apart from bringing poisons to Chile, Piñera had the gall to take advantage of doing business in Colombia.
+Thanks Piñera https://t.co/mtV9bSyW0D, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7798  | Tweet 97: Translated(src=es, dest=en, text=Now Guaidó enjoys the sun of Miami and Chile with its streets taken over by Venecos. THANK YOU PIÑERA CULIAO!, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9413  | Tweet 98: Translated(src=es, dest=en, text=@Javiikos: @maximio_CL @dgalarce @gabrielboric Olle @boric ,@izkia get tough with criminals, we all live in fear, crime…, pronunciation=@Javiikos: @maximio_CL @dgalarce @gabrielboric Olle @boric ,@izkia get tough with criminals, we all live in fear, crime…, extra_data="{'translat...") 
+
+-0.6369  | Tweet 99: Translated(src=es, dest=en, text=The venecos that are arriving in Chile are the garbage dump of South America., pronunciation=The venecos that are arriving in Chile are the garbage dump of South America., extra_data="{'translat...") 
+
+0.0  | Tweet 100: Translated(src=es, dest=en, text=@camilaemiliasv I present to you the driver of the Aragua Train, #ElPeorPresidenteDeLaHistoria, for whom you voted, who… https://t.co/SU0i2He3fF, pronunciation=@camilaemiliasv I present to you the driver of the Aragua Train, #ElPeorPresidenteDeLaHistoria, for whom you voted, who… https://t.co/SU0i2He3fF, extra_data="{'translat...") 
+
+0.2263  | Tweet 101: Translated(src=es, dest=en, text=@maca_meza well now it's Rusismo. They leave one to fall into another. The Venecos did not learn. Now Chile https://t.co/GTmrW2fUGt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 102: Translated(src=es, dest=en, text=Caribbean trash out of Chile #OutVenezuelan #Out #Venezuelan #Out #Venecos https://t.co/zQPkuIXBpl, pronunciation=Caribbean trash out of Chile #OutVenezuelan #Out #Venezuelan #Out #Venecos https://t.co/zQPkuIXBpl, extra_data="{'translat...") 
+
+0.0  | Tweet 103: Translated(src=es, dest=en, text=@guigui_yo: @antofavision @DPRAntofagasta @GOREAntofagasta @GobiernodeChile @jorgesolimano @elEstadistaAfta @PulsoDeChile This has to…, pronunciation=@guigui_yo: @antofavision @DPRAntofagasta @GOREAntofagasta @GobiernodeChile @jorgesolimano @elEstadistaAfta @PulsoDeChile This has to…, extra_data="{'translat...") 
+
+0.7496  | Tweet 104: Translated(src=es, dest=en, text=@AntuAlejandro @PabloHe23277958 @rioenlinea I had lunch, the menu at Cosas Ricas was very good (guest ×I am very poor… https://t.co/YW3tI8rv4O, pronunciation=@AntuAlejandro @PabloHe23277958 @rioenlinea I had lunch, the menu at Cosas Ricas was very good (guest ×I am very poor… https://t.co/YW3tI8rv4O, extra_data="{'translat...") 
+
+-0.1531  | Tweet 105: Translated(src=es, dest=en, text=@gab0reloaded: It is IMPOSSIBLE that in a massive migration you only receive only good people. Something bad is going to slip in and it has happened in…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 106: Translated(src=es, dest=en, text=My God, the venecos of Chile are super disgusting and damn crab https://t.co/mpeDxx54Lz, pronunciation=My God, the venecos of Chile are super disgusting and damn crab https://t.co/mpeDxx54Lz, extra_data="{'translat...") 
+
+-0.1531  | Tweet 107: Translated(src=es, dest=en, text=It is IMPOSSIBLE that in a massive migration you only receive only good people. Something bad is going to sneak in and it has happened… https://t.co/MvNtukNHPW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 108: Translated(src=es, dest=en, text=Regarding the Delinquent venecos... on the Space Channel they are showing the movie El Demoledor... a wea is like this... https://t.co/D29woZFD1E, pronunciation=Regarding the Delinquent venecos... on the Space Channel they are showing the movie El Demoledor... a wea is like this... https://t.co/D29woZFD1E, extra_data="{'translat...") 
+
+-0.8555  | Tweet 109: Translated(src=es, dest=en, text=@evelynmatthei I think you forget, old and hysterical look, that government destroyed #Chile and transformed it into… https://t.co/Gy63MQnnWD, pronunciation=@evelynmatthei I think you forget, old and hysterical look, that government destroyed #Chile and transformed it into… https://t.co/Gy63MQnnWD, extra_data="{'translat...") 
+
+-0.4215  | Tweet 110: Translated(src=es, dest=en, text=@AugustoPino3: @BlogItNoticias Left-handers who have no instinct for self-preservation and that prevents them from collecting too much evidence that has…, pronunciation=@AugustoPino3: @BlogItNoticias Left-handers who have no instinct for self-preservation and that prevents them from collecting too much evidence that has…, extra_data="{'translat...") 
+
+-0.8555  | Tweet 111: Translated(src=es, dest=en, text=@maximio_CL @dgalarce @gabrielboric Olle @boric ,@izkia get tough with the criminals, we all live in fear… https://t.co/CqBpKVK7GR, pronunciation=@maximio_CL @dgalarce @gabrielboric Olle @boric ,@izkia get tough with the criminals, we all live in fear… https://t.co/CqBpKVK7GR, extra_data="{'translat...") 
+
+-0.9325  | Tweet 112: Translated(src=es, dest=en, text=@robertoampuero @Carabineros @min_interior @munivina Those who stab and steal, are the ones you invited to the… https://t.co/psz6IiU47P, pronunciation=@robertoampuero @Carabineros @min_interior @munivina Those who stab and steal, are the ones you invited to the… https://t.co/psz6IiU47P, extra_data="{'translat...") 
+
+-0.9705  | Tweet 113: Translated(src=es, dest=en, text=@Vega4Julio: Given the insecurity that exists in our country, terrorism, the threat of Llaintul, delinquency and unleashed lumpen, and…, pronunciation=@Vega4Julio: Given the insecurity that exists in our country, terrorism, the threat of Llaintul, delinquency and unleashed lumpen, and…, extra_data="{'translat...") 
+
+0.9545  | Tweet 114: Translated(src=es, dest=en, text=@JORGEAG34110509: @DarkusJavier Veneco if you are in favor of approval because you are not in your country winning lucas, I imagine you are giving…, pronunciation=@JORGEAG34110509: @DarkusJavier Veneco if you are in favor of approval because you are not in your country winning lucas, I imagine you are giving…, extra_data="{'translat...") 
+
+0.9545  | Tweet 115: Translated(src=es, dest=en, text=@DarkusJavier Veneco if you are in favor of approval because you are not in your country winning Lucas, I imagine you are da… https://t.co/NMMu5dGphV, pronunciation=@DarkusJavier Veneco if you are in favor of approval because you are not in your country winning Lucas, I imagine you are da… https://t.co/NMMu5dGphV, extra_data="{'translat...") 
+
+-0.8159  | Tweet 116: Translated(src=es, dest=en, text=VENEZUELAN VENECOS MOCKING AND RIDICULIZING THE CARABINEROS OF CHILE 🇨🇱🇨🇱 WITH THEIR FAILED BANANA CULTURE
+👇… https://t.co/6ju5r23sfm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 117: Translated(src=es, dest=en, text=@baaaees @chaoaweonaos @Gabriel10615526 @robertoampuero @sebastianpinera It was Piñera who INVITED the entire mafia of… https://t.co/bopijsomz4, pronunciation=@baaaees @chaoaweonaos @Gabriel10615526 @robertoampuero @sebastianpinera It was Piñera who INVITED the entire mafia of… https://t.co/bopijsomz4, extra_data="{'translat...") 
+
+0.0  | Tweet 118: Translated(src=es, dest=en, text=@ marapoquindo3 @lucyanaah @joseantoniokast @tere_marinovic @cfelmerv The wns are venecos, they go around with their shit… https://t.co/IfhWqs43pz, pronunciation=@ marapoquindo3 @lucyanaah @joseantoniokast @tere_marinovic @cfelmerv The wns are venecos, they go around with their shit… https://t.co/IfhWqs43pz, extra_data="{'translat...") 
+
+0.0  | Tweet 119: Translated(src=es, dest=en, text=@DecoyX @PlaSocialista And what does that have to do with Chile being a social state of law and enshrining the… https://t.co/y36vPaDWOW, pronunciation=@DecoyX @PlaSocialista And what does that have to do with Chile being a social state of law and enshrining the… https://t.co/y36vPaDWOW, extra_data="{'translat...") 
+
+0.0  | Tweet 120: Translated(src=es, dest=en, text=@larightdiario Model that is going to be replicated by Chile, Peru and Colombia, with the Venetian invaders as protagonists., pronunciation=@larightdiario Model that is going to be replicated by Chile, Peru and Colombia, with the Venetian invaders as protagonists., extra_data="{'translat...") 
+
+0.0  | Tweet 121: Translated(src=es, dest=en, text=@biobio Pure smell of the Caribbean.
+
+So that they come with weas... 1 out of every 100 venecos that entered Chile are contributions.... the… https://t.co/ADbMdrwcNE, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6124  | Tweet 122: Translated(src=es, dest=en, text=@Cachoescalona1: You have to be Weon not to realize that today Chile is a PTA house. Murders, lock-ups, kidnappings, cartels…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7184  | Tweet 123: Translated(src=es, dest=en, text=@biobio Incredible that they are allowing themselves to be threatened by a group of venecos who think they are gangsters, that is, the venecos have… https://t.co/syjkqKpNZO, pronunciation=@biobio Incredible that they are allowing themselves to be threatened by a group of venecos who think they are gangsters, that is, the venecos have… https://t.co/syjkqKpNZO, extra_data="{'translat...") 
+
+0.296  | Tweet 124: Translated(src=es, dest=en, text=@janito79alan: @pedrorivasaedo @AldoDuqueSantos Just so you know, your bachletet was the first to invite your Venezuelans to Chile and she f…, pronunciation=@janito79alan: @pedrorivasaedo @AldoDuqueSantos Just so you know, your bachletet was the first to invite your Venezuelans to Chile and she f…, extra_data="{'translat...") 
+
+-0.4215  | Tweet 125: Translated(src=es, dest=en, text=Venecos shitting the quality of life in Chile. https://t.co/ZBZIlv679u, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8579  | Tweet 126: Translated(src=es, dest=en, text=Venecos do what they want SAVE CHILE https://t.co/WQQJ7n7bUy, pronunciation=Venecos do what they want SAVE CHILE https://t.co/WQQJ7n7bUy, extra_data="{'translat...") 
+
+0.4767  | Tweet 127: Translated(src=es, dest=en, text=@biobio The word has already spread outside of Chile that it is a criminal paradise here. @MinjuDDHH protects them more than the… https://t.co/u9BehTz9eq, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 128: Translated(src=es, dest=en, text=@Rev_Elementos In #Chile everything is easy for poisons. Not in Peru, I doubt they want to settle there., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7992  | Tweet 129: Translated(src=es, dest=en, text=@Rev_Elementos: If the Venetian invaders are expelled from #Chile, they will enter Peru. But even so, the worst thing about migration is NOT the…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7992  | Tweet 130: Translated(src=es, dest=en, text=If the Venetian invaders are expelled from #Chile, they will enter Peru. But still the worst thing about migration is NOT what… https://t.co/rjwxd283Cp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 131: Translated(src=es, dest=en, text=@Porsilapong0 @chajdelsur @JaimeDavid3785 @biobio The old Venecos did it out of necessity and came to work… https://t.co/byzeOUR5R7, pronunciation=@Porsilapong0 @chajdelsur @JaimeDavid3785 @biobio The old Venecos did it out of necessity and came to work… https://t.co/byzeOUR5R7, extra_data="{'translat...") 
+
+0.0  | Tweet 132: Translated(src=es, dest=en, text=@chajdelsur @JaimeDavid3785 @biobio Pears with apples. Do you remember when Peruvians began to arrive in Chile… https://t.co/FaJ2VGt8dF, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1531  | Tweet 133: Translated(src=es, dest=en, text=@latercera Yes CTM, every day Venecos and Colombians murder innocent Chileans.
+How many more compatriots d… https://t.co/ybfgS94STn, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 134: Translated(src=en, dest=en, text=@Wlad_Gallar @ClaudiaCantare2 @PDI_CHILE @Carabdechile @gabrielboric @sebastianpinera @katymartorell… https://t.co/8UeOyHd2Ld, pronunciation=@Wlad_Gallar @ClaudiaCantare2 @PDI_CHILE @Carabdechile @gabrielboric @sebastianpinera @katymartorell… https://t.co/8UeOyHd2Ld, extra_data="{'translat...") 
+
+0.0  | Tweet 135: Translated(src=es, dest=en, text=@Cami_FloresO hear artichoke brain... and do you remember when the megalomaniac appeared in Cucuta in his delirium of leadership... https://t.co/8muc8JYeRr, pronunciation=@Cami_FloresO hear artichoke brain... and do you remember when the megalomaniac appeared in Cucuta in his delirium of leadership... https://t.co/8muc8JYeRr, extra_data="{'translat...") 
+
+-0.9057  | Tweet 136: Translated(src=es, dest=en, text=@Raquelarre79: Shitty bastards!!!
+Venezuelan murderers in the alameda like Pedro by his house taking his life and who also entered from…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7351  | Tweet 137: Translated(src=es, dest=en, text=@meganoticiascl Hahahaha these HDPs are giving the news of the Veneco HDPs who came to commit crimes or demand Ch… https://t.co/9RHXDV8oMZ, pronunciation=@meganoticiascl Hahahaha these HDPs are giving the news of the Veneco HDPs who came to commit crimes or demand Ch… https://t.co/9RHXDV8oMZ, extra_data="{'translat...") 
+
+-0.8316  | Tweet 138: Translated(src=es, dest=en, text=@GAMBA_CL These poisons must leave Chile Rechazool, pronunciation=@GAMBA_CL These poisons must leave Chile Rechazool, extra_data="{'translat...") 
+
+0.296  | Tweet 139: Translated(src=es, dest=en, text=@pedrorivasaedo @AldoDuqueSantos So you know your bachletet was the first to invite your Venezuelans to Chile and… https://t.co/h1SH0OTpSM, pronunciation=@pedrorivasaedo @AldoDuqueSantos So you know your bachletet was the first to invite your Venezuelans to Chile and… https://t.co/h1SH0OTpSM, extra_data="{'translat...") 
+
+-0.7906  | Tweet 140: Translated(src=es, dest=en, text=@78Desperto @dforeror @AoLaonline @biobio May these Venecos go and ñuchem for their country, here only crime, party… https://t.co/Hvcw8QvxUj, pronunciation=@78Desperto @dforeror @AoLaonline @biobio May these Venecos go and ñuchem for their country, here only crime, party… https://t.co/Hvcw8QvxUj, extra_data="{'translat...") 
+
+-0.4153  | Tweet 141: Translated(src=es, dest=en, text=@Josermontero They also want to cover the sun with a finger and not accept that there are a lot of delinquent venecos in Chile 🙃, pronunciation=@Josermontero They also want to cover the sun with a finger and not accept that there are a lot of delinquent venecos in Chile 🙃, extra_data="{'translat...") 
+
+-0.802  | Tweet 142: Translated(src=es, dest=en, text=@bladimirsaldana @Cooperativa Your shitty president invited the Venecos to enter Chile as if nothing had happened, Pinochetist CTM., pronunciation=@bladimirsaldana @Cooperativa Your shitty president invited the Venecos to enter Chile as if nothing had happened, Pinochetist CTM., extra_data="{'translat...") 
+
+0.6369  | Tweet 143: Translated(src=es, dest=en, text=@RAL37311314 This monga, Piñera and now Boric and his entourage safeguard the right to refuge of the 2 million venecos in Chile, pronunciation=@RAL37311314 This monga, Piñera and now Boric and his entourage safeguard the right to refuge of the 2 million venecos in Chile, extra_data="{'translat...") 
+
+0.7351  | Tweet 144: Translated(src=es, dest=en, text=If Chile were a country of respect, it would take machine guns and fill all those venecos on the Aragua train with lead., pronunciation=If Chile were a country of respect, it would take machine guns and fill all those venecos on the Aragua train with lead., extra_data="{'translat...") 
+
+-0.2263  | Tweet 145: Translated(src=es, dest=en, text=@jschaulsohn #TePegasteEnLaCabeza or did you forget that this did not start on March 11, 2022? And that Piñera in Cúcuta… https://t.co/xzJKc8vaw0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7888  | Tweet 146: Translated(src=es, dest=en, text=@CriMaPerez: @Domingak @UberEats_Chile They are pure stealing the CTM! Especially the damn venecos 😤😤😡😡👊👊, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7888  | Tweet 147: Translated(src=es, dest=en, text=@Domingak @UberEats_Chile They are pure stealing the CTM! Especially the damn venecos 😤😤😡😡👊👊, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7622  | Tweet 148: Translated(src=es, dest=en, text=So, are you up to the weas with the venecos friends from the central zone of Chile?, pronunciation=So, are you up to the weas with the venecos friends from the central zone of Chile?, extra_data="{'translat...") 
+
+-0.5267  | Tweet 149: Translated(src=es, dest=en, text=THERE IN CHILE THE CRIMINALS SENT BY NICOLÀS MADURO GET LIKE THIS BECAUSE CHILE STABLES THEM, DESPITE THE TR… https://t.co/NxS64mJHoe, pronunciation=THERE IN CHILE THE CRIMINALS SENT BY NICOLÀS MADURO GET LIKE THIS BECAUSE CHILE STABLES THEM, DESPITE THE TR… https://t.co/NxS64mJHoe, extra_data="{'translat...") 
+
+0.0  | Tweet 150: Translated(src=es, dest=en, text=@nonobanez: @T13 Entrance to Chile by Colchane brought by Venecos, it is known all minsal, pronunciation=@nonobanez: @T13 Entrance to Chile by Colchane brought by Venecos, it is known all minsal, extra_data="{'translat...") 
+
+-0.7887  | Tweet 151: Translated(src=es, dest=en, text=@LuchitoPuro: I'm crazy about these criminal immigrants and VENECOS… GET OUT OF CHILE NOW!!!!! AND BORIC? In Badta cort campaign…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8271  | Tweet 152: Translated(src=es, dest=en, text=When I was in Europe and the US it was a short time but it was enough to realize that Chile was even better than other countries… https://t.co/kvZP9PLhCX, pronunciation=When I was in Europe and the US it was a short time but it was enough to realize that Chile was even better than other countries… https://t.co/kvZP9PLhCX, extra_data="{'translat...") 
+
+0.9048  | Tweet 153: Translated(src=es, dest=en, text=@winnerfibonac: We went to shit in exactly 4 months. But if the approval wins, we'll eat the 💩 by the bunch. Without crying when I stop…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 154: Translated(src=es, dest=en, text=@IndependienteTi: The Aragua Train, those infernal Venecos in Arica will have found out sometime, that with the Chilean army and face…, pronunciation=@IndependienteTi: The Aragua Train, those infernal Venecos in Arica will have found out sometime, that with the Chilean army and face…, extra_data="{'translat...") 
+
+-0.8544  | Tweet 155: Translated(src=es, dest=en, text=@DABT83 Venecos of shit Caribbean plague, nobody wants them neither in Chile, nor in the rest of the world, where do they take their crimes and live poorly!!!!, pronunciation=@DABT83 Venecos of shit Caribbean plague, nobody wants them neither in Chile, nor in the rest of the world, where do they take their crimes and live poorly!!!!, extra_data="{'translat...") 
+
+-0.9325  | Tweet 156: Translated(src=es, dest=en, text=@biobio All the criminal Venecos who arrived in Chile and all the illegal foreigners have entered Chile c… https://t.co/cXUUVYL0uN, pronunciation=@biobio All the criminal Venecos who arrived in Chile and all the illegal foreigners have entered Chile c… https://t.co/cXUUVYL0uN, extra_data="{'translat...") 
+
+0.3612  | Tweet 157: Translated(src=es, dest=en, text=If I knew someone like that I wouldn't talk to him anymore xd. Imagine being Venezuelan in Chile and voting for Boris, or in Argentina… https://t.co/HW1hsBGCtI, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 158: Translated(src=es, dest=en, text=A law that prohibits Venecos who leave Chile from leaving with dollars., pronunciation=A law that prohibits Venecos who leave Chile from leaving with dollars., extra_data="{'translat...") 
+
+0.0  | Tweet 159: Translated(src=es, dest=en, text=The Aragua Train, those infernal Venecos in Arica will have found out sometime, that with the Chilean army and c… https://t.co/cLVMTGV37z, pronunciation=The Aragua Train, those infernal Venecos in Arica will have found out sometime, that with the Chilean army and c… https://t.co/cLVMTGV37z, extra_data="{'translat...") 
+
+-0.4114  | Tweet 160: Translated(src=es, dest=en, text=@Mati_Schneider5: It doesn't matter under which government the venecos arrived in Chile, the important thing is the government that expels them and hardens the policy..., pronunciation=@Mati_Schneider5: It doesn't matter under which government the venecos arrived in Chile, the important thing is the government that expels them and hardens the policy..., extra_data="{'translat...") 
+
+-0.128  | Tweet 161: Translated(src=es, dest=en, text=@ naty04k These Veneco monkeys are disgusting 🙉
+
+I hope that one day they will take their colorful "culture" from d… https://t.co/4kaZdrqprR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6776  | Tweet 162: Translated(src=es, dest=en, text=@LuchitoPuro: No more DELINQUENT VENECOS IN CHILE!!!!#MeganoticiasAlerta, pronunciation=@LuchitoPuro: No more DELINQUENT VENECOS IN CHILE!!!!#MeganoticiasAlerta, extra_data="{'translat...") 
+
+-0.8021  | Tweet 163: Translated(src=es, dest=en, text=@LuchitoPuro: They'll kick him out of the Alameda, they'll go somewhere else!!! KILLER VENECOS OUT OF CHILE!!!#MeganoticiasAlerta, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9118  | Tweet 164: Translated(src=es, dest=en, text=@LuchitoPuro: Tools? These are seeds of evil!!!! KILLER VENECOS OUT OF CHILE!!!!! #MeganewsAlert, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5374  | Tweet 165: Translated(src=es, dest=en, text=@LuchitoPuro: And those are 2 detainees! Imagine how many venecos there are on the loose throughout Chile!!!PLR yaaaa!!!!#MeganoticiasAlerta, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8273  | Tweet 166: Translated(src=es, dest=en, text=@LuchitoPuro: No more KILLER VENECOS IN CHILE!!!!#Alert, pronunciation=@LuchitoPuro: No more KILLER VENECOS IN CHILE!!!!#Alert, extra_data="{'translat...") 
+
+-0.9303  | Tweet 167: Translated(src=es, dest=en, text=No more KILLER VENECOS IN CHILE!!!!#Alert, pronunciation=No more KILLER VENECOS IN CHILE!!!!#Alert, extra_data="{'translat...") 
+
+0.0  | Tweet 168: Translated(src=es, dest=en, text=No more DELINQUENT VENECOS IN CHILE!!!!#MeganoticiasAlert, pronunciation=No more DELINQUENT VENECOS IN CHILE!!!!#MeganoticiasAlert, extra_data="{'translat...") 
+
+-0.5374  | Tweet 169: Translated(src=es, dest=en, text=And those are 2 detainees! Imagine how many venecos there are on the loose throughout Chile!!!PLR yaaaa!!!!#MeganoticiasAlerta, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9118  | Tweet 170: Translated(src=es, dest=en, text=Tools? These are seeds of evil!!!! KILLER VENECOS OUT OF CHILE!!!!! #MeganewsAlert, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8021  | Tweet 171: Translated(src=es, dest=en, text=They'll kick him out of the Alameda, they'll go somewhere else!!! KILLER VENECOS OUT OF CHILE!!!#MeganoticiasAlerta, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7887  | Tweet 172: Translated(src=es, dest=en, text=They've got me nuts 🥥 these delinquent immigrants and VENECOS... OUT OF CHILE NOW!!!!! AND BORIC? In Bad campaign… https://t.co/ITVQ8ychp5, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.802  | Tweet 173: Translated(src=es, dest=en, text=@biobio Sheee half a discovery, don't overheat your head, Chile is full of illegal Venecos, see… https://t.co/3KGldv5OIV, pronunciation=@biobio Sheee half a discovery, don't overheat your head, Chile is full of illegal Venecos, see… https://t.co/3KGldv5OIV, extra_data="{'translat...") 
+
+0.0  | Tweet 174: Translated(src=es, dest=en, text=These csm venecos went through the cracks even to the Chilean army, what else has to happen for us to go out to the… https://t.co/5yesOtkjvI, pronunciation=These csm venecos went through the cracks even to the Chilean army, what else has to happen for us to go out to the… https://t.co/5yesOtkjvI, extra_data="{'translat...") 
+
+0.0516  | Tweet 175: Translated(src=es, dest=en, text=Millionaire idea: a Zaffaronian department with beautiful poisons and another business unit with hitmen. It is coming… https://t.co/XxE4QotWSa, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 176: Translated(src=es, dest=en, text=@Xi_fak3: Chile before the arrival of the Venecos: https://t.co/zgd1UpdJLX, pronunciation=@Xi_fak3: Chile before the arrival of the Venecos: https://t.co/zgd1UpdJLX, extra_data="{'translat...") 
+
+-0.7862  | Tweet 177: Translated(src=es, dest=en, text=@Cooperativa And as if the Venecos are so "choros", they screwed up both Chavez and Maduro, I don't understand, pronunciation=@Cooperativa And as if the Venecos are so "choros", they screwed up both Chavez and Maduro, I don't understand, extra_data="{'translat...") 
+
+-0.886  | Tweet 178: Translated(src=es, dest=en, text=@PDI_CHILE @FRCentroNorte It was clear that they were illegal poisons, pronunciation=@PDI_CHILE @FRCentroNorte It was clear that they were illegal poisons, extra_data="{'translat...") 
+
+-0.9449  | Tweet 179: Translated(src=es, dest=en, text=@boxcarter1 @Cooperativa when the bank robber went looking for poisons for Chile, now they have the Aragua train!, pronunciation=@boxcarter1 @Cooperativa when the bank robber went looking for poisons for Chile, now they have the Aragua train!, extra_data="{'translat...") 
+
+0.2244  | Tweet 180: Translated(src=es, dest=en, text=@alejandro16999 @11Krnos96 @RPPNoticias Look at your sheer ignorance! That happened here in 2017, we reached out to help them… https://t.co/GgfGnwP0iX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 181: Translated(src=es, dest=en, text=@RappiChile @uberchilecl @pedidosya No more venecos motorcycles have the shit in Chile https://t.co/bx5tRIqgTn, pronunciation=@RappiChile @uberchilecl @pedidosya No more venecos motorcycles have the shit in Chile https://t.co/bx5tRIqgTn, extra_data="{'translat...") 
+
+0.8673  | Tweet 182: Translated(src=es, dest=en, text=@DABT83 We were a thousand times better off without color and if we were without a soul they wouldn't be killing hunger in Chile! Sure now… https://t.co/TWwpN4KJNW, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.836  | Tweet 183: Translated(src=es, dest=en, text=@Furioso_1 Venecos hdp.... They are the same shit in Chile... In Peru and Ecuador... No one wants these shits. #venecos, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3182  | Tweet 184: Translated(src=es, dest=en, text=@faedmavi: @sraragatita Indeed, many of the Venecos who entered are police and military personnel who supported Guaidó. The treaty of Cucu…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 185: Translated(src=es, dest=en, text=@JLBruges But the venecos arrived and Fox remained in Chile🤦🤦🤦, pronunciation=@JLBruges But the venecos arrived and Fox remained in Chile🤦🤦🤦, extra_data="{'translat...") 
+
+-0.434  | Tweet 186: Translated(src=es, dest=en, text=@NahuelLujanista: LET THE VENECOS AND THE CUICOS CULIAOS AWEONAOS FROM CHILE LEAVE THE COUNTRY, pronunciation=@NahuelLujanista: LET THE VENECOS AND THE CUICOS CULIAOS AWEONAOS FROM CHILE LEAVE THE COUNTRY, extra_data="{'translat...") 
+
+-0.434  | Tweet 187: Translated(src=es, dest=en, text=LET THE VENECOS AND THE CUCOS CULIAOS AWEONAOS FROM CHILE LEAVE THE COUNTRY https://t.co/LEVHv7MMJD, pronunciation=LET THE VENECOS AND THE CUCOS CULIAOS AWEONAOS FROM CHILE LEAVE THE COUNTRY https://t.co/LEVHv7MMJD, extra_data="{'translat...") 
+
+-0.4114  | Tweet 188: Translated(src=es, dest=en, text=It does not matter under which Government the Venecos arrived in Chile, the important thing is the Government that expels them and hardens the policy… https://t.co/vffOr4EKDi, pronunciation=It does not matter under which Government the Venecos arrived in Chile, the important thing is the Government that expels them and hardens the policy… https://t.co/vffOr4EKDi, extra_data="{'translat...") 
+
+0.3182  | Tweet 189: Translated(src=es, dest=en, text=@sraragatita Indeed, many of the Venecos who entered are police and military personnel who supported Guaidó. He treats… https://t.co/TAkYIbsvOZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2244  | Tweet 190: Translated(src=es, dest=en, text=@EsAntoniojota: Be careful! That does not happen here in Chile... only since the venecos arrived, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 191: Translated(src=es, dest=en, text=@T13 Entrance to Chile by Colchane brought by Venecos, it is known that all minsal, pronunciation=@T13 Entrance to Chile by Colchane brought by Venecos, it is known that all minsal, extra_data="{'translat...") 
+
+0.0  | Tweet 192: Translated(src=es, dest=en, text=Watch out! That does not happen here in Chile... only since the Venecos arrived https://t.co/cqqWnTpFOo, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 193: Translated(src=es, dest=en, text=Some venecos who are asking for money in front of the Viña faith hospital, the sign says, WE ARE GOING TO CHILE, HELP… https://t.co/LbyKSAIK1X, pronunciation=Some venecos who are asking for money in front of the Viña faith hospital, the sign says, WE ARE GOING TO CHILE, HELP… https://t.co/LbyKSAIK1X, extra_data="{'translat...") 
+
+0.0  | Tweet 194: Translated(src=es, dest=en, text=@ChicoMigraa18: @sativa_cl Those Venecos go around Bellavista, they follow people, helped by the same waiters, they date them, they are accomplices…, pronunciation=@ChicoMigraa18: @sativa_cl Those Venecos go around Bellavista, they follow people, helped by the same waiters, they date them, they are accomplices…, extra_data="{'translat...") 
+
+0.6597  | Tweet 195: Translated(src=es, dest=en, text=@ky91234567: @biobio @broman83 The government is not for Chile and less is for 🇨🇱 they support everything that is detrimental and against the entire country..., pronunciation=@ky91234567: @biobio @broman83 The government is not for Chile and less is for 🇨🇱 they support everything that is detrimental and against the entire country..., extra_data="{'translat...") 
+
+-0.8685  | Tweet 196: Translated(src=es, dest=en, text=@PaoMambel: I have a grudge against the venecos who came to shit Chile with their crime 🙂 it will happen here and wherever they go 😡, pronunciation=@PaoMambel: I have a grudge against the venecos who came to shit Chile with their crime 🙂 it will happen here and wherever they go 😡, extra_data="{'translat...") 
+
+-0.6983  | Tweet 197: Translated(src=es, dest=en, text=@SamLeonH No more venecos in Chile. No more venecos murdering Chileans and laughing in our face, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 198: Translated(src=es, dest=en, text=@PepitoSchroder In fact, the Venecos, now that Chile is halfway, already want to get out of there. And Colombia socially hab… https://t.co/x3LdDUYpZM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8845  | Tweet 199: Translated(src=es, dest=en, text=@RubStella @Carabdechile @adnradiochile @Cooperativa @24HorasTVN @CHVNoticitas_cl @PDI_CHILE Venecos qlios, why are they so rancid?, pronunciation=@RubStella @Carabdechile @adnradiochile @Cooperativa @24HorasTVN @CHVNoticitas_cl @PDI_CHILE Venecos qlios, why are they so rancid?, extra_data="{'translat...") 
+
+0.0  | Tweet 200: Translated(src=es, dest=en, text=Chile prior to the arrival of the Venecos: https://t.co/zgd1UpdJLX, pronunciation=Chile prior to the arrival of the Venecos: https://t.co/zgd1UpdJLX, extra_data="{'translat...") 
+
+-0.1068  | Tweet 201: Translated(src=es, dest=en, text=@ rrcav47 And why aren't those cowardly venecos going to fight for their homeland instead of being on the web here in Chile? Or is… https://t.co/JKoJTInTS1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 202: Translated(src=es, dest=en, text=@ jenizaro11 @Eraser_chile IT SEEMS THAT THESE INNOCENT HAVE NOT SEEN A LITTLE VIDEO OF HOSPITALS IN VENEZUELA AND LACK OF IN… https://t.co/ZfLbSAyBUC, pronunciation=@ jenizaro11 @Eraser_chile IT SEEMS THAT THESE INNOCENT HAVE NOT SEEN A LITTLE VIDEO OF HOSPITALS IN VENEZUELA AND LACK OF IN… https://t.co/ZfLbSAyBUC, extra_data="{'translat...") 
+
+-0.8807  | Tweet 203: Translated(src=es, dest=en, text=Gentlemen, Chile went to hell because of the socialist thinking of progressives and because of the Venezuelan thugs who… https://t.co/i4ALG0DrDR, pronunciation=Gentlemen, Chile went to hell because of the socialist thinking of progressives and because of the Venezuelan thugs who… https://t.co/i4ALG0DrDR, extra_data="{'translat...") 
+
+0.5859  | Tweet 204: Translated(src=es, dest=en, text=If there is a wea that I do not tolerate, it is reading venecos qls giving their opinion of Chile., pronunciation=If there is a wea that I do not tolerate, it is reading venecos qls giving their opinion of Chile., extra_data="{'translat...") 
+
+0.6597  | Tweet 205: Translated(src=es, dest=en, text=@biobio @broman83 The government is not for Chile and less is for 🇨🇱 they support everything that is detrimental and against everything… https://t.co/unDu32G2W0, pronunciation=@biobio @broman83 The government is not for Chile and less is for 🇨🇱 they support everything that is detrimental and against everything… https://t.co/unDu32G2W0, extra_data="{'translat...") 
+
+0.0  | Tweet 206: Translated(src=es, dest=en, text=Heyyy Venecos, the history of Venezuela will NOT be written in Chile https://t.co/y797rNCd7l, pronunciation=Heyyy Venecos, the history of Venezuela will NOT be written in Chile https://t.co/y797rNCd7l, extra_data="{'translat...") 
+
+0.1531  | Tweet 207: Translated(src=es, dest=en, text=I arrived in Chile in 2018, and the first thing my husband told me was “we are not going to live in the center, I want to be away from… https://t.co/ZC7y899Fah, pronunciation=I arrived in Chile in 2018, and the first thing my husband told me was “we are not going to live in the center, I want to be away from… https://t.co/ZC7y899Fah, extra_data="{'translat...") 
+
+0.0  | Tweet 208: Translated(src=es, dest=en, text=@TomSawyer_uwu The only thing that unites Chile is how flat the venecos have us, pronunciation=@TomSawyer_uwu The only thing that unites Chile is how flat the venecos have us, extra_data="{'translat...") 
+
+0.6597  | Tweet 209: Translated(src=es, dest=en, text=Not satisfied with so many local scourges, now we have to accept that grotesque people come from outside. Caribbean immigration… https://t.co/8tKW2RsFU3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8591  | Tweet 210: Translated(src=es, dest=en, text=@the_realctm: note that:
+
+all victims of crime are Chilean, all criminals are foreigners, preferably..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 211: Translated(src=es, dest=en, text=@PaoMambel How not to have steak if before everything was different in Chile, those hp came to leave the shit. To… https://t.co/ZwN2FEmuSQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 212: Translated(src=es, dest=en, text=@NickHeumann @Jose_Ugarte73 @Presidencia_cl @izkia @Fonasa @gabrielboric @ministeriosalud @begoyarza It shows that not… https://t.co/nbh7Vt8ZA4, pronunciation=@NickHeumann @Jose_Ugarte73 @Presidencia_cl @izkia @Fonasa @gabrielboric @ministeriosalud @begoyarza It shows that not… https://t.co/nbh7Vt8ZA4, extra_data="{'translat...") 
+
+-0.6808  | Tweet 213: Translated(src=es, dest=en, text=@malolauc I remind you that the deformed criminal Piñera went to invite the Venecos to come to Chile making a… https://t.co/BcS0UK9uyz, pronunciation=@malolauc I remind you that the deformed criminal Piñera went to invite the Venecos to come to Chile making a… https://t.co/BcS0UK9uyz, extra_data="{'translat...") 
+
+-0.8591  | Tweet 214: Translated(src=es, dest=en, text=note that:
+
+all the victims of crime are Chilean, all the criminals are foreigners, preferably… https://t.co/1SXZvoxqIG, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8685  | Tweet 215: Translated(src=es, dest=en, text=I have arrechera to the venecos who came to shit Chile with their crime 🙂 it will happen here and wherever they go 😡, pronunciation=I have arrechera to the venecos who came to shit Chile with their crime 🙂 it will happen here and wherever they go 😡, extra_data="{'translat...") 
+
+-0.296  | Tweet 216: Translated(src=es, dest=en, text=Jakakjakakajsjaa the venecas in Chile believing that they are crying webo like here in Peru kakwkdkdjsjaaka goodbye https://t.co/1bw14VLnqx, pronunciation=Jakakjakakajsjaa the venecas in Chile believing that they are crying webo like here in Peru kakwkdkdjsjaaka goodbye https://t.co/1bw14VLnqx, extra_data="{'translat...") 
+
+-0.09  | Tweet 217: Translated(src=es, dest=en, text=@ValeriaaRamos Not all Venezuelans are like that. And the term of Venecas is over. They are not superior, and I regret… https://t.co/ICLDVj5ztb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8225  | Tweet 218: Translated(src=es, dest=en, text=@JoviNomas And @PaolaDragnic says that we are xenophobes for saying that the Venecas came to leave the shit to Chile and Latam, pronunciation=@JoviNomas And @PaolaDragnic says that we are xenophobes for saying that the Venecas came to leave the shit to Chile and Latam, extra_data="{'translat...") 
+
+0.4019  | Tweet 219: Translated(src=es, dest=en, text=@PatssyPatt_ @ValeriaaRamos Ta good. Venecas swear to the cake hole and have more diseases than chuch… https://t.co/FY7sfWbbtl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 220: Translated(src=es, dest=en, text=@nacionsolar @AscoBot @daniuvecefeback @noreciprocidad here in Chile at school, Venecas and Colombians are very… https://t.co/gvTpfT03Gq, pronunciation=@nacionsolar @AscoBot @daniuvecefeback @noreciprocidad here in Chile at school, Venecas and Colombians are very… https://t.co/gvTpfT03Gq, extra_data="{'translat...") 
+
+-0.2648  | Tweet 221: Translated(src=es, dest=en, text=@SamLeonH Nah, the venecas that arrive in Chile are very "tujas"., pronunciation=@SamLeonH Nah, the venecas that arrive in Chile are very "tujas"., extra_data="{'translat...") 
+
+0.0  | Tweet 222: Translated(src=es, dest=en, text=@bbcmundo Take the venecas out of Chile, pronunciation=@bbcmundo Take the venecas out of Chile, extra_data="{'translat...") 
+
+0.0  | Tweet 223: Translated(src=es, dest=en, text=@randomcuenta5 @pedrotapiacas @adnradiochile We all know who invited the Venecas to come to Chile at the show… https://t.co/WHBsOH28ZQ, pronunciation=@randomcuenta5 @pedrotapiacas @adnradiochile We all know who invited the Venecas to come to Chile at the show… https://t.co/WHBsOH28ZQ, extra_data="{'translat...") 
+
+0.2263  | Tweet 224: Translated(src=es, dest=en, text=@juanito_cht @robertoampuero Let's say it's true. But when was that? When after Pilera went to Cucuta to… https://t.co/O9xauHj2iT, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.788  | Tweet 225: Translated(src=es, dest=en, text=@TON618_27 @ClaudioWortsman For the same reason that Venecas come to Chile: there is more to steal than on their land.… https://t.co/7GOlrGynYa, pronunciation=@TON618_27 @ClaudioWortsman For the same reason that Venecas come to Chile: there is more to steal than on their land.… https://t.co/7GOlrGynYa, extra_data="{'translat...") 
+
+0.6705  | Tweet 226: Translated(src=es, dest=en, text=@Javier76807971 @biobio Claro wn… the comeguaguas are coming…. and short arms I free all the venecas to commit crimes… https://t.co/AemuKCupMg, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3323  | Tweet 227: Translated(src=es, dest=en, text=BORIC DOESN'T WANT CHILE
+He is doing everything to crush the Chileans, he is following instructions from Evo Morales and the… https://t.co/Re0lXXMl6P, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9393  | Tweet 228: Translated(src=es, dest=en, text=@NicolasMaduro take your venecas shit to your country bigoton conchatumare here in Chile we hate them, pronunciation=@NicolasMaduro take your venecas shit to your country bigoton conchatumare here in Chile we hate them, extra_data="{'translat...") 
+
+-0.9771  | Tweet 229: Translated(src=es, dest=en, text=when I took your Venecas shit to your country @NicolasMaduro and the motherfucker here in Chile we hate your shit… https://t.co/col7WLsg4r, pronunciation=when I took your Venecas shit to your country @NicolasMaduro and the motherfucker here in Chile we hate your shit… https://t.co/col7WLsg4r, extra_data="{'translat...") 
+
+0.0  | Tweet 230: Translated(src=es, dest=en, text=@ClpStmith @Renacida20 @SamLeonH @metrodesantiago If they knew the subway in Chile!!!!
+The. Half person of the Venecas, pronunciation=None, extra_data="{'translat...") 
+
+-0.7783  | Tweet 231: Translated(src=es, dest=en, text=@SamLeonH He should have pushed that stupid woman, the subway is a means of transportation, not a place to dance and with the mask… https://t.co/oBvesuxzCL, pronunciation=@SamLeonH He should have pushed that stupid woman, the subway is a means of transportation, not a place to dance and with the mask… https://t.co/oBvesuxzCL, extra_data="{'translat...") 
+
+0.6124  | Tweet 232: Translated(src=es, dest=en, text=@LightAteez @woovmiin @ATEEZofficial When you put Colombia 2 times but leave Venezuela out 🤡🤙🏼
+
+In case… https://t.co/AvKik2cX55, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 233: Translated(src=es, dest=en, text=@Alejandr082: The Aragua Train shows that it is true that there are powerful Venezuelan organizations operating in Chile. They were not na inven…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 234: Translated(src=es, dest=en, text=@Piureman: The irresponsibility of the right.
+This does not appear in the fringe.
+Piñera: “come to Chile, we have work for all of you…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.594  | Tweet 235: Translated(src=es, dest=en, text=@JorgeCostadoat Bogged down? And do you think we will advance with this troop of inept? For years we lived in peace, s… https://t.co/ivvPR2u9Sn, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 236: Translated(src=es, dest=en, text=@noticiaaldia: 12 Venezuelans linked to kidnappings in Chile arrested
+https://t.co/nCThMd8cjf https://t.co/NJtcwtAJc3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 237: Translated(src=es, dest=en, text=@PublimetroChile: They received orders from Venezuela and were detained in Recoleta and Puente Alto. All in an irregular situation. 👇
+https:/…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 238: Translated(src=es, dest=en, text=@Manuelmen131: @johanaonavas I have a neighbor here in VENEZUELA EYE, how screwed was he, I set up a mechanic shop, fix the cars…, pronunciation=@Manuelmen131: @johanaonavas I have a neighbor here in VENEZUELA EYE, how screwed was he, I set up a mechanic shop, fix the cars…, extra_data="{'translat...") 
+
+0.0  | Tweet 239: Translated(src=gn, dest=en, text=@fotohistoriacl: VENEZUELANS IN CHILE: the legacy of Piñera's disorderly and irregular migration that Boric faces today. Who's burning it..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 240: Translated(src=es, dest=en, text=The irresponsibility of the right.
+This does not appear in the fringe.
+Piñera: “come to Chile, we have work for… https://t.co/AztlpkHFjh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8579  | Tweet 241: Translated(src=es, dest=en, text=@RPright: Nobody in CHILE wants to experience what Venezuelans are experiencing, that's why people are realizing it, and they will vote REJECTION,..., pronunciation=@RPright: Nobody in CHILE wants to experience what Venezuelans are experiencing, that's why people are realizing it, and they will vote REJECTION,..., extra_data="{'translat...") 
+
+0.1531  | Tweet 242: Translated(src=es, dest=en, text=@aryeacu: @gene_llerena If you look, Venezuelans are committing crimes throughout Chile: The Jesui brought antisocial ruffians by the thousands…, pronunciation=@aryeacu: @gene_llerena If you look, Venezuelans are committing crimes throughout Chile: The Jesui brought antisocial ruffians by the thousands…, extra_data="{'translat...") 
+
+0.631  | Tweet 243: Translated(src=es, dest=en, text=@REY6673: @JuanKBarth1 Venezuelans flee from the Marxist dream. They have everything for free but 2 days a week. With the dream of owning a house…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9442  | Tweet 244: Translated(src=es, dest=en, text=@Psicovivir: I'm in the USA but I keep reading news from Chile, since I lived there for 5 years, and it amazes me like in practically all…, pronunciation=@Psicovivir: I'm in the USA but I keep reading news from Chile, since I lived there for 5 years, and it amazes me like in practically all…, extra_data="{'translat...") 
+
+0.4588  | Tweet 245: Translated(src=es, dest=en, text=@danieljadue It's not Ukraine or opposition Venezuelans, except Cuban rafters.
+
+These human rights are of interest to the governments of Chile., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.802  | Tweet 246: Translated(src=es, dest=en, text=@dforeror: 🔴NOW. In preventive detention there were 7 accused Venezuelans -irregulars in Chile-, formalized for the crime of kidnapping ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.1511  | Tweet 247: Translated(src=es, dest=en, text=@enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupt are those of Conviasa who do not pay Venezuelans… https://t.co/p0Asr5rnEF, pronunciation=@enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupt are those of Conviasa who do not pay Venezuelans… https://t.co/p0Asr5rnEF, extra_data="{'translat...") 
+
+-0.8126  | Tweet 248: Translated(src=es, dest=en, text=@fquiltro: In 2020 I was in María Elena and people from there told me that it was known that Maduro exported criminals to Chile as he did…, pronunciation=@fquiltro: In 2020 I was in María Elena and people from there told me that it was known that Maduro exported criminals to Chile as he did…, extra_data="{'translat...") 
+
+-0.7906  | Tweet 249: Translated(src=es, dest=en, text=@germancodina Crime overflowed when Piñera invited all Venezuelans to come to Chile, we must rea… https://t.co/5Jrq3rkypQ, pronunciation=@germancodina Crime overflowed when Piñera invited all Venezuelans to come to Chile, we must rea… https://t.co/5Jrq3rkypQ, extra_data="{'translat...") 
+
+0.4939  | Tweet 250: Translated(src=es, dest=en, text=@lausotomayorm: @DanielCampins @madf9 @kasy_stlo That's right my friend. When plagues from Peru, Ecuador, Colombia and Chile speak, where have they entered…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 251: Translated(src=es, dest=en, text=The Aragua Train shows that it is true that there are powerful Venezuelan organizations operating in Chile. They were not na fasho inventions., pronunciation=[[]], extra_data="{'translat...") 
+
+0.4588  | Tweet 252: Translated(src=es, dest=en, text=@Incorru47125032 @andres20ad What a way to talk nonsense, if the approval wins, the ones who are going to cry later will be you… https://t.co/yixwiHF1K8, pronunciation=@Incorru47125032 @andres20ad What a way to talk nonsense, if the approval wins, the ones who are going to cry later will be you… https://t.co/yixwiHF1K8, extra_data="{'translat...") 
+
+-0.6808  | Tweet 253: Translated(src=es, dest=en, text=@Yelitza72017729: @je62zambrano José I tell you that my son emigrated to Chile and was recently beaten and robbed by 2 Venezuelans. What…, pronunciation=@Yelitza72017729: @je62zambrano José I tell you that my son emigrated to Chile and was recently beaten and robbed by 2 Venezuelans. What…, extra_data="{'translat...") 
+
+-0.4767  | Tweet 254: Translated(src=es, dest=en, text=@2001OnLine: #Migration | Arrested 12 Venezuelans linked to kidnappings in Chile
+https://t.co/NDYeRaYXHr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 255: Translated(src=es, dest=en, text=@jgregoriomagno: Let's be clear, ignorant strings, the Venezuelans who go through the Darien are fleeing from Colombia, Ecuador, Chile..., pronunciation=@jgregoriomagno: Let's be clear, ignorant strings, the Venezuelans who go through the Darien are fleeing from Colombia, Ecuador, Chile..., extra_data="{'translat...") 
+
+0.4826  | Tweet 256: Translated(src=es, dest=en, text=@Leasclabos And nobody does anything!!! Why is it not investigated? They reject the plane in other countries and 🇨🇱 Chile continues to r… https://t.co/OdZ0YV3pPt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 257: Translated(src=es, dest=en, text=@danieljadue Sure to give you the pleasure of offering and supporting assassins hit men. Traffickers... Venezuelan thieves... https://t.co/hvYaY6vkAx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 258: Translated(src=es, dest=en, text=@PDI_CHILE I made a publication denouncing the rise in robberies of Venezuelans in La Serena (citizens unfortunately)… https://t.co/VhLgGlSuW6, pronunciation=@PDI_CHILE I made a publication denouncing the rise in robberies of Venezuelans in La Serena (citizens unfortunately)… https://t.co/VhLgGlSuW6, extra_data="{'translat...") 
+
+0.0  | Tweet 259: Translated(src=es, dest=en, text=@Carlosmh1977: @danieljadue And how many more Venezuelans do we have to receive to realize that the constitution that was made in Venezuela…, pronunciation=@Carlosmh1977: @danieljadue And how many more Venezuelans do we have to receive to realize that the constitution that was made in Venezuela…, extra_data="{'translat...") 
+
+-0.1027  | Tweet 260: Translated(src=es, dest=en, text=@ProfeFacho Teacher: I leave the link where the Chilean and Venezuelan students are singing the anthem of Venezuela… https://t.co/wKEBypiG0C, pronunciation=@ProfeFacho Teacher: I leave the link where the Chilean and Venezuelan students are singing the anthem of Venezuela… https://t.co/wKEBypiG0C, extra_data="{'translat...") 
+
+-0.7184  | Tweet 261: Translated(src=es, dest=en, text=@Debochcablue: @jgalemparte And watch out, Maduro is refusing to receive criminal Venezuelans expelled by Chile. I know it well..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 262: Translated(src=es, dest=en, text=@jschaulsohn Security? I never saw you come out to criticize the incompetent and greedy Piñera when she filled Chile with… https://t.co/OqoFF7EE7H, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8442  | Tweet 263: Translated(src=es, dest=en, text=@midiarioenchile: The Venezuelans who left Chile for the USA and their tendency to make fun of those who stayed 😂
+
+I hope you don't find me..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 264: Translated(src=es, dest=en, text=@Euge_12: @FridaSiKahlo @miriscubillos Venezuelans I know are organizing to leave Chile. They know the story that comes by…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 265: Translated(src=es, dest=en, text=@YOSEque Hace2_: Tell me your #story
+Yelitza Salas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #bl…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 266: Translated(src=es, dest=en, text=#Migration | Arrested 12 Venezuelans linked to kidnappings in Chile
+https://t.co/NDYeRaYXHr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 267: Translated(src=es, dest=en, text=@YOSEqueHAB2_: Tell me your story
+#YelitzaSalas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #blo…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9769  | Tweet 268: Translated(src=es, dest=en, text=@joseandres08013: @IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and the worst of all is that they are the ones who talk about V…, pronunciation=@joseandres08013: @IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and the worst of all is that they are the ones who talk about V…, extra_data="{'translat...") 
+
+-0.5859  | Tweet 269: Translated(src=es, dest=en, text=@LuisCar17812131 @biobio It's too late to announce the crazy woman... Venezuelans have been entering Chile since 2015...… https://t.co/HOzjSuoxhy, pronunciation=@LuisCar17812131 @biobio It's too late to announce the crazy woman... Venezuelans have been entering Chile since 2015...… https://t.co/HOzjSuoxhy, extra_data="{'translat...") 
+
+0.0  | Tweet 270: Translated(src=es, dest=en, text=@nta_vzla: #VenezuelaInTheWorld | 🇻🇪A group of unknown persons burned belongings of Venezuelan migrants in the “Parque de L…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8689  | Tweet 271: Translated(src=es, dest=en, text=@Ricardo15676715 @juanpabloswett Those of Approve Dignity with the support of the Communists entered more than 5,000 prisoners… https://t.co/xHOA3Rgitf, pronunciation=@Ricardo15676715 @juanpabloswett Those of Approve Dignity with the support of the Communists entered more than 5,000 prisoners… https://t.co/xHOA3Rgitf, extra_data="{'translat...") 
+
+-0.1027  | Tweet 272: Translated(src=es, dest=en, text=@AXELKAISER And why don't they count the foreigners who have left and continue to leave, the Cubans and Venezuelans who already… https://t.co/bYePEzJVBI, pronunciation=@AXELKAISER And why don't they count the foreigners who have left and continue to leave, the Cubans and Venezuelans who already… https://t.co/bYePEzJVBI, extra_data="{'translat...") 
+
+0.0  | Tweet 273: Translated(src=es, dest=en, text=@danieljadue How many deaths are there due to the Dictator Maduro? Venezuelans don't have enough to eat. They give them food and… https://t.co/EzEoz6onKO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 274: Translated(src=es, dest=en, text=@jgregoriomagno And why were these Venezuelans in Colombia, Ecuador, Chile, etc?, pronunciation=@jgregoriomagno And why were these Venezuelans in Colombia, Ecuador, Chile, etc?, extra_data="{'translat...") 
+
+-0.6908  | Tweet 275: Translated(src=es, dest=en, text=@VILLEGUISTA A broken country rising from the grave...
+I don't think so here in Chile we have more than 4 million… https://t.co/JbHLzUXgj1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 276: Translated(src=es, dest=en, text=@JeannyHobbs: Jeanny‼️ Where are you from ❓️😌
+I am Chilean, from Chile, where there are more... Venezuelans in the world 🤣😭, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 277: Translated(src=es, dest=en, text=Let's be clear, ignorant strings, the Venezuelans who go through the Darién flee from Colombia, Ecuador, C… https://t.co/mKY5nMHRFK, pronunciation=Let's be clear, ignorant strings, the Venezuelans who go through the Darién flee from Colombia, Ecuador, C… https://t.co/mKY5nMHRFK, extra_data="{'translat...") 
+
+0.0  | Tweet 278: Translated(src=es, dest=en, text=#VenezuelaInTheWorld | 🇻🇪A group of unknown persons burned belongings of Venezuelan migrants in the “P” sector… https://t.co/YVcQhRBKt2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 279: Translated(src=es, dest=en, text=@AprobaxChile Ask the Venezuelans who came to Chile what the communists promised them..., pronunciation=@AprobaxChile Ask the Venezuelans who came to Chile what the communists promised them..., extra_data="{'translat...") 
+
+-0.5423  | Tweet 280: Translated(src=es, dest=en, text=PS: Not all Venezuelans who have come to Chile have been bad experiences for me. Many have… https://t.co/f2oveymzQ9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 281: Translated(src=es, dest=en, text=No one in CHILE wants to experience what Venezuelans are experiencing, that's why people are realizing it, and they will vote... https://t.co/eZdDxCSM4y, pronunciation=No one in CHILE wants to experience what Venezuelans are experiencing, that's why people are realizing it, and they will vote... https://t.co/eZdDxCSM4y, extra_data="{'translat...") 
+
+-0.0516  | Tweet 282: Translated(src=es, dest=en, text=@FridaSiKahlo @miriscubillos Venezuelans I know are organizing to leave Chile. They know the story… https://t.co/KmtlGnthyp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5473  | Tweet 283: Translated(src=es, dest=en, text=@carlos81956718: A POWERFUL message for the face of RAJA from Jorge Sharp that Valparaíso has passed to MEAO from VENEZOLANOS
+
+#100Undecided…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1916  | Tweet 284: Translated(src=gn, dest=en, text=@dianahidalgoz @Polificcion Jajjajaja we don't miss we are worse, the Venezuelans don't want to look like Ecuador and they go to Peru and Chile, pronunciation=@dianahidalgoz @Polificcion Jajjajaja we don't miss we are worse, the Venezuelans don't want to look like Ecuador and they go to Peru and Chile, extra_data="{'translat...") 
+
+-0.765  | Tweet 285: Translated(src=es, dest=en, text=@PedrRiquel: @PublimetroChile @TrincadoErnesto It is an irregular army made up of Venezuelan prisoners who received instruction for…, pronunciation=@PedrRiquel: @PublimetroChile @TrincadoErnesto It is an irregular army made up of Venezuelan prisoners who received instruction for…, extra_data="{'translat...") 
+
+0.0  | Tweet 286: Translated(src=es, dest=en, text=Venezuelans in CHILE https://t.co/uzGiJU4Ys2, pronunciation=Venezuelans in CHILE https://t.co/uzGiJU4Ys2, extra_data="{'translat...") 
+
+0.9118  | Tweet 287: Translated(src=es, dest=en, text=@joyarcar: @claudia_mg21 @chilito2112 Because of brilliant people like you Venezuela, after being a power, became a country of mend…, pronunciation=@joyarcar: @claudia_mg21 @chilito2112 Because of brilliant people like you Venezuela, after being a power, became a country of mend…, extra_data="{'translat...") 
+
+0.0  | Tweet 288: Translated(src=es, dest=en, text=Arrested 12 Venezuelans linked to kidnappings in Chile
+https://t.co/nCThMd8cjf https://t.co/NJtcwtAJc3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5423  | Tweet 289: Translated(src=es, dest=en, text=@Pelusa213: Did you know that the rejection put all the chips in the 531,000 foreigners who vote for the first time in Chile? Most Venezuelan..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 290: Translated(src=es, dest=en, text=#INTERNATIONAL 12 Venezuelans arrested linked to kidnappings in Chile https://t.co/Jm70TaKmBa, pronunciation=#INTERNATIONAL 12 Venezuelans arrested linked to kidnappings in Chile https://t.co/Jm70TaKmBa, extra_data="{'translat...") 
+
+0.9371  | Tweet 291: Translated(src=es, dest=en, text=Chileans take care of your Chileans 🇨🇱🇻🇪😂 #randyoliveros #chilenos #venezolanos #venezuela #chile #humor https://t.co/olhwCx54cO, pronunciation=Chileans take care of your Chileans 🇨🇱🇻🇪😂 #randyoliveros #chilenos #venezolanos #venezuela #chile #humor https://t.co/olhwCx54cO, extra_data="{'translat...") 
+
+-0.8271  | Tweet 292: Translated(src=es, dest=en, text=@lamiranda_m: @fule_dot Expel foreigners. Especially Venezuelans and Colombians.
+And to all illegal that is.
+No more, first..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6164  | Tweet 293: Translated(src=es, dest=en, text=@phor_osorio: @AgriculturaFM Of course!!! At the tip of remittances from all Venezuelans who are abroad!!!! So it is clear that the…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 294: Translated(src=es, dest=en, text=@Oya07441179Luis @CarabAntof Police and PDI are afraid of Colombians and Venezuelans, I have been a witness… https://t.co/Z2M6FHoTtW, pronunciation=@Oya07441179Luis @CarabAntof Police and PDI are afraid of Colombians and Venezuelans, I have been a witness… https://t.co/Z2M6FHoTtW, extra_data="{'translat...") 
+
+0.0  | Tweet 295: Translated(src=es, dest=en, text=@polypocketmaryp: in Chile nobody talks about the #PlebiscitoDeSalida or #BoricCuliao or anything else according to the #Venezuelans this is a topic for…, pronunciation=@polypocketmaryp: in Chile nobody talks about the #PlebiscitoDeSalida or #BoricCuliao or anything else according to the #Venezuelans this is a topic for…, extra_data="{'translat...") 
+
+0.4939  | Tweet 296: Translated(src=es, dest=en, text=@LeoGalloSydney: Today I had lunch with a Peruvian friend and he told me why Venezuelans come to Chile. There the police if they catch them…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 297: Translated(src=es, dest=en, text=Today I had lunch with a Peruvian friend and he told me why Venezuelans come to Chile. There the police if they catch them… https://t.co/dUadI7BxIP, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1154  | Tweet 298: Translated(src=es, dest=en, text=@luremara But they already have franchises in the countries with the largest number of Venezuelans. In Chile, Argentina, It is… https://t.co/1GzRcDy0hp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2869  | Tweet 299: Translated(src=es, dest=en, text=@dsmolansky: Visa applications to Venezuelans are not a guarantee for safe and orderly migration. Example? One of the je…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 300: Translated(src=es, dest=en, text=@jhpradoa @T13 Before, Venezuelans did not exist in Chile until Maduro arrived, a government that plunged them into p… https://t.co/LVqf4wNi9e, pronunciation=@jhpradoa @T13 Before, Venezuelans did not exist in Chile until Maduro arrived, a government that plunged them into p… https://t.co/LVqf4wNi9e, extra_data="{'translat...") 
+
+-0.0516  | Tweet 301: Translated(src=es, dest=en, text=@AXELKAISER I imagine that the "patriots" leave and some Venezuelans return to their Chavista nest. Other companies… https://t.co/rKxSiBmXcx, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9001  | Tweet 302: Translated(src=es, dest=en, text=@camilaemiliasv: Today two Venezuelans in an irregular situation go to detention control, for the crime of the accountant Luis Riquelme (punched…, pronunciation=@camilaemiliasv: Today two Venezuelans in an irregular situation go to detention control, for the crime of the accountant Luis Riquelme (punched…, extra_data="{'translat...") 
+
+0.3818  | Tweet 303: Translated(src=es, dest=en, text=@JoviNomas They criticize the current government because it has apologized several times. I still hope that Piñera and her accomplices pi… https://t.co/DuYnES1A8T, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 304: Translated(src=es, dest=en, text=All the visas issued for Venezuelans by the Chilean consulate, within its requirements was to deliver the a… https://t.co/c0Uk5B6pb4, pronunciation=All the visas issued for Venezuelans by the Chilean consulate, within its requirements was to deliver the a… https://t.co/c0Uk5B6pb4, extra_data="{'translat...") 
+
+0.9268  | Tweet 305: Translated(src=es, dest=en, text=@ClaudiIsidora2: Have you heard from Venezuelans that they are already leaving or that they will leave Chile if the Approval wins?, pronunciation=@ClaudiIsidora2: Have you heard from Venezuelans that they are already leaving or that they will leave Chile if the Approval wins?, extra_data="{'translat...") 
+
+-0.5423  | Tweet 306: Translated(src=es, dest=en, text=@johanaonavas And personally in Chile, Venezuelans are the protagonists of overflowing crime. So… https://t.co/BlWJsQn7as, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 307: Translated(src=es, dest=en, text=@ericahenriquezo: @miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric What do you think of this…, pronunciation=@ericahenriquezo: @miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric What do you think of this…, extra_data="{'translat...") 
+
+0.0  | Tweet 308: Translated(src=es, dest=en, text=@gene_llerena @andreamolina_o Until when these VENEZUELAN CULIAOS!!!
+
+OUT OF CHILE THESE LACRAS., pronunciation=[[]], extra_data="{'translat...") 
+
+0.5574  | Tweet 309: Translated(src=es, dest=en, text=@onemichile @DPR_RM @GobiernoRM @meteochile_dmc an alert is missing from Venezuelans invading Chile please, stealing… https://t.co/6J0oeYL7jV, pronunciation=@onemichile @DPR_RM @GobiernoRM @meteochile_dmc an alert is missing from Venezuelans invading Chile please, stealing… https://t.co/6J0oeYL7jV, extra_data="{'translat...") 
+
+-0.5994  | Tweet 310: Translated(src=es, dest=en, text=@manuemartinezg1 @melnicksergio Life cost of the white doves. Except for Chile from the civil war that was about to… https://t.co/oyRzxxmU1P, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 311: Translated(src=es, dest=en, text=@TAcusete: @Rechazoypunto41 They return to Colchane to continue kidnapping, in Chile 🇨🇱 the pig is thrown away for Venezuelans and they commit…, pronunciation=@TAcusete: @Rechazoypunto41 They return to Colchane to continue kidnapping, in Chile 🇨🇱 the pig is thrown away for Venezuelans and they commit…, extra_data="{'translat...") 
+
+0.0  | Tweet 312: Translated(src=es, dest=en, text=@salgadozunilda1 @elliberocl I mean all Haitians, Colombians, Venezuelans, Ecuadorians who are in Chile are… https://t.co/nUilBdzp21, pronunciation=@salgadozunilda1 @elliberocl I mean all Haitians, Colombians, Venezuelans, Ecuadorians who are in Chile are… https://t.co/nUilBdzp21, extra_data="{'translat...") 
+
+0.0  | Tweet 313: Translated(src=it, dest=en, text=@JPPD_CHILE @izq_libertaria @jjcc_chile @JS_Chile @JDCdeChile @ComunesCL @juventudradical @RDemocratica @ PPD_Chile… https://t.co/RHRHmO2yik, pronunciation=@JPPD_CHILE @izq_libertaria @jjcc_chile @JS_Chile @JDCdeChile @ComunesCL @juventudradical @RDemocratica @ PPD_Chile… https://t.co/RHRHmO2yik, extra_data="{'translat...") 
+
+-0.7906  | Tweet 314: Translated(src=es, dest=en, text=@RodolfoDaloia @AlexaGomezDos Wait for the day that in some city suddenly there is an upturn in crime and the c… https://t.co/0FzIA1tLsB, pronunciation=@RodolfoDaloia @AlexaGomezDos Wait for the day that in some city suddenly there is an upturn in crime and the c… https://t.co/0FzIA1tLsB, extra_data="{'translat...") 
+
+-0.7351  | Tweet 315: Translated(src=es, dest=en, text=12 Venezuelans arrested for kidnapping and extortion in Chile https://t.co/zAY4jZZBRo https://t.co/Q3ey54vU0T, pronunciation=12 Venezuelans arrested for kidnapping and extortion in Chile https://t.co/zAY4jZZBRo https://t.co/Q3ey54vU0T, extra_data="{'translat...") 
+
+0.0  | Tweet 316: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his main victims…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5514  | Tweet 317: Translated(src=es, dest=en, text=@victoria19563: @AndresVelasqz Really?... Did they give you a cut of the humanitarian aid from Venezuelans in Colombia, Peru, c…, pronunciation=@victoria19563: @AndresVelasqz Really?... Did they give you a cut of the humanitarian aid from Venezuelans in Colombia, Peru, c…, extra_data="{'translat...") 
+
+-0.7351  | Tweet 318: Translated(src=es, dest=en, text=@ aireyviento5: 12 Venezuelan citizens were arrested for kidnapping in Chile, kidnappings have doubled in that country @ONU_es htt…, pronunciation=@ aireyviento5: 12 Venezuelan citizens were arrested for kidnapping in Chile, kidnappings have doubled in that country @ONU_es htt…, extra_data="{'translat...") 
+
+-0.7351  | Tweet 319: Translated(src=es, dest=en, text=12 Venezuelan citizens were arrested for kidnapping in Chile, kidnappings have doubled in that country... https://t.co/1XVLjt2kNR, pronunciation=12 Venezuelan citizens were arrested for kidnapping in Chile, kidnappings have doubled in that country... https://t.co/1XVLjt2kNR, extra_data="{'translat...") 
+
+0.5423  | Tweet 320: Translated(src=es, dest=en, text=@je62zambrano Oh yes; oh my god... Poor United States, Chile and the rest of the world, receiving that string of m... https://t.co/OASozlwD23, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8442  | Tweet 321: Translated(src=es, dest=en, text=The Venezuelans who left Chile for the USA and their tendency to make fun of those who stayed 😂
+
+I hope he doesn't find me… https://t.co/5GRtXXCvgd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9042  | Tweet 322: Translated(src=es, dest=en, text=@PcLasCondes We understand them, they are Communists who live happily in Chile, which is not a Communist country like Venezuela… https://t.co/hkQXKdAzhn, pronunciation=@PcLasCondes We understand them, they are Communists who live happily in Chile, which is not a Communist country like Venezuela… https://t.co/hkQXKdAzhn, extra_data="{'translat...") 
+
+-0.5267  | Tweet 323: Translated(src=es, dest=en, text=@El_Ciudadano The Left promised them that they would never go hungry or misery in the New Constitution to the Ven... https://t.co/mInXxv1wkv, pronunciation=@El_Ciudadano The Left promised them that they would never go hungry or misery in the New Constitution to the Ven... https://t.co/mInXxv1wkv, extra_data="{'translat...") 
+
+0.6552  | Tweet 324: Translated(src=es, dest=en, text=@TERE_LAprofe73: CUBANS AND VENEZUELANS RESIDENTS IN CHILE ARE VERY CLEAR:
+#RejectionEl4deSeptiembre
+#RejectionSalvaChile
+#RejectionThe…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5742  | Tweet 325: Translated(src=es, dest=en, text=@AlexaGomezDos: I'm going to tell you something even if you're not interested, you look pretty ugly talking about another person because of their physical appearance, beyond…, pronunciation=@AlexaGomezDos: I'm going to tell you something even if you're not interested, you look pretty ugly talking about another person because of their physical appearance, beyond…, extra_data="{'translat...") 
+
+-0.7184  | Tweet 326: Translated(src=es, dest=en, text=@danieljadue Chile must condemn the October attack that your party together with the Venezuelan Chavistas did to… https://t.co/JjQAeFe2ew, pronunciation=@danieljadue Chile must condemn the October attack that your party together with the Venezuelan Chavistas did to… https://t.co/JjQAeFe2ew, extra_data="{'translat...") 
+
+0.0  | Tweet 327: Translated(src=es, dest=en, text=@Psicovivir Chile was an oasis, just simple crimes and few crimes. The Venezuelans brought crimes... https://t.co/7kqcCBNs7Y, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 328: Translated(src=es, dest=en, text=@ veronicaavila62 Venezuela guarantees the right to housing in the Constitution and we have Venezuelans living in car… https://t.co/s7pSyrkS0T, pronunciation=@ veronicaavila62 Venezuela guarantees the right to housing in the Constitution and we have Venezuelans living in car… https://t.co/s7pSyrkS0T, extra_data="{'translat...") 
+
+-0.9153  | Tweet 329: Translated(src=es, dest=en, text=@EUDVenezuela @AIertaMundiaI We will apply the same thing in Chile with the lazy migrants and Venezuelan worms that die in the desert, pronunciation=@EUDVenezuela @AIertaMundiaI We will apply the same thing in Chile with the lazy migrants and Venezuelan worms that die in the desert, extra_data="{'translat...") 
+
+0.0  | Tweet 330: Translated(src=es, dest=en, text=@Luzma_Ossa: @Margiopaz @MartaPe50862918 @AlexaLore7 @S1r3n4_S0lc1t0 @Enojada_criolla @octopusCL @HugoGavilan18 @vivianita_74 @CarlosDag…, pronunciation=@Luzma_Ossa: @Margiopaz @MartaPe50862918 @AlexaLore7 @S1r3n4_S0lc1t0 @Enojada_criolla @octopusCL @HugoGavilan18 @vivianita_74 @CarlosDag…, extra_data="{'translat...") 
+
+0.0  | Tweet 331: Translated(src=es, dest=en, text=@shenarvz: #SACS #GTU #postille SCHEDULING!
+HEALTHCARE PROFESSIONALS
+INFO and QUOTE TO DM
+INSCRIPTION
+USER RECOVERY and more
+#C…, pronunciation=None, extra_data="{'translat...") 
+
+-0.4466  | Tweet 332: Translated(src=es, dest=en, text=@shenarvz: #GTU REGISTRATION or REGISTRATION - RESET
+WITHOUT TRAVELING TO CCS - NO PROTOCOL
+👉🏻 SCHEDULE YOUR APPOINTMENT
+INFO TO DM
+#Chile #Spain #Italy #P…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 333: Translated(src=gn, dest=en, text=@shenarvz: GOING NOW!!!
+#Appointment Single or ATTENDED by us!!!
+#GTU REGISTER and RESET
+WITHOUT TRAVELING TO CCS
+INFO TO DM or WS
+#Chile #Spain., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 334: Translated(src=es, dest=en, text=@shenarvz: COPIES CEIFIED AND/OR LEGALIZED AT THE NATIONAL LEVEL
+INFO and QUOTE TO DM
+#Chile #Spain #Italy #Panama #Ecuador #Venezo…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 335: Translated(src=gn, dest=en, text=@shenarvz: #Saime MIGRATION CHANGE
+RECUP. USER
+USER RESETTING and +
+INFO TO THE DM
+Responsibility and excellent reputation... #Chile #Spain., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5134  | Tweet 336: Translated(src=es, dest=en, text=@shenarvz: #APOSTILLE IN #AUGUST
+APPOINTMENT ALONE OR ASSISTED APPOINTMENT
+Close dates!!
+AT THE NATIONAL LEVEL..
+INFO TO DM
+#Chile #Spain #Italy #Panam…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 337: Translated(src=es, dest=en, text=@shenarvz: Did you take a #GTU appointment and can't make it?
+We do it for you!
+FEW QUOTS
+ACCESSIBLE PRICES
+SCHEDULE NOW
+INFO TO DM
+#Chile #Spain…, pronunciation=None, extra_data="{'translat...") 
+
+0.875  | Tweet 338: Translated(src=es, dest=en, text=@alb0black: The UDI, with the support of the Sebastián Piñera government, promoted the entry of Venezuelan immigrants to Chile, they used them…, pronunciation=@alb0black: The UDI, with the support of the Sebastián Piñera government, promoted the entry of Venezuelan immigrants to Chile, they used them…, extra_data="{'translat...") 
+
+-0.296  | Tweet 339: Translated(src=es, dest=en, text=@ pafablofo1 @ danieljadue The current political scene in Chile is a Déjà vu for Venezuelans. No difference… https://t.co/xI4wRYLb1B, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 340: Translated(src=es, dest=en, text=@PublimetroChile They received orders from Venezuela and were detained in Recoleta and Puente Alto. Everyone in a situation… https://t.co/U6TJlvTIDS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9268  | Tweet 341: Translated(src=es, dest=en, text=Have you heard of Venezuelans who are already leaving or who will leave Chile if the Approval wins?, pronunciation=Have you heard of Venezuelans who are already leaving or who will leave Chile if the Approval wins?, extra_data="{'translat...") 
+
+0.0  | Tweet 342: Translated(src=es, dest=en, text=@IguanaInsurgent: In all or almost all crimes, robberies and other crimes in #Peru, #Chile, #Colombia and other countries, there are thugs VE…, pronunciation=@IguanaInsurgent: In all or almost all crimes, robberies and other crimes in #Peru, #Chile, #Colombia and other countries, there are thugs VE…, extra_data="{'translat...") 
+
+0.2397  | Tweet 343: Translated(src=es, dest=en, text=@Elmas2011Angel: EYE; IN THE MAIN THING, AND TO TAKE INTO ACCOUNT: "NEW CONSTITUTION👿" WITH MANY AND MORE GUARANTEES AND BENEFITS, THAN THE CONST…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 344: Translated(src=es, dest=en, text=#VenezuelaInTheWorld | 🇻🇪A group of unknown persons burned the belongings of Venezuelan migrants in the “P” sector… https://t.co/pB0aKldmtL, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 345: Translated(src=gn, dest=en, text=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, pronunciation=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, extra_data="{'translat...") 
+
+0.0  | Tweet 346: Translated(src=es, dest=en, text=@chilenocucharon: 👏 @PDI_CHILE 🇨🇱 detains 12 Venezuelan kidnappers, who received instructions from Venezuela 🇻🇪. Everyone is…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 347: Translated(src=es, dest=en, text=@AlexaGomezDos Finally, these explosions of irregular Venezuelan migrants end in anarchy, crime,… https://t.co/1felix2fVJ, pronunciation=@AlexaGomezDos Finally, these explosions of irregular Venezuelan migrants end in anarchy, crime,… https://t.co/1felix2fVJ, extra_data="{'translat...") 
+
+0.2023  | Tweet 348: Translated(src=es, dest=en, text=30.7% are Venezuelan immigrants admitted to https://t.co/QQzTpvgYhp a universe of 1.4 million. We have en… https://t.co/opVFp8KjMk, pronunciation=30.7% are Venezuelan immigrants admitted to https://t.co/QQzTpvgYhp a universe of 1.4 million. We have en… https://t.co/opVFp8KjMk, extra_data="{'translat...") 
+
+0.6526  | Tweet 349: Translated(src=es, dest=en, text=@PierreCurieD @crstmart What a privilege of a Country to be able to have Dos Pegas!!! Ask Venezuelans why they are in Chile????, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 350: Translated(src=es, dest=en, text=@AprobaxChile In one where YOU CAN!!! In Chile you can still work, ask the Venezuelans!!!!!, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2946  | Tweet 351: Translated(src=es, dest=en, text=@AprobaxChile Claro with a proposal that takes us directly to the destiny of Venezuelans, Argentines, etc.
+No thanks I want my chili free, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 352: Translated(src=es, dest=en, text=@ygorayeb: I insist, Chileans...Carlos Siri, owner of the former German Fountain, is fighting for all of us...he is giving us the example…, pronunciation=@ygorayeb: I insist, Chileans...Carlos Siri, owner of the former German Fountain, is fighting for all of us...he is giving us the example…, extra_data="{'translat...") 
+
+0.0  | Tweet 353: Translated(src=es, dest=en, text=@SaragozaElena @JonathanQuantip @FMCENTER That is not only an export product in Venezuela, I am in Chile and here… https://t.co/lczlimQ1Iw, pronunciation=@SaragozaElena @JonathanQuantip @FMCENTER That is not only an export product in Venezuela, I am in Chile and here… https://t.co/lczlimQ1Iw, extra_data="{'translat...") 
+
+0.0  | Tweet 354: Translated(src=es, dest=en, text=@rositapaez: Listen to this message brought to us by Venezuelans who come from the 'future' about what could happen to Chile...
+#RejectionForC…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0258  | Tweet 355: Translated(src=es, dest=en, text=@T13 To their husbands? Take care of yourself in prison, which is where Venezuelans are ending up in Chile, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 356: Translated(src=es, dest=en, text=@je62zambrano José I tell you that my son emigrated to Chile and was recently beaten and robbed by 2 Venezuelans. I… https://t.co/IP3MhhIhPr, pronunciation=@je62zambrano José I tell you that my son emigrated to Chile and was recently beaten and robbed by 2 Venezuelans. I… https://t.co/IP3MhhIhPr, extra_data="{'translat...") 
+
+0.4939  | Tweet 357: Translated(src=es, dest=en, text=@TarekWiliamSaab @MinpublicoVEN The Venezuelan, being Venezuela, creates mental market rules already… https://t.co/ZNNSL0ThoU, pronunciation=@TarekWiliamSaab @MinpublicoVEN The Venezuelan, being Venezuela, creates mental market rules already… https://t.co/ZNNSL0ThoU, extra_data="{'translat...") 
+
+0.0  | Tweet 358: Translated(src=es, dest=en, text=Venezuelans believe that in Chile they can do the same as in their country, Chile is the only country that imports crime… https://t.co/X6DmZ8eLBa, pronunciation=Venezuelans believe that in Chile they can do the same as in their country, Chile is the only country that imports crime… https://t.co/X6DmZ8eLBa, extra_data="{'translat...") 
+
+0.0  | Tweet 359: Translated(src=es, dest=en, text=@JuanCar32997954 @Cristian198314 That's right not listening to Venezuelans who live in Chile, pronunciation=@JuanCar32997954 @Cristian198314 That's right not listening to Venezuelans who live in Chile, extra_data="{'translat...") 
+
+-0.5423  | Tweet 360: Translated(src=es, dest=en, text=Did you know that the rejection put all the chips in the 531,000 foreigners who vote for the first time in Chile? Most… https://t.co/sqqz5kOKB1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 361: Translated(src=es, dest=en, text=@FranciscoAFeli2 @nestorg95461530 @Psicovivir Said by Chilean statistics. Bolivians, Colombians and Peruvians… https://t.co/xadZfcE1sh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 362: Translated(src=es, dest=en, text=@AdruMolina @LassoMusica The bulk of Venezuelans in Chile are 25-34 years old and that is Lasso's audience, pronunciation=@AdruMolina @LassoMusica The bulk of Venezuelans in Chile are 25-34 years old and that is Lasso's audience, extra_data="{'translat...") 
+
+-0.2023  | Tweet 363: Translated(src=es, dest=en, text=Venezuelans came to Chile because of the solidity we had, if a Venezuelan tells you "eye" pay attention to him, they have the… https://t.co/BkLSxLS3wU, pronunciation=Venezuelans came to Chile because of the solidity we had, if a Venezuelan tells you "eye" pay attention to him, they have the… https://t.co/BkLSxLS3wU, extra_data="{'translat...") 
+
+0.0  | Tweet 364: Translated(src=es, dest=en, text=@FranciscoAFeli2 @nestorg95461530 @Psicovivir Bolivians, Colombians, Peruvians. In that order are the amount of… https://t.co/vq8K3yxa90, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 365: Translated(src=es, dest=en, text=@antorechaza @epicana_22 @V_InuSubversiva @ValeriaaRamos I'm not going to step on the comb of turning this into a fight between… https://t.co/OhtQOuRzn1, pronunciation=@antorechaza @epicana_22 @V_InuSubversiva @ValeriaaRamos I'm not going to step on the comb of turning this into a fight between… https://t.co/OhtQOuRzn1, extra_data="{'translat...") 
+
+-0.6908  | Tweet 366: Translated(src=es, dest=en, text=@ericahenriquezo: What do you think of this?
+In Venezuela they kill them and in Chile they take out our #soul... Why don't we go to Venezuela to…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 367: Translated(src=es, dest=en, text=@pentagram107: #World | Chile: Houses of Venezuelan Migrants Burned
+
+https://t.co/my0A8DP7ZK https://t.co/mtIKHjW7N9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 368: Translated(src=es, dest=en, text=@CorreodelCaroni: #World | Chile: Houses of Venezuelan Migrants Burned -
+
+https://t.co/aDwshnjhyj https://t.co/0drWKvoBav, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8402  | Tweet 369: Translated(src=es, dest=en, text=@fronteravivanew: #6Ago 🇻🇪🇨🇱 A group of people set fire to the emergency housing of Venezuelan migrants in Parque de los Even…, pronunciation=@fronteravivanew: #6Ago 🇻🇪🇨🇱 A group of people set fire to the emergency housing of Venezuelan migrants in Parque de los Even…, extra_data="{'translat...") 
+
+-0.5719  | Tweet 370: Translated(src=es, dest=en, text=@FranciscoAFeli2 @nestorg95461530 @Psicovivir I respect your opinion. But if they end Chilean crime, everything is… https://t.co/BiASwaaK0E, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9042  | Tweet 371: Translated(src=es, dest=en, text=@jgalemparte: I heard Undersecretary Manuel Monsalve point out that the big problem when checking criminal records when entering ve…, pronunciation=@jgalemparte: I heard Undersecretary Manuel Monsalve point out that the big problem when checking criminal records when entering ve…, extra_data="{'translat...") 
+
+0.0  | Tweet 372: Translated(src=es, dest=en, text=@erickprofe2022 @felrocca @trashumantes Ote aweonao. Millions of Venezuelans thought the same as you. Why do you think… https://t.co/YG1Rths1B4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 373: Translated(src=es, dest=en, text=Venezuelans live with 0.066% of the salary equivalent to that of Chile - https://t.co/ZNHbGcUIhv #salario #Venezolanos #Chile @ elaramirez22, pronunciation=Venezuelans live with 0.066% of the salary equivalent to that of Chile - https://t.co/ZNHbGcUIhv #salario #Venezolanos #Chile @ elaramirez22, extra_data="{'translat...") 
+
+0.0  | Tweet 374: Translated(src=es, dest=en, text=@asirit: We Venezuelans in Chile have the right to our identity documents. You wait up to two years for a passport appointment…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5423  | Tweet 375: Translated(src=es, dest=en, text=@marjo2018 @mpereze @SREnvironment @leoabogadovalpo It's a horrible text:
+1. Declaring social rights does not guarantee… https://t.co/F2qnscwF6s, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 376: Translated(src=es, dest=en, text=@josejuandos: @Manuelmen131 @johanaonavas In Chile the only neighbors who play full volume music every day until after 1…, pronunciation=@josejuandos: @Manuelmen131 @johanaonavas In Chile the only neighbors who play full volume music every day until after 1…, extra_data="{'translat...") 
+
+0.5859  | Tweet 377: Translated(src=es, dest=en, text=@Manuelmen131 @johanaonavas In Chile, the only neighbors who play full-volume music every day until late… https://t.co/PAfB2EVr74, pronunciation=@Manuelmen131 @johanaonavas In Chile, the only neighbors who play full-volume music every day until late… https://t.co/PAfB2EVr74, extra_data="{'translat...") 
+
+0.0  | Tweet 378: Translated(src=es, dest=en, text=#World | Chile: Houses of Venezuelan Migrants Burned
+
+https://t.co/my0A8DP7ZK https://t.co/mtIKHjW7N9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 379: Translated(src=es, dest=en, text=#World | Chile: Houses of Venezuelan Migrants Burned -
+
+https://t.co/aDwshnjhyj https://t.co/0drWKvoBav, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9118  | Tweet 380: Translated(src=es, dest=en, text=@claudia_mg21 @chilito2112 Because of brilliant people like you Venezuela, after being a power, became a country… https://t.co/8IIDTxZDmR, pronunciation=@claudia_mg21 @chilito2112 Because of brilliant people like you Venezuela, after being a power, became a country… https://t.co/8IIDTxZDmR, extra_data="{'translat...") 
+
+0.0  | Tweet 381: Translated(src=es, dest=en, text=Terrible this. How would they make a Venezuelan to another Venezuelan, for example? I did not know of this "norm" or resolution to… https://t.co/OSKeTJ37j3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 382: Translated(src=es, dest=en, text=Venezuelans in Chile have the right to our identity documents. You wait up to two years for a cit… https://t.co/wZwgllrfg7, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6486  | Tweet 383: Translated(src=es, dest=en, text=@joshuatca @ministeriosalud Terrible this. How would they make a Venezuelan to another Venezuelan, for example? I have no id… https://t.co/1G4ldQHHqj, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9287  | Tweet 384: Translated(src=es, dest=en, text=@sergiou01329861: Two terrorist attacks today Monday morning in Lautaro and Curacautín.
+A child screams in anguish on a highway because…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 385: Translated(src=es, dest=en, text=@EmmaRincon: Hugo Chávez: "Being rich is bad."
+
+Fortune of the daughter of Hugo Chávez (María Gabriela): 3,500 million dollars.
+
+*Stolen from…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 386: Translated(src=es, dest=en, text=@gene_llerena Many Venezuelans are people without any education regarding the law and the rules, they believe that they can… https://t.co/MHODcyKDkf, pronunciation=@gene_llerena Many Venezuelans are people without any education regarding the law and the rules, they believe that they can… https://t.co/MHODcyKDkf, extra_data="{'translat...") 
+
+-0.4215  | Tweet 387: Translated(src=es, dest=en, text=@gene_llerena These Venezuelans came to our country with many legs demanding rights, I wonder WHY YOU THINK… https://t.co/lhewN478JL, pronunciation=@gene_llerena These Venezuelans came to our country with many legs demanding rights, I wonder WHY YOU THINK… https://t.co/lhewN478JL, extra_data="{'translat...") 
+
+0.7351  | Tweet 388: Translated(src=es, dest=en, text=@nestorg95461530 @globalizacion31 @Psicovivir It's wrong for me to say it, but it's the truth. Chile takes care of its d… https://t.co/nh8FpvLrCi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 389: Translated(src=es, dest=en, text=@danieljadue And how many more Venezuelans do we have to receive to realize that the constitution that was made in Ve… https://t.co/oWstOzoGNa, pronunciation=@danieljadue And how many more Venezuelans do we have to receive to realize that the constitution that was made in Ve… https://t.co/oWstOzoGNa, extra_data="{'translat...") 
+
+-0.2023  | Tweet 390: Translated(src=es, dest=en, text=@Leasclabos: More than 45 days have passed since the landing in our country of an internationally questioned Iranian/Venezuelan plane.…, pronunciation=@Leasclabos: More than 45 days have passed since the landing in our country of an internationally questioned Iranian/Venezuelan plane.…, extra_data="{'translat...") 
+
+0.4588  | Tweet 391: Translated(src=es, dest=en, text=@EmaFigueroaC Venezuelans are made of cardboard, they let the left convince them with a new constitution that… https://t.co/cG4PPwEgxV, pronunciation=@EmaFigueroaC Venezuelans are made of cardboard, they let the left convince them with a new constitution that… https://t.co/cG4PPwEgxV, extra_data="{'translat...") 
+
+-0.9217  | Tweet 392: Translated(src=es, dest=en, text=@CaraotaDigital: Tents of Venezuelans were burned in Chile amid protests over the murder of a teenager https://t.co/SQGqaEjiL8, pronunciation=@CaraotaDigital: Tents of Venezuelans were burned in Chile amid protests over the murder of a teenager https://t.co/SQGqaEjiL8, extra_data="{'translat...") 
+
+-0.7506  | Tweet 393: Translated(src=es, dest=en, text=@johanaonavas I have a neighbor here in VENEZUELA EYE, how screwed up, I set up a mechanic shop, fix the… https://t.co/mvIftVcZ7i, pronunciation=@johanaonavas I have a neighbor here in VENEZUELA EYE, how screwed up, I set up a mechanic shop, fix the… https://t.co/mvIftVcZ7i, extra_data="{'translat...") 
+
+-0.7506  | Tweet 394: Translated(src=es, dest=en, text=@wrivasc: A video of Chávez circulated (blaming imperialism) and congratulating Venezuelans who, as a result of having only 6 hours of him…, pronunciation=@wrivasc: A video of Chávez circulated (blaming imperialism) and congratulating Venezuelans who, as a result of having only 6 hours of him…, extra_data="{'translat...") 
+
+0.3384  | Tweet 395: Translated(src=es, dest=en, text=@camiloblas @JoviNomas In the north we always live very well with Peruvians, Bolivians and Ecuadorians. The problems… https://t.co/r5bSfTbR1n, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 396: Translated(src=es, dest=en, text=@puranoticia: 598 foreigners have been expelled from Chile during this 2022: 457 are Bolivians, 17 Venezuelans and 57 Colombians between..., pronunciation=@puranoticia: 598 foreigners have been expelled from Chile during this 2022: 457 are Bolivians, 17 Venezuelans and 57 Colombians between..., extra_data="{'translat...") 
+
+-0.8402  | Tweet 397: Translated(src=es, dest=en, text=#6Ago 🇻🇪🇨🇱 A group of people set fire to the emergency homes of Venezuelan migrants in the Parque de los E… https://t.co/4MgMZmwkxn, pronunciation=#6Ago 🇻🇪🇨🇱 A group of people set fire to the emergency homes of Venezuelan migrants in the Parque de los E… https://t.co/4MgMZmwkxn, extra_data="{'translat...") 
+
+-0.7906  | Tweet 398: Translated(src=es, dest=en, text=@miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric How bad was he supposed… https://t.co/B6UwpPewjY, pronunciation=@miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric How bad was he supposed… https://t.co/B6UwpPewjY, extra_data="{'translat...") 
+
+0.0  | Tweet 399: Translated(src=es, dest=en, text=@Raggnarrokk: I tell you that in Venezuela the Constitution guarantees them housing...
+However, here are the Venezuelans, they prefer..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 400: Translated(src=es, dest=en, text=I tell you that in Venezuela the Constitution guarantees them housing...
+However, here are the Venezuelans, pr… https://t.co/0EJ7ZJ820c, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 401: Translated(src=es, dest=en, text=598 foreigners have been expelled from Chile during this 2022: 457 are Bolivians, 17 Venezuelans and 57 Colombians… https://t.co/SC1GuIc7Uo, pronunciation=598 foreigners have been expelled from Chile during this 2022: 457 are Bolivians, 17 Venezuelans and 57 Colombians… https://t.co/SC1GuIc7Uo, extra_data="{'translat...") 
+
+0.7348  | Tweet 402: Translated(src=es, dest=en, text=@Myroga1: @JuanKBarth1 Right, it's a matter of talking to Venezuelans (decent, not criminals), Cubans and all those who know…, pronunciation=@Myroga1: @JuanKBarth1 Right, it's a matter of talking to Venezuelans (decent, not criminals), Cubans and all those who know…, extra_data="{'translat...") 
+
+0.3736  | Tweet 403: Translated(src=es, dest=en, text=@RojasDcv @AldoDuqueSantos theft of water?? Ask Venezuelans in Chile, for the theft of their freedoms, fut… https://t.co/NTkfCQ2tio, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 404: Translated(src=es, dest=en, text=@cokevet @Vincent_Kgell It was in Australia.
+Venezuelans also arrive there in smaller numbers but just as violent… https://t.co/2qQ5GRLLyM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 405: Translated(src=es, dest=en, text=@oliveros1_susan: @Muni_Stgo @IraciHassler @PDI_CHILE And when they take out the “street situation” (who was in Sta Elvira with Sta Elena and…, pronunciation=@oliveros1_susan: @Muni_Stgo @IraciHassler @PDI_CHILE And when they take out the “street situation” (who was in Sta Elvira with Sta Elena and…, extra_data="{'translat...") 
+
+0.4939  | Tweet 406: Translated(src=es, dest=en, text=@Psicovivir 3% of crimes in Chile are committed by foreigners, Venezuelans are the least. I live in Çhile, pronunciation=@Psicovivir 3% of crimes in Chile are committed by foreigners, Venezuelans are the least. I live in Çhile, extra_data="{'translat...") 
+
+0.7783  | Tweet 407: Translated(src=es, dest=en, text=@patriciapolitz The Venezuelan constitution promises the same and we have Venezuelans living in tents and on top of… https://t.co/3pN8Fz3cNc, pronunciation=@patriciapolitz The Venezuelan constitution promises the same and we have Venezuelans living in tents and on top of… https://t.co/3pN8Fz3cNc, extra_data="{'translat...") 
+
+0.7348  | Tweet 408: Translated(src=es, dest=en, text=@JuanKBarth1 Right, it's a matter of talking to Venezuelans (decent, not criminals), Cubans and everyone here… https://t.co/onJPrpUfye, pronunciation=@JuanKBarth1 Right, it's a matter of talking to Venezuelans (decent, not criminals), Cubans and everyone here… https://t.co/onJPrpUfye, extra_data="{'translat...") 
+
+-0.8481  | Tweet 409: Translated(src=es, dest=en, text=@Dondebike: In Antofagasta a group of Venezuelans killed a boy with a machete. And the authorities nothing at all. These criminals..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7845  | Tweet 410: Translated(src=es, dest=en, text=@isitolin: The cruelty of Migraciones Colombia with Venezuelans who fly to Chile is outrageous. Already on boarding they ask again..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 411: Translated(src=es, dest=en, text=@F_AyalaR of course yes. because the only foreigners that exist in Chile are Venezuelans, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 412: Translated(src=es, dest=en, text=@miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric What do you think… https://t.co/7cJ64OQTlp, pronunciation=@miguelkant22 @Jou_Kaiser @Jimoya82 @FcoMunoz_TP @lamonsalveg @carreragonzalo @izkia @gabrielboric What do you think… https://t.co/7cJ64OQTlp, extra_data="{'translat...") 
+
+-0.6908  | Tweet 413: Translated(src=es, dest=en, text=What do you think about this?
+In Venezuela they kill them and in Chile they take our #soul away... Why don't we go to Venezuela to... https://t.co/48Lb0zYdg4, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 414: Translated(src=es, dest=en, text=@direzionegiusta @cocopachico @latercera The fact that people like this will enter is solely the fault of the Chinese government… https://t.co/czO3sv6i45, pronunciation=@direzionegiusta @cocopachico @latercera The fact that people like this will enter is solely the fault of the Chinese government… https://t.co/czO3sv6i45, extra_data="{'translat...") 
+
+0.5374  | Tweet 415: Translated(src=es, dest=en, text=@AgriculturaFM Sure!!! At the tip of remittances from all Venezuelans who are abroad!!!! This is clear… https://t.co/x55wyPQ6Wg, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9413  | Tweet 416: Translated(src=es, dest=en, text=@sox2390 @cocopachico @latercera But there is no comparison with the number and type of Venezuelan criminals who… https://t.co/dpj0iWNY30, pronunciation=@sox2390 @cocopachico @latercera But there is no comparison with the number and type of Venezuelan criminals who… https://t.co/dpj0iWNY30, extra_data="{'translat...") 
+
+0.0  | Tweet 417: Translated(src=es, dest=en, text=@MuruaPuerto @charovargas_ The same story as Chavez. Talk to Venezuelans who are in Chile so they can tell you… https://t.co/TVupfnWXAA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7823  | Tweet 418: Translated(src=es, dest=en, text=What frivolity of the acting representatives of the approval, did they really need the bonus? You will stay doing your… https://t.co/nehK4qVCg2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 419: Translated(src=es, dest=en, text=@alenverme1975 @supergeniux @AlexaGomezDos Because they get noticed. Exactly the same thing happens here in Chile, everyone knows… https://t.co/SyL8V0dkJQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4404  | Tweet 420: Translated(src=es, dest=en, text=@CHVNoticias Street cooks… another Venezuelan contribution to Chile…
+
+Protected by Boric and his people:
+“Delete… https://t.co/6FGNKx8cZo, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8309  | Tweet 421: Translated(src=es, dest=en, text=@kyrapon: @AgriculturaFM Obviously, Venezuelans rob Chile and send the money to their relatives... how can their economy not go up!..., pronunciation=@kyrapon: @AgriculturaFM Obviously, Venezuelans rob Chile and send the money to their relatives... how can their economy not go up!..., extra_data="{'translat...") 
+
+0.0  | Tweet 422: Translated(src=es, dest=en, text=@gene_llerena These Venezuelans and foreigners who do not abide by the laws of Chile must go, since when is it… https://t.co/KaFpDoj9iL, pronunciation=@gene_llerena These Venezuelans and foreigners who do not abide by the laws of Chile must go, since when is it… https://t.co/KaFpDoj9iL, extra_data="{'translat...") 
+
+0.0  | Tweet 423: Translated(src=es, dest=en, text=@SilvanaNHR @biobio @ kondepatula13 And to think that it was Piñera who said that all Venezuelans who wanted to could… https://t.co/B2MFtmt8Vn, pronunciation=@SilvanaNHR @biobio @ kondepatula13 And to think that it was Piñera who said that all Venezuelans who wanted to could… https://t.co/B2MFtmt8Vn, extra_data="{'translat...") 
+
+-0.8544  | Tweet 424: Translated(src=es, dest=en, text=@AgriculturaFM Obviously, Venezuelans rob Chile and send the money to their relatives... how can their economy not go up!!!, pronunciation=@AgriculturaFM Obviously, Venezuelans rob Chile and send the money to their relatives... how can their economy not go up!!!, extra_data="{'translat...") 
+
+-0.3182  | Tweet 425: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/N0VfG7xDbJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4188  | Tweet 426: Translated(src=es, dest=en, text=@larightdiario Migration brings many more bad people than good people in Ecuador we have been filled with Venezuelan immigrants… https://t.co/B7TjkCaXPx, pronunciation=@larightdiario Migration brings many more bad people than good people in Ecuador we have been filled with Venezuelan immigrants… https://t.co/B7TjkCaXPx, extra_data="{'translat...") 
+
+-0.4588  | Tweet 427: Translated(src=es, dest=en, text=@Latrodectus0: "Nearly 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments" EMOL…, pronunciation=@Latrodectus0: "Nearly 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments" EMOL…, extra_data="{'translat...") 
+
+0.3818  | Tweet 428: Translated(src=es, dest=en, text=@FonsiLoaiza It is better to agree with Maduro, where Venezuelans are starving, or in Chile, or in Argentina. Or lose… https://t.co/kSqk8CBFad, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 429: Translated(src=es, dest=en, text=#VenezuelaInTheWorld | 🇻🇪A group of unknown persons burned belongings of Venezuelan migrants in the “P” sector… https://t.co/laOz0cJuwJ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 430: Translated(src=es, dest=en, text=@JRaulMI: Chile: They burn houses of Venezuelan migrants https://t.co/OHbi5J5E9w via @Correo del Caroní, pronunciation=@JRaulMI: Chile: They burn houses of Venezuelan migrants https://t.co/OHbi5J5E9w via @Correo del Caroní, extra_data="{'translat...") 
+
+0.6369  | Tweet 431: Translated(src=es, dest=en, text=@cocopachico @latercera It's true that Venezuelans come to play. By the way, the first person who scammed me in Chile was a Peruvian 🙃, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 432: Translated(src=es, dest=en, text=See how the Venezuelans started and you will see how Chile will be with the new Constitution, that's why I make you have to ca… https://t.co/Uu4ty4kJ4Z, pronunciation=See how the Venezuelans started and you will see how Chile will be with the new Constitution, that's why I make you have to ca… https://t.co/Uu4ty4kJ4Z, extra_data="{'translat...") 
+
+-0.7351  | Tweet 433: Translated(src=es, dest=en, text=#INTERNATIONAL 12 Venezuelans arrested linked to kidnappings in Chile https://t.co/Jm70Tb1XZK, pronunciation=#INTERNATIONAL 12 Venezuelans arrested linked to kidnappings in Chile https://t.co/Jm70Tb1XZK, extra_data="{'translat...") 
+
+0.5667  | Tweet 434: Translated(src=es, dest=en, text=@AngamosOnline It's not a sensation... insecurity in #Antofagasta and all of Chile is a fact... many Venezuelans., pronunciation=@AngamosOnline It's not a sensation... insecurity in #Antofagasta and all of Chile is a fact... many Venezuelans., extra_data="{'translat...") 
+
+0.0  | Tweet 435: Translated(src=es, dest=en, text=Chile: They burn homes of Venezuelan migrants https://t.co/OHbi5J5E9w via @Correo del Caroní, pronunciation=Chile: They burn homes of Venezuelan migrants https://t.co/OHbi5J5E9w via @Correo del Caroní, extra_data="{'translat...") 
+
+-0.8356  | Tweet 436: Translated(src=es, dest=en, text=@chocolateagridu: And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Peru,…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7424  | Tweet 437: Translated(src=es, dest=en, text=#6Ago They point out that “visas for Venezuelans do not guarantee safe migration because one of the heads of the Aragua Train… https://t.co/yS5DXGykEg, pronunciation=#6Ago They point out that “visas for Venezuelans do not guarantee safe migration because one of the heads of the Aragua Train… https://t.co/yS5DXGykEg, extra_data="{'translat...") 
+
+-0.6369  | Tweet 438: Translated(src=es, dest=en, text=@jgalemparte And watch out, Maduro is refusing to receive criminal Venezuelans expelled by Chile. I know from a good source., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 439: Translated(src=es, dest=en, text=And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Pe… https://t.co/VJyQU2zop0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1531  | Tweet 440: Translated(src=es, dest=en, text=@Ley_Pareja Poor Chileans, just like the reality of Venezuelans, Cubans who arrive in our country. 🙏🙏🙏 If they… https://t.co/X12KiCfrCW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4215  | Tweet 441: Translated(src=es, dest=en, text=@Juan11743384: The main countries of destination to which #Venezuelans flee are:
+
+#Chile 🇨🇱: 17%
+#Colombia 🇨🇴: 16%
+#United States…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 442: Translated(src=es, dest=en, text=@biobio: 12 Venezuelans arrested for various kidnappings in the RM: they would have received orders from their country https://t.co/rxvxigJDV4, pronunciation=@biobio: 12 Venezuelans arrested for various kidnappings in the RM: they would have received orders from their country https://t.co/rxvxigJDV4, extra_data="{'translat...") 
+
+-0.8982  | Tweet 443: Translated(src=es, dest=en, text=@8cielos: Get out all the Venezuelans from Chile now!! Take away your train from Aragua, your criminals, drugs, whores and assassins... I don't care..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 444: Translated(src=es, dest=en, text=#6Aug 🌎 | In Chile: six Venezuelans are arrested for sexual exploitation https://t.co/YBlb92mwxt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 445: Translated(src=es, dest=en, text=@revolt_chile @JoviNomas And the Venezuelans that Piñera attracted were all from the right.
+No further comments. 🤷‍♂️, pronunciation=None, extra_data="{'translat...") 
+
+-0.4915  | Tweet 446: Translated(src=es, dest=en, text=@CotilainR: @biobio @jackielagos3 All this is very strange: the hake government receives the Venezuelan-Iranian plane, it does not take action against the…, pronunciation=@CotilainR: @biobio @jackielagos3 All this is very strange: the hake government receives the Venezuelan-Iranian plane, it does not take action against the…, extra_data="{'translat...") 
+
+0.0  | Tweet 447: Translated(src=es, dest=en, text=@Elizabe74456329 @eloia03 @hernan_sr Are the guarantees you mention? Housing, education, health?… the Const of the ve… https://t.co/Nz4lIPdLqH, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 448: Translated(src=es, dest=en, text=@CriticonLight: Almost 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments https:/…, pronunciation=@CriticonLight: Almost 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments https:/…, extra_data="{'translat...") 
+
+-0.7184  | Tweet 449: Translated(src=es, dest=en, text=@VeronicaWelkner Look cunning, your president Piñera abandoned Chile, letting as many Venezuelan drug traffickers enter as ex… https://t.co/PAiGhLQyvW, pronunciation=@VeronicaWelkner Look cunning, your president Piñera abandoned Chile, letting as many Venezuelan drug traffickers enter as ex… https://t.co/PAiGhLQyvW, extra_data="{'translat...") 
+
+-0.6597  | Tweet 450: Translated(src=es, dest=en, text=@Gloriaborges I think that the Aragua train is a Venezuelan problem, do not come to us with pods that came is… https://t.co/GLk6r4WU8K, pronunciation=@Gloriaborges I think that the Aragua train is a Venezuelan problem, do not come to us with pods that came is… https://t.co/GLk6r4WU8K, extra_data="{'translat...") 
+
+0.0  | Tweet 451: Translated(src=es, dest=en, text=@fule_dot The Venezuelans were aliens and have orders from the galactic empire to finish off Chile!!!, pronunciation=@fule_dot The Venezuelans were aliens and have orders from the galactic empire to finish off Chile!!!, extra_data="{'translat...") 
+
+0.0  | Tweet 452: Translated(src=es, dest=en, text=@EdgarOchoaPezo @petrogustavo @PedroCastilloTe @congresoperu It's normal, it's a survival instinct, nobody wants… https://t.co/KqqJijh6Ql, pronunciation=@EdgarOchoaPezo @petrogustavo @PedroCastilloTe @congresoperu It's normal, it's a survival instinct, nobody wants… https://t.co/KqqJijh6Ql, extra_data="{'translat...") 
+
+-0.875  | Tweet 453: Translated(src=es, dest=en, text=@la_patilla: Venezuelans grabbed a young man and killed him with blows and machetes in Chile https://t.co/xUPb0EKbSp ., pronunciation=@la_patilla: Venezuelans grabbed a young man and killed him with blows and machetes in Chile https://t.co/xUPb0EKbSp ., extra_data="{'translat...") 
+
+0.4215  | Tweet 454: Translated(src=es, dest=en, text=@gabrielboric the hake "welcome immigrants" since Chile's problem is that it has many Chileans 😃
+https://t.co/GgqUqSi7yd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7184  | Tweet 455: Translated(src=es, dest=en, text=With respect to the good Venezuelans... We are in the Republic of Chile, not in Venezuela. https://t.co/Reti4B0TPg, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5319  | Tweet 456: Translated(src=es, dest=en, text=@AlertaNoticiasV OUT. OF. CHILE. THE. DAMN. OUTSIDERS... OUT. OF. IT. CONTRARY. THE. PEOPLE… https://t.co/chEOEOHQos, pronunciation=None, extra_data="{'translat...") 
+
+-0.4588  | Tweet 457: Translated(src=es, dest=en, text=Almost 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments… https://t.co/HCaLpzwj5m, pronunciation=Almost 600 migrants were expelled from Chile in the first semester: Tarapacá Region leads in return shipments… https://t.co/HCaLpzwj5m, extra_data="{'translat...") 
+
+-0.7783  | Tweet 458: Translated(src=es, dest=en, text=@JPabloReisch Better..."The invitation to come to Chile to work for Venezuelans...made by the thief csm de Piñera"..., pronunciation=@JPabloReisch Better..."The invitation to come to Chile to work for Venezuelans...made by the thief csm de Piñera"..., extra_data="{'translat...") 
+
+-0.5859  | Tweet 459: Translated(src=es, dest=en, text=@JoviNomas The problem is that the day will come when people are going to get bored and they will stay there. And beware, not only the… https://t.co/WvqIjpjEI8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 460: Translated(src=es, dest=en, text=Incredible that even Venezuelans join the wave of xenophobia abroad. Chile a country with 20 million… https://t.co/cnjQvklQ2S, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 461: Translated(src=es, dest=en, text=@Psicovivir Incredible that even Venezuelans join the wave of xenophobia against Venezuelans abroad… https://t.co/Qb3AdoDl81, pronunciation=@Psicovivir Incredible that even Venezuelans join the wave of xenophobia against Venezuelans abroad… https://t.co/Qb3AdoDl81, extra_data="{'translat...") 
+
+0.0  | Tweet 462: Translated(src=es, dest=en, text=If Venezuela fixes itself, what will they do with the departments in Chile, there are around 1,000,000 Venezuelans fixed… https://t.co/0xNLgjAqNl, pronunciation=If Venezuela fixes itself, what will they do with the departments in Chile, there are around 1,000,000 Venezuelans fixed… https://t.co/0xNLgjAqNl, extra_data="{'translat...") 
+
+0.0  | Tweet 463: Translated(src=es, dest=en, text=@olmueinolibre @kondepatula13 Venezuelans, they are everywhere in Chile, there is an invasion of people without culture., pronunciation=@olmueinolibre @kondepatula13 Venezuelans, they are everywhere in Chile, there is an invasion of people without culture., extra_data="{'translat...") 
+
+-0.5859  | Tweet 464: Translated(src=es, dest=en, text=@GasparRivas Leave your cheap show, among the foreigners who have been in Chile for years, worried they comment that they are defeated… https://t.co/py3Ti5udQp, pronunciation=@GasparRivas Leave your cheap show, among the foreigners who have been in Chile for years, worried they comment that they are defeated… https://t.co/py3Ti5udQp, extra_data="{'translat...") 
+
+0.0  | Tweet 465: Translated(src=es, dest=en, text=@biobio But keep saying not everyone is the same hahahahaha 🤣 Venezuelans destroyed their country then in Colombia d… https://t.co/98riLaJlei, pronunciation=@biobio But keep saying not everyone is the same hahahahaha 🤣 Venezuelans destroyed their country then in Colombia d… https://t.co/98riLaJlei, extra_data="{'translat...") 
+
+-0.9769  | Tweet 466: Translated(src=es, dest=en, text=@IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and worst of all is that they are the ones who talk about… https://t.co/yiWqXRiJiB, pronunciation=@IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and worst of all is that they are the ones who talk about… https://t.co/yiWqXRiJiB, extra_data="{'translat...") 
+
+0.0  | Tweet 467: Translated(src=es, dest=en, text=Hahahahahaha... The Venezuelans came to Chile to take away the husbands from the Chileans... And the Venezuelans came... https://t.co/l3dQ1dWfGH, pronunciation=Hahahahahaha... The Venezuelans came to Chile to take away the husbands from the Chileans... And the Venezuelans came... https://t.co/l3dQ1dWfGH, extra_data="{'translat...") 
+
+-0.8271  | Tweet 468: Translated(src=es, dest=en, text=@fule_dot Expel foreigners. Especially Venezuelans and Colombians.
+And to all illegal that is.
+No more,… https://t.co/qG5k5NSXh6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 469: Translated(src=es, dest=en, text=@MZakuragi: @biobio It's a matter of seeing the train from Aragua, which was legal in Chile... the entry of Venezuelans should be prohibited, so..., pronunciation=@MZakuragi: @biobio It's a matter of seeing the train from Aragua, which was legal in Chile... the entry of Venezuelans should be prohibited, so..., extra_data="{'translat...") 
+
+0.0  | Tweet 470: Translated(src=es, dest=en, text=The main countries of destination to which #Venezuelans flee are:
+
+#Chile 🇨🇱: 17%
+#Colombia 🇨🇴: 16%… https://t.co/ycOODrmtkZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.795  | Tweet 471: Translated(src=es, dest=en, text=@2_arturito: 5 Venezuelans arrested for kidnapping... Chile gets worse every day!!! https://t.co/qe8rMUZePW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 472: Translated(src=es, dest=en, text=It will be a dejavu for the Venezuelans residing in Chile and who started from their country?????? https://t.co/jmuz14RHsZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 473: Translated(src=es, dest=en, text=@rodherrerachile Can you tell me what millions of Venezuelans do begging in the streets and living in tents and… https://t.co/oBRsHdQQuv, pronunciation=@rodherrerachile Can you tell me what millions of Venezuelans do begging in the streets and living in tents and… https://t.co/oBRsHdQQuv, extra_data="{'translat...") 
+
+-0.7845  | Tweet 474: Translated(src=es, dest=en, text=The cruelty of Migrations Colombia with Venezuelans who fly to Chile is outrageous. Already on boarding they return to… https://t.co/OAKovcJ7ZX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 475: Translated(src=es, dest=en, text=👏 @PDI_CHILE 🇨🇱 detains 12 Venezuelan kidnappers, who received instructions from Venezuela 🇻🇪. All e… https://t.co/koH8cTGxUk, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 476: Translated(src=es, dest=en, text="Nearly 600 migrants were expelled from Chile in the first semester: the Tarapacá Region leads in return shipments"… https://t.co/QRSCkxo9UU, pronunciation="Nearly 600 migrants were expelled from Chile in the first semester: the Tarapacá Region leads in return shipments"… https://t.co/QRSCkxo9UU, extra_data="{'translat...") 
+
+-0.9865  | Tweet 477: Translated(src=es, dest=en, text=@alejoaren: @patoespol "HITMEN, MURDERERS, RAPISTS, THIEVES, MOTORCYCLES, THE SAME ONES WHO BURNED OUR METRO" THE ARAGUA TRAIN!!!!PO…, pronunciation=@alejoaren: @patoespol "HITMEN, MURDERERS, RAPISTS, THIEVES, MOTORCYCLES, THE SAME ONES WHO BURNED OUR METRO" THE ARAGUA TRAIN!!!!PO…, extra_data="{'translat...") 
+
+0.296  | Tweet 478: Translated(src=es, dest=en, text=@gepetto1584 @biobio And that "democratic visa" was a mockery for the good foreigners who had been waiting for their route… https://t.co/Tuzk1jFkin, pronunciation=@gepetto1584 @biobio And that "democratic visa" was a mockery for the good foreigners who had been waiting for their route… https://t.co/Tuzk1jFkin, extra_data="{'translat...") 
+
+-0.6486  | Tweet 479: Translated(src=es, dest=en, text=@Leoguigno @Tapatelaspatita @BorisYopo Do you think that the murderers in Chile are only Venezuelans?
+Xenophobic x 2, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8506  | Tweet 480: Translated(src=es, dest=en, text=@inPuertoVaras EVERYTHING THAT PASSES THROUGH COMMUNIST HANDS BANKRUPT IS DESTROYED AND DIES.
+If you don't believe me, ask the workers… https://t.co/wQgZ4BZroa, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7555  | Tweet 481: Translated(src=es, dest=en, text=@Angelic50707701: @EmaFigueroaC CHILE LOOK AT HOW HAPPY THEY ARE
+VENEZUELANS WITH THE N.C.
+DE CHAVEZ .. THEY WANT THE SAME
+FOR CHILE., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 482: Translated(src=es, dest=en, text=@Schwrzwld: This video is from the future, after Venezuelans naively backed an NC full of rights, unicameral, presiding…, pronunciation=@Schwrzwld: This video is from the future, after Venezuelans naively backed an NC full of rights, unicameral, presiding…, extra_data="{'translat...") 
+
+-0.1531  | Tweet 483: Translated(src=es, dest=en, text=@johanaonavas Oh and the Venezuelans who live in Miami or Chile ufff those are a serious case., pronunciation=@johanaonavas Oh and the Venezuelans who live in Miami or Chile ufff those are a serious case., extra_data="{'translat...") 
+
+-0.1139  | Tweet 484: Translated(src=es, dest=en, text=@Cecilia78507215 It must be because Venezuelans have already lived through communism and they don't want that to happen to Chile., pronunciation=@Cecilia78507215 It must be because Venezuelans have already lived through communism and they don't want that to happen to Chile., extra_data="{'translat...") 
+
+0.0  | Tweet 485: Translated(src=es, dest=en, text=@Margiopaz @MartaPe50862918 @AlexaLore7 @S1r3n4_S0lc1t0 @Enojada_criolla @octopusCL @HugoGavilan18 @vivianita_74… https://t.co/xuXIfq08bd, pronunciation=@Margiopaz @MartaPe50862918 @AlexaLore7 @S1r3n4_S0lc1t0 @Enojada_criolla @octopusCL @HugoGavilan18 @vivianita_74… https://t.co/xuXIfq08bd, extra_data="{'translat...") 
+
+-0.7906  | Tweet 486: Translated(src=es, dest=en, text=@Irreligioso666: @AlertaNoticiasV The numbers don't lie,
+
+Chile obviously had crime, but now you have to deal with crime..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 487: Translated(src=es, dest=en, text=@Maurici13144012: Train from Aragua, threatens @Carabdechile and his wife in the region of Arica and Parinacota, they went to work with the lady..., pronunciation=@Maurici13144012: Train from Aragua, threatens @Carabdechile and his wife in the region of Arica and Parinacota, they went to work with the lady..., extra_data="{'translat...") 
+
+0.3182  | Tweet 488: Translated(src=es, dest=en, text=@andres_nomade21: @Mister_Wolf_0 All these airhead lefties have the same pamphlet story. The truth is that the Chilean system…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9001  | Tweet 489: Translated(src=es, dest=en, text=@Psicovivir The problem is with the medium that publishes the news because in Chile there are more than 100,000 Chilean prisoners and… https://t.co/VOKTtYdO8x, pronunciation=@Psicovivir The problem is with the medium that publishes the news because in Chile there are more than 100,000 Chilean prisoners and… https://t.co/VOKTtYdO8x, extra_data="{'translat...") 
+
+0.0  | Tweet 490: Translated(src=es, dest=en, text=@biobio PIÑERA BROUGHT VENEZUELANS TO CHILE, HE WENT TO CUCUTA, SPENT MILLIONS FROM THE STATE AND JUAN GUAIDO, INTEGRATE… https://t.co/SUucLn1KzC, pronunciation=@biobio PIÑERA BROUGHT VENEZUELANS TO CHILE, HE WENT TO CUCUTA, SPENT MILLIONS FROM THE STATE AND JUAN GUAIDO, INTEGRATE… https://t.co/SUucLn1KzC, extra_data="{'translat...") 
+
+-0.5859  | Tweet 491: Translated(src=es, dest=en, text=Today the day has been fooerte
+
+* I resign @EGasiba
+
+* Arrest warrant for @carlaangola
+@JulioBorges on behalf of the N… https://t.co/bksutiuFEa, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 492: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | In Chile: six Venezuelans are arrested for sexual exploitation https://t.co/YBlb92E7W3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9462  | Tweet 493: Translated(src=es, dest=en, text=@fedoraletelier: @Soniaporchile @JuanPin60400501 @waldo_gornall Thank you very much for valuable testimony 👍🤗, Cubans and Venezuelans say it..., pronunciation=@fedoraletelier: @Soniaporchile @JuanPin60400501 @waldo_gornall Thank you very much for valuable testimony 👍🤗, Cubans and Venezuelans say it..., extra_data="{'translat...") 
+
+-0.4767  | Tweet 494: Translated(src=es, dest=en, text=#5Aug 🌎 | In Chile: six Venezuelans are arrested for sexual exploitation https://t.co/YBlb92E7W3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 495: Translated(src=es, dest=en, text=@Rechazoypunto41 They return to Colchane to continue kidnapping, in Chile 🇨🇱 the pig is thrown away for the Venezuelans… https://t.co/kthOGpsMcT, pronunciation=@Rechazoypunto41 They return to Colchane to continue kidnapping, in Chile 🇨🇱 the pig is thrown away for the Venezuelans… https://t.co/kthOGpsMcT, extra_data="{'translat...") 
+
+0.0  | Tweet 496: Translated(src=es, dest=en, text=Murderers ctm Venezuelan foreigners, outside of Chile., pronunciation=Murderers ctm Venezuelan foreigners, outside of Chile., extra_data="{'translat...") 
+
+0.0  | Tweet 497: Translated(src=es, dest=en, text=@Jfch_leon @MarioJ_Grafico Could that be why 700,000 Venezuelans came to Chile???, pronunciation=@Jfch_leon @MarioJ_Grafico Could that be why 700,000 Venezuelans came to Chile???, extra_data="{'translat...") 
+
+0.5267  | Tweet 498: Translated(src=es, dest=en, text=@jcsanzo @aiiglesiasm Chile is characterized by having a stable democracy since Pi's dictatorship ended… https://t.co/hTbY2RCZ0V, pronunciation=@jcsanzo @aiiglesiasm Chile is characterized by having a stable democracy since Pi's dictatorship ended… https://t.co/hTbY2RCZ0V, extra_data="{'translat...") 
+
+-0.9559  | Tweet 499: Translated(src=es, dest=en, text=Regarding Venezuelans who murder, rob, traffic drugs, kidnap and extort money, I go with my #TopFive of ve… https://t.co/U0U2npGcj5, pronunciation=Regarding Venezuelans who murder, rob, traffic drugs, kidnap and extort money, I go with my #TopFive of ve… https://t.co/U0U2npGcj5, extra_data="{'translat...") 
+
+0.0  | Tweet 500: Translated(src=es, dest=en, text=@IVCNetworksVE @DiegoACastillo @IvanMedinaM #iVCMLB He should continue, he still has a lot to prove, cheers… https://t.co/q3vtckRpzy, pronunciation=@IVCNetworksVE @DiegoACastillo @IvanMedinaM #iVCMLB He should continue, he still has a lot to prove, cheers… https://t.co/q3vtckRpzy, extra_data="{'translat...") 
+

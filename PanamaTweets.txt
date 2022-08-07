@@ -1,0 +1,94 @@
+-0.6597  | Tweet 1: Translated(src=es, dest=en, text=Without capacity, the problem could come if Panama decides to take the girl to its territory and relocate her in… https://t.co/2UgdgULvXH, pronunciation=Without capacity, the problem could come if Panama decides to take the girl to its territory and relocate her in… https://t.co/2UgdgULvXH, extra_data="{'translat...") 
+
+-0.8225  | Tweet 2: Translated(src=es, dest=en, text=@stella_navarro A Venezuelan doctor, that's a good doctor. My nephew just died in Panama, due to malpractice 😭, pronunciation=@stella_navarro A Venezuelan doctor, that's a good doctor. My nephew just died in Panama, due to malpractice 😭, extra_data="{'translat...") 
+
+0.0  | Tweet 3: Translated(src=es, dest=en, text=@MiosotisBonilla: They bring up the Wanda Vázquez thing with the Venezuelan....
+
+Imagine when @trschatz51 and Ricky Roselló about Panama come out…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8402  | Tweet 4: Translated(src=es, dest=en, text=@Asamblea_Ven: The Venezuela-Panama Parliamentary Friendship Group proposes to create an action program so that the Venezuelan people can…, pronunciation=@Asamblea_Ven: The Venezuela-Panama Parliamentary Friendship Group proposes to create an action program so that the Venezuelan people can…, extra_data="{'translat...") 
+
+0.0  | Tweet 5: Translated(src=es, dest=en, text=They take out the Wanda Vázquez thing with the Venezuelan....
+
+Imagine when the @trschatz51 and Ricky Roselló thing about Pan comes out… https://t.co/QSdg2z6kBi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8567  | Tweet 6: Translated(src=es, dest=en, text=🎉 Saturday
+🎊 Saturday
+
+Don't wait any longer and have the best company for this weekend🔝❤️
+By clicking on the link and p… https://t.co/OuHlYAWDgC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3182  | Tweet 7: Translated(src=es, dest=en, text=@BoxeoThings: 05-08-2006
+The Venezuelan Edwin 'Inca' Valero 🇻🇪 conquered his first title (WBA super featherweight 🪶) by defeating the Panamanian Vice…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 8: Translated(src=es, dest=en, text=@ejb_cavcm: 🗓️ #TalDiaComoHoy || Birth of the Liberator Simón Bolívar in the year 1783, he was a Venezuelan military and politician, giving…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 9: Translated(src=es, dest=en, text=@marcorm26 @rmartinelli You can't human Israeli and Panamanian civil states
+ 
+In Panama City Panama the… https://t.co/B6pKNQdCZW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 10: Translated(src=es, dest=en, text=@marcorm26 @rmartinelli Eliminate Israeli and Panama the Jews
+Eliminate human rights in Colombia and… https://t.co/vQ1J7VqDzp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 11: Translated(src=es, dest=en, text=@javieroliver_ct: A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while crossing the se…, pronunciation=@javieroliver_ct: A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while crossing the se…, extra_data="{'translat...") 
+
+-0.9274  | Tweet 12: Translated(src=es, dest=en, text=That Panama is involved in a smuggling of Venezuelan crude through Curaçao that involves several companies from Colo… https://t.co/sKK993xEG9, pronunciation=That Panama is involved in a smuggling of Venezuelan crude through Curaçao that involves several companies from Colo… https://t.co/sKK993xEG9, extra_data="{'translat...") 
+
+0.2263  | Tweet 13: Translated(src=es, dest=en, text=05-08-2006
+Venezuelan Edwin 'Inca' Valero 🇻🇪 conquered his first title (WBA super featherweight 🪶) by beating Panama… https://t.co/Gb4aMYJ2Sj, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4628  | Tweet 14: Translated(src=es, dest=en, text=@LisandroSoy: @Turalyonx @Gabyanabrav Well, I am Venezuelan, I didn't want to live in Japan, Panama or China. I die in my Venezuela., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4628  | Tweet 15: Translated(src=es, dest=en, text=@Turalyonx @Gabyanabrav Well, I am Venezuelan, I didn't want to live in Japan, Panama or China. I die in my Venezuela., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 16: Translated(src=es, dest=en, text=In the region, the passports with the most expensive procedures in dollars are those of Venezuela, Uruguay and Panama, which r… https://t.co/04ZoKeY7Bh, pronunciation=In the region, the passports with the most expensive procedures in dollars are those of Venezuela, Uruguay and Panama, which r… https://t.co/04ZoKeY7Bh, extra_data="{'translat...") 
+
+0.0  | Tweet 17: Translated(src=es, dest=en, text=@cifrasdepty: Mercantil, a financial and banking entity of Venezuelan origin that operates in Panama, issues bonds for US$38.5 million to f…, pronunciation=@cifrasdepty: Mercantil, a financial and banking entity of Venezuelan origin that operates in Panama, issues bonds for US$38.5 million to f…, extra_data="{'translat...") 
+
+-0.3802  | Tweet 18: Translated(src=es, dest=en, text=ANOTHER STORY! Venezuelan was persecuted in the middle of the ocean on his way to cross the Darién
+
+https://t.co/cFRkCOsjuD, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5875  | Tweet 19: Translated(src=es, dest=en, text=@petrogustavo Mr. Gustavo Petro, I am Venezuelan, what I am going to ask of you is not easy, but it must not be impossible either… https://t.co/EKTvBI0l0m, pronunciation=@petrogustavo Mr. Gustavo Petro, I am Venezuelan, what I am going to ask of you is not easy, but it must not be impossible either… https://t.co/EKTvBI0l0m, extra_data="{'translat...") 
+
+0.0  | Tweet 20: Translated(src=es, dest=en, text=@osmithgallardo: There is a video circulating of an alleged Venezuelan migrant who meets a Jaguar in the Darien.
+
+Apparently the video is coming V…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 21: Translated(src=es, dest=en, text=A video circulates of an alleged Venezuelan migrant who meets a Jaguar in the Darien.
+
+Apparently the video old… https://t.co/jl8xBQU6s4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 22: Translated(src=es, dest=en, text=@eing_umbv: Simón José Antonio de la Santísima Trinidad Bolívar Palacios was born in Caracas on July 24, 1783, known as the Liber…, pronunciation=@eing_umbv: Simón José Antonio de la Santísima Trinidad Bolívar Palacios was born in Caracas on July 24, 1783, known as the Liber…, extra_data="{'translat...") 
+
+0.0  | Tweet 23: Translated(src=es, dest=en, text=@ocastroFV: @lil_grace60 @rascanio57 @toroalvarol What a barbaric criterion to define territorial arbitrations, but I don't see it declared..., pronunciation=@ocastroFV: @lil_grace60 @rascanio57 @toroalvarol What a barbaric criterion to define territorial arbitrations, but I don't see it declared..., extra_data="{'translat...") 
+
+0.0  | Tweet 24: Translated(src=es, dest=en, text=Mercantil, a financial and banking entity of Venezuelan origin that operates in Panama, issues bonds for US$38.5 million… https://t.co/MIfbsxKTO1, pronunciation=Mercantil, a financial and banking entity of Venezuelan origin that operates in Panama, issues bonds for US$38.5 million… https://t.co/MIfbsxKTO1, extra_data="{'translat...") 
+
+0.34  | Tweet 25: Translated(src=es, dest=en, text=@ImpactoMundo_: 🇵🇦 🇻🇪 | A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while he crosses…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 26: Translated(src=es, dest=en, text=@migracionpanama @MinSegPma @tupistapty @Gozainesamira @misabelsaraviam Hello, good afternoon, I am Venezuelan with residency… https://t.co/WLRJWkucHs, pronunciation=@migracionpanama @MinSegPma @tupistapty @Gozainesamira @misabelsaraviam Hello, good afternoon, I am Venezuelan with residency… https://t.co/WLRJWkucHs, extra_data="{'translat...") 
+
+0.0  | Tweet 27: Translated(src=es, dest=en, text=Greetings from a Venezuelan from Panama
+@josefriverap watching his broadcast and remembering Delio A with today's theme… https://t.co/vvYPe1kUfw, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 28: Translated(src=es, dest=en, text=@SebazDesigner @SinCensuraCol The dollar is what circulates there, what they have to pay is something else, our economy is… https://t.co/MexP4yzuyT, pronunciation=@SebazDesigner @SinCensuraCol The dollar is what circulates there, what they have to pay is something else, our economy is… https://t.co/MexP4yzuyT, extra_data="{'translat...") 
+
+0.0  | Tweet 29: Translated(src=es, dest=en, text=Morning and did you know that Mexico, Costa Rica, Belize, Panama, Honduras and Guatemala require a visa for Venecos? Because Ecuador… https://t.co/vU035aiGCE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 30: Translated(src=es, dest=en, text=See Venezuelans and Haitians on TikTok making black humor with videos that they publish about their journey through the Gap of D… https://t.co/4CBhb9psOP, pronunciation=See Venezuelans and Haitians on TikTok making black humor with videos that they publish about their journey through the Gap of D… https://t.co/4CBhb9psOP, extra_data="{'translat...") 
+
+0.0  | Tweet 31: Translated(src=es, dest=en, text=#Internationals | Panama reveals how many Venezuelans have crossed the Darién during 2022 + Figures 🌍 https://t.co/xZkoC4b7oD, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.128  | Tweet 32: Translated(src=es, dest=en, text=@manug711: Panama denied visas to Venezuelan athletes to participate in a tournament; days after Panama played a tournament here in "Carabobo"..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 33: Translated(src=es, dest=en, text=@YOSEque Hace2_: Tell me your #story
+Yelitza Salas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #bl…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 34: Translated(src=es, dest=en, text=@YOSEque Hace2_: Yelitza Salas: #Panama… #Venezuelans in the #world https://t.co/kUFxejFFcL #blog #blogger #FMI #Banks #Canal #residenc…, pronunciation=@YOSEque Hace2_: Yelitza Salas: #Panama… #Venezuelans in the #world https://t.co/kUFxejFFcL #blog #blogger #FMI #Banks #Canal #residenc…, extra_data="{'translat...") 
+
+0.0  | Tweet 35: Translated(src=es, dest=en, text=@YOSEque Hace2_: #YelitzaSalas: #Panama… #Venezuelans in the #world https://t.co/kUFxejFFcL #blog #blogger #FMI #Banks #Canal #residenc…, pronunciation=@YOSEque Hace2_: #YelitzaSalas: #Panama… #Venezuelans in the #world https://t.co/kUFxejFFcL #blog #blogger #FMI #Banks #Canal #residenc…, extra_data="{'translat...") 
+
+0.0  | Tweet 36: Translated(src=es, dest=en, text=@YOSEqueHAB2_: Tell me your story
+#YelitzaSalas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #blo…, pronunciation=[[]], extra_data="{'translat...") 
+
