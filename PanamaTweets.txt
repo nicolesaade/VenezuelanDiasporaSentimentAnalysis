@@ -92,3 +92,1326 @@ Yelitza Salas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.c
 0.0  | Tweet 36: Translated(src=es, dest=en, text=@YOSEqueHAB2_: Tell me your story
 #YelitzaSalas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #blo…, pronunciation=[[]], extra_data="{'translat...") 
 
+-0.34  | Tweet 37: Translated(src=es, dest=en, text=@kciquepty: when the Panamanian authorities are going to take this issue of migration seriously, now soon they will also be ch…, pronunciation=@kciquepty: when the Panamanian authorities are going to take this issue of migration seriously, now soon they will also be ch…, extra_data="{'translat...") 
+
+-0.34  | Tweet 38: Translated(src=es, dest=en, text=when the Panamanian authorities are going to take this issue of migration seriously, now soon they will be t… https://t.co/1UntKo9SHA, pronunciation=when the Panamanian authorities are going to take this issue of migration seriously, now soon they will be t… https://t.co/1UntKo9SHA, extra_data="{'translat...") 
+
+0.3034  | Tweet 39: Translated(src=es, dest=en, text=@EnFrontera_: #EXCLUSIVE | Diary of a journey: passage through the Darién jungle – Part I (Audios and videos)
+
+Day 1: They were chased by the gua…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2928  | Tweet 40: Translated(src=es, dest=en, text=@elestimulo: “From January to June 2022, more than 28,079 Venezuelans have crossed the Darién jungle, almost 60% of the total number of migrants who…, pronunciation=@elestimulo: “From January to June 2022, more than 28,079 Venezuelans have crossed the Darién jungle, almost 60% of the total number of migrants who…, extra_data="{'translat...") 
+
+0.0  | Tweet 41: Translated(src=es, dest=en, text=“From January to June 2022, more than 28,079 Venezuelans have crossed the Darién jungle, almost 60% of the total migration… https://t.co/XX71jbUdFM, pronunciation=“From January to June 2022, more than 28,079 Venezuelans have crossed the Darién jungle, almost 60% of the total migration… https://t.co/XX71jbUdFM, extra_data="{'translat...") 
+
+-0.8834  | Tweet 42: Translated(src=es, dest=en, text=Insecurity, accidents, death and sexual violence: That is the #PasoDarien #Panama
+Crossing the Darién leaves marks… https://t.co/Z3NlA6nlpL, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 43: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants who suffered…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 44: Translated(src=es, dest=en, text=#Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants that their… https://t.co/wrdqkwIJdI, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 45: Translated(src=es, dest=en, text=@chocolateagridu: And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Peru,…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 46: Translated(src=es, dest=en, text=And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Pe… https://t.co/VJyQU2zop0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 47: Translated(src=es, dest=en, text=TERRIBLE! A boat with Venezuelan migrants was shipwrecked off the coast of Panama https://t.co/PEf3SJa9d3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 48: Translated(src=es, dest=en, text=@eldiario: #5Aug | Costa Rica has received, throughout its history, Nicaraguan migrants, and now Venezuelans are joining, cu…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 49: Translated(src=es, dest=en, text=#5Aug | Costa Rica has received, throughout its history, Nicaraguan migrants, and now they are joined by the Venez… https://t.co/OTZYiZa8et, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 50: Translated(src=es, dest=en, text=@QPEV_: #5Ago #Migración #Venezolanos This is how hundreds of migrant women, older adults and children prepare to travel by boat from…, pronunciation=@QPEV_: #5Ago #Migración #Venezolanos This is how hundreds of migrant women, older adults and children prepare to travel by boat from…, extra_data="{'translat...") 
+
+0.0  | Tweet 51: Translated(src=es, dest=en, text=#5Ago #Migración #Venezolanos This is how hundreds of migrant women, older adults and children prepare to travel through… https://t.co/ELzyiWd7Se, pronunciation=#5Ago #Migración #Venezolanos This is how hundreds of migrant women, older adults and children prepare to travel through… https://t.co/ELzyiWd7Se, extra_data="{'translat...") 
+
+0.0  | Tweet 52: Translated(src=es, dest=en, text=@LlaneroDigitalV: #Events | The route between #Colombia and #Panama, also known as the Darién jungle, is the scariest part of…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 53: Translated(src=es, dest=en, text=#Events | The route between #Colombia and #Panama, also known as the Darién jungle, is the scariest part… https://t.co/vOBOyMDhxk, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 54: Translated(src=es, dest=en, text=#Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants that their… https://t.co/0qSJ4FGO0O, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 55: Translated(src=es, dest=en, text=@Vzla_Indomita: With a child in his arms, this man tries to cross a dangerous river in the Darién Gap, which has become an option of…, pronunciation=@Vzla_Indomita: With a child in his arms, this man tries to cross a dangerous river in the Darién Gap, which has become an option of…, extra_data="{'translat...") 
+
+0.0  | Tweet 56: Translated(src=es, dest=en, text=#Events | The route between #Colombia and #Panama, also known as the Darién jungle, is the scariest part… https://t.co/3GJMoNykzP, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 57: Translated(src=es, dest=en, text=#Events | The route between Colombia and Panama, also known as the Darién jungle, is the scariest part of… https://t.co/BjXFk2S2NC, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 58: Translated(src=es, dest=en, text=#Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants that their… https://t.co/PTE3vKGO0v, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1027  | Tweet 59: Translated(src=es, dest=en, text=@ElPitazoTV: One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of #Darién.…, pronunciation=@ElPitazoTV: One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of #Darién.…, extra_data="{'translat...") 
+
+-0.3382  | Tweet 60: Translated(src=es, dest=en, text=@ImpactoMundo_: 🇵🇦 | SENSITIVE IMAGES! This is how Venezuelan migrants risk their lives trying to cross the Darién jungle in #Panama.…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 61: Translated(src=es, dest=en, text=TERRIBLE! A boat with Venezuelan migrants was shipwrecked off the coast of Panama https://t.co/PEf3SISxOt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 62: Translated(src=es, dest=en, text=In Panama, 58% of migrants are Venezuelan, 7.9% Haitian and 5.2% Cuban. https://t.co/hIsGhMSe60 via @enteratconlesly, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 63: Translated(src=es, dest=en, text=@Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama increases exponentially..., pronunciation=@Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama increases exponentially..., extra_data="{'translat...") 
+
+-0.5267  | Tweet 64: Translated(src=es, dest=en, text=@dsmolansky: From Panama to Canada, there is no country that does not request a visa from Venezuelans and still more than 28 thousand Venezuelan migrants..., pronunciation=@dsmolansky: From Panama to Canada, there is no country that does not request a visa from Venezuelans and still more than 28 thousand Venezuelan migrants..., extra_data="{'translat...") 
+
+-0.7506  | Tweet 65: Translated(src=es, dest=en, text=@VACaucus: The Darién Gap, a border jungle between Colombia and Panama, full of dangers for migrants, among them, they see them…, pronunciation=@VACaucus: The Darién Gap, a border jungle between Colombia and Panama, full of dangers for migrants, among them, they see them…, extra_data="{'translat...") 
+
+-0.6124  | Tweet 66: Translated(src=es, dest=en, text=@ richardof88: The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.…, pronunciation=@ richardof88: The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.…, extra_data="{'translat...") 
+
+-0.6124  | Tweet 67: Translated(src=es, dest=en, text=The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.co/c89hgrZeAC, pronunciation=The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.co/c89hgrZeAC, extra_data="{'translat...") 
+
+-0.6124  | Tweet 68: Translated(src=es, dest=en, text=The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.co/sQrGZZ3tYC, pronunciation=The flow of Venezuelan migrants who are exposed to serious dangers in the Darién jungle continues to increase - https://t.co/sQrGZZ3tYC, extra_data="{'translat...") 
+
+-0.628  | Tweet 69: Translated(src=es, dest=en, text=@eldolardiario: TERRIBLE! A boat with Venezuelan migrants was shipwrecked off the coast of Panama https://t.co/Cra5gWP1Nv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 70: Translated(src=es, dest=en, text=TERRIBLE! A boat with Venezuelan migrants was shipwrecked off the coast of Panama https://t.co/Cra5gWP1Nv, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 74: Translated(src=es, dest=en, text=#Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants that their… https://t.co/WQDvArKyoZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5719  | Tweet 75: Translated(src=es, dest=en, text=Three Venezuelan migrants drown in the Guna Yala region
+https://t.co/5qXvcsug54
+#ESFacts https://t.co/RYCiSdHcKt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3612  | Tweet 76: Translated(src=es, dest=en, text=@radiofeyalegria: Costa Rica, like Panama and Guatemala, are not a destination for these people.
+
+In fact, they are considered the country…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 77: Translated(src=es, dest=en, text=@infopublicave: 📢Karina Fonseca, national director of the Jesuit Service for Migrants in #CostaRica, assured that Venezuelans see and…, pronunciation=@infopublicave: 📢Karina Fonseca, national director of the Jesuit Service for Migrants in #CostaRica, assured that Venezuelans see and…, extra_data="{'translat...") 
+
+0.6124  | Tweet 78: Translated(src=es, dest=en, text=📢Karina Fonseca, national director of the Jesuit Service for Migrants in #CostaRica, assured that Venezuelans… https://t.co/eQSwlttDpa, pronunciation=📢Karina Fonseca, national director of the Jesuit Service for Migrants in #CostaRica, assured that Venezuelans… https://t.co/eQSwlttDpa, extra_data="{'translat...") 
+
+0.3612  | Tweet 79: Translated(src=es, dest=en, text=Costa Rica, like Panama and Guatemala, are not a destination for these people.
+
+In fact, they are considered the p… https://t.co/fPEFp0uOMC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2928  | Tweet 80: Translated(src=es, dest=en, text=@elestimulo: “From January to June 2022, more than 28,079 Venezuelans have crossed the Darien jungle, almost 60% of the total number of migrants who…, pronunciation=@elestimulo: “From January to June 2022, more than 28,079 Venezuelans have crossed the Darien jungle, almost 60% of the total number of migrants who…, extra_data="{'translat...") 
+
+-0.8356  | Tweet 81: Translated(src=es, dest=en, text=And the 7 million migrants! who is responsible? Hundreds of Venezuelans murdered or killed in Chile, Pe... https://t.co/VJyQU2zop0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 82: Translated(src=es, dest=en, text=The Darién Gap, a border jungle between Colombia and Panama, full of dangers for migrants, among them… https://t.co/hXyeaR3U1c, pronunciation=The Darién Gap, a border jungle between Colombia and Panama, full of dangers for migrants, among them… https://t.co/hXyeaR3U1c, extra_data="{'translat...") 
+
+-0.8807  | Tweet 83: Translated(src=es, dest=en, text=Many of these Venezuelans arrive in Mexican territory after going through the so-called "hell" of the jungle of… https://t.co/q3xqm8Apu6, pronunciation=Many of these Venezuelans arrive in Mexican territory after going through the so-called "hell" of the jungle of… https://t.co/q3xqm8Apu6, extra_data="{'translat...") 
+
+0.3182  | Tweet 84: Translated(src=es, dest=en, text=#Nationals | These figures represent an exponential increase in Venezuelan migrants passing through this p… https://t.co/e6Z4iE4CwY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4767  | Tweet 85: Translated(src=es, dest=en, text=@Beacandanga: Those who cross El Darién on their way to the United States have a mental landmark.
+Migrants from other countries passed through there…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 86: Translated(src=es, dest=en, text=#Migration | The route feared by many: the Darién jungle. Learn about five stories of Venezuelan migrants that their… https://t.co/IsNSi40qyX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 87: Translated(src=es, dest=en, text=@elpais_america: 🇻🇪🇨🇴🇵🇦 The arrival of displaced people from Venezuela to the Darién jungle, the inhospitable territory that separates Colombia and Panama…, pronunciation=@elpais_america: 🇻🇪🇨🇴🇵🇦 The arrival of displaced people from Venezuela to the Darién jungle, the inhospitable territory that separates Colombia and Panama…, extra_data="{'translat...") 
+
+-0.6808  | Tweet 88: Translated(src=es, dest=en, text=@GustavoAzocarA: El País: The hell of Venezuelan migrants in the Darién jungle. The arrival of displaced people from the South American country…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 89: Translated(src=es, dest=en, text=Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama… https://t.co/WD3pDlmeLS, pronunciation=Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama… https://t.co/WD3pDlmeLS, extra_data="{'translat...") 
+
+0.3182  | Tweet 90: Translated(src=es, dest=en, text=#Nationals | These figures represent an exponential increase in Venezuelan migrants passing through this p… https://t.co/lsttVSudvy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 91: Translated(src=es, dest=en, text=Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama… https://t.co/icYKYUyDoE, pronunciation=Planeta_Futuro: The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama… https://t.co/icYKYUyDoE, extra_data="{'translat...") 
+
+0.0  | Tweet 92: Translated(src=es, dest=en, text=The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama increases exposes… https://t.co/dsLiFplN3u, pronunciation=The arrival of displaced people from the South American country to the inhospitable territory that separates Colombia and Panama increases exposes… https://t.co/dsLiFplN3u, extra_data="{'translat...") 
+
+0.1531  | Tweet 93: Translated(src=es, dest=en, text=@AlbertoRodNews: Carlos Prosperi on Venezuelan migrants: "The number of Venezuelan brothers who have crossed this border between Colo…, pronunciation=@AlbertoRodNews: Carlos Prosperi on Venezuelan migrants: "The number of Venezuelan brothers who have crossed this border between Colo…, extra_data="{'translat...") 
+
+0.3182  | Tweet 94: Translated(src=es, dest=en, text=#Nationals | These figures represent an exponential increase in Venezuelan migrants passing through this p… https://t.co/yRxR2qo1US, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8225  | Tweet 95: Translated(src=es, dest=en, text=@EJAmado: As mentioned in the article: "The dictatorship is to blame for the migratory horror" in @ElNacionalWeb The truth is that for e…, pronunciation=@EJAmado: As mentioned in the article: "The dictatorship is to blame for the migratory horror" in @ElNacionalWeb The truth is that for e…, extra_data="{'translat...") 
+
+0.1531  | Tweet 96: Translated(src=es, dest=en, text=Carlos Prosperi on Venezuelan migrants: "The number of Venezuelan brothers who have crossed this border between… https://t.co/IIcrkvWCEZ, pronunciation=Carlos Prosperi on Venezuelan migrants: "The number of Venezuelan brothers who have crossed this border between… https://t.co/IIcrkvWCEZ, extra_data="{'translat...") 
+
+0.1027  | Tweet 97: Translated(src=es, dest=en, text=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/uT1kOAeTXM, pronunciation=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/uT1kOAeTXM, extra_data="{'translat...") 
+
+0.3182  | Tweet 98: Translated(src=es, dest=en, text=#Nationals | These figures represent an exponential increase in Venezuelan migrants passing through this p… https://t.co/tFlHw8eYcL, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8225  | Tweet 99: Translated(src=es, dest=en, text=As mentioned in the article: "The dictatorship is to blame for the migratory horror" in @ElNacionalWeb The truth is… https://t.co/gcnnk62wLM, pronunciation=As mentioned in the article: "The dictatorship is to blame for the migratory horror" in @ElNacionalWeb The truth is… https://t.co/gcnnk62wLM, extra_data="{'translat...") 
+
+-0.6808  | Tweet 100: Translated(src=es, dest=en, text=The hell of Venezuelan migrants in the Darien jungle
+The arrival of displaced people to the inhospitable territory that… https://t.co/mkCxzq4jvy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 101: Translated(src=es, dest=en, text=#VIDEO | One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in… https://t.co/h0AuHEV704, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 102: Translated(src=es, dest=en, text=El País: The hell of Venezuelan migrants in the Darién jungle. The arrival of displaced people from the South American country… https://t.co/zboMYtSW0C, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1027  | Tweet 103: Translated(src=es, dest=en, text=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/EEhUmCtK0c, pronunciation=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/EEhUmCtK0c, extra_data="{'translat...") 
+
+0.0772  | Tweet 104: Translated(src=es, dest=en, text=@Punto_deCorte: #International | The number of migrants who have crossed the Darién during 2022 🌍 https://t.co/xZkoC3Twx5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1027  | Tweet 105: Translated(src=es, dest=en, text=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/IIgrj1Hzd4, pronunciation=One of the #Venezuelans told how they decided to save the woman who was abandoned by her colleagues in the middle of… https://t.co/IIgrj1Hzd4, extra_data="{'translat...") 
+
+-0.7506  | Tweet 106: Translated(src=es, dest=en, text=@Naky: We, the migrants https://t.co/F0E2iMtAH7
+- 15 Venezuelans died in an accident in Nicaragua 😔
+- According to data from Panama,…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 107: Translated(src=es, dest=en, text=#Internationals | The number of migrants who have crossed the Darién during 2022 🌍 https://t.co/xZkoC3Twx5, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.128  | Tweet 108: Translated(src=es, dest=en, text=@Reportero24: There is no "stopper" in the Darien or Trump's wall that can with so much desire to prosper, and so much hunger together. https://t.co/zw…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 109: Translated(src=es, dest=en, text=@marcolinivegas1: The hell of Venezuelan migrants in the Darién jungle.
+
+The arrival of displaced people from the South American country to the i…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 110: Translated(src=es, dest=en, text=The hell of Venezuelan migrants in the Darien jungle.
+
+The arrival of displaced people from the South American country to… https://t.co/MC9Hx5z0Ac, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2263  | Tweet 111: Translated(src=es, dest=en, text=@selvadarien: #NewYork | Venezuelan migrants who crossed the jungle to reach the US are expelled from a shelter.
+
+#SelvaDarie…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2263  | Tweet 112: Translated(src=es, dest=en, text=#NewYork | Venezuelan migrants who crossed the jungle to reach the US are expelled from a shelter.… https://t.co/9yxlZwlT5d, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 113: Translated(src=es, dest=en, text=@leinlsa: @dsmolansky And where is the money you have received to help migrants, ask Duque to give you the money that…, pronunciation=@leinlsa: @dsmolansky And where is the money you have received to help migrants, ask Duque to give you the money that…, extra_data="{'translat...") 
+
+0.0  | Tweet 114: Translated(src=es, dest=en, text=🇻🇪🇨🇴🇵🇦 The arrival of displaced people from Venezuela to the Darién jungle, the inhospitable territory that separates Colombia and… https://t.co/bkCiYAz3ux, pronunciation=🇻🇪🇨🇴🇵🇦 The arrival of displaced people from Venezuela to the Darién jungle, the inhospitable territory that separates Colombia and… https://t.co/bkCiYAz3ux, extra_data="{'translat...") 
+
+0.6597  | Tweet 115: Translated(src=es, dest=en, text=@dsmolansky And where is the money you have received to help migrants, ask Duque to give you… https://t.co/p0P1DwFeiC, pronunciation=@dsmolansky And where is the money you have received to help migrants, ask Duque to give you… https://t.co/p0P1DwFeiC, extra_data="{'translat...") 
+
+-0.1725  | Tweet 116: Translated(src=es, dest=en, text=@larepublica_pe: Testimonies of doctors who treat migrants in the Darién: "I did not expect to see so much suffering"
+
+They try to pass the den…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 117: Translated(src=es, dest=en, text=#Internationals | The number of migrants who have crossed the Darién during 2022 🌍 https://t.co/xZkoC4b7oD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 118: Translated(src=es, dest=en, text=@RuanoFaxas: @EFEnoticias @UNmigration @ACNURamericas #VENEZUELA #ELECTIONS #MIGRATION
+In 2016, 700,000 #Venezuelan #refugees in the m…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 119: Translated(src=es, dest=en, text=@futurebrave_ I swear to you that since I left Panama I haven't eaten a cachapa because here the places… https://t.co/v7wpZxUnu7, pronunciation=@futurebrave_ I swear to you that since I left Panama I haven't eaten a cachapa because here the places… https://t.co/v7wpZxUnu7, extra_data="{'translat...") 
+
+0.0  | Tweet 120: Translated(src=es, dest=en, text=@melisarivas24 @ElGallinazo @AAUD_Panama only Venezuelans and Colombians, pronunciation=@melisarivas24 @ElGallinazo @AAUD_Panama only Venezuelans and Colombians, extra_data="{'translat...") 
+
+0.0  | Tweet 121: Translated(src=es, dest=en, text=@CarlosLazcano97 And Panama doesn't ask the Venecos for a visa?, pronunciation=@CarlosLazcano97 And Panama doesn't ask the Venecos for a visa?, extra_data="{'translat...") 
+
+0.7351  | Tweet 122: Translated(src=es, dest=en, text=Gentlemen @FBI @POTUS and here is a character who questions his undercover intelligence being a foreigner, this man… https://t.co/gPwco5Nce5, pronunciation=Gentlemen @FBI @POTUS and here is a character who questions his undercover intelligence being a foreigner, this man… https://t.co/gPwco5Nce5, extra_data="{'translat...") 
+
+0.4389  | Tweet 123: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration Find out! Venezuelans who left the Darién jungle alive, between Colombia and Panama, arrive in #CostaRic…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4389  | Tweet 124: Translated(src=es, dest=en, text=#Migration Find out! Venezuelans who left the Darién jungle alive, between Colombia and Panama, arrive at… https://t.co/HNTrGamHmZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 125: Translated(src=es, dest=en, text=@Olivarescfc This guinness mention work was designed and executed by Venezuelans, more than 5000 pieces of preform pets… https://t.co/lCkY3KCPxk, pronunciation=@Olivarescfc This guinness mention work was designed and executed by Venezuelans, more than 5000 pieces of preform pets… https://t.co/lCkY3KCPxk, extra_data="{'translat...") 
+
+0.0  | Tweet 126: Translated(src=es, dest=en, text=At 9 am (Panama time 🇵🇦), the Pan American Surf continues, where Venezuelans, in the lomboard category (… https://t.co/kDM6OhTBLK, pronunciation=At 9 am (Panama time 🇵🇦), the Pan American Surf continues, where Venezuelans, in the lomboard category (… https://t.co/kDM6OhTBLK, extra_data="{'translat...") 
+
+0.4648  | Tweet 127: Translated(src=es, dest=en, text=@shenarvz: CARRY OUT YOUR PROCEDURES ONLY WITH VERIFIED PROFESSIONALS ✓
+Shenarvz IS YOUR SOLUTION
+INFO TO DM
+#Chile #Spain #Italy #Panama…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7871  | Tweet 128: Translated(src=gn, dest=en, text=@shenarvz: 😥DON'T REMEMBER YOUR USER?
+RESET - REGISTER - RECUP. USER
+ALL INSTITUTIONS
+👉🏻INFO AL DM
+Shenarvz T&S 🙋🏻 ♀️FOLLOW ME!., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 129: Translated(src=es, dest=en, text=@shenarvz: #SACS #GTU #postille SCHEDULING!
+HEALTHCARE PROFESSIONALS
+INFO TO DM
+REGISTRATION ✓
+USER RECOVERY ✓
+PROCESS ✓
+
+#Chili…, pronunciation=None, extra_data="{'translat...") 
+
+-0.586  | Tweet 130: Translated(src=es, dest=en, text=@shenarvz: Did you take your #GTU date and can't make it?
+We do it for you!
+LIMITED QUOTS
+SCHEDULE NOW!!!!
+INFO TO DM
+
+#Chile #Spain #Italy…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 131: Translated(src=es, dest=en, text=@shenarvz: Did you take a #GTU appointment and can't make it?
+We do it for you!
+FEW QUOTS
+ACCESSIBLE PRICES
+SCHEDULE NOW
+INFO TO DM
+#Chile #Spain…, pronunciation=None, extra_data="{'translat...") 
+
+0.4939  | Tweet 132: Translated(src=gn, dest=en, text=@shenarvz: 📝GOING #DATE #GTU
+ONLY YOU ASSISTED👈🏻
+💁🏻 ♀️RESET AND USER REGISTRATION
+GTU EXPRESS💨
+INFO TO THE DM
+#Chile #Spain #Italy #Pana., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6841  | Tweet 133: Translated(src=es, dest=en, text=@shenarvz: SUPER COMBO #GTU and #APOSTILLE for this month of #AUGUST
+ALL IN ONE
+SCHEDULE NOW few quotas
+INFO TO DM
+#Chile #Spain #Italy #P…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 134: Translated(src=es, dest=en, text=@shenarvz: COPIES CEIFIED AND/OR LEGALIZED AT THE NATIONAL LEVEL
+INFO and QUOTE TO DM
+#Chile #Spain #Italy #Panama #Ecuador #Venezo…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 135: Translated(src=es, dest=en, text=@shenarvz: SCHEDULING #postille #ASSISTED Appointment #August
+INCLUSION, RESET, USER REGISTRATION
+VENEZUELANS AND FOREIGNERS
+👉🏻 INFO TO DM
+#chi…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 136: Translated(src=es, dest=en, text=@shenarvz: #GTU REGISTRATION or REGISTRATION - RESET, does it give you an error?
+Remember that you can't do it on the page 👈🏻
+INFO TO DM
+#Chile #Spain…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7096  | Tweet 137: Translated(src=es, dest=en, text=@MinSegPma: With fraudulent documentation, 2 Venezuelans are detained in transit through the Tocumen International Airport. They arrived..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 138: Translated(src=es, dest=en, text=@ElPitazoTV: Find out! Venezuelans enter #CostaRica by land through Paso Canoas, bordering Panama, on their way to #USA. A family…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4389  | Tweet 139: Translated(src=es, dest=en, text=#Migration Find out! Venezuelans who left the Darién jungle alive, between Colombia and Panama, arrive at… https://t.co/AqmiJCFs7a, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7096  | Tweet 140: Translated(src=es, dest=en, text=With fraudulent documentation, 2 Venezuelans are detained in transit through the Tocumen International Airport. To… https://t.co/6ytsM2ApFo, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 141: Translated(src=es, dest=en, text=Find out! Venezuelans enter #CostaRica by land through Paso Canoas, bordering Panama, on their way to #USA. U… https://t.co/oz4ZVSnsWq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 142: Translated(src=es, dest=en, text=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejFFcL #blog #blogger #Blogs #E…, pronunciation=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejFFcL #blog #blogger #Blogs #E…, extra_data="{'translat...") 
+
+-0.128  | Tweet 143: Translated(src=es, dest=en, text=@VictorSilvaVE: Unacceptable #Colombia under the command of the guerrilla Petro will request a VISA from the Venezuelans. Thus, it joins countries like Panama…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1007  | Tweet 144: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration Find out! Venezuelan families earn a ticket on the streets of #CostaRica to reach #USA. After…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1007  | Tweet 145: Translated(src=es, dest=en, text=#Migration Find out! Venezuelan families earn a ticket on the streets of #CostaRica to reach #USA. D… https://t.co/HkD1LjJCPQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4389  | Tweet 146: Translated(src=es, dest=en, text=#Migration Find out! After leaving the #Darién border jungle alive, between Colombia and Panama, Venezuela… https://t.co/u0cuSHmxif, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 147: Translated(src=es, dest=en, text=@quieroapanama: @AlvaroAlvaradoC These gentlemen do not represent me, I have to tell them that the Berlin wall fell more than 30 years ago..., pronunciation=@quieroapanama: @AlvaroAlvaradoC These gentlemen do not represent me, I have to tell them that the Berlin wall fell more than 30 years ago..., extra_data="{'translat...") 
+
+-0.7184  | Tweet 148: Translated(src=es, dest=en, text=@radiopanama: They detain two Venezuelan citizens who are in transit through the @ATocumen, with fraudulent documentation. "Arri..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 149: Translated(src=es, dest=en, text=@ manug711 Every day thousands of Venezuelans pass through the Dairen jungle and Panama allows them to travel through the country but… https://t.co/ZfD2lIiU7E, pronunciation=@ manug711 Every day thousands of Venezuelans pass through the Dairen jungle and Panama allows them to travel through the country but… https://t.co/ZfD2lIiU7E, extra_data="{'translat...") 
+
+-0.9001  | Tweet 150: Translated(src=es, dest=en, text=They detain two Venezuelan citizens who are in transit through the @ATocumen, with fraudulent documentation… https://t.co/93GWm47Ibj, pronunciation=They detain two Venezuelan citizens who are in transit through the @ATocumen, with fraudulent documentation… https://t.co/93GWm47Ibj, extra_data="{'translat...") 
+
+-0.7096  | Tweet 151: Translated(src=es, dest=en, text=@migracionpanama: With fraudulent documentation, 2 Venezuelan citizens who are in transit through the @ATocumen are detained. A…, pronunciation=None, extra_data="{'translat...") 
+
+-0.7506  | Tweet 152: Translated(src=es, dest=en, text=With fraudulent documentation, 2 Venezuelan citizens who are in transit through the @ATocumen are detained… https://t.co/NW2tASemKV, pronunciation=With fraudulent documentation, 2 Venezuelan citizens who are in transit through the @ATocumen are detained… https://t.co/NW2tASemKV, extra_data="{'translat...") 
+
+0.0  | Tweet 153: Translated(src=es, dest=en, text=#DePrimeraMano Karina Fonseca: Of all the people who pass through Panama daily and then arrive in Costa Rica, the… https://t.co/8imyXBo1zG, pronunciation=#DePrimeraMano Karina Fonseca: Of all the people who pass through Panama daily and then arrive in Costa Rica, the… https://t.co/8imyXBo1zG, extra_data="{'translat...") 
+
+0.0  | Tweet 154: Translated(src=es, dest=en, text=Venezuelans nothing else? You have to see and read every pod around here. It must be that the others who also use that step… https://t.co/c12skmR4rx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8402  | Tweet 155: Translated(src=es, dest=en, text=#LaAntenaInforma #Guárico #07Ago With outstanding Venezuelan surfers in action, the Pan American Surfing begins in P… https://t.co/mKlBBWe0xy, pronunciation=#LaAntenaInforma #Guárico #07Ago With outstanding Venezuelan surfers in action, the Pan American Surfing begins in P… https://t.co/mKlBBWe0xy, extra_data="{'translat...") 
+
+0.0  | Tweet 156: Translated(src=es, dest=en, text=#Internationals | Panama revealed how many Venezuelans have crossed the Darién during 2022 +Figures 🌍 https://t.co/xZkoC3Twx5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 157: Translated(src=es, dest=en, text=In the middle of a lavish ceremony, the Pan-American Surfing Championship was officially inaugurated in Venao beach, Panama.… https://t.co/3cE2eSCCsc, pronunciation=In the middle of a lavish ceremony, the Pan-American Surfing Championship was officially inaugurated in Venao beach, Panama.… https://t.co/3cE2eSCCsc, extra_data="{'translat...") 
+
+0.0  | Tweet 158: Translated(src=es, dest=en, text=@AndresL09114921 @Griffith14061 No, I'm talking about Colombian exporters, this has already happened with Venezuela, the… https://t.co/G7Rt73JkzQ, pronunciation=@AndresL09114921 @Griffith14061 No, I'm talking about Colombian exporters, this has already happened with Venezuela, the… https://t.co/G7Rt73JkzQ, extra_data="{'translat...") 
+
+0.1139  | Tweet 159: Translated(src=es, dest=en, text=@elestimulo: "If visas had not been imposed on Venezuelans in Panama, Mexico and Costa Rica, for example, we would probably see numbers…, pronunciation=@elestimulo: "If visas had not been imposed on Venezuelans in Panama, Mexico and Costa Rica, for example, we would probably see numbers…, extra_data="{'translat...") 
+
+0.3612  | Tweet 160: Translated(src=es, dest=en, text=Unacceptable #Colombia under the command of the guerrilla Petro will request a VISA from the Venezuelans. Thus, it joins countries like P… https://t.co/ZcjcatM2h1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 161: Translated(src=es, dest=en, text=@gabriel67891734: @EnriqueGomezDu1 Hello... are there many Colombians in Panama? Because Venezuelans, I already know that yes., pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 162: Translated(src=es, dest=en, text=@EnriqueGomezDu1 Hello... are there many Colombians in Panama? Because Venezuelans, I already know that yes., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 163: Translated(src=es, dest=en, text=@migracionpanama, can Venezuelans with valid residence enter Panama with an expired passport?, pronunciation=@migracionpanama, can Venezuelans with valid residence enter Panama with an expired passport?, extra_data="{'translat...") 
+
+0.6908  | Tweet 164: Translated(src=qu, dest=en, text=@Mierenneukr Here in Panama they sell Tequeños and pastelitos for dollars, which doesn't seem bad to me, but a cachapa goes by l... https://t.co/f6HY1snVd8, pronunciation=@Mierenneukr Here in Panama they sell Tequeños and pastelitos for dollars, which doesn't seem bad to me, but a cachapa goes by l... https://t.co/f6HY1snVd8, extra_data="{'translat...") 
+
+0.0  | Tweet 165: Translated(src=es, dest=en, text=RESET ✓
+RECOVERY ✓
+INCLUSION ✓
+USER ✓
+DATA CORRECTION ✓
+#Saren #Saime #SACS #GTU #postille #INTT… https://t.co/QREGtDB5t0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 166: Translated(src=gn, dest=en, text=@shenarvz: AGENDA APOSTLE ASSISTED
+SIMPLE CIVILIANS AND #GTU
+IN #MARGARET!
+INFO TO THE DM
+10 AUGUST
+22 AUGUST
+#SACS #GTU #apostle
+#..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 167: Translated(src=gn, dest=en, text=AGENDING APOSTILLA ASSISTED
+SIMPLE CIVILIANS AND #GTU
+IN #MARGARET!
+INFO TO THE DM
+10 AUGUST
+22 AUGUST
+#SACS #GTU... https://t.co/vtHvKKxH0E, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 168: Translated(src=es, dest=en, text=@Guiller54306000 @polinayaso @Mariangellitle In Panama there is a lot but chicken and those businesses are all Venezuelan., pronunciation=@Guiller54306000 @polinayaso @Mariangellitle In Panama there is a lot but chicken and those businesses are all Venezuelan., extra_data="{'translat...") 
+
+0.713  | Tweet 169: Translated(src=es, dest=en, text=@ionebelarra Also the dictatorships of Cuba and Venezuela! In the latter, without being at war like Ukraine, it has a… https://t.co/KC7gHjv49q, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 170: Translated(src=es, dest=en, text=#SACS #GTU #postille SCHEDULING!
+HEALTHCARE PROFESSIONALS
+INFO TO DM
+REGISTRATION ✓
+USER RECOVERY ✓
+PROCESS… https://t.co/kNFSvFpIdu, pronunciation=None, extra_data="{'translat...") 
+
+-0.586  | Tweet 171: Translated(src=es, dest=en, text=Did you take your #GTU appointment and can't make it?
+We do it for you!
+LIMITED QUOTS
+SCHEDULE NOW!!!!
+INFO TO DM
+
+#Chile… https://t.co/OUH4xtAdQZ, pronunciation=None, extra_data="{'translat...") 
+
+0.6124  | Tweet 172: Translated(src=es, dest=en, text=@RaulZappi: We are in #Panama ready to receive an unprecedented tsunami of Colombians and Venezuelans fleeing precisely what…, pronunciation=@RaulZappi: We are in #Panama ready to receive an unprecedented tsunami of Colombians and Venezuelans fleeing precisely what…, extra_data="{'translat...") 
+
+0.6124  | Tweet 173: Translated(src=es, dest=en, text=We are in #Panama ready to receive an unprecedented tsunami of Colombians and Venezuelans fleeing precisely… https://t.co/7KapWmBNOH, pronunciation=We are in #Panama ready to receive an unprecedented tsunami of Colombians and Venezuelans fleeing precisely… https://t.co/7KapWmBNOH, extra_data="{'translat...") 
+
+0.0  | Tweet 174: Translated(src=es, dest=en, text=@AlvaroAlvaradoC These gentlemen do not represent me, I have to tell them that the Berlin wall fell more than 30 years ago… https://t.co/dNia04SxNC, pronunciation=@AlvaroAlvaradoC These gentlemen do not represent me, I have to tell them that the Berlin wall fell more than 30 years ago… https://t.co/dNia04SxNC, extra_data="{'translat...") 
+
+0.0  | Tweet 175: Translated(src=es, dest=en, text=Of course, in Panama gas is cheaper. A bottle costs $72, but it lasts up to 10 months, a year...here is an approx... https://t.co/RxdrXzO6K8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 176: Translated(src=es, dest=en, text=The minor was apparently born in Panama, therefore she is Panamanian by birth within the territory of Panama (art… https://t.co/AbuN15zsf4, pronunciation=The minor was apparently born in Panama, therefore she is Panamanian by birth within the territory of Panama (art… https://t.co/AbuN15zsf4, extra_data="{'translat...") 
+
+-0.1154  | Tweet 177: Translated(src=es, dest=en, text=That this could have been intentional, but also a part of me thinks it was accidental; Now, there were many deaths… https://t.co/vHLtWYebn3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 178: Translated(src=es, dest=en, text=@TonyFrangieM: Venezuelans who crossed the Darién by the middle of the year according to data from the National Migration Service of Panama:
+
+- Juli…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 179: Translated(src=es, dest=en, text=The new visa requirements imposed by several Latin American countries have caused a significant increase… https://t.co/Xhs6dxV61G, pronunciation=The new visa requirements imposed by several Latin American countries have caused a significant increase… https://t.co/Xhs6dxV61G, extra_data="{'translat...") 
+
+0.0  | Tweet 180: Translated(src=es, dest=en, text=@shenarvz: #SACS #GTU #postille SCHEDULING!
+HEALTHCARE PROFESSIONALS
+INFO and QUOTE TO DM
+INSCRIPTION
+USER RECOVERY and more
+#C…, pronunciation=None, extra_data="{'translat...") 
+
+-0.4466  | Tweet 181: Translated(src=es, dest=en, text=@shenarvz: #GTU REGISTRATION or REGISTRATION - RESET
+WITHOUT TRAVELING TO CCS - NO PROTOCOL
+👉🏻 SCHEDULE YOUR APPOINTMENT
+INFO TO DM
+#Chile #Spain #Italy #P…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 182: Translated(src=gn, dest=en, text=@shenarvz: GOING NOW!!!
+#Appointment Single or ATTENDED by us!!!
+#GTU REGISTER and RESET
+WITHOUT TRAVELING TO CCS
+INFO TO DM or WS
+#Chile #Spain., pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 183: Translated(src=gn, dest=en, text=@shenarvz: #Saime MIGRATION CHANGE
+RECUP. USER
+USER RESETTING and +
+INFO TO THE DM
+Responsibility and excellent reputation... #Chile #Spain., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5134  | Tweet 184: Translated(src=es, dest=en, text=@shenarvz: #APOSTILLE IN #AUGUST
+APPOINTMENT ALONE OR ASSISTED APPOINTMENT
+Close dates!!
+AT THE NATIONAL LEVEL..
+INFO TO DM
+#Chile #Spain #Italy #Panam…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1139  | Tweet 185: Translated(src=es, dest=en, text=“If visas had not been imposed on Venezuelans in Panama, Mexico and Costa Rica, for example, I would probably see… https://t.co/i2XXQhxWPl, pronunciation=“If visas had not been imposed on Venezuelans in Panama, Mexico and Costa Rica, for example, I would probably see… https://t.co/i2XXQhxWPl, extra_data="{'translat...") 
+
+0.0  | Tweet 186: Translated(src=es, dest=en, text=Between January and June 2022, the government of Panama registered the passage through the jungle or Darién plug (about 5,000 km2 of… https://t.co/Qkf456o6g6, pronunciation=Between January and June 2022, the government of Panama registered the passage through the jungle or Darién plug (about 5,000 km2 of… https://t.co/Qkf456o6g6, extra_data="{'translat...") 
+
+0.0  | Tweet 187: Translated(src=es, dest=en, text=@Econ_Vzla The Darien jungle, the Second Panama Canal for Venezuelans..!!, pronunciation=@Econ_Vzla The Darien jungle, the Second Panama Canal for Venezuelans..!!, extra_data="{'translat...") 
+
+0.0  | Tweet 188: Translated(src=es, dest=en, text=@800Noticias_: #5Aug | This is the first step to enter the Darien jungle, located between Colombia and Panama.
+
+For the most part, they are…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5532  | Tweet 189: Translated(src=es, dest=en, text=@JohnHGuillen: Venezuelans do not risk their lives anymore for the Darién Panama Jungle, dangerous, impassable, high temperatures, gue…, pronunciation=@JohnHGuillen: Venezuelans do not risk their lives anymore for the Darién Panama Jungle, dangerous, impassable, high temperatures, gue…, extra_data="{'translat...") 
+
+-0.4767  | Tweet 190: Translated(src=es, dest=en, text=@ teremin1 @ suntracs1 Sad reality of the Venezuelan brothers
+That this never happens in Panama
+Although it is already… https://t.co/2ek5dbw0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 191: Translated(src=es, dest=en, text=@QPEV_: #Featured Venezuelan Surfers shone at the National Surfing Circuit held in Panama | https://t.co/BIi62lXiST #31Julio…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 192: Translated(src=es, dest=en, text=@Guabano There are Venezuelans all over the world “killing it” in Universities, companies, in sports, schools, orchestras… https://t.co/OghGKlprKJ, pronunciation=@Guabano There are Venezuelans all over the world “killing it” in Universities, companies, in sports, schools, orchestras… https://t.co/OghGKlprKJ, extra_data="{'translat...") 
+
+0.2732  | Tweet 193: Translated(src=es, dest=en, text=@FND_IND: #surfing #Venezuela
+
+Reposted from @INDeporteVE
+
+Venezuela warms up engines heading to the PASA Games 2022
+
+Twelve Venezuelans will be given…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 194: Translated(src=es, dest=en, text=#5Aug | This is the first step to enter the Darien jungle, located between Colombia and Panama.
+
+Mostly… https://t.co/9zpgrpanfE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8316  | Tweet 195: Translated(src=es, dest=en, text=I follow about 5 tiktok accounts of Venezuelans living in Panama, super integrated people and despite the short time… https://t.co/wM6lASMuHS, pronunciation=I follow about 5 tiktok accounts of Venezuelans living in Panama, super integrated people and despite the short time… https://t.co/wM6lASMuHS, extra_data="{'translat...") 
+
+0.7003  | Tweet 196: Translated(src=es, dest=en, text=@venezuela_migra: Good morning. Good Friday.
+
+More than 40,000 Venezuelans have been found by the Panamanian authorities crossing the…, pronunciation=None, extra_data="{'translat...") 
+
+0.2732  | Tweet 197: Translated(src=es, dest=en, text=#surfing #Venezuela
+
+Reposted from @INDeporteVE
+
+Venezuela warms up engines heading to the PASA Games 2022
+
+Twelve Venezuelan… https://t.co/N5IXBIU80K, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 198: Translated(src=es, dest=en, text=@antonycordivani: There are Venezuelans who emigrated and know that a lot of money is laundered in Colombia, Panama, the US or Spain and they don't say a word, p..., pronunciation=@antonycordivani: There are Venezuelans who emigrated and know that a lot of money is laundered in Colombia, Panama, the US or Spain and they don't say a word, p..., extra_data="{'translat...") 
+
+0.0  | Tweet 199: Translated(src=es, dest=en, text=There are Venezuelans who emigrated and know that a lot of money is laundered in Colombia, Panama, the US or Spain and they don't say a word... https://t.co/LstnZmlLc7, pronunciation=There are Venezuelans who emigrated and know that a lot of money is laundered in Colombia, Panama, the US or Spain and they don't say a word... https://t.co/LstnZmlLc7, extra_data="{'translat...") 
+
+0.0  | Tweet 200: Translated(src=es, dest=en, text=#SACS #GTU #postille SCHEDULING!
+HEALTHCARE PROFESSIONALS
+INFO and QUOTE TO DM
+INSCRIPTION
+USER RECOVERY… https://t.co/pkFEnmXEkE, pronunciation=None, extra_data="{'translat...") 
+
+-0.4466  | Tweet 201: Translated(src=es, dest=en, text=#GTU REGISTRATION or REGISTRATION - RESET
+WITHOUT TRAVELING TO CCS - NO PROTOCOL
+👉🏻 SCHEDULE YOUR APPOINTMENT
+INFO TO DM
+#Chile #Spain… https://t.co/27nC8q7VAx, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4885  | Tweet 202: Translated(src=es, dest=en, text=SCHEDULING NOW!!!
+#DATE Alone or ASSISTED by us!!!
+#GTU REGISTRY and RESET
+WITHOUT TRAVELING TO CCS
+INFO TO DM or WS… https://t.co/iRS2nEkukk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 203: Translated(src=es, dest=en, text=CERTIFIED AND/OR LEGALIZED COPIES AT THE NATIONAL LEVEL
+INFO and QUOTE TO DM
+#Chile #Spain #Italy #Panama… https://t.co/TcoW3H442x, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 204: Translated(src=gn, dest=en, text=#Saime MIGRATION CHANGE
+RECUP. USER
+USER RESETTING and +
+INFO TO THE DM
+Responsibility and excellent reputation...... https://t.co/3dM8RQEL8k, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5134  | Tweet 205: Translated(src=es, dest=en, text=#APOSTILLE IN #AUGUST
+APPOINTMENT ALONE OR ASSISTED APPOINTMENT
+Close dates!!
+AT THE NATIONAL LEVEL..
+INFO TO DM
+#Chile #Spain… https://t.co/m8t6M6TRta, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 206: Translated(src=es, dest=en, text=Did you make an appointment #GTU and can't attend?
+We do it for you!
+FEW QUOTS
+ACCESSIBLE PRICES
+SCHEDULE NOW
+INFO TO DM… https://t.co/x8m7EaIRzL, pronunciation=None, extra_data="{'translat...") 
+
+-0.5216  | Tweet 207: Translated(src=es, dest=en, text=The first thing you find in Central Park in New York. A message for those who do not love Venezuelans. Lib… https://t.co/TBjlkqAGgz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4404  | Tweet 208: Translated(src=es, dest=en, text=Hello. Good Friday.
+
+More than 40,000 Venezuelans have been found by the Panamanian authorities through… https://t.co/5EAVq5zJDI, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 209: Translated(src=es, dest=en, text=@LAConviasa @IAIM_VE @rvaraguayan In other words, they turned Maiquetía into a second-rate airport, while tocum… https://t.co/hn9WuaWGBw, pronunciation=@LAConviasa @IAIM_VE @rvaraguayan In other words, they turned Maiquetía into a second-rate airport, while tocum… https://t.co/hn9WuaWGBw, extra_data="{'translat...") 
+
+-0.9531  | Tweet 210: Translated(src=es, dest=en, text=Relatives of two of the victims of last week's traffic accident in Nicaragua where 13 poisons died… https://t.co/0ULUCvHt3w, pronunciation=Relatives of two of the victims of last week's traffic accident in Nicaragua where 13 poisons died… https://t.co/0ULUCvHt3w, extra_data="{'translat...") 
+
+0.3612  | Tweet 211: Translated(src=es, dest=en, text=@CarolaBriceno Natural selection
+
+We all have rights to survive, the issue is that when you don't know how to behave… https://t.co/ghTsPGY21V, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 212: Translated(src=es, dest=en, text=#4Aug | Relatives of two of the victims of last week's traffic accident in Nicaragua where they died… https://t.co/av3lDfOHL8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.368  | Tweet 213: Translated(src=es, dest=en, text=@DebiaEduardo: EYE #Chile #URGENT
+The day that the vice president of the National Assembly of Panama, Zulay Rodríguez, presented a preliminary…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 214: Translated(src=es, dest=en, text=@sandragudio @el_carabobeno What a tough face. If they are the first murderers of Venezuelan brothers. And still… https://t.co/7vLQjrXEJz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 215: Translated(src=es, dest=en, text=@rafaelarraiz Cities with the most Venezuelans: Cucuta, Santiago and Panama City, pronunciation=@rafaelarraiz Cities with the most Venezuelans: Cucuta, Santiago and Panama City, extra_data="{'translat...") 
+
+0.0  | Tweet 216: Translated(src=es, dest=en, text=@Marcoaurelioqg: According to the National Migration Service of Panama between January-July 2021, 581 Venezuelans crossed the Darién. In the M…, pronunciation=None, extra_data="{'translat...") 
+
+0.8585  | Tweet 217: Translated(src=es, dest=en, text=@Ma_Elisa_G: If it is in your hands, please help them, we thank you, Venezuelans, we DO NOT have the support of the tyranny or the false…, pronunciation=@Ma_Elisa_G: If it is in your hands, please help them, we thank you, Venezuelans, we DO NOT have the support of the tyranny or the false…, extra_data="{'translat...") 
+
+-0.7774  | Tweet 218: Translated(src=es, dest=en, text=The Darién Gap, in Panama, one of the most dangerous migration routes in the world https://t.co/W7tU2tMqif via… https://t.co/GmHEiXb9SH, pronunciation=The Darién Gap, in Panama, one of the most dangerous migration routes in the world https://t.co/W7tU2tMqif via… https://t.co/GmHEiXb9SH, extra_data="{'translat...") 
+
+0.8585  | Tweet 219: Translated(src=es, dest=en, text=If it is in your hands, please help them, we thank you, Venezuelans, we do NOT have support from tyranny or… https://t.co/HWYuWBdY98, pronunciation=If it is in your hands, please help them, we thank you, Venezuelans, we do NOT have support from tyranny or… https://t.co/HWYuWBdY98, extra_data="{'translat...") 
+
+-0.5532  | Tweet 220: Translated(src=es, dest=en, text=@JohnHGuillen: Venezuelans DO NOT risk their lives any more for the Darién Jungle of Panama, dangerous, impassable, high temperatures, flee…, pronunciation=@JohnHGuillen: Venezuelans DO NOT risk their lives any more for the Darién Jungle of Panama, dangerous, impassable, high temperatures, flee…, extra_data="{'translat...") 
+
+0.0  | Tweet 221: Translated(src=es, dest=en, text=@Marcoaurelioqg: According to the National Migration Service of Panama between January-July 2021, 581 Venezuelans crossed… https://t.co/prPAg1VYdj, pronunciation=@Marcoaurelioqg: According to the National Migration Service of Panama between January-July 2021, 581 Venezuelans crossed… https://t.co/prPAg1VYdj, extra_data="{'translat...") 
+
+0.0  | Tweet 222: Translated(src=es, dest=en, text=According to the National Migration Service of Panama between January-July 2021, 581 Venezuelans crossed the Darién. In… https://t.co/xpK0plFEa6, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8225  | Tweet 223: Translated(src=es, dest=en, text=@imenesesp @AlexaGomezDos And let me tell you, where does that string of assholes arrive that even lie with such and give them r… https://t.co/YFNfFipsbA, pronunciation=@imenesesp @AlexaGomezDos And let me tell you, where does that string of assholes arrive that even lie with such and give them r… https://t.co/YFNfFipsbA, extra_data="{'translat...") 
+
+-0.7506  | Tweet 224: Translated(src=es, dest=en, text=@dcabellor Diosdado sings it to the miserable Pharisees: "The #DariénTapon is NOT between Venezuela and Colombia… https://t.co/vdISjFqWxi, pronunciation=@dcabellor Diosdado sings it to the miserable Pharisees: "The #DariénTapon is NOT between Venezuela and Colombia… https://t.co/vdISjFqWxi, extra_data="{'translat...") 
+
+-0.8429  | Tweet 225: Translated(src=es, dest=en, text=@PDVSA_AdHoc @CITGOve I can only tell you THIEVES. You have money for where it goes, it's not even money for Venezuelans… https://t.co/16syuuVdOf, pronunciation=@PDVSA_AdHoc @CITGOve I can only tell you THIEVES. You have money for where it goes, it's not even money for Venezuelans… https://t.co/16syuuVdOf, extra_data="{'translat...") 
+
+0.0  | Tweet 226: Translated(src=es, dest=en, text=@Agencia_VN_ @luciaeugenia @SoyLCR @ElBunkerve none who live in PANAMA (where there are many Venezuelans fleeing… https://t.co/k9IgdIstdS, pronunciation=@Agencia_VN_ @luciaeugenia @SoyLCR @ElBunkerve none who live in PANAMA (where there are many Venezuelans fleeing… https://t.co/k9IgdIstdS, extra_data="{'translat...") 
+
+0.0  | Tweet 227: Translated(src=es, dest=en, text=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at traffic lights in Estad…, pronunciation=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at traffic lights in Estad…, extra_data="{'translat...") 
+
+0.0  | Tweet 228: Translated(src=es, dest=en, text=@radiofeyalegria: @EnmanuelS7 #ClaroyRaspao Enmanuel Sandia: The Panamanian Migration Service reported that there are more than 16,000 Venezuelans…, pronunciation=@radiofeyalegria: @EnmanuelS7 #ClaroyRaspao Enmanuel Sandia: The Panamanian Migration Service reported that there are more than 16,000 Venezuelans…, extra_data="{'translat...") 
+
+0.0  | Tweet 229: Translated(src=es, dest=en, text=@EnmanuelS7 #ClaroyRaspao Enmanuel Sandia: The Panamanian Migration Service reported that there are more than 16 thousand Venezuelans… https://t.co/Feu62K54db, pronunciation=@EnmanuelS7 #ClaroyRaspao Enmanuel Sandia: The Panamanian Migration Service reported that there are more than 16 thousand Venezuelans… https://t.co/Feu62K54db, extra_data="{'translat...") 
+
+-0.5256  | Tweet 230: Translated(src=es, dest=en, text=@ReporteYa: #2Aug #Diaspora #Panama
+@1Yasminvelasco: 11,000 #Venezuelans crossed the extremely dangerous #Darién Jungle in recent months…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2302  | Tweet 231: Translated(src=es, dest=en, text=Don't be fooled by the socialists. Of course there can be a worse government than the current one in Panama. Ask… https://t.co/xckkiylZvA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7096  | Tweet 232: Translated(src=es, dest=en, text=@alvarodelsur: @dialogoambiente María Silva will be and it was like what is a blah blah blah but the Derién thing is suspicious and the media is not…, pronunciation=@alvarodelsur: @dialogoambiente María Silva will be and it was like what is a blah blah blah but the Derién thing is suspicious and the media is not…, extra_data="{'translat...") 
+
+0.0  | Tweet 233: Translated(src=es, dest=en, text=@YOSEqueHAB2_: Tell me your story
+Yelitza Salas: Venezuelans in #LatinAmerica, #data... Your advice... https://t.co/OWOnYGE5Xv #blo…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7096  | Tweet 234: Translated(src=es, dest=en, text=@dialogoambiente María Silva will be and it was like what is a blah blah blah but the Derién thing is suspicious and media… https://t.co/Zz976f8ZkO, pronunciation=@dialogoambiente María Silva will be and it was like what is a blah blah blah but the Derién thing is suspicious and media… https://t.co/Zz976f8ZkO, extra_data="{'translat...") 
+
+0.0  | Tweet 235: Translated(src=es, dest=en, text=@Noelleal Noel that voyage of Christopher Columbus changed the commercial and political relations of the entire planet. Te… https://t.co/EyqPIyKiCa, pronunciation=@Noelleal Noel that voyage of Christopher Columbus changed the commercial and political relations of the entire planet. Te… https://t.co/EyqPIyKiCa, extra_data="{'translat...") 
+
+-0.25  | Tweet 236: Translated(src=es, dest=en, text=https://t.co/jWztWv1cLM
+The media scoundrel did not dedicate a single line to the protest of the Venezuelan teachers., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 237: Translated(src=es, dest=en, text=@japcgn: We Venezuelans have knowledge of International Studies, public and private TV only broadcasts news from the world, we are…, pronunciation=@japcgn: We Venezuelans have knowledge of International Studies, public and private TV only broadcasts news from the world, we are…, extra_data="{'translat...") 
+
+0.0  | Tweet 238: Translated(src=es, dest=en, text=@shenarvz: WHILE SPOTS ARE SOLD OUT
+LEGALIZATIONS #SACS
+RECOVERY AND USER RESET ✓
+INFO TO DM
+#Chile #Spain #Italy #Panama #Ecu…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4995  | Tweet 239: Translated(src=es, dest=en, text=@shenarvz: BACHELOR'S DEGREE CEIFICATION AND NOTES AT THE NATIONAL LEVEL
+APOSTILLE READY
+INFO TO DM
+#Chile #Spain #Italy #Panama #Ecu…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 240: Translated(src=es, dest=en, text=@shenarvz: #SENIAT REGISTRY RESET #RIF
+TAXES
+AT THE NATIONAL LEVEL
+INFO TO DM
+#Chile #Spain #Italy #Panama #Ecuador #Venezuelans #T…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 241: Translated(src=es, dest=en, text=Venezuelans nothing else? You have to see and read every pod around here. It must be that the others who also use that step… https://t.co/gF6DnRvYKv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 242: Translated(src=es, dest=en, text=@UNoticias // If we stick to the rules of the past, today many Republics of the former Soviet Union are not hu… https://t.co/TaavICa67R, pronunciation=@UNoticias // If we stick to the rules of the past, today many Republics of the former Soviet Union are not hu… https://t.co/TaavICa67R, extra_data="{'translat...") 
+
+-0.9031  | Tweet 243: Translated(src=es, dest=en, text=@JArmandoGruber: The Darién Gap, between Colombia and Panama, one of the most notorious obstacles, of the migratory spore that has caused…, pronunciation=@JArmandoGruber: The Darién Gap, between Colombia and Panama, one of the most notorious obstacles, of the migratory spore that has caused…, extra_data="{'translat...") 
+
+-0.4019  | Tweet 244: Translated(src=es, dest=en, text=#GTU REGISTRATION or REGISTRATION - RESET, does it give you an error?
+Remember that you can't do it on the page 👈🏻
+INFO TO DM… https://t.co/XsUGgCBwDc, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9031  | Tweet 245: Translated(src=es, dest=en, text=The Darién Gap, between Colombia and Panama, one of the most notorious obstacles, of the migratory spore that has caused… https://t.co/wzrm1QqqFQ, pronunciation=The Darién Gap, between Colombia and Panama, one of the most notorious obstacles, of the migratory spore that has caused… https://t.co/wzrm1QqqFQ, extra_data="{'translat...") 
+
+0.0  | Tweet 246: Translated(src=es, dest=en, text=SCHEDULING #postille #ASSISTED Appointment #August
+INCLUSION, RESET, USER REGISTRATION
+VENEZUELANS AND FOREIGNERS
+👉🏻INFO… https://t.co/LleXZWA4sO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 247: Translated(src=es, dest=en, text=#SENIAT REGISTRY RESET #RIF
+TAXES
+AT THE NATIONAL LEVEL
+INFO TO DM
+#Chile #Spain #Italy #Panama #Ecuador… https://t.co/YADYLdmLaF, pronunciation=None, extra_data="{'translat...") 
+
+0.4995  | Tweet 248: Translated(src=es, dest=en, text=CEIFICATION OF BACHELOR'S DEGREE AND NOTES AT A NATIONAL LEVEL
+APOSTILLE READY
+INFO TO DM
+#Chile #Spain #Italy… https://t.co/m6tctdohqt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 249: Translated(src=es, dest=en, text=CERTIFIED AND/OR LEGALIZED COPIES AT THE NATIONAL LEVEL
+INFO and QUOTE TO DM
+#Chile #Spain #Italy #Panama… https://t.co/RGOYlQFSRc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 250: Translated(src=es, dest=en, text=SUPER COMBO #GTU and #APOSTILLE for this month of #AUGUST
+ALL IN ONE
+SCHEDULE NOW few quotas
+INFO TO DM
+#Chile #Spain… https://t.co/9Am8bUqlig, pronunciation=None, extra_data="{'translat...") 
+
+0.4939  | Tweet 251: Translated(src=gn, dest=en, text=📝GOING #APPOINTMENT #GTU
+ONLY YOU ASSISTED👈🏻
+💁🏻 ♀️RESET AND USER REGISTRATION
+GTU EXPRESS💨
+INFO TO THE DM
+#Chile #Spain... https://t.co/jrC1PtD5Hc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 252: Translated(src=es, dest=en, text=Did you make an appointment #GTU and can't attend?
+We do it for you!
+FEW QUOTS
+ACCESSIBLE PRICES
+SCHEDULE NOW
+INFO TO DM… https://t.co/TO3aUNHRCz, pronunciation=None, extra_data="{'translat...") 
+
+0.5719  | Tweet 253: Translated(src=gn, dest=en, text=#Saime MIGRATION CHANGE
+RECUP. USER
+USER RESETTING and +
+INFO TO THE DM
+Responsibility and excellent reputation...... https://t.co/fMaNPMIaO6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 254: Translated(src=es, dest=en, text=UNTIL THE QUOTS ARE SOLD OUT
+LEGALIZATIONS #SACS
+RECOVERY AND USER RESET ✓
+INFO TO DM
+#Chile #Spain #Italy… https://t.co/FHfZAj3yxc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3291  | Tweet 255: Translated(src=gn, dest=en, text=😥DON'T REMEMBER YOUR USER?
+RESET - REGISTER - RECUP. USER
+ALL INSTITUTIONS
+👉🏻INFO AL DM
+Shenarvz T&S... https://t.co/XZHpBYd8P6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4648  | Tweet 256: Translated(src=es, dest=en, text=CARRY OUT YOUR PROCEDURES ONLY WITH VERIFIED PROFESSIONALS ✓
+Shenarvz IS YOUR SOLUTION
+INFO TO DM
+#Chile #Spain… https://t.co/j7vtmvnGR6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 257: Translated(src=es, dest=en, text=Between January and June 2022, the government of Panama registered the passage through the jungle or Darién plug (about 5,000 km2 of… https://t.co/T5FqGzH2NM, pronunciation=Between January and June 2022, the government of Panama registered the passage through the jungle or Darién plug (about 5,000 km2 of… https://t.co/T5FqGzH2NM, extra_data="{'translat...") 
+
+-0.2263  | Tweet 258: Translated(src=es, dest=en, text=@louis0889406 @TomasShelbyPB @Joker_Renacido @Chad__Alpha That's Panama. It has nothing to do with Venezuelans, it is because of the protests, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3067  | Tweet 259: Translated(src=es, dest=en, text=@yolandacastil17: Venezuelans don't mind surviving in another country. Which one? Peru, Chile, Bolivia, Panama, and then the US? Damn…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3067  | Tweet 260: Translated(src=es, dest=en, text=Venezuelans don't mind surviving in another country. Which one? Peru, Chile, Bolivia, Panama, and then the US? Car… https://t.co/7vjEvXtf7X, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 261: Translated(src=es, dest=en, text=@SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights of Es… https://t.co/Te3DAv500M, pronunciation=@SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at the traffic lights of Es… https://t.co/Te3DAv500M, extra_data="{'translat...") 
+
+0.5859  | Tweet 262: Translated(src=es, dest=en, text=@AlexaGomezDos It happened to me in Panama, I played basketball on some courts near my work in Panama Pacifico and it has always… https://t.co/iVa86ASJoP, pronunciation=@AlexaGomezDos It happened to me in Panama, I played basketball on some courts near my work in Panama Pacifico and it has always… https://t.co/iVa86ASJoP, extra_data="{'translat...") 
+
+0.0  | Tweet 263: Translated(src=es, dest=en, text=@REDHNNA: A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to the National Service of…, pronunciation=@REDHNNA: A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to the National Service of…, extra_data="{'translat...") 
+
+-0.5256  | Tweet 264: Translated(src=es, dest=en, text=#2Aug #Diaspora #Panama
+@1Yasminvelasco: 11,000 #Venezuelans crossed the extremely dangerous #Darién Jungle in the last… https://t.co/R1elRp3SZG, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 265: Translated(src=es, dest=en, text=@LERO1416 @rmartinelli Your comment is correct, but neither Chinese, nor gringos, nor Russians, nor Venezuelans, in Panama… https://t.co/VR8wnkI4jG, pronunciation=@LERO1416 @rmartinelli Your comment is correct, but neither Chinese, nor gringos, nor Russians, nor Venezuelans, in Panama… https://t.co/VR8wnkI4jG, extra_data="{'translat...") 
+
+0.0  | Tweet 266: Translated(src=es, dest=en, text=We Venezuelans have knowledge of International Studies, public and private TV only broadcasts news from the or... https://t.co/peVSrTtvZy, pronunciation=We Venezuelans have knowledge of International Studies, public and private TV only broadcasts news from the or... https://t.co/peVSrTtvZy, extra_data="{'translat...") 
+
+0.0  | Tweet 267: Translated(src=es, dest=en, text=@alejotuits Can you explain to me how someone who passes from Colombia Panama others. passes Mexico..California.or Texas..… https://t.co/xdEFtSaoQP, pronunciation=@alejotuits Can you explain to me how someone who passes from Colombia Panama others. passes Mexico..California.or Texas..… https://t.co/xdEFtSaoQP, extra_data="{'translat...") 
+
+0.6124  | Tweet 268: Translated(src=es, dest=en, text=They are going to kick us all out like they did in Panama... But when it was said that those people who were coming... https://t.co/vO64oOJX9Z, pronunciation=They are going to kick us all out like they did in Panama... But when it was said that those people who were coming... https://t.co/vO64oOJX9Z, extra_data="{'translat...") 
+
+0.0  | Tweet 269: Translated(src=es, dest=en, text=@gloriamelania: @lupitaquirosa “These are José Gregorio Camargo Castellanos, Joel Gustavo Rodríguez García and Salvador Javier Sosa Suár…, pronunciation=@gloriamelania: @lupitaquirosa “These are José Gregorio Camargo Castellanos, Joel Gustavo Rodríguez García and Salvador Javier Sosa Suár…, extra_data="{'translat...") 
+
+0.0  | Tweet 270: Translated(src=es, dest=en, text=@lupitaquirosa “It is about José Gregorio Camargo Castellanos, Joel Gustavo Rodríguez García and Salvador Javier Sosa… https://t.co/wldGuEfv1t, pronunciation=@lupitaquirosa “It is about José Gregorio Camargo Castellanos, Joel Gustavo Rodríguez García and Salvador Javier Sosa… https://t.co/wldGuEfv1t, extra_data="{'translat...") 
+
+-0.9628  | Tweet 271: Translated(src=es, dest=en, text=@zulayv48: The African Mrs. Awa, who was found abandoned and sick by a group of young Venezuelans, died in a hospital in Panama..., pronunciation=@zulayv48: The African Mrs. Awa, who was found abandoned and sick by a group of young Venezuelans, died in a hospital in Panama..., extra_data="{'translat...") 
+
+0.128  | Tweet 272: Translated(src=es, dest=en, text=@callesb: @adelso_car Sports justice. Recently at a little league junior tournament. Panama denied the visa to the Venezuelans and…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 273: Translated(src=es, dest=en, text=@vladimir_jf tell that to the Venezuelan immigrants who live in Panama and who had to flee Venezuela for… https://t.co/34aCaQ9AdH, pronunciation=@vladimir_jf tell that to the Venezuelan immigrants who live in Panama and who had to flee Venezuela for… https://t.co/34aCaQ9AdH, extra_data="{'translat...") 
+
+0.0  | Tweet 274: Translated(src=es, dest=en, text=Over there I saw on TikTok some Venezuelans who were deported from Panama to Colombia and then went back to… https://t.co/MB30WSfEFp, pronunciation=Over there I saw on TikTok some Venezuelans who were deported from Panama to Colombia and then went back to… https://t.co/MB30WSfEFp, extra_data="{'translat...") 
+
+0.8316  | Tweet 275: Translated(src=es, dest=en, text=@LassoGuillermo President guillermo lasso God bless you I keep looking for ways for you to listen to me for… https://t.co/PQ7Yc45X3O, pronunciation=@LassoGuillermo President guillermo lasso God bless you I keep looking for ways for you to listen to me for… https://t.co/PQ7Yc45X3O, extra_data="{'translat...") 
+
+0.347  | Tweet 276: Translated(src=es, dest=en, text=@GLEIDYSF: #July 23 SAVED BY CRYING TO GOD Venezuelans risk their lives, and their children, to achieve the American dream. Who them..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 277: Translated(src=es, dest=en, text=@AlvaroAlvaradoC In Panama, we Panamanians saw thousands of Nicaraguans, Venezuelans and Cubans migrating from their country to… https://t.co/DH5SL9ub8q, pronunciation=@AlvaroAlvaradoC In Panama, we Panamanians saw thousands of Nicaraguans, Venezuelans and Cubans migrating from their country to… https://t.co/DH5SL9ub8q, extra_data="{'translat...") 
+
+0.0  | Tweet 278: Translated(src=es, dest=en, text=@NicolasMaduro In a meeting of the Venezuelans fleeing and dying in the daren plug in Panama excrement… https://t.co/hJYi85kyOl, pronunciation=@NicolasMaduro In a meeting of the Venezuelans fleeing and dying in the daren plug in Panama excrement… https://t.co/hJYi85kyOl, extra_data="{'translat...") 
+
+0.0  | Tweet 279: Translated(src=es, dest=en, text=@EstrellaOnline: FIGURES // During the first half of 2022, more than 11,200 foreigners acquired their residence permit in Panama,…, pronunciation=@EstrellaOnline: FIGURES // During the first half of 2022, more than 11,200 foreigners acquired their residence permit in Panama,…, extra_data="{'translat...") 
+
+0.0  | Tweet 280: Translated(src=es, dest=en, text=@LlaneroDigitalV: #Internationals | Panama registered the passage of 28,079 Venezuelans through the Darién Gap between January and June 2022.…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 281: Translated(src=es, dest=en, text=@fabiola_zavarce: #ATTENTION | Venezuelans in 🇵🇦: If you have pending payments for immigration regularization procedures, until December 31…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 282: Translated(src=es, dest=en, text=A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to the Service… https://t.co/NZMJfZ9PEy, pronunciation=A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to the Service… https://t.co/NZMJfZ9PEy, extra_data="{'translat...") 
+
+-0.6249  | Tweet 283: Translated(src=es, dest=en, text=Venezuelans die in Nicaragua and leave a girl orphaned. I wonder what the Panamanian embassy in Caracas has to do with all of this?, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 284: Translated(src=es, dest=en, text=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejGd2j #blog #blogger #Blogs #E…, pronunciation=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejGd2j #blog #blogger #Blogs #E…, extra_data="{'translat...") 
+
+0.128  | Tweet 285: Translated(src=es, dest=en, text=@adelso_car Sports justice. Recently at a little league junior tournament. Panama denied the visa to the Ven… https://t.co/71f2HCis0z, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 286: Translated(src=es, dest=en, text=@AlexKleinO 🤦‍♂️🤦‍♂️🤦‍♂️FOR SOMETHING Cubans risk swimming in the sea to reach the shores of Florida… https://t.co/U9PLYqhFv4, pronunciation=@AlexKleinO 🤦‍♂️🤦‍♂️🤦‍♂️FOR SOMETHING Cubans risk swimming in the sea to reach the shores of Florida… https://t.co/U9PLYqhFv4, extra_data="{'translat...") 
+
+0.6597  | Tweet 287: Translated(src=es, dest=en, text=International organizations such as @hrw_espanol and @ONU_ese, among others, have a duty to help Venezuelans… https://t.co/ijuBDIAzDm, pronunciation=International organizations such as @hrw_espanol and @ONU_ese, among others, have a duty to help Venezuelans… https://t.co/ijuBDIAzDm, extra_data="{'translat...") 
+
+0.7184  | Tweet 288: Translated(src=es, dest=en, text=@venezuela_migra: #You Must Know l A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according…, pronunciation=@venezuela_migra: #You Must Know l A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according…, extra_data="{'translat...") 
+
+0.0  | Tweet 289: Translated(src=es, dest=en, text=@shenarvz: COMBO RESET AND QUOTE #GTU
+FOR THOSE WHO SCHEDULE WITH TIME!!! THE QUOTS ARE SOLD OUT!
+WITHOUT TRAVELING TO CCS
+INFO TO DM
+#Chile #Spain…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8402  | Tweet 290: Translated(src=es, dest=en, text=@ElPitazoTV: "If at any time my mother goes through a similar situation, I would like people like us to be found," said the…, pronunciation=@ElPitazoTV: "If at any time my mother goes through a similar situation, I would like people like us to be found," said the…, extra_data="{'translat...") 
+
+-0.9628  | Tweet 291: Translated(src=es, dest=en, text=The African Mrs. Awa, who was found abandoned and sick by a group of young people, died in a hospital in Panama… https://t.co/tnlIDxBy, pronunciation=The African Mrs. Awa, who was found abandoned and sick by a group of young people, died in a hospital in Panama… https://t.co/tnlIDxBy, extra_data="{'translat...") 
+
+-0.5994  | Tweet 292: Translated(src=es, dest=en, text=@jaimeraulmolina That's right It's a slow death. Open your eyes Panama. Look how many Venezuelans arrived in Panama… https://t.co/kUsueyZ4P2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 293: Translated(src=es, dest=en, text=SUPER COMBO #GTU and #APOSTILLE for this month of #AUGUST
+ALL IN ONE
+SCHEDULE NOW few quotas
+INFO TO DM
+#Chile #Spain… https://t.co/y5xx6wg6LV, pronunciation=None, extra_data="{'translat...") 
+
+0.8402  | Tweet 294: Translated(src=es, dest=en, text=“If at any time my mother goes through a similar situation, I would like people like us to be found”,… https://t.co/CgUEuphWnA, pronunciation=“If at any time my mother goes through a similar situation, I would like people like us to be found”,… https://t.co/CgUEuphWnA, extra_data="{'translat...") 
+
+0.0  | Tweet 295: Translated(src=es, dest=en, text=#ATTENTION | Venezuelans in 🇵🇦: If you have pending payments for immigration regularization procedures, until December 31… https://t.co/ct9szkprTX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 296: Translated(src=es, dest=en, text=Did you make an appointment #GTU and can't attend?
+We do it for you!
+FEW QUOTS
+ACCESSIBLE PRICES
+SCHEDULE NOW
+INFO TO DM… https://t.co/ELT7N66IOd, pronunciation=None, extra_data="{'translat...") 
+
+-0.7906  | Tweet 297: Translated(src=es, dest=en, text=@irefari Panamá a lot of police harassment, but when they see that I am Tico everything changes, contrary to Colombians and… https://t.co/ZOvHDrhSUO, pronunciation=@irefari Panamá a lot of police harassment, but when they see that I am Tico everything changes, contrary to Colombians and… https://t.co/ZOvHDrhSUO, extra_data="{'translat...") 
+
+0.0  | Tweet 298: Translated(src=es, dest=en, text=end | #U12WorldCup #VENvsPAN
+
+Venezuela🇻🇪 7-0 🇵🇦Panama: That's all, the Venezuelans remain undefeated; Panama remains s… https://t.co/0Vox6L42UC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4588  | Tweet 299: Translated(src=es, dest=en, text=@tvnnoticias It is ignorant to believe that price control works, you can ask your Venezuelan friends and… https://t.co/foE1fhjIVf, pronunciation=@tvnnoticias It is ignorant to believe that price control works, you can ask your Venezuelan friends and… https://t.co/foE1fhjIVf, extra_data="{'translat...") 
+
+-0.4588  | Tweet 300: Translated(src=es, dest=en, text=I'm watching videos on tik tok about the Darién and it's heartbreaking to see people with children.
+And I don't understand how that… https://t.co/qnCJq80Gkc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 301: Translated(src=es, dest=en, text=@PolisCaracas: #Emigrants Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Su…, pronunciation=@PolisCaracas: #Emigrants Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Su…, extra_data="{'translat...") 
+
+0.0  | Tweet 302: Translated(src=es, dest=en, text=#LaAntenaInforma #Guárico #31Jul Venezuelan surfers shone in the National Surfing Circuit held in Panama… https://t.co/3ww9C33A7i, pronunciation=#LaAntenaInforma #Guárico #31Jul Venezuelan surfers shone in the National Surfing Circuit held in Panama… https://t.co/3ww9C33A7i, extra_data="{'translat...") 
+
+0.0  | Tweet 303: Translated(src=es, dest=en, text=@CaraotaDigital I imagine that it is all the Venezuelans who are there and believe that they can do the same as here… https://t.co/qZh0sMTc0q, pronunciation=@CaraotaDigital I imagine that it is all the Venezuelans who are there and believe that they can do the same as here… https://t.co/qZh0sMTc0q, extra_data="{'translat...") 
+
+0.0  | Tweet 304: Translated(src=es, dest=en, text=#Featured Venezuelan Surfers shone in the National Surfing Circuit held in Panama |… https://t.co/6MsVnTEppB, pronunciation=#Featured Venezuelan Surfers shone in the National Surfing Circuit held in Panama |… https://t.co/6MsVnTEppB, extra_data="{'translat...") 
+
+0.0  | Tweet 305: Translated(src=es, dest=en, text=#Migration A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/wBDfewbvRp, pronunciation=#Migration A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/wBDfewbvRp, extra_data="{'translat...") 
+
+-0.6597  | Tweet 306: Translated(src=es, dest=en, text=@NapoleonCampos: A gigantic humanitarian tragedy on the Darién jungle border between Panama and Colombia. More than 50% of the exodus…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 307: Translated(src=es, dest=en, text=@ Vesiempre1: Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez https://t..., pronunciation=@ Vesiempre1: Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez https://t..., extra_data="{'translat...") 
+
+0.0  | Tweet 308: Translated(src=es, dest=en, text=@ Vesiempre1: Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez
+
+Enrique…, pronunciation=None, extra_data="{'translat...") 
+
+0.7862  | Tweet 309: Translated(src=es, dest=en, text=@TReporta The Chavista version of Panama, it's time to give all Venezuelans their nationality so they can save us, pronunciation=@TReporta The Chavista version of Panama, it's time to give all Venezuelans their nationality so they can save us, extra_data="{'translat...") 
+
+0.0  | Tweet 310: Translated(src=es, dest=en, text=@Arrested_Word Venezuelans making everything in their path more expensive, this is how Panama has been for years 😏, pronunciation=@Arrested_Word Venezuelans making everything in their path more expensive, this is how Panama has been for years 😏, extra_data="{'translat...") 
+
+0.0  | Tweet 311: Translated(src=es, dest=en, text=#Migration A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/F5Iy6cNfRK, pronunciation=#Migration A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/F5Iy6cNfRK, extra_data="{'translat...") 
+
+0.4995  | Tweet 312: Translated(src=es, dest=en, text=CEIFICATION OF BACHELOR'S DEGREE AND NOTES AT A NATIONAL LEVEL
+APOSTILLE READY
+INFO TO DM
+#Chile #Spain #Italy… https://t.co/he2EY86cD1, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 313: Translated(src=es, dest=en, text=A gigantic humanitarian tragedy on the Darién jungle border between Panama and Colombia. More than 50% of the success… https://t.co/rDDO8DBD85, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8469  | Tweet 314: Translated(src=es, dest=en, text=I hope they do not criticize my position in the face of this situation that Panama is experiencing, but I feel a tasty chill, because b… https://t.co/UKb403yH45, pronunciation=I hope they do not criticize my position in the face of this situation that Panama is experiencing, but I feel a tasty chill, because b… https://t.co/UKb403yH45, extra_data="{'translat...") 
+
+0.0  | Tweet 315: Translated(src=es, dest=en, text=#Internationals | Panama reveals how many Venezuelans have crossed the Darién during 2022 +Figures 🌍 https://t.co/xZkoC4b7oD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 316: Translated(src=es, dest=en, text=@fjosecortezb @Pedroni61119919 @RafaelGuaricuco @POTUSVE Here in my town there is someone who has repaired all "the mug… https://t.co/draH0Gsicl, pronunciation=@fjosecortezb @Pedroni61119919 @RafaelGuaricuco @POTUSVE Here in my town there is someone who has repaired all "the mug… https://t.co/draH0Gsicl, extra_data="{'translat...") 
+
+0.4215  | Tweet 317: Translated(src=es, dest=en, text=@ElPitazoTV: Darien | Venezuelans who rescued a woman: we saw our mother reflected in her https://t.co/Yav7hhmPwr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4215  | Tweet 318: Translated(src=es, dest=en, text=Darien | Venezuelans who rescued a woman: we saw our mother reflected in her https://t.co/Yav7hhmPwr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 319: Translated(src=es, dest=en, text=@CarapalidaSpace: Venezuelans who crossed the Darién by the middle of the year according to data from the National Migration Service of Panama:
+
+- J…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 320: Translated(src=es, dest=en, text=@NicolasMaduro You dirty the name of Torrijos and Panama by mentioning them, let the Venezuelan people rest… https://t.co/ebyse6zUJW, pronunciation=@NicolasMaduro You dirty the name of Torrijos and Panama by mentioning them, let the Venezuelan people rest… https://t.co/ebyse6zUJW, extra_data="{'translat...") 
+
+0.0516  | Tweet 321: Translated(src=es, dest=en, text=@MiguelABernalV They are doing this on purpose, they play idiots at the negotiating table to delay the… https://t.co/F7tSYhMkom, pronunciation=@MiguelABernalV They are doing this on purpose, they play idiots at the negotiating table to delay the… https://t.co/F7tSYhMkom, extra_data="{'translat...") 
+
+0.0  | Tweet 322: Translated(src=es, dest=en, text=SAIME USER RECOVERY
+RECEIVING
+INFO TO DM
+#venezuelansfortheworld
+#Chile #Spain #Italy #Panama #Peru #EU… https://t.co/qgihfvIOIn, pronunciation=None, extra_data="{'translat...") 
+
+-0.5319  | Tweet 323: Translated(src=es, dest=en, text=MIGRATORY CHANGE
+UNLOCK MIGRATORY ERROR
+RECEIVING
+INFO TO DM
+#venezuelansfortheworld
+#Chile #Spain #Italy… https://t.co/u8wBOAKjUB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 324: Translated(src=es, dest=en, text=@EfectoCocuyo: #ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who did the…, pronunciation=@EfectoCocuyo: #ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who did the…, extra_data="{'translat...") 
+
+0.0  | Tweet 325: Translated(src=es, dest=en, text=Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez… https://t.co/lhIjzPUYwe, pronunciation=Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez… https://t.co/lhIjzPUYwe, extra_data="{'translat...") 
+
+-0.1531  | Tweet 326: Translated(src=es, dest=en, text=@Penalozantony: Rafael Ramírez
+@RRamirezVE
+Madurismo makes fun of Venezuelans who die trying to cross the immense jungle of the…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 327: Translated(src=es, dest=en, text=@TonyFrangieM: A total of 9,801 children crossed the Darién in the first seven months of the year, according to the National Border Service of…, pronunciation=@TonyFrangieM: A total of 9,801 children crossed the Darién in the first seven months of the year, according to the National Border Service of…, extra_data="{'translat...") 
+
+0.0  | Tweet 328: Translated(src=es, dest=en, text=Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez… https://t.co/g1gINKjSND, pronunciation=Almost 7,000 Venezuelans arrived this year in San Vicente in Panama after crossing the Darién jungle, by Enrique Suarez… https://t.co/g1gINKjSND, extra_data="{'translat...") 
+
+0.1531  | Tweet 329: Translated(src=es, dest=en, text=#ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who… https://t.co/9y39FqfGAF, pronunciation=#ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who… https://t.co/9y39FqfGAF, extra_data="{'translat...") 
+
+0.0  | Tweet 330: Translated(src=es, dest=en, text=@wiesenthal1632: The last company in which Swidorowicz appears, in Panama, is called INVERSIONES AC POAFOLIOS S.A. on your advice d…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 331: Translated(src=es, dest=en, text=#ElDato A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/OvM1HwzcBK, pronunciation=#ElDato A total of 9,801 girls and boys crossed the Darién jungle in the first seven months of the year, according to… https://t.co/OvM1HwzcBK, extra_data="{'translat...") 
+
+0.0  | Tweet 332: Translated(src=es, dest=en, text=@elestimulo: According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 2022, but…, pronunciation=@elestimulo: According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 2022, but…, extra_data="{'translat...") 
+
+0.0  | Tweet 333: Translated(src=es, dest=en, text=According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 20… https://t.co/QdIuZ8jcZw, pronunciation=According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 20… https://t.co/QdIuZ8jcZw, extra_data="{'translat...") 
+
+0.0  | Tweet 334: Translated(src=es, dest=en, text=According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 20… https://t.co/O9URKujnJe, pronunciation=According to data from Human Rights Watch, more than 7,000 Venezuelans crossed the Darién jungle between January and April 20… https://t.co/O9URKujnJe, extra_data="{'translat...") 
+
+0.0  | Tweet 335: Translated(src=es, dest=en, text=@Salomonher1966: We make a call to the Governments of Panama and Colombia on the subject "Selva de El Daren" because those Venezuelans who died…, pronunciation=@Salomonher1966: We make a call to the Governments of Panama and Colombia on the subject "Selva de El Daren" because those Venezuelans who died…, extra_data="{'translat...") 
+
+-0.4019  | Tweet 336: Translated(src=es, dest=en, text=@ElPitazoTV: #Tragedy | The parents of the little girl, only 2 years old, had been living in #Panama for 6 years, but they were looking for the American dream…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 337: Translated(src=es, dest=en, text=#Tragedy | The parents of the little girl, only 2 years old, had been living in #Panama for 6 years, but they were looking for the dream… https://t.co/bKWZul0law, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 338: Translated(src=es, dest=en, text=We call on the Governments of Panama and Colombia on the subject "Selva de El Daren" because those Venezuelans m… https://t.co/QuHS43ODA6, pronunciation=We call on the Governments of Panama and Colombia on the subject "Selva de El Daren" because those Venezuelans m… https://t.co/QuHS43ODA6, extra_data="{'translat...") 
+
+-0.5574  | Tweet 339: Translated(src=es, dest=en, text=@ alexandejose53 Of all. Hundreds of Venezuelans have died in Colombia, Ecuador, Peru, Chile, Bolivia, Panama and other countries., pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 340: Translated(src=es, dest=en, text=#ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who… https://t.co/C2Y5lKKulO, pronunciation=#ElDato According to the National Border Service (Senafront) of Panama, in January, the average number of Venezuelan children who… https://t.co/C2Y5lKKulO, extra_data="{'translat...") 
+
+0.4215  | Tweet 341: Translated(src=es, dest=en, text=@Herejia618: Banesco has offices in Panama, the Dominican Republic and the United States of America.
+It is a traditional banking entity.…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 342: Translated(src=es, dest=en, text=@RafaelGuaricuco @POTUSVE The reality is that I know people who have come from Chile, Argentina, the US, Panama to see each other… https://t.co/X2jAsTFF5Q, pronunciation=@RafaelGuaricuco @POTUSVE The reality is that I know people who have come from Chile, Argentina, the US, Panama to see each other… https://t.co/X2jAsTFF5Q, extra_data="{'translat...") 
+
+0.0  | Tweet 343: Translated(src=es, dest=en, text=A total of 9,801 children crossed the Darién in the first seven months of the year, according to the National Front Service… https://t.co/GrGozcC1T2, pronunciation=A total of 9,801 children crossed the Darién in the first seven months of the year, according to the National Front Service… https://t.co/GrGozcC1T2, extra_data="{'translat...") 
+
+-0.9349  | Tweet 344: Translated(src=es, dest=en, text=#ReturnElOroYA pending to steal the gold deposited in London while 15 Venezuelans die in Nicaragua… https://t.co/hghIQkXmxh, pronunciation=#ReturnElOroYA pending to steal the gold deposited in London while 15 Venezuelans die in Nicaragua… https://t.co/hghIQkXmxh, extra_data="{'translat...") 
+
+0.2342  | Tweet 345: Translated(src=es, dest=en, text=@Justiciera75: #29Jul 🇵🇦 | THANK YOU 🙏🏻
+
+The Venezuelan boy Miguel Ángel who lost his mother in the Darién Jungle has already been reunited..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 346: Translated(src=es, dest=en, text=Venezuelans who crossed the Darién for the middle of the year according to data from the National Migration Service of Panama:… https://t.co/CD2C64g1hS, pronunciation=Venezuelans who crossed the Darién for the middle of the year according to data from the National Migration Service of Panama:… https://t.co/CD2C64g1hS, extra_data="{'translat...") 
+
+-0.296  | Tweet 347: Translated(src=es, dest=en, text=#30Julio MADURISMO makes fun of Venezuelans who die trying to cross the immense jungle of the #Darién enters… https://t.co/ZQK4Tp603s, pronunciation=#30Julio MADURISMO makes fun of Venezuelans who die trying to cross the immense jungle of the #Darién enters… https://t.co/ZQK4Tp603s, extra_data="{'translat...") 
+
+0.0  | Tweet 348: Translated(src=es, dest=en, text=#Weekly Summary 🇻🇪👤 The family left the capital of Zulia, to Antioquia, department of Colombia, to… https://t.co/TXLhA29Q4W, pronunciation=#Weekly Summary 🇻🇪👤 The family left the capital of Zulia, to Antioquia, department of Colombia, to… https://t.co/TXLhA29Q4W, extra_data="{'translat...") 
+
+-0.296  | Tweet 349: Translated(src=es, dest=en, text=#30Julio MADURISMO makes fun of Venezuelans who die trying to cross the immense jungle of the #Darién enters… https://t.co/JGrBT9rOQG, pronunciation=#30Julio MADURISMO makes fun of Venezuelans who die trying to cross the immense jungle of the #Darién enters… https://t.co/JGrBT9rOQG, extra_data="{'translat...") 
+
+0.0  | Tweet 350: Translated(src=es, dest=en, text=@Punto_deCorte: #International | Panama reveals how many Venezuelans have crossed the Darién during 2022 + Figures 🌍 https://t.co/xZkoC3Tw…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 351: Translated(src=es, dest=en, text=#Internationals | Panama reveals how many Venezuelans have crossed the Darién during 2022 + Figures 🌍 https://t.co/xZkoC3Twx5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6249  | Tweet 352: Translated(src=es, dest=en, text=@BELTRANDDIEGO: Today begins the first regional meeting of Venezuelan migrant and refugee leaders. Great expectation to listen…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6249  | Tweet 353: Translated(src=es, dest=en, text=Today begins the first regional meeting of Venezuelan migrant and refugee leaders. Great expectation x escu… https://t.co/VRHoY49Cnv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 354: Translated(src=es, dest=en, text=@Olivarescfc More than 5000 pieces of PET preforms, unique in the world, conceived, stitched together and assembled by Venetian hands… https://t.co/ubKZAykUSV, pronunciation=@Olivarescfc More than 5000 pieces of PET preforms, unique in the world, conceived, stitched together and assembled by Venetian hands… https://t.co/ubKZAykUSV, extra_data="{'translat...") 
+
+0.0  | Tweet 355: Translated(src=es, dest=en, text=@BochaMD: @UCOCPTY @ilicenamalek @canaldepanama @NitoCortizo @PGN_PANAMA @USEmbPAN @asilascosas507 @tvnnoticias @rescatandopty @radiomia…, pronunciation=@BochaMD: @UCOCPTY @ilicenamalek @canaldepanama @NitoCortizo @PGN_PANAMA @USEmbPAN @asilascosas507 @tvnnoticias @rescatandopty @radiomia…, extra_data="{'translat...") 
+
+0.0  | Tweet 356: Translated(src=ilo, dest=en, text=@BochaMD: @UCOCPTY @panamacanal @conusi1 @MarineOrderMx @safety4sea @gcao @PortPortal @maritimeworld @ITF_Americas @ConcolonPan., pronunciation=@BochaMD: @UCOCPTY @panamacanal @conusi1 @MarineOrderMx @safety4sea @gcao @PortPortal @maritimeworld @ITF_Americas @ConcolonPan., extra_data="{'translat...") 
+
+0.0  | Tweet 357: Translated(src=en, dest=en, text=@UCOCPTY @canaldepanama @conusi1 @OrdenMaritimaMx @safety4sea @gcao @PortalPortuario @mundomaritimo @ITF_Americas… https://t.co/3ypCDxp3Ur, pronunciation=@UCOCPTY @canaldepanama @conusi1 @OrdenMaritimaMx @safety4sea @gcao @PortalPortuario @mundomaritimo @ITF_Americas… https://t.co/3ypCDxp3Ur, extra_data="{'translat...") 
+
+0.0  | Tweet 358: Translated(src=en, dest=en, text=@UCOCPTY @ilicenamalek @canaldepanama @NitoCortizo @PGN_PANAMA @USEmbPAN @asilascosas507 @tvnnoticias… https://t.co/Q5BbnRFyiD, pronunciation=@UCOCPTY @ilicenamalek @canaldepanama @NitoCortizo @PGN_PANAMA @USEmbPAN @asilascosas507 @tvnnoticias… https://t.co/Q5BbnRFyiD, extra_data="{'translat...") 
+
+0.0  | Tweet 359: Translated(src=es, dest=en, text=They indicate that Panama will be the next Venezuela, only without Arepas
+Not Venezuelans., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1779  | Tweet 360: Translated(src=es, dest=en, text=@VpMacaraoCcas: VIDEO | Panama rescues two Venezuelans abandoned in the Darién jungle https://t.co/Ef4I1XW0KJ Los Venezolan@s q el…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 361: Translated(src=es, dest=en, text=@_CEPAZ: 🧵The #Darién, also known as the Darién plug or Selva del Darién, is a jungle and swampy region located on the border…, pronunciation=@_CEPAZ: 🧵The #Darién, also known as the Darién plug or Selva del Darién, is a jungle and swampy region located on the border…, extra_data="{'translat...") 
+
+0.0  | Tweet 362: Translated(src=es, dest=en, text=🧵The #Darién, also known as the Darién plug or Darién Jungle, is a jungle and swampy region located… https://t.co/Ua2lla1rme, pronunciation=🧵The #Darién, also known as the Darién plug or Darién Jungle, is a jungle and swampy region located… https://t.co/Ua2lla1rme, extra_data="{'translat...") 
+
+0.296  | Tweet 363: Translated(src=es, dest=en, text=That aggressive tone against private enterprise that many of the leaders who are at that table have is an alert and gives… https://t.co/pVXIvWCRu2, pronunciation=That aggressive tone against private enterprise that many of the leaders who are at that table have is an alert and gives… https://t.co/pVXIvWCRu2, extra_data="{'translat...") 
+
+-0.7906  | Tweet 364: Translated(src=es, dest=en, text=@Clarinetto5: @TaniaRamirezCo I speak in Venezuelan, in Venezuela a bachaco is a white person with bad hair but who is not a mulatto or…, pronunciation=@Clarinetto5: @TaniaRamirezCo I speak in Venezuelan, in Venezuela a bachaco is a white person with bad hair but who is not a mulatto or…, extra_data="{'translat...") 
+
+-0.7906  | Tweet 365: Translated(src=es, dest=en, text=@TaniaRamirezCo I speak in Venezuelan, in Venezuela a bachaco is a white one with bad hair but who is not a mulatto… https://t.co/m7spVwsZfy, pronunciation=@TaniaRamirezCo I speak in Venezuelan, in Venezuela a bachaco is a white one with bad hair but who is not a mulatto… https://t.co/m7spVwsZfy, extra_data="{'translat...") 
+
+0.2732  | Tweet 366: Translated(src=es, dest=en, text=@ NEORAM27: Pope Francis arrived in Panama to lead the "World Youth Day".
+
+Well, a young Venezuelan with the flag..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 367: Translated(src=es, dest=en, text=@CopaAirlines hello. I want to travel in December stgo-Cúcuta. I have residence in Chile, expired passport. Colombia ac… https://t.co/AxawzstYDd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 368: Translated(src=es, dest=en, text=Surprise on the third day of #Panama soccer https://t.co/k29BVzIgqz, pronunciation=Surprise on the third day of #Panama soccer https://t.co/k29BVzIgqz, extra_data="{'translat...") 
+
+0.891  | Tweet 369: Translated(src=es, dest=en, text=LPF // Los Colts del Este, owned by Venezuelan Blanco, surprised the champion in Panama https://t.co/lwkVyTbNgO https://t.co/j7IgngUFsW, pronunciation=LPF // Los Colts del Este, owned by Venezuelan Blanco, surprised the champion in Panama https://t.co/lwkVyTbNgO https://t.co/j7IgngUFsW, extra_data="{'translat...") 
+
+0.7003  | Tweet 370: Translated(src=es, dest=en, text=#PA Los Colts del Este, owned by Venezuelan Blanco, surprised the champion in Panama. Goals by Josué Luna and César Yanis… https://t.co/kUamD0iUB7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 371: Translated(src=es, dest=en, text=@joseago75398018: A VENEZUELAN LIVING @alessiogronchi IN PANAMA WHO DID NOT EXPERIENCE THE DICTATORSHIP OF 1968 AND THE BUSINESSES OF @PRDesPanama THE TO…, pronunciation=@joseago75398018: A VENEZUELAN LIVING @alessiogronchi IN PANAMA WHO DID NOT EXPERIENCE THE DICTATORSHIP OF 1968 AND THE BUSINESSES OF @PRDesPanama THE TO…, extra_data="{'translat...") 
+
+0.0  | Tweet 372: Translated(src=es, dest=en, text=A VENEZUELAN LIVING @alessiogronchi IN PANAMA WHO DID NOT LIVE THE DICTATORSHIP OF 1968 AND THE BUSINESSES OF @PRDesPanama THE… https://t.co/tn6JS7eCff, pronunciation=A VENEZUELAN LIVING @alessiogronchi IN PANAMA WHO DID NOT LIVE THE DICTATORSHIP OF 1968 AND THE BUSINESSES OF @PRDesPanama THE… https://t.co/tn6JS7eCff, extra_data="{'translat...") 
+
+-0.0516  | Tweet 373: Translated(src=es, dest=en, text=@CopaAirlines Hello. A query to enter or leave Panama. I am Venezuelan with a Panamanian ID. My pa… https://t.co/poU5LU5krR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 374: Translated(src=es, dest=en, text=@EnfermeroEnred Venezuelan in Panama, pronunciation=@EnfermeroEnred Venezuelan in Panama, extra_data="{'translat...") 
+
+0.4588  | Tweet 375: Translated(src=es, dest=en, text=@ItsTejeda @ANTONIOPRISOB @SergioSarmiento Haha. When do you mean see other sides? Of course if you put the Cuban channel,… https://t.co/h4ITRckVc7, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 376: Translated(src=es, dest=en, text=@esauglez90 @kirito507pty @AlexTienda The useless man doesn't even know what he says, he's from Panama, not Venezuelan, pronunciation=@esauglez90 @kirito507pty @AlexTienda The useless man doesn't even know what he says, he's from Panama, not Venezuelan, extra_data="{'translat...") 
+
+0.8126  | Tweet 377: Translated(src=es, dest=en, text=@MarioSanchezVe: The young Venezuelan coach Daniel Blanco (@Daniel__Blanco) achieved a new victory with his Colts from the East that won 2-1..., pronunciation=@MarioSanchezVe: The young Venezuelan coach Daniel Blanco (@Daniel__Blanco) achieved a new victory with his Colts from the East that won 2-1..., extra_data="{'translat...") 
+
+0.0  | Tweet 378: Translated(src=es, dest=en, text=@NoticiasAlDesp1: Venezuelan children's baseball team without resources to travel, was crowned undefeated in Panama #02Aug #LigaBeisbolInfanti…, pronunciation=@NoticiasAlDesp1: Venezuelan children's baseball team without resources to travel, was crowned undefeated in Panama #02Aug #LigaBeisbolInfanti…, extra_data="{'translat...") 
+
+0.0  | Tweet 379: Translated(src=es, dest=en, text=The young Venezuelan DT Daniel Blanco (@Daniel__Blanco) achieved a new victory with his Colts from the East that won… https://t.co/5EzAk8zFgo, pronunciation=The young Venezuelan DT Daniel Blanco (@Daniel__Blanco) achieved a new victory with his Colts from the East that won… https://t.co/5EzAk8zFgo, extra_data="{'translat...") 
+
+0.0  | Tweet 380: Translated(src=es, dest=en, text=@Chivo2030 @kirito507pty @AlexTienda That clown isn't even Venezuelan, he's from Panama., pronunciation=@Chivo2030 @kirito507pty @AlexTienda That clown isn't even Venezuelan, he's from Panama., extra_data="{'translat...") 
+
+0.6808  | Tweet 381: Translated(src=es, dest=en, text=@TiTiToRe: Cartes was included 3 weeks ago by the United States in the list of “significantly corrupt” people, his name appears on…, pronunciation=@TiTiToRe: Cartes was included 3 weeks ago by the United States in the list of “significantly corrupt” people, his name appears on…, extra_data="{'translat...") 
+
+0.6808  | Tweet 382: Translated(src=es, dest=en, text=Cartes was included 3 weeks ago by the United States on the list of “significantly corrupt” people, his name… https://t.co/9b1aiB0KpW, pronunciation=Cartes was included 3 weeks ago by the United States on the list of “significantly corrupt” people, his name… https://t.co/9b1aiB0KpW, extra_data="{'translat...") 
+
+0.0  | Tweet 383: Translated(src=es, dest=en, text=@elcuaracom A Venezuelan who was passing through Panama moves to Mexico where when this new country does not produce… https://t.co/VEb9OuoZbA, pronunciation=@elcuaracom A Venezuelan who was passing through Panama moves to Mexico where when this new country does not produce… https://t.co/VEb9OuoZbA, extra_data="{'translat...") 
+
+0.0  | Tweet 384: Translated(src=es, dest=en, text=I have about 22 cousins ​​of Venezuelan origin and only 1 has stayed. The other 21 live in the US, Colombia, Panama… https://t.co/xzIv37SMPr, pronunciation=I have about 22 cousins ​​of Venezuelan origin and only 1 has stayed. The other 21 live in the US, Colombia, Panama… https://t.co/xzIv37SMPr, extra_data="{'translat...") 
+
+0.5801  | Tweet 385: Translated(src=es, dest=en, text=@_Soyunajoya @VenteVenezuela Hi, yes, no problem. It happens that I travel with my Chilean passport to leave Chile,… https://t.co/3etgfqx1N0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 386: Translated(src=es, dest=en, text=@Rosaura60660013: A hiker from the Darién had a fearsome company during his passage through the jungle
+Venezuelan migrant Rafhael "Pepito"…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 387: Translated(src=es, dest=en, text=@javieroliver_ct: A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet as he crosses the…, pronunciation=@javieroliver_ct: A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet as he crosses the…, extra_data="{'translat...") 
+
+0.0  | Tweet 388: Translated(src=es, dest=en, text=@Sandraccalvarez This country is not for everyone. The common Venezuelan can't stand it, I tell you. Take for your bread… https://t.co/IdxjvDy9Oh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7351  | Tweet 389: Translated(src=es, dest=en, text=@abragarcia200 @AlexaGomezDos @Lizbyaione1 Before, a Venezuelan arrived in Panama and they treated him with respect and even… https://t.co/dlj4B5rWqz, pronunciation=@abragarcia200 @AlexaGomezDos @Lizbyaione1 Before, a Venezuelan arrived in Panama and they treated him with respect and even… https://t.co/dlj4B5rWqz, extra_data="{'translat...") 
+
+0.5859  | Tweet 390: Translated(src=es, dest=en, text=The Creole, named Rafhael "Pepito" Carvajal, from Ciudad Bolívar, shared on his social networks, the jaguar that… https://t.co/QtiH3bB57b, pronunciation=The Creole, named Rafhael "Pepito" Carvajal, from Ciudad Bolívar, shared on his social networks, the jaguar that… https://t.co/QtiH3bB57b, extra_data="{'translat...") 
+
+-0.6124  | Tweet 391: Translated(src=es, dest=en, text=@AlexaGomezDos Here in the USA I have not seen a Venezuelan embarrassed by that, because here we are all immigrants and in e… https://t.co/iXnt7xIVID, pronunciation=@AlexaGomezDos Here in the USA I have not seen a Venezuelan embarrassed by that, because here we are all immigrants and in e… https://t.co/iXnt7xIVID, extra_data="{'translat...") 
+
+0.4588  | Tweet 392: Translated(src=es, dest=en, text=@abragarcia200 @AlexaGomezDos @Lizbyaione1 In the case of Panama, the Venezuelan is the one who takes advantage of the Venezuelan… https://t.co/EYeY3iFU9y, pronunciation=@abragarcia200 @AlexaGomezDos @Lizbyaione1 In the case of Panama, the Venezuelan is the one who takes advantage of the Venezuelan… https://t.co/EYeY3iFU9y, extra_data="{'translat...") 
+
+0.7351  | Tweet 393: Translated(src=es, dest=en, text=When will they teach the Venezuelan youtuber resident in Spain Wender Enrique Villalobos to respect Zulay Rodríg… https://t.co/wGoxFHxrU3, pronunciation=When will they teach the Venezuelan youtuber resident in Spain Wender Enrique Villalobos to respect Zulay Rodríg… https://t.co/wGoxFHxrU3, extra_data="{'translat...") 
+
+0.0  | Tweet 394: Translated(src=es, dest=en, text=@MichelCaballero: RETURN FROM PANAMA "I wouldn't go again, I already paid for my hazing." See the story of this Venezuelan who returned to the Pa…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 395: Translated(src=es, dest=en, text=@drtonydefreitas Venezuelan in Panama, pronunciation=@drtonydefreitas Venezuelan in Panama, extra_data="{'translat...") 
+
+-0.4588  | Tweet 396: Translated(src=es, dest=en, text=The Venezuelan U12 baseball team remains undefeated after beating Panama by a score of 7-0 ⚾
+
+With this vic… https://t.co/yTs7oS76Zt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 397: Translated(src=es, dest=en, text=Remember that if you are Venezuelan you can make a stopover in Panama without the need for a visa, as long as the stopover time does not exceed 12 hours., pronunciation=Remember that if you are Venezuelan you can make a stopover in Panama without the need for a visa, as long as the stopover time does not exceed 12 hours., extra_data="{'translat...") 
+
+0.0  | Tweet 398: Translated(src=es, dest=en, text=@lord_kir17: Anyone who has spoken with a Venezuelan or Cuban who lives or passes through Panama understands why the soci…, pronunciation=@lord_kir17: Anyone who has spoken with a Venezuelan or Cuban who lives or passes through Panama understands why the soci…, extra_data="{'translat...") 
+
+0.5859  | Tweet 399: Translated(src=es, dest=en, text=The Creole, named Rafhael "Pepito" Carvajal, a native of Ciudad Bolívar, shared the jagua on his social networks… https://t.co/if3ncQpLPd, pronunciation=The Creole, named Rafhael "Pepito" Carvajal, a native of Ciudad Bolívar, shared the jagua on his social networks… https://t.co/if3ncQpLPd, extra_data="{'translat...") 
+
+-0.4939  | Tweet 400: Translated(src=es, dest=en, text=@UnidosRR Already banned
+ Mature Nicholas
+ Gustavo Petro
+
+ Already banned Full in Colombia and Venezuelan… https://t.co/O2WlOuZDp1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 401: Translated(src=es, dest=en, text=@ObservadBinario: #BIN Remember, this week, on Sunday, will be the inauguration of Petro and even the King of Spain, Felipe, will attend.…, pronunciation=@ObservadBinario: #BIN Remember, this week, on Sunday, will be the inauguration of Petro and even the King of Spain, Felipe, will attend.…, extra_data="{'translat...") 
+
+0.0  | Tweet 402: Translated(src=es, dest=en, text=@lil_grace60 @rascanio57 @toroalvarol What a barbaric criterion to define territorial arbitrations, but you don't see it… https://t.co/VNvF0E9SSX, pronunciation=@lil_grace60 @rascanio57 @toroalvarol What a barbaric criterion to define territorial arbitrations, but you don't see it… https://t.co/VNvF0E9SSX, extra_data="{'translat...") 
+
+0.0  | Tweet 403: Translated(src=es, dest=en, text=U12 Baseball World Cup: Venezuela blanks Panama and remains undefeated (+Video) | Baseball 123|… https://t.co/KWQCfulMm1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 404: Translated(src=es, dest=en, text=@cocando: Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful multinational…, pronunciation=@cocando: Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful multinational…, extra_data="{'translat...") 
+
+0.5859  | Tweet 405: Translated(src=es, dest=en, text=A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while crossing the… https://t.co/dgZLzJUak6, pronunciation=A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while crossing the… https://t.co/dgZLzJUak6, extra_data="{'translat...") 
+
+0.0  | Tweet 406: Translated(src=es, dest=en, text=@grmanz @Goliadx @JCTapiaLMB His socialist ideas are going to lead Panama into an economic imbalance. His mentality… https://t.co/buzo0MoX0z, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 407: Translated(src=es, dest=en, text=@jorgedelaguard2 @AMOTTAPTY As a Venezuelan migrant in Panama I said in 2016, then in 2018 that on a social level I love her… https://t.co/LRw4beKfur, pronunciation=@jorgedelaguard2 @AMOTTAPTY As a Venezuelan migrant in Panama I said in 2016, then in 2018 that on a social level I love her… https://t.co/LRw4beKfur, extra_data="{'translat...") 
+
+-0.4767  | Tweet 408: Translated(src=es, dest=en, text=@catatumbonews_: 🔺 MIGRANT ENCOUNTERS A JAGUAR IN THE DARIÉN
+
+A Venezuelan who crossed the dangerous Gap of the Darién, located between…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7184  | Tweet 409: Translated(src=es, dest=en, text=@ColombeiaTV: #1deagosto The U-12 Venezuelan team advances to the round of the Baseball World Cup, after beating Panama 7 runs by 0.…, pronunciation=@ColombeiaTV: #1deagosto The U-12 Venezuelan team advances to the round of the Baseball World Cup, after beating Panama 7 runs by 0.…, extra_data="{'translat...") 
+
+-0.7184  | Tweet 410: Translated(src=es, dest=en, text=#1deagosto The U-12 Venezuelan team advances to the round of the Baseball World Cup, after beating Panama by 7 races… https://t.co/XnimZCMLHe, pronunciation=#1deagosto The U-12 Venezuelan team advances to the round of the Baseball World Cup, after beating Panama by 7 races… https://t.co/XnimZCMLHe, extra_data="{'translat...") 
+
+0.8795  | Tweet 411: Translated(src=es, dest=en, text=ATTENTION VENEZUELA WON!
+
+The Venezuelan U12 Baseball Team WON 7 races X 0 to the Panamanian National Team… https://t.co/KFlCYxVZEU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 412: Translated(src=es, dest=en, text=@PabloRueda80 May God and the Virgin cover him with their sacred mantle and may he soon recover and achieve full health… https://t.co/EsMkFzU3Dn, pronunciation=@PabloRueda80 May God and the Virgin cover him with their sacred mantle and may he soon recover and achieve full health… https://t.co/EsMkFzU3Dn, extra_data="{'translat...") 
+
+0.34  | Tweet 413: Translated(src=es, dest=en, text=🇵🇦 🇻🇪 | A Venezuelan migrant shared a video where a jaguar can be seen walking at his feet while… https://t.co/AEczoQpJhK, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 414: Translated(src=es, dest=en, text=@MeridianoTV: Venezuela blanks Panama and remains undefeated in the U12 Baseball World Cup (+Video) https://t.co/UD5qfSNfEx, pronunciation=@MeridianoTV: Venezuela blanks Panama and remains undefeated in the U12 Baseball World Cup (+Video) https://t.co/UD5qfSNfEx, extra_data="{'translat...") 
+
+0.0  | Tweet 415: Translated(src=es, dest=en, text=Anyone who has spoken with a Venezuelan or Cuban who lives or passes through Panama understands why he is so despised… https://t.co/nSfYLDbWQj, pronunciation=Anyone who has spoken with a Venezuelan or Cuban who lives or passes through Panama understands why he is so despised… https://t.co/nSfYLDbWQj, extra_data="{'translat...") 
+
+0.0  | Tweet 416: Translated(src=es, dest=en, text=We continue my people!!
+
+U12 Baseball World Cup: Venezuela blanks Panama and remains undefeated (+ Video) https://t.co/X7UYr1xhzW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 417: Translated(src=es, dest=en, text=#BIN Remember, this week, on Sunday, will be the inauguration of Petro and even the King of Spain, Felipe, will attend… https://t.co/lpZGoap1JS, pronunciation=#BIN Remember, this week, on Sunday, will be the inauguration of Petro and even the King of Spain, Felipe, will attend… https://t.co/lpZGoap1JS, extra_data="{'translat...") 
+
+0.6808  | Tweet 418: Translated(src=es, dest=en, text=Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful mul… https://t.co/JKA3lja5lr, pronunciation=Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful mul… https://t.co/JKA3lja5lr, extra_data="{'translat...") 
+
+0.0  | Tweet 419: Translated(src=es, dest=en, text=Venezuela blanks Panama and remains undefeated in the U12 Baseball World Cup (+ Video) https://t.co/UD5qfSNfEx, pronunciation=Venezuela blanks Panama and remains undefeated in the U12 Baseball World Cup (+ Video) https://t.co/UD5qfSNfEx, extra_data="{'translat...") 
+
+0.0  | Tweet 420: Translated(src=es, dest=en, text=@radio_migrante: #31Jul Luis Alvarado went to Panama 🇵🇦 10 years ago for a job offer.
+
+In principle, he would stay for two years and I would return..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 421: Translated(src=es, dest=en, text=@markagrams That one goes to Panama. I don't understand why they come from San Francisco to Maracaibo to return to the south until… https://t.co/Nf2fMC8AZY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 422: Translated(src=es, dest=en, text=#31Jul Luis Alvarado went to Panama 🇵🇦 10 years ago for a job offer.
+
+In principle he would be two years and return… https://t.co/nXNXmrChST, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0258  | Tweet 423: Translated(src=es, dest=en, text=@Arrested_Word Fashion like everything, unfortunately the Venezuelan is a celebrity by nature. The same thing happened when you are… https://t.co/FYaF3T46B1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 424: Translated(src=es, dest=en, text=Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful mul… https://t.co/qwzJbDYgor, pronunciation=Documents and audios compromise companies from Colombia, Panama and Venezuela in a case whose key is the powerful mul… https://t.co/qwzJbDYgor, extra_data="{'translat...") 
+
+0.9805  | Tweet 425: Translated(src=es, dest=en, text=@NicolasMaduro: I am very happy and excited for the triumph of our young cyclist, Lilibeth Chacón, by becoming champion in the v…, pronunciation=@NicolasMaduro: I am very happy and excited for the triumph of our young cyclist, Lilibeth Chacón, by becoming champion in the v…, extra_data="{'translat...") 
+
+-0.4767  | Tweet 426: Translated(src=es, dest=en, text=@LaVerdadVargas: #Diaspora • Venezuelan migrant finds himself with a jaguar in the Darién jungle
+
+A Venezuelan who crossed the dangerous Ta…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5574  | Tweet 427: Translated(src=es, dest=en, text=@Mariellangsaez Thank God there are several options
+National
+Bancamiga
+From Venezuela with international support… https://t.co/X0aazlSj26, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 428: Translated(src=es, dest=en, text=Truths and myths about the not so recent "journalistic findings" about the internationally wanted ex-boss… https://t.co/gBnxaJsERz, pronunciation=Truths and myths about the not so recent "journalistic findings" about the internationally wanted ex-boss… https://t.co/gBnxaJsERz, extra_data="{'translat...") 
+
+-0.4019  | Tweet 429: Translated(src=es, dest=en, text=A hiker from the Darién had a fearsome company during his passage through the jungle
+Venezuelan migrant Rafhael "Pepi… https://t.co/MyrGZFQpTe, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6582  | Tweet 430: Translated(src=es, dest=en, text=@DanielMartinezD: This and more crazy things from a Venezuelan in Panama in the new episode of #DNQLE with @elalexgoncalves —> https://t.co/BG…, pronunciation=@DanielMartinezD: This and more crazy things from a Venezuelan in Panama in the new episode of #DNQLE with @elalexgoncalves —> https://t.co/BG…, extra_data="{'translat...") 
+
+0.0  | Tweet 431: Translated(src=es, dest=en, text=#Diaspora • Venezuelan migrant finds himself with a jaguar in the Darién jungle
+
+A Venezuelan who went through the dangers… https://t.co/f3jtWBMLwD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 432: Translated(src=es, dest=en, text=The @OIM_RRMV and @OEA organize the first Regional Meeting of Women Leaders of the Venezuelan Diaspora🇻🇪 in Panama🇵🇦.
+
+E… https://t.co/aLNExqXEEd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 433: Translated(src=es, dest=en, text=@OEA_Inclusion: #Now 🔴
+We kick off the Regional Meeting of Women Leaders of the Venezuelan Diaspora in Panama 🇵🇦 organized together with…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 434: Translated(src=es, dest=en, text=#Now 🔴
+We kick off the Regional Meeting of Women Leaders of the Venezuelan Diaspora in Panama 🇵🇦 organized jointly… https://t.co/L0jWVvqsq0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 435: Translated(src=es, dest=en, text=First Regional Meeting of Women Leaders of the Venezuelan Diaspora, Panama 2022. @OIM_RRMV @OEA_oficial @oimpanama… https://t.co/SSPQgOkYZU, pronunciation=First Regional Meeting of Women Leaders of the Venezuelan Diaspora, Panama 2022. @OIM_RRMV @OEA_oficial @oimpanama… https://t.co/SSPQgOkYZU, extra_data="{'translat...") 
+
+0.0  | Tweet 436: Translated(src=es, dest=en, text=Talent! ☕ | Nadia Bachur, the Venezuelan in Panama who captures her art in a cup of coffee https://t.co/07ti0TzrJu, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 437: Translated(src=es, dest=en, text=@soc_original @saias_vk @JaviGTarin @ElHuffPost There is a famous statement in which Bolívar (how embarrassing) intends… https://t.co/gzOD7yUd6B, pronunciation=@soc_original @saias_vk @JaviGTarin @ElHuffPost There is a famous statement in which Bolívar (how embarrassing) intends… https://t.co/gzOD7yUd6B, extra_data="{'translat...") 
+
+0.4019  | Tweet 438: Translated(src=es, dest=en, text=Where can I buy Venezuelan chicha here in Panama? I was craving for some tiktok I saw. What a treat, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 439: Translated(src=es, dest=en, text=@SENANPanama: Right now our aircraft AN-041 🚁 arrives at the Panama Pacifico airport, with the medical transfer of a woman from…, pronunciation=@SENANPanama: Right now our aircraft AN-041 🚁 arrives at the Panama Pacifico airport, with the medical transfer of a woman from…, extra_data="{'translat...") 
+
+0.0  | Tweet 440: Translated(src=gn, dest=en, text=@_atreides_ @janetsanz plans to surrender to England Nicaragua and Panama in exchange for 30,000 rifles and a twenty... https://t.co/fznaCGKWhv, pronunciation=@_atreides_ @janetsanz plans to surrender to England Nicaragua and Panama in exchange for 30,000 rifles and a twenty... https://t.co/fznaCGKWhv, extra_data="{'translat...") 
+
+-0.802  | Tweet 441: Translated(src=es, dest=en, text=@MoogusHS @Lapankey_ @RabidBlossom well they're going to kill me for this but... the arepa is Venezuelan, because it was made and… https://t.co/xhahWYDErc, pronunciation=@MoogusHS @Lapankey_ @RabidBlossom well they're going to kill me for this but... the arepa is Venezuelan, because it was made and… https://t.co/xhahWYDErc, extra_data="{'translat...") 
+
+0.0  | Tweet 442: Translated(src=es, dest=en, text=@San145mmo Holaaaaa, I'm Venezuelan hahahahaha but one of my nicknames is Panama, because my last name is Manama and because… https://t.co/yCe6FogXSF, pronunciation=@San145mmo Holaaaaa, I'm Venezuelan hahahahaha but one of my nicknames is Panama, because my last name is Manama and because… https://t.co/yCe6FogXSF, extra_data="{'translat...") 
+
+0.0  | Tweet 443: Translated(src=es, dest=en, text=I am Venezuelan and I read you from Panama https://t.co/4quFQRX466, pronunciation=I am Venezuelan and I read you from Panama https://t.co/4quFQRX466, extra_data="{'translat...") 
+
+0.0  | Tweet 444: Translated(src=es, dest=en, text=Its area corresponded to the territories of the current republics of Colombia, Ecuador, Panama and Venezuela in… https://t.co/FVzQmtYqSF, pronunciation=Its area corresponded to the territories of the current republics of Colombia, Ecuador, Panama and Venezuela in… https://t.co/FVzQmtYqSF, extra_data="{'translat...") 
+
+-0.8689  | Tweet 445: Translated(src=es, dest=en, text=@El_Coloraooo: On the night of the catastrophe in #matanzas #cubaestadofailed #pccgenocidal while the Mexican aid planes land…, pronunciation=@El_Coloraooo: On the night of the catastrophe in #matanzas #cubaestadofailed #pccgenocidal while the Mexican aid planes land…, extra_data="{'translat...") 
+
+-0.8689  | Tweet 446: Translated(src=es, dest=en, text=On the night of the catastrophe in #matanzas #cubaestadofalido #pccgenocida while the aid planes land… https://t.co/4QsPaSXHZb, pronunciation=On the night of the catastrophe in #matanzas #cubaestadofalido #pccgenocida while the aid planes land… https://t.co/4QsPaSXHZb, extra_data="{'translat...") 
+
+-0.0258  | Tweet 447: Translated(src=es, dest=en, text=Many have overlooked the magnitude of Venezuelan migration, it exceeds the total population of Uruguay or Panama. ?… https://t.co/L1NMdLzsh5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.872  | Tweet 448: Translated(src=es, dest=en, text=@Cut_Point: #Sport | Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama 🥇 http…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.872  | Tweet 449: Translated(src=es, dest=en, text=#Sport | Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama 🥇 https://t.co/pQOKeasqCZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 450: Translated(src=es, dest=en, text=@ fetucini357 @limon_srta @edgle_andrade @dinonugent The funny thing is that I learned about golf in my cooking classes… https://t.co/t8x873g3lL, pronunciation=@ fetucini357 @limon_srta @edgle_andrade @dinonugent The funny thing is that I learned about golf in my cooking classes… https://t.co/t8x873g3lL, extra_data="{'translat...") 
+
+0.6808  | Tweet 451: Translated(src=es, dest=en, text=@semide No. They are from the Venezuelan right that for years governed a country just for them and promoted the revolution b… https://t.co/r3ihisB7uQ, pronunciation=@semide No. They are from the Venezuelan right that for years governed a country just for them and promoted the revolution b… https://t.co/r3ihisB7uQ, extra_data="{'translat...") 
+
+0.872  | Tweet 452: Translated(src=es, dest=en, text=#Sport | Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama 🥇 https://t.co/pQOKeaaPep, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4215  | Tweet 453: Translated(src=es, dest=en, text=@RafaelA09653231: @LaZurdaDeChavez @RicardoKonducta WHAT A HURT THAT THIS CLASS OF GARBAGE LIKE @NituPerez COME, LIVE IN PANAMA AND THEN…, pronunciation=@RafaelA09653231: @LaZurdaDeChavez @RicardoKonducta WHAT A HURT THAT THIS CLASS OF GARBAGE LIKE @NituPerez COME, LIVE IN PANAMA AND THEN…, extra_data="{'translat...") 
+
+-0.4215  | Tweet 454: Translated(src=es, dest=en, text=@LaZurdaDeChavez @RicardoKonducta WHAT A HURT THAT THIS CLASS OF GARBAGE LIKE @NituPerez COME, LIVE IN PANAMA AND E… https://t.co/BtEYNJvI1M, pronunciation=@LaZurdaDeChavez @RicardoKonducta WHAT A HURT THAT THIS CLASS OF GARBAGE LIKE @NituPerez COME, LIVE IN PANAMA AND E… https://t.co/BtEYNJvI1M, extra_data="{'translat...") 
+
+0.8934  | Tweet 455: Translated(src=es, dest=en, text=@rusanovuy Do you want great free excel classes? You are going to drink with Carolina Andrade from @smartproacademy. She is… https://t.co/rangNLpvkF, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 456: Translated(src=es, dest=en, text=@adelso_car: ATTENTION VENEZUELA WON!
+
+The Venezuelan U12 Baseball Team, WON 7 races X 0 to the Panama Team for the…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 457: Translated(src=es, dest=en, text=Talent! ☕ | Nadia Bachur, the Venezuelan in Panama who captures her art in a cup of coffee https://t.co/07ti0TR384, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 458: Translated(src=es, dest=en, text=@marce_hg When opening an account, Payoneer asks you for bank account information, if you registered a Venezuelan account, it does not… https://t.co/6FZr9NGMPV, pronunciation=@marce_hg When opening an account, Payoneer asks you for bank account information, if you registered a Venezuelan account, it does not… https://t.co/6FZr9NGMPV, extra_data="{'translat...") 
+
+0.0  | Tweet 459: Translated(src=es, dest=en, text=At this time our aircraft AN-041 🚁 arrives at the Panama Pacific airport, with the medical transfer of a m... https://t.co/a6cn1l2jjK, pronunciation=At this time our aircraft AN-041 🚁 arrives at the Panama Pacific airport, with the medical transfer of a m... https://t.co/a6cn1l2jjK, extra_data="{'translat...") 
+
+0.0  | Tweet 460: Translated(src=es, dest=en, text=@betania_jimen @JosRafaelRuiz2 @robertodeniz @DouglasCardozoN @indhriana @RoiLopezRivas In the year 2014 María Corina… https://t.co/uKisxjM9mN, pronunciation=@betania_jimen @JosRafaelRuiz2 @robertodeniz @DouglasCardozoN @indhriana @RoiLopezRivas In the year 2014 María Corina… https://t.co/uKisxjM9mN, extra_data="{'translat...") 
+
+0.7003  | Tweet 461: Translated(src=es, dest=en, text=@migracionpanama Hello, good afternoon, I'm Venezuelan, enter Panama with a stamped tourist visa that expires in 15 days.… https://t.co/b8XvPBzxL2, pronunciation=@migracionpanama Hello, good afternoon, I'm Venezuelan, enter Panama with a stamped tourist visa that expires in 15 days.… https://t.co/b8XvPBzxL2, extra_data="{'translat...") 
+
+0.0  | Tweet 462: Translated(src=es, dest=en, text=@Soylapelona I know but the Dictatorial Regime is the one that manages Venezuelan foreign policy. As a Panamanian I recognize… https://t.co/u4wfmhCxSJ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 463: Translated(src=ha, dest=en, text=@hevz06 @MARENIA16 @Jax2370 @1991OF02 @limon_srta @LuzLpezDelMar1 @gloriamelania @curropanama @yankarlos38… https://t.co/0NwGlj8XcK, pronunciation=@hevz06 @MARENIA16 @Jax2370 @1991OF02 @limon_srta @LuzLpezDelMar1 @gloriamelania @curropanama @yankarlos38… https://t.co/0NwGlj8XcK, extra_data="{'translat...") 
+
+0.7003  | Tweet 464: Translated(src=es, dest=en, text=@CopaAirlines good morning, check I'm traveling to Venezuela with an expired passport but we have a Venezuelan identity card and an Argentinian ID… https://t.co/OikoSqjiIg, pronunciation=@CopaAirlines good morning, check I'm traveling to Venezuela with an expired passport but we have a Venezuelan identity card and an Argentinian ID… https://t.co/OikoSqjiIg, extra_data="{'translat...") 
+
+-0.0772  | Tweet 465: Translated(src=es, dest=en, text=@RoiLopezRivas: Panamanian police rescue the body of a Venezuelan woman who died trying to cross the Darién. RIP.
+https://t.co/8x9lwe7sji, pronunciation=None, extra_data="{'translat...") 
+
+0.7783  | Tweet 466: Translated(src=es, dest=en, text=@Mundo24_info: Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama ---
+
+https://t.co/…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 467: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama ---
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 468: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama -.
+
+https://t.co/aXuC8gepAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 469: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama.-
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 470: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama --
+
+https://t.co/aXuC8gepAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 471: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama -
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 472: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama.....
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 473: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama....
+
+https://t.co/aXuC8gepAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0258  | Tweet 474: Translated(src=es, dest=en, text=@javiermayorca: https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5,000 km and 9 countries to reach the US by land. c…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 475: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama...
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 476: Translated(src=es, dest=en, text=@Mundo24_info: Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama.
+
+https://t.co/aX…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 477: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama.
+
+https://t.co/aXuC8fWOIX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 478: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama.
+
+https://t.co/aXuC8gepAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 479: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8gepAv
+........., pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 480: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8fWOIX
+......, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 481: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8gepAv
+......, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 482: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8fWOIX
+....., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 483: Translated(src=ha, dest=en, text=@Jax2370 @hevz06 @wawiberts @1991OF02 @limon_srta @LuzLpezDelMar1 @gloriamelania @curropanama @yankarlos38… https://t.co/xBordgKsYZ, pronunciation=@Jax2370 @hevz06 @wawiberts @1991OF02 @limon_srta @LuzLpezDelMar1 @gloriamelania @curropanama @yankarlos38… https://t.co/xBordgKsYZ, extra_data="{'translat...") 
+
+0.7783  | Tweet 484: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8fWOIX
+...., pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 485: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8fWOIX
+..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 486: Translated(src=es, dest=en, text=@Teresa508924561: #TerritoryIntegrity
+VENEZUELA WON!
+🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪
+The Venezuelan U12 Baseball Team WON 7 chars…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 487: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8gepAv
+.., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 488: Translated(src=es, dest=en, text=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/LIU0aWTGSN, pronunciation=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/LIU0aWTGSN, extra_data="{'translat...") 
+
+0.0258  | Tweet 489: Translated(src=es, dest=en, text=@javiermayorca: https://t.co/7WGENE6aKM Venezuelan and her family traveled more than 5,000 km and 9 countries to reach the US by land. c…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 490: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8fWOIX
+., pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 491: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama
+
+https://t.co/aXuC8gepAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9274  | Tweet 492: Translated(src=es, dest=en, text=@Mundo24_info: Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama https://t.co/aXuC8…, pronunciation=@Mundo24_info: Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama https://t.co/aXuC8…, extra_data="{'translat...") 
+
+0.9274  | Tweet 493: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama https://t.co/aXuC8gepAv, pronunciation=Venezuelan Luna Marcano won the gold medal at the National Surf Circuit held in Panama https://t.co/aXuC8gepAv, extra_data="{'translat...") 
+
+0.6597  | Tweet 494: Translated(src=es, dest=en, text=@MiabueLo01 @AtencioJP @ElGallinazo Of course he is a communist, and he receives the support of Venezuelan people in whom his pe… https://t.co/l06TF8Tw4m, pronunciation=@MiabueLo01 @AtencioJP @ElGallinazo Of course he is a communist, and he receives the support of Venezuelan people in whom his pe… https://t.co/l06TF8Tw4m, extra_data="{'translat...") 
+
+0.4215  | Tweet 495: Translated(src=es, dest=en, text=the admirer @IvanEskildsen and team meet with leaders from @thepanamaclinic and the Panamanian Chamber of Entrepreneurs Ven… https://t.co/Br4o410kM7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 496: Translated(src=es, dest=en, text=https://t.co/7WGENE6aKM Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/B6fLmEm5aV, pronunciation=https://t.co/7WGENE6aKM Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/B6fLmEm5aV, extra_data="{'translat...") 
+
+0.4753  | Tweet 497: Translated(src=es, dest=en, text=@FraseSimple: Talent! ☕ | Nadia Bachur, the Venezuelan in Panama who captures her art in a cup of coffee https://t.co/07ti0TzrJu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6705  | Tweet 498: Translated(src=es, dest=en, text=#onedayliketoday ✍
+#2Aug 1985, María Pérez-Talavera, Venezuelan writer, was born.
+
+With her novel "They were made of wood" they… https://t.co/wjWWx3PUzn, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 499: Translated(src=es, dest=en, text=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/7NpTKkPqLT, pronunciation=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/7NpTKkPqLT, extra_data="{'translat...") 
+
+0.0516  | Tweet 500: Translated(src=es, dest=en, text=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/6fMXa6d4Q7, pronunciation=https://t.co/7WGENDOzmc Venezuelan and her family traveled more than 5000 km and 9 countries to reach the US by land… https://t.co/6fMXa6d4Q7, extra_data="{'translat...") 
+
+-0.2732  | Tweet 501: Translated(src=es, dest=en, text=@dt_vzla: #U12WorldCup @TeamBeisbolVe
+
+💪🏻🇻🇪The Chamos are still UNDEFEATED⚾️🏆
+
+ The Venezuelan U12 baseball team that disputes the world…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 502: Translated(src=es, dest=en, text=#TerritoryIntegrity
+VENEZUELA WON!
+🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪🇻🇪
+The Venezuelan U12 Baseball Team WON 7… https://t.co/cQNz7V7cGO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 503: Translated(src=es, dest=en, text=@tonino1630: #LaCovidNoEsJuego¡ATTENTION, VENEZUELA WON!
+
+The Venezuelan U12 Baseball Team WON 7 races X 0 to the National Team…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 504: Translated(src=es, dest=en, text=#LaCovidNoEsJuego¡ATTENTION VENEZUELA WON!
+
+The Venezuelan U12 Baseball Team WON 7 races X 0 to the Se… https://t.co/F0Rb4JN6EV, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1511  | Tweet 505: Translated(src=es, dest=en, text=I still haven't reached my destination and on the stopover in Panama the one that grabbed my passport that says ~república oriental… https://t.co/fRHJ17IHXF, pronunciation=I still haven't reached my destination and on the stopover in Panama the one that grabbed my passport that says ~república oriental… https://t.co/fRHJ17IHXF, extra_data="{'translat...") 
+
+0.9274  | Tweet 506: Translated(src=es, dest=en, text=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama #1Ago https://t.co/pQOKeasqCZ, pronunciation=Venezuelan Luna Marcano won the gold medal at the National Surfing Circuit held in Panama #1Ago https://t.co/pQOKeasqCZ, extra_data="{'translat...") 
+
+-0.6582  | Tweet 507: Translated(src=es, dest=en, text=@InacVzla Messrs. INAC, the situation is very worrying, the system does not open, the passengers from Panama- Bqmto with Venezuela… https://t.co/iNTYAveKJg, pronunciation=@InacVzla Messrs. INAC, the situation is very worrying, the system does not open, the passengers from Panama- Bqmto with Venezuela… https://t.co/iNTYAveKJg, extra_data="{'translat...") 
+
+0.0  | Tweet 508: Translated(src=es, dest=en, text=#U12WorldCup @TeamBeisbolVe
+
+💪🏻🇻🇪The Chamos are still UNDEFEATED⚾️🏆
+
+ The Venezuelan U12 baseball team that plays… https://t.co/7so9HOSJFg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8795  | Tweet 509: Translated(src=es, dest=en, text=ATTENTION VENEZUELA WON!
+
+The Venezuelan U12 Baseball Team, WON 7 races X 0 to the Panamanian National Team… https://t.co/6gmyTS7YH1, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1779  | Tweet 510: Translated(src=es, dest=en, text=@ReWeirdReview: Meet the Weird Review crew.
+@yosegoncalvs (Editor of the magazine. Venezuelan-Portuguese. She lives in Pana…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 511: Translated(src=es, dest=en, text=@latimber: @noticias_58 all airlines in Venezuela are unsafe, old equipment and without spare parts, tell me Venezuelan who flew without…, pronunciation=@latimber: @noticias_58 all airlines in Venezuela are unsafe, old equipment and without spare parts, tell me Venezuelan who flew without…, extra_data="{'translat...") 
+
+0.0  | Tweet 512: Translated(src=es, dest=en, text=#OfInterest | Figures from the National Migration Service of #Panama state that 58% of migrants who cross… https://t.co/RYDDK9N3py, pronunciation=[[]], extra_data="{'translat...") 
+

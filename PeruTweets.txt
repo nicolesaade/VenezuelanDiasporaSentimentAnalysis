@@ -1465,3 +1465,1076 @@ This highly dangerous criminal group..., pronunciation=[[]], extra_data="{'trans
 
 0.0  | Tweet 620: Translated(src=es, dest=en, text=The Aragua Train extended its operations to #Bolivia, #Peru, #Chile and #Colombia. Among his main victims… https://t.co/FQ4ABOSwJD, pronunciation=[[]], extra_data="{'translat...") 
 
+0.0  | Tweet 621: Translated(src=es, dest=en, text=RETRO POADAS * MARICARMEN REGUEIRO and CATHERINE FULOP on the cover of "Tv y Novelas" Peru edition, February 1990.… https://t.co/O8TVXfFkHR, pronunciation=RETRO POADAS * MARICARMEN REGUEIRO and CATHERINE FULOP on the cover of "Tv y Novelas" Peru edition, February 1990.… https://t.co/O8TVXfFkHR, extra_data="{'translat...") 
+
+0.3818  | Tweet 622: Translated(src=es, dest=en, text=@amnistiamexico: More than half of the Venezuelan people living in Colombia and Peru are women. Governments need to ensure..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 623: Translated(src=es, dest=en, text=@ErasePeru: PROGRAMMING OF TELENOVELAS IN PERU, May 1988. On repeat: the Argentine "María de nada", the Mexican "Vanessa" and "El…, pronunciation=@ErasePeru: PROGRAMMING OF TELENOVELAS IN PERU, May 1988. On repeat: the Argentine "María de nada", the Mexican "Vanessa" and "El…, extra_data="{'translat...") 
+
+0.9153  | Tweet 624: Translated(src=es, dest=en, text=@AtlantidaDCita hahaha 🤣 lesli grace can't even fill the suit 🤣 right here in south america peru
+I c… https://t.co/mBWeRDDceC, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3818  | Tweet 625: Translated(src=es, dest=en, text=@MINCETUR: 🗓️Today, August 6, we commemorate the 198th anniversary of the Battle of Junín, an important episode in the process of our in…, pronunciation=@MINCETUR: 🗓️Today, August 6, we commemorate the 198th anniversary of the Battle of Junín, an important episode in the process of our in…, extra_data="{'translat...") 
+
+0.0  | Tweet 626: Translated(src=es, dest=en, text=More than half of the Venezuelan people living in Colombia and Peru are women. Governments have to ensure… https://t.co/54CtNUTzrv, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3818  | Tweet 627: Translated(src=es, dest=en, text=@jose4lejandro: @ssalazar_ Also Peruvians, Bolivians, etc. even even Colombians, it bothers me a lot to listen to Venec…, pronunciation=@jose4lejandro: @ssalazar_ Also Peruvians, Bolivians, etc. even even Colombians, it bothers me a lot to listen to Venec…, extra_data="{'translat...") 
+
+0.0772  | Tweet 628: Translated(src=es, dest=en, text=@NicolasMaduro Is Venezuela really prospering? Why are there so many Venetian emigrants committing crimes in Colomb… https://t.co/giSWl9wvom, pronunciation=[[]], extra_data="{'translat...") 
+
+0.969  | Tweet 629: Translated(src=es, dest=en, text=@atilioboron @arturoayala_3 thanks to this great man we have venecas prosti for 5 imperialist dollars in Lima Peru hahaha, pronunciation=@atilioboron @arturoayala_3 thanks to this great man we have venecas prosti for 5 imperialist dollars in Lima Peru hahaha, extra_data="{'translat...") 
+
+0.0  | Tweet 630: Translated(src=es, dest=en, text=The Independence of #Colombia originates in the Congress of #Angosturas and not on July 20, 1810. On August 7… https://t.co/hMp7g8WtOz, pronunciation=The Independence of #Colombia originates in the Congress of #Angosturas and not on July 20, 1810. On August 7… https://t.co/hMp7g8WtOz, extra_data="{'translat...") 
+
+0.1877  | Tweet 631: Translated(src=es, dest=en, text=@rascanio57 @VLADIMIR_CERRON Excuse me? Do not generalize ungrateful Peruvians despise us? Peru and our people… https://t.co/lopJSKb6A3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 632: Translated(src=es, dest=en, text=@RunRunesWeb If Venezuelan doctors will be paid the same as sunny generals, this country in health would be another… https://t.co/VMUarJSML7, pronunciation=@RunRunesWeb If Venezuelan doctors will be paid the same as sunny generals, this country in health would be another… https://t.co/VMUarJSML7, extra_data="{'translat...") 
+
+0.296  | Tweet 633: Translated(src=es, dest=en, text=@ElPitazoTV: #OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans meet in #Chile #Argen..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 634: Translated(src=es, dest=en, text=#OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans run into… https://t.co/SeSnfYTRGH, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 635: Translated(src=es, dest=en, text=@RuanoFaxas: @EFEnoticias @UNmigration @ACNURamericas #VENEZUELA #ELECTIONS #MIGRATION
+In 2016, 700,000 #Venezuelan #refugees in the m…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8689  | Tweet 636: Translated(src=es, dest=en, text=#INTERNATIONAL Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/0gnPP7fWf1, pronunciation=#INTERNATIONAL Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/0gnPP7fWf1, extra_data="{'translat...") 
+
+-0.4767  | Tweet 637: Translated(src=es, dest=en, text=@EstebanDHR It is sad that there are more than 2 million Venezuelans in that country, where would they go? Peru castle chile b… https://t.co/aSHcUZo08A, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 638: Translated(src=es, dest=en, text=@elvis_nieto39: There was everything there: Venezuelans (Silva, Carvajal), Colombians (Córdova, López), Argentines (Suárez, Necochea), English…, pronunciation=@elvis_nieto39: There was everything there: Venezuelans (Silva, Carvajal), Colombians (Córdova, López), Argentines (Suárez, Necochea), English…, extra_data="{'translat...") 
+
+-0.6597  | Tweet 639: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7fWf1
+#INTERNATIONALS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 640: Translated(src=es, dest=en, text=@ArmandoRVenega1: @VLADIMIR_CERRON One of the only colonizing "yokes" that we now have to get rid of in Peru, is the Bolivians,…, pronunciation=@ArmandoRVenega1: @VLADIMIR_CERRON One of the only colonizing "yokes" that we now have to get rid of in Peru, is the Bolivians,…, extra_data="{'translat...") 
+
+0.0  | Tweet 641: Translated(src=es, dest=en, text=@mrsandman12324: @AlexaGomezDos Because numerically Venezuelans are 4 cats in the USA. If proportionally they were what they are in Peru…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8689  | Tweet 642: Translated(src=es, dest=en, text=@marypana1: Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/KMdDSoxw5N, pronunciation=@marypana1: Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/KMdDSoxw5N, extra_data="{'translat...") 
+
+-0.8689  | Tweet 643: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/KMdDSoxw5N, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/KMdDSoxw5N, extra_data="{'translat...") 
+
+-0.8689  | Tweet 644: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9P2vy9 =, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/sLqR9P2vy9 =, extra_data="{'translat...") 
+
+-0.8689  | Tweet 645: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7fWf1, pronunciation=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7fWf1, extra_data="{'translat...") 
+
+-0.9432  | Tweet 646: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/zoYjl4Nnn8, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/zoYjl4Nnn8, extra_data="{'translat...") 
+
+0.6848  | Tweet 647: Translated(src=es, dest=en, text=@rascanio57 @VLADIMIR_CERRON Venezuelans or
+great Colombians ???
+And in the end so that if Bolívar proclaimed himself dictator… https://t.co/pGoq1335fV, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.886  | Tweet 648: Translated(src=es, dest=en, text=@MechadaCarne: The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them pay for…, pronunciation=@MechadaCarne: The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them pay for…, extra_data="{'translat...") 
+
+-0.8625  | Tweet 649: Translated(src=es, dest=en, text=The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them p… https://t.co/gaptXkMES4, pronunciation=The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them p… https://t.co/gaptXkMES4, extra_data="{'translat...") 
+
+0.0  | Tweet 650: Translated(src=es, dest=en, text=@RenatoRivraRhon: Ecuador-Peru border: Huaquillas. July 2022.
+Venezuelan citizens concentrated in the central park waiting to ret…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5859  | Tweet 651: Translated(src=es, dest=en, text=@Nacionalista_pe @PixelitoL_ Stop talking about fleeing if Peru will go through the same thing, you would be the first to leave Peru… https://t.co/7jzC3BK5jH, pronunciation=@Nacionalista_pe @PixelitoL_ Stop talking about fleeing if Peru will go through the same thing, you would be the first to leave Peru… https://t.co/7jzC3BK5jH, extra_data="{'translat...") 
+
+0.0  | Tweet 652: Translated(src=es, dest=en, text=@lasnotasdhoy: Two Venezuelans were shot when they got out of a taxi in Lima, by a couple of hitmen https://t.co/kQXdFea3d2, pronunciation=@lasnotasdhoy: Two Venezuelans were shot when they got out of a taxi in Lima, by a couple of hitmen https://t.co/kQXdFea3d2, extra_data="{'translat...") 
+
+0.0  | Tweet 653: Translated(src=es, dest=en, text=Two Venezuelans were shot when they got out of a taxi in Lima, by a couple of hitmen https://t.co/kQXdFea3d2, pronunciation=Two Venezuelans were shot when they got out of a taxi in Lima, by a couple of hitmen https://t.co/kQXdFea3d2, extra_data="{'translat...") 
+
+0.0  | Tweet 654: Translated(src=es, dest=en, text=@VLADIMIR_CERRON One of the only colonizing "yokes" that we now have to get rid of in Peru, is the Bolivians… https://t.co/RHYAEzr9pF, pronunciation=@VLADIMIR_CERRON One of the only colonizing "yokes" that we now have to get rid of in Peru, is the Bolivians… https://t.co/RHYAEzr9pF, extra_data="{'translat...") 
+
+0.8481  | Tweet 655: Translated(src=es, dest=en, text=The great #DiegoBertie In the iconic place of my country with our actress @RuddyRRodriguez In one of his performances of… https://t.co/Lrm2KPpPVo, pronunciation=The great #DiegoBertie In the iconic place of my country with our actress @RuddyRRodriguez In one of his performances of… https://t.co/Lrm2KPpPVo, extra_data="{'translat...") 
+
+-0.9432  | Tweet 656: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/wRn8z2dpv3, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/wRn8z2dpv3, extra_data="{'translat...") 
+
+0.0  | Tweet 657: Translated(src=es, dest=en, text=@silvano_fuentes @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on street corners… https://t.co/Yb8i9ajXVX, pronunciation=@silvano_fuentes @NicolasMaduro False, Venezuelans continue to arrive in Peru, to beg on street corners… https://t.co/Yb8i9ajXVX, extra_data="{'translat...") 
+
+-0.7695  | Tweet 658: Translated(src=es, dest=en, text=None reach 30 years VENEZUELANS IMPRISONED IN PERU VICTIMS OF THE GOVERNMENT OF NICOLÁS MADURON WITH HIS OPPONENT YUNTA. https://t.co/sRZhcmLDRn, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 659: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/UBev83xm5k, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/UBev83xm5k, extra_data="{'translat...") 
+
+0.0  | Tweet 660: Translated(src=es, dest=en, text=The Director of SAIME said in a video that the official figures they manage are not close to those published by the organizations… https://t.co/cU3v6m8Rh5, pronunciation=The Director of SAIME said in a video that the official figures they manage are not close to those published by the organizations… https://t.co/cU3v6m8Rh5, extra_data="{'translat...") 
+
+0.0  | Tweet 661: Translated(src=es, dest=en, text=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at traffic lights in Estad..., pronunciation=@sandraenriques9: @SoyJesusTarre They enter with only the ID... Soon we will see Venezuelans with the tricolor cap at traffic lights in Estad..., extra_data="{'translat...") 
+
+0.0  | Tweet 662: Translated(src=es, dest=en, text=@Efren_perozo @JoseGasspar And beware, this is not the only case of Venezuelans who for one reason or another have that recognition… https://t.co/hQgzR6hObI, pronunciation=@Efren_perozo @JoseGasspar And beware, this is not the only case of Venezuelans who for one reason or another have that recognition… https://t.co/hQgzR6hObI, extra_data="{'translat...") 
+
+-0.9432  | Tweet 663: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/cjhe5hq7zm, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is taking place… https://t.co/cjhe5hq7zm, extra_data="{'translat...") 
+
+0.0  | Tweet 664: Translated(src=es, dest=en, text=Peru-Bolivia border: the "kids" in the Desaguadero https://t.co/YmIPLvDiz9, pronunciation=Peru-Bolivia border: the "kids" in the Desaguadero https://t.co/YmIPLvDiz9, extra_data="{'translat...") 
+
+-0.1695  | Tweet 665: Translated(src=es, dest=en, text=@lemp2010: Much was WARNED to #Chile, like #Peru and #Colombia, with thousands of #Venezuelan migrants in their countries: When the Communists…, pronunciation=@lemp2010: Much was WARNED to #Chile, like #Peru and #Colombia, with thousands of #Venezuelan migrants in their countries: When the Communists…, extra_data="{'translat...") 
+
+0.0  | Tweet 666: Translated(src=es, dest=en, text=@alexanvnzla: Those Venezuelans who think that 100 dollars are nothing, do not know that they can be the difference between sleeping in…, pronunciation=@alexanvnzla: Those Venezuelans who think that 100 dollars are nothing, do not know that they can be the difference between sleeping in…, extra_data="{'translat...") 
+
+0.0  | Tweet 667: Translated(src=es, dest=en, text=@Ricardotito0 @AlertaNews24 In the midst of a pandemic, a truck said goodbye and ran over a group of Venezuelans who were returning… https://t.co/UY702kLPjX, pronunciation=@Ricardotito0 @AlertaNews24 In the midst of a pandemic, a truck said goodbye and ran over a group of Venezuelans who were returning… https://t.co/UY702kLPjX, extra_data="{'translat...") 
+
+0.7003  | Tweet 668: Translated(src=es, dest=en, text=@MeridaInces1: Today #4Jun in 1830, Antonio José de Sucre, faithful to Simón Bolívar, one of the Venezuelan…, pronunciation=@MeridaInces1: Today #4Jun in 1830, Antonio José de Sucre, faithful to Simón Bolívar, one of the Venezuelan…, extra_data="{'translat...") 
+
+0.0  | Tweet 669: Translated(src=es, dest=en, text=There are still many Venezuelans in an irregular situation. Do you consider that these actions are appropriate?
+
+This is our po… https://t.co/EiGbYDGl65, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 670: Translated(src=es, dest=en, text=#NOW At kilometer 144 of the Inter-American route, Estanzuela sector, Zacapa, police located 4 Hondurans… https://t.co/CqNYqqKQXN, pronunciation=#NOW At kilometer 144 of the Inter-American route, Estanzuela sector, Zacapa, police located 4 Hondurans… https://t.co/CqNYqqKQXN, extra_data="{'translat...") 
+
+0.0  | Tweet 671: Translated(src=es, dest=en, text=@Fede_lm1 @lluismf @nomandamarinero @GalileoArms Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha, pronunciation=@Fede_lm1 @lluismf @nomandamarinero @GalileoArms Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha, extra_data="{'translat...") 
+
+0.0  | Tweet 672: Translated(src=es, dest=en, text=Everything is entering the border with Mexico, including Venezuelans who were already in Colombia, Ecuador, Peru,… https://t.co/QUfVL80DWs, pronunciation=Everything is entering the border with Mexico, including Venezuelans who were already in Colombia, Ecuador, Peru,… https://t.co/QUfVL80DWs, extra_data="{'translat...") 
+
+-0.5267  | Tweet 673: Translated(src=es, dest=en, text=@YtConejita @maxafuva @ValeriaaRamos In Peru they work hard, most of the prostitutes and porn actresses are Venezuelan o.O, pronunciation=@YtConejita @maxafuva @ValeriaaRamos In Peru they work hard, most of the prostitutes and porn actresses are Venezuelan o.O, extra_data="{'translat...") 
+
+-0.3818  | Tweet 674: Translated(src=es, dest=en, text=🗓️Today, August 6, we commemorate the 198th anniversary of the Battle of Junín, an important episode in the process of… https://t.co/sC7vPeoyuw, pronunciation=🗓️Today, August 6, we commemorate the 198th anniversary of the Battle of Junín, an important episode in the process of… https://t.co/sC7vPeoyuw, extra_data="{'translat...") 
+
+0.7506  | Tweet 675: Translated(src=es, dest=en, text=✍🏻The report shows how Venezuelan refugee women, who represent 50% and 58% of the Venezuelan population… https://t.co/qCi1zCUFuD, pronunciation=✍🏻The report shows how Venezuelan refugee women, who represent 50% and 58% of the Venezuelan population… https://t.co/qCi1zCUFuD, extra_data="{'translat...") 
+
+0.0  | Tweet 676: Translated(src=es, dest=en, text=In #Colombia, according to SIVIGE, 80.89% of the cases of #ViolenciaContraLasMujeres in #Venezuela occurred at home… https://t.co/S4ZXWlkKDU, pronunciation=In #Colombia, according to SIVIGE, 80.89% of the cases of #ViolenciaContraLasMujeres in #Venezuela occurred at home… https://t.co/S4ZXWlkKDU, extra_data="{'translat...") 
+
+0.0  | Tweet 677: Translated(src=es, dest=en, text=A brothel in Piura, Peru, was the final destination for Ecuadorian, Peruvian, Venezuelan and Colombian women from a… https://t.co/OY7RdLbaX5, pronunciation=A brothel in Piura, Peru, was the final destination for Ecuadorian, Peruvian, Venezuelan and Colombian women from a… https://t.co/OY7RdLbaX5, extra_data="{'translat...") 
+
+-0.7184  | Tweet 678: Translated(src=es, dest=en, text=@red Naranjaorg: 🗣️Protection against gender-based violence should be a priority for all States in the Americas, as well as the…, pronunciation=@red Naranjaorg: 🗣️Protection against gender-based violence should be a priority for all States in the Americas, as well as the…, extra_data="{'translat...") 
+
+-0.8481  | Tweet 679: Translated(src=es, dest=en, text=🗣️Protection against gender-based violence should be a priority for all States in the Americas, so c… https://t.co/4tMYSTuQKE, pronunciation=🗣️Protection against gender-based violence should be a priority for all States in the Americas, so c… https://t.co/4tMYSTuQKE, extra_data="{'translat...") 
+
+0.4939  | Tweet 680: Translated(src=es, dest=en, text=Zoila Lecarnaque Saavedra sealed her fate when she agreed to transport a package from her home in Peru to Hong… https://t.co/wxFnCC1b2x, pronunciation=Zoila Lecarnaque Saavedra sealed her fate when she agreed to transport a package from her home in Peru to Hong… https://t.co/wxFnCC1b2x, extra_data="{'translat...") 
+
+-0.8689  | Tweet 681: Translated(src=es, dest=en, text=Four Venezuelan men and two women, identified as members of the "Aragua train", murdered a police officer... https://t.co/g4ndffrmUq, pronunciation=Four Venezuelan men and two women, identified as members of the "Aragua train", murdered a police officer... https://t.co/g4ndffrmUq, extra_data="{'translat...") 
+
+-0.8689  | Tweet 682: Translated(src=es, dest=en, text=@amnistiaperu: Venezuelan women living in Peru are exposed to all kinds of violence, and because of their immigration status they face…, pronunciation=@amnistiaperu: Venezuelan women living in Peru are exposed to all kinds of violence, and because of their immigration status they face…, extra_data="{'translat...") 
+
+0.9371  | Tweet 683: Translated(src=es, dest=en, text=@amnistia: Authorities in #Colombia and #Peru must adopt measures so that Venezuelan women can enjoy a life free of vi..., pronunciation=@amnistia: Authorities in #Colombia and #Peru must adopt measures so that Venezuelan women can enjoy a life free of vi..., extra_data="{'translat...") 
+
+-0.7906  | Tweet 684: Translated(src=es, dest=en, text=@FedericoAgusti @unionveneperu @ACNURPeru Too bad there are few Venezuelan migrants who really come… https://t.co/yTavd1HtK0, pronunciation=@FedericoAgusti @unionveneperu @ACNURPeru Too bad there are few Venezuelan migrants who really come… https://t.co/yTavd1HtK0, extra_data="{'translat...") 
+
+0.3818  | Tweet 685: Translated(src=es, dest=en, text=@hugoesc31475407: Venezuelan causes a sensation in Peru for his resemblance to Will Smith😲
+Yashual Eduardo Ávila Abello, 30 years old, was..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 686: Translated(src=es, dest=en, text=@ElNacionalWeb: A Venezuelan is found beheaded in Peru https://t.co/ICayFitlIe https://t.co/lhW6eonDPX, pronunciation=@ElNacionalWeb: A Venezuelan is found beheaded in Peru https://t.co/ICayFitlIe https://t.co/lhW6eonDPX, extra_data="{'translat...") 
+
+-0.3818  | Tweet 687: Translated(src=es, dest=en, text=@Somosivss: #6August | From the IVSS we remind you that on a day like today:
+
+Battle of Junín: One of the last confrontations that held…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4635  | Tweet 688: Translated(src=es, dest=en, text=@mingo_1 B days Mingo, reading his tweet carefully, I am even more convinced that the Venezuelan has no compassion for his… https://t.co/EaWPYpGuQR, pronunciation=@mingo_1 B days Mingo, reading his tweet carefully, I am even more convinced that the Venezuelan has no compassion for his… https://t.co/EaWPYpGuQR, extra_data="{'translat...") 
+
+0.0  | Tweet 689: Translated(src=es, dest=en, text=I met the partner of this woman, the spy, through Guillermo Dávila, a Venezuelan musician and actor, who in 2000 lived in Peru., pronunciation=I met the partner of this woman, the spy, through Guillermo Dávila, a Venezuelan musician and actor, who in 2000 lived in Peru., extra_data="{'translat...") 
+
+0.6369  | Tweet 690: Translated(src=es, dest=en, text=And Will Smith already found out that he has a Venezuelan twin in Peru 😲, pronunciation=And Will Smith already found out that he has a Venezuelan twin in Peru 😲, extra_data="{'translat...") 
+
+0.0  | Tweet 691: Translated(src=es, dest=en, text=@la_patilla: They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYw0Iw0, pronunciation=@la_patilla: They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYw0Iw0, extra_data="{'translat...") 
+
+0.0  | Tweet 692: Translated(src=es, dest=en, text=They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYw0Iw0, pronunciation=They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYw0Iw0, extra_data="{'translat...") 
+
+0.5574  | Tweet 693: Translated(src=es, dest=en, text=@directolafuente: The Venezuelan Will Smith exists and is causing a sensation in Peru🤯🤯 His original name is Yashual Ávila Abello and he has…, pronunciation=@directolafuente: The Venezuelan Will Smith exists and is causing a sensation in Peru🤯🤯 His original name is Yashual Ávila Abello and he has…, extra_data="{'translat...") 
+
+0.0  | Tweet 694: Translated(src=es, dest=en, text=@directolafuente: This is the life of Yashual Ávila Abello, the young Venezuelan who caused a sensation in Peru for his incredible resemblance to Wi…, pronunciation=@directolafuente: This is the life of Yashual Ávila Abello, the young Venezuelan who caused a sensation in Peru for his incredible resemblance to Wi…, extra_data="{'translat...") 
+
+-0.3818  | Tweet 695: Translated(src=es, dest=en, text=@OAIVSSELTIGRE: #6Aug | From the IVSS we remind you that on a day like today:
+Battle of Junín: One of the last confrontations that held…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 696: Translated(src=gn, dest=en, text=@JusticeRyG: Peru
+#JusticeForGabrielAndRamon
+Read the opinion article that Ramon performed aimed at the Venezuelan justice system.
+SAY…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 697: Translated(src=es, dest=en, text=7-8-1825: in Peru, the Venezuelan general Simón Bolívar founded the Glorious National College of San Carlos., pronunciation=7-8-1825: in Peru, the Venezuelan general Simón Bolívar founded the Glorious National College of San Carlos., extra_data="{'translat...") 
+
+0.6808  | Tweet 698: Translated(src=es, dest=en, text=@ Mtulio21: August 6, 1945 The United States dropped the first of two atomic bombs on Japan on Hiroshima ➡️ https://t.co/pO…, pronunciation=@ Mtulio21: August 6, 1945 The United States dropped the first of two atomic bombs on Japan on Hiroshima ➡️ https://t.co/pO…, extra_data="{'translat...") 
+
+0.0  | Tweet 699: Translated(src=es, dest=en, text=@ng05023110: @marcotituana @dondeerapavo How do I get the universal history book?? I am Venezuelan but I am in Peru, and who…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3818  | Tweet 700: Translated(src=es, dest=en, text=#6Aug | From the IVSS we remind you that on a day like today:
+Battle of Junín: One of the last confrontations that… https://t.co/ZuRFb8z9Bg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 701: Translated(src=es, dest=en, text=Meet the Venezuelan Will Smith who is causing a sensation in Peru (+Videos)
+
+https://t.co/m9DCwDUIPw https://t.co/zP3N30q0xn, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 702: Translated(src=es, dest=en, text=He didn't run off with his aunt from Bel Air! Will Smith's double is Venezuelan and migrated to Peru https://t.co/o1k3aGmDEM *, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 703: Translated(src=es, dest=en, text=#EnElGossip | Will Smith has a Venezuelan stuntman on the streets of Peru
+https://t.co/2o2diyIbt3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 704: Translated(src=es, dest=en, text=Peru
+#JusticiaParaGabrielYRamón
+Read Ramón's opinion article addressed to the Venezuelan justice system... https://t.co/JM3fOx8GKX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 705: Translated(src=es, dest=en, text=@Vzlahoyendia_: The Will Smith of Peru... He's Venezuelan!
+
+Those who visit the Center of Lima, in Peru, have been able to see through the streets…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 706: Translated(src=es, dest=en, text=The Will Smith of Peru... He's Venezuelan!
+
+Those who visit the Center of Lima, in Peru, have been able to see through the c… https://t.co/0pVeGdf6kf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 707: Translated(src=es, dest=en, text=@marcotituana @dondeerapavo How do I get the universal history book?? I am Venezuelan but I am in Peru… https://t.co/8k1u5Neh8q, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7177  | Tweet 708: Translated(src=es, dest=en, text=@venevision: #ActualidadVV Do we have a Venezuelan Will Smith? 🤔 Yes, of course! 😍 And he lives in # Peru 🙌🏻 Give us a 🔄 s..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 709: Translated(src=es, dest=en, text=@gloriagrandag: The current Peruvian foreign minister, Miguel Angel Rodríguez, described the Venezuelan president, Nicolás Maduro, as a "dictation..., pronunciation=@gloriagrandag: The current Peruvian foreign minister, Miguel Angel Rodríguez, described the Venezuelan president, Nicolás Maduro, as a "dictation..., extra_data="{'translat...") 
+
+0.0  | Tweet 710: Translated(src=es, dest=en, text=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/TcZCNpB0o7, pronunciation=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/TcZCNpB0o7, extra_data="{'translat...") 
+
+0.6124  | Tweet 711: Translated(src=es, dest=en, text=Miguel Cabrera Thank you President Israel #FuerzaCuba Hiroshima Venezuelan LVBP Communism Porky Gustavo Petro Julio… https://t.co/AaHWTX5U91, pronunciation=Miguel Cabrera Thank you President Israel #FuerzaCuba Hiroshima Venezuelan LVBP Communism Porky Gustavo Petro Julio… https://t.co/AaHWTX5U91, extra_data="{'translat...") 
+
+0.6124  | Tweet 712: Translated(src=es, dest=en, text=Miguel Cabrera Thank you President Israel #FuerzaCuba Hiroshima Venezuelan LVBP Communism Porky Gustavo Petro Julio… https://t.co/I9dSN4EpzF, pronunciation=Miguel Cabrera Thank you President Israel #FuerzaCuba Hiroshima Venezuelan LVBP Communism Porky Gustavo Petro Julio… https://t.co/I9dSN4EpzF, extra_data="{'translat...") 
+
+0.0  | Tweet 713: Translated(src=es, dest=en, text=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/cN6cpex4KO, pronunciation=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/cN6cpex4KO, extra_data="{'translat...") 
+
+0.0  | Tweet 714: Translated(src=es, dest=en, text=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/r0uv928YSr, pronunciation=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/r0uv928YSr, extra_data="{'translat...") 
+
+0.0  | Tweet 715: Translated(src=es, dest=en, text=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/qHxUQpkktA, pronunciation=Thank you President Hiroshima Barquisimeto #FuerzaCuba Ecopetrol Gustavo Petro Israel José Luis Rodríguez LVBP Poor… https://t.co/qHxUQpkktA, extra_data="{'translat...") 
+
+-0.4939  | Tweet 716: Translated(src=es, dest=en, text=@aliaseltukan @evefernandeza @FedericoNiche_ That term coined by malicious and envious people of our g… https://t.co/S55G5gIYa8, pronunciation=@aliaseltukan @evefernandeza @FedericoNiche_ That term coined by malicious and envious people of our g… https://t.co/S55G5gIYa8, extra_data="{'translat...") 
+
+0.0  | Tweet 717: Translated(src=es, dest=en, text=#EnElGossip | Will Smith has a Venezuelan stuntman on the streets of Peru
+https://t.co/2o2diyZMkB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 718: Translated(src=es, dest=en, text=@laprensalara: #Events | The body of a Venezuelan, identified as Noel José Petit Lugo, was found decapitated in a vacant lot ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0258  | Tweet 719: Translated(src=es, dest=en, text=#6August | From the IVSS we remind you that on a day like today:
+
+Battle of Junín: One of the last clashes… https://t.co/Cd01yusQ1r, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 720: Translated(src=es, dest=en, text=@danipgonzalez @AlexaGomezDos They have gone there from Ecuador, Colombia, Peru, Chile and Argentina. Gentlemen for… https://t.co/RvYTlmRvWX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 721: Translated(src=es, dest=en, text=@noticiaaldia: Meet the Venezuelan Will Smith who is causing a sensation in Peru (+Videos)
+
+https://t.co/itmXbMVxRc https://t.co/bzzlyWiU3R, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 722: Translated(src=es, dest=en, text=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) #6Ago #Venezuela https://t.co/feFcIGpM5h, pronunciation=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) #6Ago #Venezuela https://t.co/feFcIGpM5h, extra_data="{'translat...") 
+
+0.6808  | Tweet 723: Translated(src=es, dest=en, text=August 6, 1945 The United States dropped on Hiroshima the first of two atomic bombs against Japan ➡️… https://t.co/SAyCs59NZZ, pronunciation=August 6, 1945 The United States dropped on Hiroshima the first of two atomic bombs against Japan ➡️… https://t.co/SAyCs59NZZ, extra_data="{'translat...") 
+
+0.0  | Tweet 724: Translated(src=es, dest=en, text=@ElAragueno: 22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/f6J6AIUUqz, pronunciation=@ElAragueno: 22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/f6J6AIUUqz, extra_data="{'translat...") 
+
+0.0  | Tweet 725: Translated(src=es, dest=en, text=Meet the Venezuelan Will Smith who is causing a sensation in Peru (+Videos)
+
+https://t.co/m9DCwDUIPw https://t.co/fE6fo1xODl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 726: Translated(src=es, dest=en, text=A pity that another "right" party celebrates the defeat of Peru at the hands of Bolívar's Venezuelan army.
+T… https://t.co/Prezn3nyZW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 727: Translated(src=es, dest=en, text=@VLADIMIR_CERRON That's why you forced the chotano to put a holiday on this day, just to honor Bolivar, DICTATION… https://t.co/A7mgu8iI3p, pronunciation=@VLADIMIR_CERRON That's why you forced the chotano to put a holiday on this day, just to honor Bolivar, DICTATION… https://t.co/A7mgu8iI3p, extra_data="{'translat...") 
+
+0.0  | Tweet 728: Translated(src=es, dest=en, text=📸 A Venezuelan migrant identified as Yashual Eduardo Ávila Abello, 30 years old, is causing a sensation… https://t.co/mqiBpDJTIZ, pronunciation=📸 A Venezuelan migrant identified as Yashual Eduardo Ávila Abello, 30 years old, is causing a sensation… https://t.co/mqiBpDJTIZ, extra_data="{'translat...") 
+
+0.3818  | Tweet 729: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith😲
+Yashual Eduardo Ávila Abello, 30 years old,… https://t.co/yoOYi3rXA3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 730: Translated(src=es, dest=en, text=They cut the throat of a Venezuelan in Peru named Noel Jose Peti, who was from a fixed point, Falcon state, pronunciation=They cut the throat of a Venezuelan in Peru named Noel Jose Peti, who was from a fixed point, Falcon state, extra_data="{'translat...") 
+
+-0.0258  | Tweet 731: Translated(src=es, dest=en, text=#6August | From the IVSS we remind you that on a day like today:
+
+Battle of Junín: One of the last clashes… https://t.co/EYh3FzzWEB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 732: Translated(src=es, dest=en, text=22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/Hm80A6UQhE, pronunciation=22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/Hm80A6UQhE, extra_data="{'translat...") 
+
+0.0  | Tweet 733: Translated(src=es, dest=en, text=08/06/1824. ephemeris. Troops of the Royal Army of Peru, whose vast majority was made up of mestizos and Indians… https://t.co/gR77kqk3Er, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4404  | Tweet 734: Translated(src=es, dest=en, text=these populist speeches are classic in the communists, or I remind you of this; "We will expel all criminals… https://t.co/4cNZDxZxui, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 735: Translated(src=es, dest=en, text=The current Peruvian foreign minister, Miguel Angel Rodríguez, described the Venezuelan president, Nicolás Maduro, as a "di… https://t.co/LgAIyUcost, pronunciation=The current Peruvian foreign minister, Miguel Angel Rodríguez, described the Venezuelan president, Nicolás Maduro, as a "di… https://t.co/LgAIyUcost, extra_data="{'translat...") 
+
+0.0  | Tweet 736: Translated(src=es, dest=en, text=@ReporteYa: #3Aug #Diaspora
+Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of downtown Lima,…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 737: Translated(src=es, dest=en, text=#Events | They found a Venezuelan beheaded in Peru https://t.co/PmRKDG23UA https://t.co/JnzvtUSzMl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 738: Translated(src=es, dest=en, text=@joselbellon You are a phenomenon with explanation and thank you very much a Venezuelan from Peru we already got lunch and dinner, pronunciation=@joselbellon You are a phenomenon with explanation and thank you very much a Venezuelan from Peru we already got lunch and dinner, extra_data="{'translat...") 
+
+0.0  | Tweet 739: Translated(src=es, dest=en, text=Meet the Venezuelan Will Smith who is causing a sensation in Peru (+Videos)
+
+https://t.co/itmXbMVxRc https://t.co/bzzlyWiU3R, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9783  | Tweet 740: Translated(src=es, dest=en, text=@VictorLamusHT But how strange, I have read someone who is in Peru and spends his time criticizing Venezuelan slavery and… https://t.co/AXIyU2l9D0, pronunciation=@VictorLamusHT But how strange, I have read someone who is in Peru and spends his time criticizing Venezuelan slavery and… https://t.co/AXIyU2l9D0, extra_data="{'translat...") 
+
+0.0  | Tweet 741: Translated(src=es, dest=en, text=#Events | The body of a Venezuelan, identified as Noel José Petit Lugo, was found decapitated on a piece of land… https://t.co/RGINDuaFH5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 742: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/5loFCMxc72 through @ElNacionalWeb, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/5loFCMxc72 through @ElNacionalWeb, extra_data="{'translat...") 
+
+0.0  | Tweet 743: Translated(src=es, dest=en, text=@ElNacionalWeb: #6Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 744: Translated(src=es, dest=en, text=@mermestres: Dr. Enrique Deniri, president of the history board; Prof. Otto Hernández Mere, Consul of Peru in Corrientes and @jr…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 745: Translated(src=es, dest=en, text=#6Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 746: Translated(src=es, dest=en, text=#6Aug | They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvT1I2G, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 747: Translated(src=es, dest=en, text=@Cachoescalona1 If they bought it there in Peru and in Chile... They didn't pass on the fact that a pistol in Chile costs u... https://t.co/uT3uncWoqi, pronunciation=@Cachoescalona1 If they bought it there in Peru and in Chile... They didn't pass on the fact that a pistol in Chile costs u... https://t.co/uT3uncWoqi, extra_data="{'translat...") 
+
+0.0  | Tweet 748: Translated(src=es, dest=en, text=#6Aug | #Cinema | Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/8EzuuvUNEL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 749: Translated(src=es, dest=en, text=@GuilleBermejoR You are one of the fugitives who can speak well of cooking and putting together, bloodsucker, you lived from the town… https://t.co/R8PGA3guLY, pronunciation=@GuilleBermejoR You are one of the fugitives who can speak well of cooking and putting together, bloodsucker, you lived from the town… https://t.co/R8PGA3guLY, extra_data="{'translat...") 
+
+0.0  | Tweet 750: Translated(src=es, dest=en, text=@AlexaGomezDos: While the Venezuelan emigrated to Peru, to Chile, to Ecuador, to Argentina, to El Salvador, to Guatemala, to n…, pronunciation=@AlexaGomezDos: While the Venezuelan emigrated to Peru, to Chile, to Ecuador, to Argentina, to El Salvador, to Guatemala, to n…, extra_data="{'translat...") 
+
+0.0  | Tweet 751: Translated(src=es, dest=en, text=@ElNacionalWeb: #6Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 752: Translated(src=es, dest=en, text=#6Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 753: Translated(src=es, dest=en, text=#6Aug | They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvSK6E6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 754: Translated(src=es, dest=en, text=22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/f6J6AIUUqz, pronunciation=22-year-old Venezuelan was beheaded in Peru https://t.co/1j6umd6p3P… #Events https://t.co/f6J6AIUUqz, extra_data="{'translat...") 
+
+0.0  | Tweet 755: Translated(src=es, dest=en, text=#6Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 756: Translated(src=es, dest=en, text=#Events | The young Venezuelan Noel José Petit Lugo, 22 years old, was found beheaded in San Juan de L… https://t.co/1wC2mb27hN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 757: Translated(src=es, dest=en, text=Yashual Ávila is a Venezuelan who causes a sensation in the center of the city of Lima, where he usually imitates some of… https://t.co/aeQIevngwm, pronunciation=Yashual Ávila is a Venezuelan who causes a sensation in the center of the city of Lima, where he usually imitates some of… https://t.co/aeQIevngwm, extra_data="{'translat...") 
+
+0.0  | Tweet 758: Translated(src=es, dest=en, text=@AlbertoRodNews: They find a Venezuelan beheaded in Peru (Details) https://t.co/OOekEvtm9i, pronunciation=@AlbertoRodNews: They find a Venezuelan beheaded in Peru (Details) https://t.co/OOekEvtm9i, extra_data="{'translat...") 
+
+0.0  | Tweet 759: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks https://t.co/TmyzaFdYoh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 760: Translated(src=es, dest=en, text=@StarlyCosmic: @AlexaGomezDos I agree, that "nichetude" fucks everyone, whether you're in Ireland or Peru. Unfortunately, he t…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 761: Translated(src=es, dest=en, text=#6Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks (Video) https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 762: Translated(src=es, dest=en, text=#6Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 763: Translated(src=es, dest=en, text=@pornofurry1 Sifrino: Venezuelan term for what is cuico in Chile, concheto in Argentina, cheto in Uruguay, in… https://t.co/FN46gGfLN3, pronunciation=@pornofurry1 Sifrino: Venezuelan term for what is cuico in Chile, concheto in Argentina, cheto in Uruguay, in… https://t.co/FN46gGfLN3, extra_data="{'translat...") 
+
+0.0  | Tweet 764: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvT1I2G, pronunciation=They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvT1I2G, extra_data="{'translat...") 
+
+0.0  | Tweet 765: Translated(src=es, dest=en, text=@Noticias0241: Daniel_RiosVE: Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of #Lima-#Peru, for…, pronunciation=@Noticias0241: Daniel_RiosVE: Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of #Lima-#Peru, for…, extra_data="{'translat...") 
+
+-0.5267  | Tweet 766: Translated(src=es, dest=en, text=@danicastoycabal @MaoNFL @RevistaSemana No, only trying to criminalize the Venezuelan believing that there was no here… https://t.co/tBymaafZZQ, pronunciation=@danicastoycabal @MaoNFL @RevistaSemana No, only trying to criminalize the Venezuelan believing that there was no here… https://t.co/tBymaafZZQ, extra_data="{'translat...") 
+
+0.6124  | Tweet 767: Translated(src=es, dest=en, text=@AlexaGomezDos Alexa, something if I would like you to understand, the government has bombed all the countries where the Ven… https://t.co/cwtVENuvTF, pronunciation=@AlexaGomezDos Alexa, something if I would like you to understand, the government has bombed all the countries where the Ven… https://t.co/cwtVENuvTF, extra_data="{'translat...") 
+
+0.8012  | Tweet 768: Translated(src=es, dest=en, text=@ya_petro It will happen the same as in Peru despite having so-called president, the inexhaustible and very strong moral reserves… https://t.co/4DzsTSQ41F, pronunciation=@ya_petro It will happen the same as in Peru despite having so-called president, the inexhaustible and very strong moral reserves… https://t.co/4DzsTSQ41F, extra_data="{'translat...") 
+
+0.0  | Tweet 769: Translated(src=es, dest=en, text=@ElNacionalWeb: #5Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8689  | Tweet 770: Translated(src=es, dest=en, text=How fucked up to see the news about Diego Berti, I remember him from soap operas in Venezuela, I always thought he was Venezuelan, then… https://t.co/OBIdpUJRuy, pronunciation=How fucked up to see the news about Diego Berti, I remember him from soap operas in Venezuela, I always thought he was Venezuelan, then… https://t.co/OBIdpUJRuy, extra_data="{'translat...") 
+
+0.0  | Tweet 771: Translated(src=es, dest=en, text=@InfoFreestyle2 I see 3 options:
+
+1.-The dark king is consecrated to the Blon and represents us.
+
+2.- He represents us a ven… https://t.co/qz6oEBdtuN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 772: Translated(src=es, dest=en, text=@ramirezvictore: The Venezuelan right-hander Rafael Orellana @rafaelorellanat is announced in Spain, in Maranchón, waiting for new faiths…, pronunciation=@ramirezvictore: The Venezuelan right-hander Rafael Orellana @rafaelorellanat is announced in Spain, in Maranchón, waiting for new faiths…, extra_data="{'translat...") 
+
+0.2263  | Tweet 773: Translated(src=es, dest=en, text=Is Will Smith in Peru? Venezuelan migrant who was a police officer in his country is surprised in Lima by his resemblance to "El… https://t.co/IIpuLkXWZb, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7222  | Tweet 774: Translated(src=es, dest=en, text=@QuiqueBarde: In @CancilleriaPeru apparently the unhappy Rodríguez Mackay, an imb... who did not want any Venezuelan to enter..., pronunciation=@QuiqueBarde: In @CancilleriaPeru apparently the unhappy Rodríguez Mackay, an imb... who did not want any Venezuelan to enter..., extra_data="{'translat...") 
+
+0.0  | Tweet 775: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 776: Translated(src=es, dest=en, text=#5Ago In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/DYQ0TG6i3W, pronunciation=#5Ago In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/DYQ0TG6i3W, extra_data="{'translat...") 
+
+0.0  | Tweet 777: Translated(src=es, dest=en, text=#5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 778: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 779: Translated(src=es, dest=en, text=@AlexaGomezDos I agree, that "nichetud" fucks everyone, whether you're in Ireland or Peru. Unfortunately not… https://t.co/k7Dk2sLh6i, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 780: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru (Details) https://t.co/OOekEvtm9i, pronunciation=They find a Venezuelan beheaded in Peru (Details) https://t.co/OOekEvtm9i, extra_data="{'translat...") 
+
+0.0  | Tweet 781: Translated(src=es, dest=en, text=@ElNacionalWeb: #5Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7222  | Tweet 782: Translated(src=es, dest=en, text=In @CancilleriaPeru, apparently the unhappy Rodríguez Mackay, an imb … who did not want any Venezuelan … https://t.co/EJKUhAgDKu, pronunciation=In @CancilleriaPeru, apparently the unhappy Rodríguez Mackay, an imb … who did not want any Venezuelan … https://t.co/EJKUhAgDKu, extra_data="{'translat...") 
+
+0.2263  | Tweet 783: Translated(src=es, dest=en, text=#NowIsTrend | 🇻🇪 Yashual Ávila Abello is a Venezuelan who imitates #WillSmith in #Peru and surprises people… https://t.co/fFopwenbhe, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 784: Translated(src=es, dest=en, text=#5Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 785: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 786: Translated(src=es, dest=en, text=#5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 787: Translated(src=es, dest=en, text=#5Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks (Video) https://t.co/TmyzaFdYoh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 788: Translated(src=es, dest=en, text=#5Aug | #Cinema | Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/8Ezuuwcowj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 789: Translated(src=es, dest=en, text=#5Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 790: Translated(src=es, dest=en, text=Will Smith lives in #Peru
+and he is Venezuelan 😱🤳🏼Yashual Ávila @WillSmithPeruano 👉🏻from Miranda in Venezuela, confi… https://t.co/wjWFaEmnLZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 791: Translated(src=es, dest=en, text=@wpalomino123: @KeikoFujimori The Fujimori mafia gives 100 soles per march to each Venezuelan or Peruvian. That can be permanent because…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 792: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru https://t.co/G1D5LUe3m9, pronunciation=They find a Venezuelan beheaded in Peru https://t.co/G1D5LUe3m9, extra_data="{'translat...") 
+
+0.0  | Tweet 793: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru https://t.co/gzfXPYBht3, pronunciation=They find a Venezuelan beheaded in Peru https://t.co/gzfXPYBht3, extra_data="{'translat...") 
+
+0.0  | Tweet 794: Translated(src=es, dest=en, text=#5Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks (Video) https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 795: Translated(src=es, dest=en, text=#5Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks https://t.co/TmyzaFdYoh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6027  | Tweet 796: Translated(src=es, dest=en, text=FOR GOOD PEOPLE! The body of a Venezuelan, identified as Noel José Petit Lugo, was found decapitated in a… https://t.co/utZDEZHJq7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 797: Translated(src=es, dest=en, text=#5Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 798: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru https://t.co/Pzsbo4fZJr, pronunciation=They find a Venezuelan beheaded in Peru https://t.co/Pzsbo4fZJr, extra_data="{'translat...") 
+
+0.0  | Tweet 799: Translated(src=es, dest=en, text=#5Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 800: Translated(src=es, dest=en, text=#5Aug | #Cinema | Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/8EzuuvUNEL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 801: Translated(src=es, dest=en, text=Young Venezuelan was beheaded in Peru
+https://t.co/5k9WZUlv5G https://t.co/R8ScXRceKL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 802: Translated(src=es, dest=en, text=Dr. Enrique Deniri, president of the history board; Prof. Otto Hernández Mere, consul of Peru in Corrientes… https://t.co/OvQn43lIiO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2263  | Tweet 803: Translated(src=es, dest=en, text=#VIDEO | The Venezuelan Will Smith who surprises in the streets of Peru https://t.co/kls3ZlSdo3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 804: Translated(src=es, dest=en, text=#5Aug | They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvT1I2G, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 805: Translated(src=es, dest=en, text=#Events | The young Venezuelan Noel José Petit Lugo, 22 years old, was found beheaded in San Juan de L… https://t.co/jwb9iQGh9s, pronunciation=[[]], extra_data="{'translat...") 
+
+0.735  | Tweet 806: Translated(src=es, dest=en, text=@lanacionweb: A tattoo on his chest with the phrase "I forgive, but I don't forget" was enough for family members to identify this…, pronunciation=@lanacionweb: A tattoo on his chest with the phrase "I forgive, but I don't forget" was enough for family members to identify this…, extra_data="{'translat...") 
+
+0.2263  | Tweet 807: Translated(src=es, dest=en, text=#NowIsTrend | 🇻🇪 Yashual Ávila Abello is a Venezuelan who imitates #WillSmith in #Peru and surprises people… https://t.co/3Yem894n0u, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3382  | Tweet 808: Translated(src=es, dest=en, text=@Imperiomesmo: God!
+In Peru, after the Venezuelan exodus, tall buildings began to be built... Possibly, this was one of the…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 809: Translated(src=es, dest=en, text=#ShirleyRadio Yosual Ávila: The Venezuelan Will Smith in Peru
+ https://t.co/72qjVTbznI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7177  | Tweet 810: Translated(src=es, dest=en, text=#ActualidadVV Do we have a Venezuelan Will Smith? 🤔 Yes, of course! 😍 And he lives in # Peru 🙌🏻 Give us a… https://t.co/CVBqNw2Twp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 811: Translated(src=es, dest=en, text=@ejb_cavcm: 🗓️ #TalDiaComoHoy || Birth of the Liberator Simón Bolívar in the year 1783, he was a Venezuelan military and politician, giving…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.735  | Tweet 812: Translated(src=es, dest=en, text=A tattoo on the chest with the phrase "I forgive, but I do not forget" was enough for relatives to identify… https://t.co/NKWUdgO7yn, pronunciation=A tattoo on the chest with the phrase "I forgive, but I do not forget" was enough for relatives to identify… https://t.co/NKWUdgO7yn, extra_data="{'translat...") 
+
+0.0  | Tweet 813: Translated(src=es, dest=en, text=They found the decapitated body of a Venezuelan in Peru
+
+https://t.co/ExrzVc3VD0 https://t.co/qzLhDswo7P, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 814: Translated(src=es, dest=en, text=Will Smith has a double Venezuelan on the streets of Peru https://t.co/1O3KyR087F, pronunciation=Will Smith has a double Venezuelan on the streets of Peru https://t.co/1O3KyR087F, extra_data="{'translat...") 
+
+0.0  | Tweet 815: Translated(src=es, dest=en, text=God!
+In Peru, after the Venezuelan exodus, tall buildings began to be built... Possibly, this was a… https://t.co/W2fdREyAOe, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 816: Translated(src=es, dest=en, text=#5Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 817: Translated(src=es, dest=en, text=@ElNacionalWeb: #5Aug | They find a Venezuelan beheaded in Peru 🇵🇪 https://t.co/DSlgvT1I2G, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2732  | Tweet 818: Translated(src=es, dest=en, text=#05Ago|They find the body of a Venezuelan with his throat cut in Peru
+
+https://t.co/ZdsmtVfLYg, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 819: Translated(src=es, dest=en, text=#05Ago|They find the body of a Venezuelan with his throat cut in Peru https://t.co/Wp2BzRoiiO, pronunciation=#05Ago|They find the body of a Venezuelan with his throat cut in Peru https://t.co/Wp2BzRoiiO, extra_data="{'translat...") 
+
+0.0  | Tweet 820: Translated(src=es, dest=en, text=@Periodismodes: #Events | They found a Venezuelan beheaded in #Peru #5Ago https://t.co/PmRKDGjFja https://t.co/1GtxWhH7C4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 821: Translated(src=es, dest=en, text=When Castillo gave his message on July 28, he told us about a country of wonders.
+This is the paradise we were talking about… https://t.co/zsjDfx7q1G, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 822: Translated(src=es, dest=en, text=They find a Venezuelan beheaded in Peru https://t.co/ICayFitlIe https://t.co/lhW6eonDPX, pronunciation=They find a Venezuelan beheaded in Peru https://t.co/ICayFitlIe https://t.co/lhW6eonDPX, extra_data="{'translat...") 
+
+0.0  | Tweet 823: Translated(src=es, dest=en, text=#5Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 824: Translated(src=es, dest=en, text=Nicolás Maduro demanded that Argentina hand over a Venezuelan-Iranian plane investigated for links with terrorism
+
+https://t.co/sDCc2sXdbs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 825: Translated(src=es, dest=en, text=#Events | They found a Venezuelan beheaded in #Peru #5Ago https://t.co/PmRKDGjFja https://t.co/1GtxWhH7C4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 826: Translated(src=es, dest=en, text=#Events | The body of a Venezuelan, identified as Noel José Petit Lugo, was found decapitated on a piece of land… https://t.co/3S44LKIyT1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 827: Translated(src=es, dest=en, text=They found the decapitated body of a Venezuelan in Peru https://t.co/8dgZmVJwIy, pronunciation=They found the decapitated body of a Venezuelan in Peru https://t.co/8dgZmVJwIy, extra_data="{'translat...") 
+
+0.0  | Tweet 828: Translated(src=es, dest=en, text=#5Aug | #Cinema | Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/McvICvxXw5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 829: Translated(src=es, dest=en, text=@CronicaPolicial: A young Venezuelan is beheaded for "settling scores" in Peru. Noel José Petit Lugo, a 22-year-old from Paraguano who…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 830: Translated(src=es, dest=en, text=A Venezuelan is found beheaded in Peru (Details). https://t.co/OOekEvtm9i, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 831: Translated(src=es, dest=en, text=#5Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks
+
+https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 832: Translated(src=es, dest=en, text=@El_Cooperante: #5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery
+
+https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2263  | Tweet 833: Translated(src=es, dest=en, text=#NowIsTrend | 🇻🇪 Yashual Ávila Abello is a Venezuelan who imitates #WillSmith in #Peru and surprises people… https://t.co/bzhPZEYbzN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 834: Translated(src=es, dest=en, text=The Venezuelan right-hander Rafael Orellana @rafaelorellanat is announced in Spain, in Maranchón, waiting for a new… https://t.co/EJyChZn5Vw, pronunciation=The Venezuelan right-hander Rafael Orellana @rafaelorellanat is announced in Spain, in Maranchón, waiting for a new… https://t.co/EJyChZn5Vw, extra_data="{'translat...") 
+
+0.6597  | Tweet 835: Translated(src=es, dest=en, text=The #EPU Recommendations of 15 countries have the support of the Venezuelan Government: Argentina, Austria, Norway, Peru… https://t.co/S21OuRaUlY, pronunciation=The #EPU Recommendations of 15 countries have the support of the Venezuelan Government: Argentina, Austria, Norway, Peru… https://t.co/S21OuRaUlY, extra_data="{'translat...") 
+
+0.3182  | Tweet 836: Translated(src=es, dest=en, text=*#ENTERTAINMENT ✨ | [VIDEO] VENEZUELAN CAUSES A SENSATION IN PERU FOR HIS REMARK TO WILL SMITH*
+
+_Read the news c… https://t.co/iUBmddFSSR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 837: Translated(src=es, dest=en, text=#ShirleyRadio Yosual Ávila: The Venezuelan Will Smith in Peru
+ https://t.co/72qjVTtaMi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 838: Translated(src=es, dest=en, text=@lasnotasdhoy: They find a Venezuelan migrant beheaded in Peru https://t.co/CSIFqHL2o0, pronunciation=@lasnotasdhoy: They find a Venezuelan migrant beheaded in Peru https://t.co/CSIFqHL2o0, extra_data="{'translat...") 
+
+0.0  | Tweet 839: Translated(src=es, dest=en, text=#TRENDS Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, pronunciation=#TRENDS Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, extra_data="{'translat...") 
+
+0.0  | Tweet 840: Translated(src=es, dest=en, text=EQUAL! Venezuelan causes a sensation in Peru for his resemblance to Will Smith (VIDEO) https://t.co/Ofs8S14JnN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 841: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr _, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr _, extra_data="{'translat...") 
+
+0.0  | Tweet 842: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 👉🏽, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 👉🏽, extra_data="{'translat...") 
+
+0.0  | Tweet 843: Translated(src=es, dest=en, text=The digital agent of @MigracionesPe is the saime of every Venezuelan in Peru, pronunciation=The digital agent of @MigracionesPe is the saime of every Venezuelan in Peru, extra_data="{'translat...") 
+
+0.6597  | Tweet 844: Translated(src=es, dest=en, text=@MundoURWeb: #5Aug Teachers' Union: We hope that authorities rectify and give importance to education 🔊
+
+Interview…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 845: Translated(src=es, dest=en, text=#5Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery
+
+https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 846: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru https://t.co/0sfqmL9j9p, pronunciation=Young Venezuelan is beheaded in Peru https://t.co/0sfqmL9j9p, extra_data="{'translat...") 
+
+0.0  | Tweet 847: Translated(src=es, dest=en, text=HORRIFIC! They found the body of a young Venezuelan beheaded in Peru https://t.co/0B6MuebPo4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 848: Translated(src=es, dest=en, text=#5Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores
+
+https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 849: Translated(src=es, dest=en, text=#5Aug Teachers' Union: We hope that authorities rectify and give importance to education 🔊
+
+In… https://t.co/n2851zf5YY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 850: Translated(src=es, dest=en, text=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) https://t.co/V2N7vtdA0q, pronunciation=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) https://t.co/V2N7vtdA0q, extra_data="{'translat...") 
+
+0.0  | Tweet 851: Translated(src=es, dest=en, text=Yosual Ávila: The Venezuelan Will Smith in Peru https://t.co/Ouuhs5IXkB, pronunciation=Yosual Ávila: The Venezuelan Will Smith in Peru https://t.co/Ouuhs5IXkB, extra_data="{'translat...") 
+
+0.0  | Tweet 852: Translated(src=es, dest=en, text=Yashua Avila, 30 years old. He is the young Venezuelan who has caused a stir on social networks by imitating Will Sm… https://t.co/8nqsgR8Oos, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 853: Translated(src=es, dest=en, text=@megustawaydn: ★ https://t.co/1QOKmZXShH ★ Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+Video) https://t.c…, pronunciation=@megustawaydn: ★ https://t.co/1QOKmZXShH ★ Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+Video) https://t.c…, extra_data="{'translat...") 
+
+0.0  | Tweet 854: Translated(src=es, dest=en, text=★ https://t.co/1QOKmZXShH ★ Get to know the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+Video)… https://t.co/DZTvOfftiR, pronunciation=★ https://t.co/1QOKmZXShH ★ Get to know the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+Video)… https://t.co/DZTvOfftiR, extra_data="{'translat...") 
+
+0.0  | Tweet 855: Translated(src=es, dest=en, text=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) #Venezuela https://t.co/4JosfOdaR3, pronunciation=Meet the Venezuelan "Will Smith" who is causing a furor in the streets of Peru (+ Video) #Venezuela https://t.co/4JosfOdaR3, extra_data="{'translat...") 
+
+0.0  | Tweet 856: Translated(src=es, dest=en, text=@DiarioContraste: Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu', pronunciation=@DiarioContraste: Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu', extra_data="{'translat...") 
+
+0.0  | Tweet 857: Translated(src=es, dest=en, text=#Events
+This is how they identified a Venezuelan who was beheaded in Peru
+
+https://t.co/GpLt8I7776, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 858: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu 👉🏻, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu 👉🏻, extra_data="{'translat...") 
+
+0.0  | Tweet 859: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu ', pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu ', extra_data="{'translat...") 
+
+0.0  | Tweet 860: Translated(src=es, dest=en, text=@eldiario: #3Aug | Yashual Ávila Abello is a 30-year-old Venezuelan migrant who is known in the center of Lima, Peru, as…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3612  | Tweet 861: Translated(src=es, dest=en, text=@ReporteYa: #4Aug #EsViral
+@SegoviaBastidas: Does he look like the actor?
+
+Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7906  | Tweet 862: Translated(src=es, dest=en, text=@abelgilvonio @soyfdelrincon @CNNEE @PedroCastilloTe And when your uncle Chavez or your king the Venezuelan ass Maduro speaks… https://t.co/lvZlcD0Mqh, pronunciation=@abelgilvonio @soyfdelrincon @CNNEE @PedroCastilloTe And when your uncle Chavez or your king the Venezuelan ass Maduro speaks… https://t.co/lvZlcD0Mqh, extra_data="{'translat...") 
+
+0.0  | Tweet 863: Translated(src=es, dest=en, text=This is the life of Yashual Ávila Abello, the young Venezuelan who causes a sensation in Peru for his incredible resemblance to… https://t.co/2PxhZe1Dwv, pronunciation=This is the life of Yashual Ávila Abello, the young Venezuelan who causes a sensation in Peru for his incredible resemblance to… https://t.co/2PxhZe1Dwv, extra_data="{'translat...") 
+
+0.2263  | Tweet 864: Translated(src=es, dest=en, text=#NowIsTrend | 🇻🇪 Yashual Ávila Abello is a Venezuelan who imitates #WillSmith in #Peru and surprises people… https://t.co/fSfCGHwa76, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 865: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/WuzBl9905g via @ElNacionalWeb, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/WuzBl9905g via @ElNacionalWeb, extra_data="{'translat...") 
+
+0.0  | Tweet 866: Translated(src=es, dest=en, text=Peru: They find the body of a young Venezuelan decapitated. (He was from Falcón) https://t.co/QPEPHNXJCg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 867: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/wGSrEb4k4V, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/wGSrEb4k4V, extra_data="{'translat...") 
+
+0.2263  | Tweet 868: Translated(src=es, dest=en, text=VIDEO | The Venezuelan Will Smith who surprises in the streets of Peru https://t.co/kls3ZlSdo3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 869: Translated(src=es, dest=en, text=@PaezDt: @SimplePaez With 54 years in Venezuelan soccer, as an amateur player, a professional player, a U20 National Team player..., pronunciation=@PaezDt: @SimplePaez With 54 years in Venezuelan soccer, as an amateur player, a professional player, a U20 National Team player..., extra_data="{'translat...") 
+
+0.296  | Tweet 870: Translated(src=es, dest=en, text=A very Venezuelan saying says: "When you see your neighbor's beards burn, soak yours".
+An alert to… https://t.co/DpoqXWAgly, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 871: Translated(src=es, dest=en, text=22-year-old Venezuelan was beheaded in Peru https://t.co/yS8KqPSuaF https://t.co/LK9k7CIhoQ, pronunciation=22-year-old Venezuelan was beheaded in Peru https://t.co/yS8KqPSuaF https://t.co/LK9k7CIhoQ, extra_data="{'translat...") 
+
+0.735  | Tweet 872: Translated(src=es, dest=en, text=A tattoo on the chest with the phrase "I forgive, but I do not forget" was enough for relatives to identify… https://t.co/oO6fqGC3Ta, pronunciation=A tattoo on the chest with the phrase "I forgive, but I do not forget" was enough for relatives to identify… https://t.co/oO6fqGC3Ta, extra_data="{'translat...") 
+
+0.0  | Tweet 873: Translated(src=es, dest=en, text=#TRENDS Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNPTpl, pronunciation=#TRENDS Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNPTpl, extra_data="{'translat...") 
+
+0.0  | Tweet 874: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/vtWiDcbEul
+---, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 875: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/4obg48vKbu ⏩, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/4obg48vKbu ⏩, extra_data="{'translat...") 
+
+0.0  | Tweet 876: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to actor Will Smith https://t.co/f0J16v8kRy, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to actor Will Smith https://t.co/f0J16v8kRy, extra_data="{'translat...") 
+
+0.0  | Tweet 877: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of scores https://t.co/4obg48vKbu,, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of scores https://t.co/4obg48vKbu,, extra_data="{'translat...") 
+
+0.0  | Tweet 878: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 🔵, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 🔵, extra_data="{'translat...") 
+
+0.0  | Tweet 879: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ✳, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ✳, extra_data="{'translat...") 
+
+0.0  | Tweet 880: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr>, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr>, extra_data="{'translat...") 
+
+0.0  | Tweet 881: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▪, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▪, extra_data="{'translat...") 
+
+0.0  | Tweet 882: Translated(src=es, dest=en, text=Venezuelan Noel Petit Lugo was beheaded in #Peru https://t.co/VzdDOyijqa, pronunciation=Venezuelan Noel Petit Lugo was beheaded in #Peru https://t.co/VzdDOyijqa, extra_data="{'translat...") 
+
+0.0  | Tweet 883: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/vtWiDbU35L
+--, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 884: Translated(src=es, dest=en, text=@AlbertoRodNews: Venezuelan causes a sensation in Peru for his resemblance to Will Smith. https://t.co/wGSrEb4k4V, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 885: Translated(src=es, dest=en, text=@ElNacionalWeb: [VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=@ElNacionalWeb: [VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, extra_data="{'translat...") 
+
+0.0  | Tweet 886: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith.
+
+https://t.co/vtWiDcbEul, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 887: Translated(src=es, dest=en, text=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, pronunciation=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDlEUZ, extra_data="{'translat...") 
+
+0.0  | Tweet 888: Translated(src=es, dest=en, text=@laprensalara: #3Aug | Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of downtown Lima, in Pe…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 889: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu 🟢, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu 🟢, extra_data="{'translat...") 
+
+0.0  | Tweet 890: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ', pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ', extra_data="{'translat...") 
+
+0.5859  | Tweet 891: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▶, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▶, extra_data="{'translat...") 
+
+0.0  | Tweet 892: Translated(src=es, dest=en, text=@ElNacionalWeb: [VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=@ElNacionalWeb: [VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, extra_data="{'translat...") 
+
+0.0  | Tweet 893: Translated(src=es, dest=en, text=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, extra_data="{'translat...") 
+
+-0.296  | Tweet 894: Translated(src=es, dest=en, text=A Venezuelan immigrant speaking, is like listening to a compatriot 😢 who, because of the socialist governments… https://t.co/uaemvuOD7n, pronunciation=A Venezuelan immigrant speaking, is like listening to a compatriot 😢 who, because of the socialist governments… https://t.co/uaemvuOD7n, extra_data="{'translat...") 
+
+0.5859  | Tweet 895: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ▶, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ▶, extra_data="{'translat...") 
+
+0.0  | Tweet 896: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ·, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ·, extra_data="{'translat...") 
+
+0.0  | Tweet 897: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu ◼, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu ◼, extra_data="{'translat...") 
+
+0.0  | Tweet 898: Translated(src=es, dest=en, text=They behead a Venezuelan in Peru for "settling accounts" https://t.co/143qcvZjLE, pronunciation=They behead a Venezuelan in Peru for "settling accounts" https://t.co/143qcvZjLE, extra_data="{'translat...") 
+
+0.0  | Tweet 899: Translated(src=es, dest=en, text=Venezuelan Noel Petit Lugo was beheaded in #Peru https://t.co/VzdDOy0IyC, pronunciation=Venezuelan Noel Petit Lugo was beheaded in #Peru https://t.co/VzdDOy0IyC, extra_data="{'translat...") 
+
+0.0  | Tweet 900: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ◼, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ◼, extra_data="{'translat...") 
+
+0.0  | Tweet 901: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ", pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ", extra_data="{'translat...") 
+
+0.0  | Tweet 902: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu *, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu *, extra_data="{'translat...") 
+
+-0.4588  | Tweet 903: Translated(src=es, dest=en, text=@juan_diaz12 @PolloFarsantePe Venezuelan troll, coward. He came to Peru to stick his nose in to defend a corrupt… https://t.co/84pl2OTUG1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 904: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ⬛, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu ⬛, extra_data="{'translat...") 
+
+0.6808  | Tweet 905: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ❇, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ❇, extra_data="{'translat...") 
+
+0.0  | Tweet 906: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 👉🏻, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/QTXFtM4hvu 👉🏻, extra_data="{'translat...") 
+
+0.2263  | Tweet 907: Translated(src=es, dest=en, text=@ElPitazoTV: VIDEO | The Venezuelan Will Smith who surprises in the streets of Peru https://t.co/kls3ZlSdo3, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 908: Translated(src=es, dest=en, text=@la_patilla: They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYvJ77q, pronunciation=@la_patilla: They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYvJ77q, extra_data="{'translat...") 
+
+0.0  | Tweet 909: Translated(src=es, dest=en, text=@SahzdiPaz: @alejotuits This is how I recognize a Chavista. A normal Venezuelan who seeks to move forward, arrives in the USA pending a job, d…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 910: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/61EMipuBLN, pronunciation=Young Venezuelan is beheaded in Peru for alleged account adjustments https://t.co/61EMipuBLN, extra_data="{'translat...") 
+
+0.6597  | Tweet 911: Translated(src=es, dest=en, text=@la_patilla those with the sideburn don't even know how to write... I'll help you, pink gentlemen, the correct form of the headline is "EN PE... https://t.co/VHcSqG5HGo, pronunciation=@la_patilla those with the sideburn don't even know how to write... I'll help you, pink gentlemen, the correct form of the headline is "EN PE... https://t.co/VHcSqG5HGo, extra_data="{'translat...") 
+
+0.0  | Tweet 912: Translated(src=es, dest=en, text=They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYvJ77q, pronunciation=They found the body of a young Venezuelan beheaded in Peru https://t.co/WCXfYvJ77q, extra_data="{'translat...") 
+
+0.0  | Tweet 913: Translated(src=es, dest=en, text=#4Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks (Video) https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 914: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith
+
+https://t.co/vtWiDbU35L, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 915: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/vtWiDcbEul, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/vtWiDcbEul, extra_data="{'translat...") 
+
+0.0  | Tweet 916: Translated(src=es, dest=en, text=@laverdadweb: #4Aug #Events | They behead a young Venezuelan for "settling scores" in Peru https://t.co/L32BOaEJTS https://t.co/T6m1zEZ…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 917: Translated(src=es, dest=en, text=#4Aug #Events | They behead a young Venezuelan for "settling scores" in Peru https://t.co/L32BOaEJTS https://t.co/T6m1zEZxHE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 918: Translated(src=es, dest=en, text=@ElNacionalWeb: #4Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 919: Translated(src=es, dest=en, text=#4Aug | [VIDEO] Venezuelan causes a sensation in Peru because of his resemblance to Will Smith 🇻🇪 https://t.co/aN6DaDDgjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 920: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu >>, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu >>, extra_data="{'translat...") 
+
+0.0  | Tweet 921: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr *, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr *, extra_data="{'translat...") 
+
+0.0  | Tweet 922: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu >, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu >, extra_data="{'translat...") 
+
+0.0  | Tweet 923: Translated(src=es, dest=en, text=#4Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 924: Translated(src=es, dest=en, text=@El_Cooperante: #4Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 925: Translated(src=es, dest=en, text=Young Venezuelan beheaded in Peru ... https://t.co/AVYvUp8b43 #events, pronunciation=Young Venezuelan beheaded in Peru ... https://t.co/AVYvUp8b43 #events, extra_data="{'translat...") 
+
+0.875  | Tweet 926: Translated(src=es, dest=en, text=#Venezuelan ET entertainment impresses with its great resemblance to Will Smith in Peru
+https://t.co/eIgr8ek3qE https://t.co/KEvtA3b9SV, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 927: Translated(src=es, dest=en, text=#4Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 928: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith. https://t.co/wGSrEb4k4V, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 929: Translated(src=es, dest=en, text=#SucesosET For alleged account adjustment they behead a Venezuelan in Peru
+https://t.co/jh8nXsfqOP https://t.co/uWKqhpVujE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 930: Translated(src=es, dest=en, text=@El_Cooperante: #4Aug 🌎 | The "Venezuelan Will Smith" in Peru that stirred up social networks (Video) https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 931: Translated(src=es, dest=en, text=This is the life of Yashual Ávila Abello, the young Venezuelan who causes a sensation in Peru for his incredible resemblance to… https://t.co/7gKCC99KFo, pronunciation=This is the life of Yashual Ávila Abello, the young Venezuelan who causes a sensation in Peru for his incredible resemblance to… https://t.co/7gKCC99KFo, extra_data="{'translat...") 
+
+0.0  | Tweet 932: Translated(src=es, dest=en, text=@El_Cooperante: #4Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 933: Translated(src=es, dest=en, text=#4Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 934: Translated(src=es, dest=en, text=@El_Cooperante: #4Aug 🌎 | In Peru: They behead a young Venezuelan who worked as a delivery
+
+https://t.co/Ocoyd90cAI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5574  | Tweet 935: Translated(src=es, dest=en, text=The Venezuelan Will Smith exists and is causing a sensation in Peru🤯🤯 His original name is Yashual Ávila Abello and you… https://t.co/wMJpw9whNy, pronunciation=The Venezuelan Will Smith exists and is causing a sensation in Peru🤯🤯 His original name is Yashual Ávila Abello and you… https://t.co/wMJpw9whNy, extra_data="{'translat...") 
+
+0.0  | Tweet 936: Translated(src=es, dest=en, text=@laverdadweb: #4Aug #Events | They behead a young Venezuelan for "settling accounts" in Peru https://t.co/L32BOaEJTS https://t.co/J5qWeYo…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.25  | Tweet 937: Translated(src=es, dest=en, text=@diariocorreo Every day wider and the Venezuelan people dying of hunger. HERE in Peru the delinquent is seen wider every day., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 938: Translated(src=es, dest=en, text=#4Aug #Events | They behead a young Venezuelan for "settling accounts" in Peru https://t.co/L32BOaEJTS https://t.co/J5qWeYoTpK, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 939: Translated(src=es, dest=en, text=A young Venezuelan is beheaded for "settling accounts" in Peru. Noel José Petit Lugo, a 22-year-old young man from Paragua… https://t.co/suLmDQijec, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 940: Translated(src=es, dest=en, text=@SimplePaez With 54 years in Venezuelan soccer, as an amateur player, professional player, National Team player… https://t.co/67bKiutgYF, pronunciation=@SimplePaez With 54 years in Venezuelan soccer, as an amateur player, professional player, National Team player… https://t.co/67bKiutgYF, extra_data="{'translat...") 
+
+0.0  | Tweet 941: Translated(src=es, dest=en, text=THEY BEHEADED ON AN EMBANKMENT! They find the slit body of a Venezuelan 13 kilometers from Lima, Peru… https://t.co/EjycizwqgY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 942: Translated(src=es, dest=en, text=@NOTIFALCON: Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, pronunciation=@NOTIFALCON: Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, extra_data="{'translat...") 
+
+0.0  | Tweet 943: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/uGKIaNyixN, extra_data="{'translat...") 
+
+0.0  | Tweet 944: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/l0gisJy5b6 via @ElNacionalWeb, pronunciation=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/l0gisJy5b6 via @ElNacionalWeb, extra_data="{'translat...") 
+
+0.5859  | Tweet 945: Translated(src=es, dest=en, text=@DiarioContraste: Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▶, pronunciation=@DiarioContraste: Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/QTXFtM4hvu ▶, extra_data="{'translat...") 
+
+-0.2732  | Tweet 946: Translated(src=es, dest=en, text=They cut the throat of a Venezuelan in Peru
+https://t.co/uBWUv9GCeO https://t.co/t8yhsUfovD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 947: Translated(src=es, dest=en, text=Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/agzmjEJA6N
+via SQUID App https://t.co/IcS6Y7EhN2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 948: Translated(src=es, dest=en, text=They beheaded a Venezuelan in Peru https://t.co/j5TdjmJuom via @lanacionweb, pronunciation=They beheaded a Venezuelan in Peru https://t.co/j5TdjmJuom via @lanacionweb, extra_data="{'translat...") 
+
+0.875  | Tweet 949: Translated(src=es, dest=en, text=#Venezuelan ET entertainment impresses with its great resemblance to Will Smith in Peru
+https://t.co/eIgr8ek3qE https://t.co/AxWK4FTqGE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 950: Translated(src=es, dest=en, text=#4Aug 🌎 | They behead a young Venezuelan in Peru for alleged settling of scores https://t.co/Ocoyd8IBc8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 951: Translated(src=es, dest=en, text=@agenciaNDS: Young Venezuelan is beheaded in Peru for alleged settling of scores https://t.co/4obg48vKbu, pronunciation=@agenciaNDS: Young Venezuelan is beheaded in Peru for alleged settling of scores https://t.co/4obg48vKbu, extra_data="{'translat...") 
+
+0.0  | Tweet 952: Translated(src=es, dest=en, text=#SucesosET For alleged account adjustment they behead a Venezuelan in Peru
+https://t.co/jh8nXsfqOP https://t.co/cEgXH2mpnf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 953: Translated(src=es, dest=en, text=@EldiarioLaVoz: They beheaded a Venezuelan in Peru https://t.co/8b8iW36JGF, pronunciation=@EldiarioLaVoz: They beheaded a Venezuelan in Peru https://t.co/8b8iW36JGF, extra_data="{'translat...") 
+
+0.0  | Tweet 954: Translated(src=es, dest=en, text=#EVENTS | Noel José Petit Lugo, a 22-year-old young man from Paragua who emigrated to Peru three years ago in search of m… https://t.co/xGSGSZoUFP, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 955: Translated(src=es, dest=en, text=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/2QIvklm9kU https://t.co/i4bSh5zyWH, pronunciation=[VIDEO] Venezuelan causes a sensation in Peru for his resemblance to Will Smith https://t.co/2QIvklm9kU https://t.co/i4bSh5zyWH, extra_data="{'translat...") 
+
+0.5859  | Tweet 956: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/hRPhQGhZXC ▶, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/hRPhQGhZXC ▶, extra_data="{'translat...") 
+
+0.0  | Tweet 957: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu>, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/4obg48vKbu>, extra_data="{'translat...") 
+
+0.0  | Tweet 958: Translated(src=es, dest=en, text=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ◼, pronunciation=Young Venezuelan is beheaded in Peru for alleged settling of accounts https://t.co/UVg8dF51fr ◼, extra_data="{'translat...") 
+
+0.0  | Tweet 959: Translated(src=es, dest=en, text=@Fredyandradea: #4Ago A young Venezuelan is beheaded for "settling scores" in Peru https://t.co/iUD1M7bai9 https://t.co/1ab3JxzPMI, pronunciation=@Fredyandradea: #4Ago A young Venezuelan is beheaded for "settling scores" in Peru https://t.co/iUD1M7bai9 https://t.co/1ab3JxzPMI, extra_data="{'translat...") 
+
+0.8481  | Tweet 960: Translated(src=es, dest=en, text=#INTERNATIONAL Yhasual Ávila, a Venezuelan who lives in Peru, has gone viral for his great resemblance to the actor Wil… https://t.co/GsENCN2MEZ, pronunciation=#INTERNATIONAL Yhasual Ávila, a Venezuelan who lives in Peru, has gone viral for his great resemblance to the actor Wil… https://t.co/GsENCN2MEZ, extra_data="{'translat...") 
+
+0.8481  | Tweet 961: Translated(src=es, dest=en, text=@Daniel_RiosVE: Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of #Lima-#Peru, due to his great resemblance…, pronunciation=@Daniel_RiosVE: Yashual Ávila Abello, a 30-year-old Venezuelan migrant, caused a sensation in the streets of #Lima-#Peru, due to his great resemblance…, extra_data="{'translat...") 
+
+0.0  | Tweet 962: Translated(src=es, dest=en, text=@aliciabecerra1: @ugluis The Iranians are already involved in Peru, they are entering with a Venezuelan document, Maduro handed over territory..., pronunciation=@aliciabecerra1: @ugluis The Iranians are already involved in Peru, they are entering with a Venezuelan document, Maduro handed over territory..., extra_data="{'translat...") 
+
+0.0  | Tweet 963: Translated(src=es, dest=en, text=#EVENTS | Noel José Petit Lugo, a 22-year-old young man from Paragua who emigrated to Peru three years ago in search of m… https://t.co/ngi7G5H8ag, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 964: Translated(src=es, dest=en, text=#4Ago A young Venezuelan is beheaded for "settling scores" in Peru https://t.co/iUD1M7bai9 https://t.co/1ab3JxzPMI, pronunciation=#4Ago A young Venezuelan is beheaded for "settling scores" in Peru https://t.co/iUD1M7bai9 https://t.co/1ab3JxzPMI, extra_data="{'translat...") 
+
+0.0  | Tweet 965: Translated(src=es, dest=en, text=#4Aug #Events | A young Venezuelan is beheaded for "settling accounts" in Peru https://t.co/L32BOaEJTS https://t.co/vgevpnQtav, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 966: Translated(src=es, dest=en, text=#Internationals They beheaded a Venezuelan in Peru https://t.co/cCo0b6h6hD, pronunciation=#Internationals They beheaded a Venezuelan in Peru https://t.co/cCo0b6h6hD, extra_data="{'translat...") 
+
+0.0  | Tweet 967: Translated(src=es, dest=en, text=#4Aug 🌎 | On video: The "Venezuelan Will Smith" that caused a stir in Peru and on social networks
+
+https://t.co/TmyzaFvzMR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 968: Translated(src=es, dest=en, text=But it's that corduroy... many venecos what they want is easy money... the amount of mafia extortionists in... https://t.co/OTX0rNbAg9, pronunciation=But it's that corduroy... many venecos what they want is easy money... the amount of mafia extortionists in... https://t.co/OTX0rNbAg9, extra_data="{'translat...") 
+
+0.0  | Tweet 969: Translated(src=es, dest=en, text=The Venetian restaurants in Lima have turned the national pavilion into a paisa tray., pronunciation=The Venetian restaurants in Lima have turned the national pavilion into a paisa tray., extra_data="{'translat...") 
+
+0.9393  | Tweet 970: Translated(src=es, dest=en, text=@FarmapatriaV: Thanks to the commitment of our president @NicolasMaduro with the health of Venezuelans, they were favored through…, pronunciation=@FarmapatriaV: Thanks to the commitment of our president @NicolasMaduro with the health of Venezuelans, they were favored through…, extra_data="{'translat...") 
+
+-0.6908  | Tweet 971: Translated(src=es, dest=en, text=@TheNobs_: Murder in the Lima subway
+Venezuelans get on the subway to sell candy, disrespecting a lady who recri…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 972: Translated(src=es, dest=en, text=@murillocasanova: Two Venezuelans were shot on arrival in Lima https://t.co/CuZwzQ7ILU via @lanacionweb, pronunciation=@murillocasanova: Two Venezuelans were shot on arrival in Lima https://t.co/CuZwzQ7ILU via @lanacionweb, extra_data="{'translat...") 
+
+0.0  | Tweet 973: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/CuZwzQ7ILU via @lanacionweb, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/CuZwzQ7ILU via @lanacionweb, extra_data="{'translat...") 
+
+0.0  | Tweet 974: Translated(src=es, dest=en, text=@sigridbazan @uniamericas @uniglobalunion @InfoSindicatos This week "ALIENS", you and I already know what the p… https://t.co/yAGHzuduBI, pronunciation=@sigridbazan @uniamericas @uniglobalunion @InfoSindicatos This week "ALIENS", you and I already know what the p… https://t.co/yAGHzuduBI, extra_data="{'translat...") 
+
+0.0  | Tweet 975: Translated(src=es, dest=en, text=Murder in the Lima subway
+Venezuelans get on the subway to sell candy, disrespecting a lady who… https://t.co/OZK2FVyyO0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6705  | Tweet 976: Translated(src=es, dest=en, text=@noticiaaldia: Two Venezuelans who just arrived in Lima were killed by hitmen after getting out of a taxi
+https://t.co/KlmjeLYi2h h…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4767  | Tweet 977: Translated(src=es, dest=en, text=@pilmepa: @noticias_tvperu @PedroCastilloTe You have 9% approval in Lima
+17% in the North, the largest segments of…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 978: Translated(src=es, dest=en, text=@pilmepa: @marita_molina4 @PedroCastilloTe But the approval of his management is terrible:
+Lime 9%
+North 17%…
+
+The “Venezuelans…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5499  | Tweet 979: Translated(src=es, dest=en, text=@marita_molina4 @PedroCastilloTe But the approval of his management is terrible:
+Lime 9%
+North 17%…
+
+They will support the “v… https://t.co/FwDEDF8SBO, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.875  | Tweet 980: Translated(src=es, dest=en, text=Two Venezuelans who had just arrived in Lima were killed by hitmen after getting out of a taxi… https://t.co/klvNGqwW68, pronunciation=Two Venezuelans who had just arrived in Lima were killed by hitmen after getting out of a taxi… https://t.co/klvNGqwW68, extra_data="{'translat...") 
+
+0.0  | Tweet 804: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/CuZwzQ7aWm via @lanacionweb, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/CuZwzQ7aWm via @lanacionweb, extra_data="{'translat...") 
+
+0.0  | Tweet 805: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/Y4CUt8452v through @lanacionweb, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/Y4CUt8452v through @lanacionweb, extra_data="{'translat...") 
+
+0.0  | Tweet 806: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/wBHzBvyNZ5 through @lanacionweb And they were rec… https://t.co/pKSSrH07J8, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/wBHzBvyNZ5 through @lanacionweb And they were rec… https://t.co/pKSSrH07J8, extra_data="{'translat...") 
+
+0.0  | Tweet 807: Translated(src=es, dest=en, text=@RCidencial: Two Venezuelans were shot on arrival in Lima... https://t.co/kZQvggHlRp #events, pronunciation=@RCidencial: Two Venezuelans were shot on arrival in Lima... https://t.co/kZQvggHlRp #events, extra_data="{'translat...") 
+
+0.0  | Tweet 808: Translated(src=es, dest=en, text=Peru: Two Venezuelans were shot on arrival in Lima https://t.co/oCUXQhxoqE, pronunciation=Peru: Two Venezuelans were shot on arrival in Lima https://t.co/oCUXQhxoqE, extra_data="{'translat...") 
+
+0.0  | Tweet 809: Translated(src=es, dest=en, text=Two Venezuelans were shot on arrival in Lima... https://t.co/kZQvggHlRp #events, pronunciation=Two Venezuelans were shot on arrival in Lima... https://t.co/kZQvggHlRp #events, extra_data="{'translat...") 
+
+0.0  | Tweet 810: Translated(src=es, dest=en, text=@lanacionweb: Two Venezuelans were shot when they arrived in Lima https://t.co/V7rOA4MALG, pronunciation=@lanacionweb: Two Venezuelans were shot when they arrived in Lima https://t.co/V7rOA4MALG, extra_data="{'translat...") 
+
+0.4767  | Tweet 811: Translated(src=es, dest=en, text=@noticias_tvperu @PedroCastilloTe You have 9% approval in Lima
+17% in the north, the segments more… https://t.co/VvwSNq3nU0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 812: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/aefBoIsOw1, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/aefBoIsOw1, extra_data="{'translat...") 
+
+0.0  | Tweet 813: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/V7rOA4MALG, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/V7rOA4MALG, extra_data="{'translat...") 
+
+-0.875  | Tweet 814: Translated(src=es, dest=en, text=Two Venezuelans who had just arrived in Lima were killed by hit men after getting out of a taxi… https://t.co/nXZYIkE7ud, pronunciation=Two Venezuelans who had just arrived in Lima were killed by hit men after getting out of a taxi… https://t.co/nXZYIkE7ud, extra_data="{'translat...") 
+
+0.25  | Tweet 815: Translated(src=es, dest=en, text=@Benja24256 Yaha Lima is good, unfortunately she is not very far from the situation of irrelevance of the actors come… https://t.co/DR7rEiDolV, pronunciation=@Benja24256 Yaha Lima is good, unfortunately she is not very far from the situation of irrelevance of the actors come… https://t.co/DR7rEiDolV, extra_data="{'translat...") 
+
+0.0  | Tweet 816: Translated(src=es, dest=en, text=@OIM_Peru: 🤝 As part of the closing phase of the enrollment of the #Lima headquarters of our project "Biobehavioral Survey of Venezuelan Migrants…, pronunciation=@OIM_Peru: 🤝 As part of the closing phase of the enrollment of the #Lima headquarters of our project "Biobehavioral Survey of Venezuelan Migrants…, extra_data="{'translat...") 
+
+-0.875  | Tweet 817: Translated(src=es, dest=en, text=Two Venezuelans who had just arrived in Lima were killed by hitmen after getting out of a taxi… https://t.co/RFwmVdFJmW, pronunciation=Two Venezuelans who had just arrived in Lima were killed by hitmen after getting out of a taxi… https://t.co/RFwmVdFJmW, extra_data="{'translat...") 
+
+0.0  | Tweet 818: Translated(src=es, dest=en, text=#International Two Venezuelans recently arrived in Lima were shot https://t.co/FHJBXv8wNX, pronunciation=#International Two Venezuelans recently arrived in Lima were shot https://t.co/FHJBXv8wNX, extra_data="{'translat...") 
+
+0.0  | Tweet 819: Translated(src=es, dest=en, text=BY ALLEGED HITCHERS! Two Venezuelans were shot on arrival in Lima https://t.co/NpPzRiJT2Q https://t.co/Ks4qF20dBT, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 820: Translated(src=es, dest=en, text=@RCidencial: Two Venezuelans were shot when they arrived in Lima https://t.co/Emzk44IkWY, pronunciation=@RCidencial: Two Venezuelans were shot when they arrived in Lima https://t.co/Emzk44IkWY, extra_data="{'translat...") 
+
+0.0  | Tweet 821: Translated(src=es, dest=en, text=Two Venezuelans were shot when they arrived in Lima https://t.co/Emzk44IkWY, pronunciation=Two Venezuelans were shot when they arrived in Lima https://t.co/Emzk44IkWY, extra_data="{'translat...") 
+
+-0.3182  | Tweet 822: Translated(src=es, dest=en, text=@CronicaPolicial: Two Venezuelans were gunned down by alleged hit men upon arrival in Lima. It is presumed that the victims were summoned…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5106  | Tweet 823: Translated(src=es, dest=en, text=@MilyJuarezV Or as our intellectual student president of Acuña said. Venezuelans have come to work and… https://t.co/5L9o8khSHh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 824: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/ijGYj0qLei, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 825: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/9CH6nXmUxX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 826: Translated(src=es, dest=en, text=@cactus24news: #events Two #Venezuelans were riddled with bullets upon arriving in #Lima https://t.co/pLYvzKNdMq, pronunciation=@cactus24news: #events Two #Venezuelans were riddled with bullets upon arriving in #Lima https://t.co/pLYvzKNdMq, extra_data="{'translat...") 
+
+0.0  | Tweet 827: Translated(src=es, dest=en, text=#events Two #Venezuelans were gunned down upon arriving in #Lima https://t.co/pLYvzKNdMq, pronunciation=#events Two #Venezuelans were gunned down upon arriving in #Lima https://t.co/pLYvzKNdMq, extra_data="{'translat...") 
+
+-0.3182  | Tweet 828: Translated(src=es, dest=en, text=Place to look for young Venezuelans who get lost in Lima. https://t.co/8EleeqvA1S, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 829: Translated(src=es, dest=en, text=#events Two #Venezuelans were gunned down upon arriving in #Lima https://t.co/pLYvzKvCUS, pronunciation=#events Two #Venezuelans were gunned down upon arriving in #Lima https://t.co/pLYvzKvCUS, extra_data="{'translat...") 
+
+-0.3182  | Tweet 830: Translated(src=es, dest=en, text=Two Venezuelans were gunned down by alleged hit men upon arrival in Lima. It is presumed that the victims were cit… https://t.co/1UjanofUUC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 831: Translated(src=es, dest=en, text=@AlexaGomezDos I rent the Taxi motorcycle. I forgot that there are areas of Lima where a quick transfer; a motorcycle taxi. Like… https://t.co/kbQhEm3vyk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8689  | Tweet 832: Translated(src=es, dest=en, text=Thanks to the commitment of our president @NicolasMaduro with the health of Venezuelans, they were favored by tr… https://t.co/QBIB6rkMAy, pronunciation=Thanks to the commitment of our president @NicolasMaduro with the health of Venezuelans, they were favored by tr… https://t.co/QBIB6rkMAy, extra_data="{'translat...") 
+
+-0.5562  | Tweet 833: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/FY0DHIF5Iq, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.875  | Tweet 834: Translated(src=es, dest=en, text=@ClideMarchelli: In Lima, two Venezuelans were killed by assassins https://t.co/DkpSY6M2ez, pronunciation=@ClideMarchelli: In Lima, two Venezuelans were killed by assassins https://t.co/DkpSY6M2ez, extra_data="{'translat...") 
+
+-0.875  | Tweet 835: Translated(src=es, dest=en, text=In Lima two Venezuelans were killed by hitmen https://t.co/DkpSY6M2ez, pronunciation=In Lima two Venezuelans were killed by hitmen https://t.co/DkpSY6M2ez, extra_data="{'translat...") 
+
+-0.875  | Tweet 836: Translated(src=es, dest=en, text=In Lima two Venezuelans were killed by hitmen https://t.co/WAb9pwMYeG, pronunciation=In Lima two Venezuelans were killed by hitmen https://t.co/WAb9pwMYeG, extra_data="{'translat...") 
+
+-0.5267  | Tweet 837: Translated(src=es, dest=en, text=@larepublica_pe Stop being candid, you have to start with something, Venezuelan pimps have appropriated the… https://t.co/HUcPLDF8ML, pronunciation=@larepublica_pe Stop being candid, you have to start with something, Venezuelan pimps have appropriated the… https://t.co/HUcPLDF8ML, extra_data="{'translat...") 
+
+-0.5562  | Tweet 838: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/jrxzvmZ7Jn, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 839: Translated(src=es, dest=en, text=@EmmaRincon: Hugo Chávez: "Being rich is bad."
+
+Fortune of the daughter of Hugo Chávez (María Gabriela): 3,500 million dollars.
+
+*Stolen from…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 840: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/mxSoea1VRJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 841: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/ISNLzVppyX, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 842: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/TpVcW0q1Mc, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 843: Translated(src=es, dest=en, text=@pukakunas: I can already say that @rlopezaliaga1 will lose against Urresti, and he will do so because Urresti will get the million votes from Venezuela…, pronunciation=@pukakunas: I can already say that @rlopezaliaga1 will lose against Urresti, and he will do so because Urresti will get the million votes from Venezuela…, extra_data="{'translat...") 
+
+-0.5562  | Tweet 844: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/x1qIsfy6VR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 845: Translated(src=es, dest=en, text=I already say that @ rlopezaliaga1 will lose against Urresti, and he will do it because Urresti will get the million votes from v… https://t.co/pkIpm9i3nX, pronunciation=I already say that @ rlopezaliaga1 will lose against Urresti, and he will do it because Urresti will get the million votes from v… https://t.co/pkIpm9i3nX, extra_data="{'translat...") 
+
+0.7579  | Tweet 846: Translated(src=qu, dest=en, text=@esquinabaja There are a million Venezuelans in Lima eligible to vote, but they will not go to vote, like the Ayacucho... https://t.co/qthCIDO0ka, pronunciation=@esquinabaja There are a million Venezuelans in Lima eligible to vote, but they will not go to vote, like the Ayacucho... https://t.co/qthCIDO0ka, extra_data="{'translat...") 
+
+-0.5562  | Tweet 847: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/n2aPDtqzWe, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 848: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/pVquyzSivd, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0772  | Tweet 849: Translated(src=es, dest=en, text=@AngelDiazzzl: @melo_plz @AIertaMundiaI Good for you. Here crime is daily bread, but more so in the capital Lima. For my area..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 850: Translated(src=es, dest=en, text=@LibraMeDioss: @Liberfach0 This reminds me of when I was in Lima and Peruvians asked me everywhere: why do you (Venezuelans…, pronunciation=@LibraMeDioss: @Liberfach0 This reminds me of when I was in Lima and Peruvians asked me everywhere: why do you (Venezuelans…, extra_data="{'translat...") 
+
+0.0  | Tweet 851: Translated(src=es, dest=en, text=@Liberfach0 This reminds me when I was in Lima and Peruvians asked me everywhere: why do you see them… https://t.co/Y00t0lu9oW, pronunciation=@Liberfach0 This reminds me when I was in Lima and Peruvians asked me everywhere: why do you see them… https://t.co/Y00t0lu9oW, extra_data="{'translat...") 
+
+-0.5562  | Tweet 852: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/sc6bfT4Ozb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 853: Translated(src=es, dest=en, text=@CronicaPolicial: The Aragua Train controls streets and prostitution in Lima. The 'sex mafias' made up of Colombian pimps..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 854: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/3WrLFK63yj, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 855: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/APBAbUB2Bv, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.34  | Tweet 856: Translated(src=es, dest=en, text=@JHolasoy @WordsOfTiago @juan08677 @Lucasfriedmanjr @leomdavid Seriously, I don't see Colombians at traffic lights… https://t.co/9xGuSBfZ8j, pronunciation=@JHolasoy @WordsOfTiago @juan08677 @Lucasfriedmanjr @leomdavid Seriously, I don't see Colombians at traffic lights… https://t.co/9xGuSBfZ8j, extra_data="{'translat...") 
+
+0.0  | Tweet 857: Translated(src=es, dest=en, text=@Rosmarbr I have a group of Venezuelans on WhatsApp here in Lima that we apply, we are 31 people and only 2… https://t.co/RnFZN4deJy, pronunciation=@Rosmarbr I have a group of Venezuelans on WhatsApp here in Lima that we apply, we are 31 people and only 2… https://t.co/RnFZN4deJy, extra_data="{'translat...") 
+
+-0.3818  | Tweet 858: Translated(src=es, dest=en, text=@AccionDeAmparo @PedroCastilloTe X that you are such a liar just like Mrs. I lived in Lima in the 70s to 80s always… https://t.co/9akn8vg6VR, pronunciation=@AccionDeAmparo @PedroCastilloTe X that you are such a liar just like Mrs. I lived in Lima in the 70s to 80s always… https://t.co/9akn8vg6VR, extra_data="{'translat...") 
+
+-0.5106  | Tweet 859: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/5SP8ZuVjfe, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9246  | Tweet 860: Translated(src=es, dest=en, text=Three Venezuelans are arrested when they tried to rob a hardware store in Lima https://t.co/ZprRXL9xfy via @DiarioPrimicia, pronunciation=Three Venezuelans are arrested when they tried to rob a hardware store in Lima https://t.co/ZprRXL9xfy via @DiarioPrimicia, extra_data="{'translat...") 
+
+0.0  | Tweet 861: Translated(src=es, dest=en, text=@rvaraguayan @metro_caracas @NicolasMaduro @LAConviasa When I fly Bogota, Quito, Buenos Aires, Rio de Janeiro,… https://t.co/3uOEQvYm9c, pronunciation=@rvaraguayan @metro_caracas @NicolasMaduro @LAConviasa When I fly Bogota, Quito, Buenos Aires, Rio de Janeiro,… https://t.co/3uOEQvYm9c, extra_data="{'translat...") 
+
+0.8555  | Tweet 862: Translated(src=es, dest=en, text=@VLADIMIR_CERRON Cuba being a paradise, this delegation that left may decide not to come anymore. They also worry… https://t.co/GYKIGkGJht, pronunciation=@VLADIMIR_CERRON Cuba being a paradise, this delegation that left may decide not to come anymore. They also worry… https://t.co/GYKIGkGJht, extra_data="{'translat...") 
+
+0.0  | Tweet 863: Translated(src=es, dest=en, text=Furrow: two men entered the municipal warehouse to remove a seized mototaxi https://t.co/KFHyqz61ux, pronunciation=Furrow: two men entered the municipal warehouse to remove a seized mototaxi https://t.co/KFHyqz61ux, extra_data="{'translat...") 
+
+-0.0772  | Tweet 864: Translated(src=es, dest=en, text=@melo_plz @AIertaMundiaI Good for you. Here crime is daily bread, but more so in the capital Lima. For me… https://t.co/Ttkg78YjWj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 865: Translated(src=es, dest=en, text=🕷️ Agents from the Serenazgo de Surco and members of the Monterrico police station captured two Venezuelan citizens… https://t.co/brKayEirgR, pronunciation=🕷️ Agents from the Serenazgo de Surco and members of the Monterrico police station captured two Venezuelan citizens… https://t.co/brKayEirgR, extra_data="{'translat...") 
+
+-0.9657  | Tweet 866: Translated(src=es, dest=en, text=@xafu: Gangs of Venezuelan, Ecuadorian and Peruvian criminals rob pharmacies in the northern cone of Lima, with grenades and long weapons..., pronunciation=@xafu: Gangs of Venezuelan, Ecuadorian and Peruvian criminals rob pharmacies in the northern cone of Lima, with grenades and long weapons..., extra_data="{'translat...") 
+
+-0.9393  | Tweet 867: Translated(src=es, dest=en, text=Gangs of Venezuelan, Ecuadorian and Peruvian criminals rob pharmacies in the northern cone of Lima, with grenades… https://t.co/jw2NefFjIv, pronunciation=Gangs of Venezuelan, Ecuadorian and Peruvian criminals rob pharmacies in the northern cone of Lima, with grenades… https://t.co/jw2NefFjIv, extra_data="{'translat...") 
+
+-0.7184  | Tweet 868: Translated(src=es, dest=en, text=#World | They arrest three Venezuelans when they tried to rob a hardware store in Lima
+https://t.co/HOTT3PJtoD, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 869: Translated(src=es, dest=en, text=Incredible what happened in Venezuela 2017 still no one knew what was happening in that country. Only later did we realize… https://t.co/uYO4DIUVZR, pronunciation=Incredible what happened in Venezuela 2017 still no one knew what was happening in that country. Only later did we realize… https://t.co/uYO4DIUVZR, extra_data="{'translat...") 
+
+-0.0772  | Tweet 870: Translated(src=es, dest=en, text=@PedroCastilloTe As president you do nothing to put a heavy hand on crime in all of Lima and districts. Everything… https://t.co/Ehgq7JAmbR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.765  | Tweet 871: Translated(src=es, dest=en, text=@SoldelValle79: @felipekast @izkia You also answered that you were in the whole plan of the Lima Group taking advantage and inviting Venezuelans…, pronunciation=@SoldelValle79: @felipekast @izkia You also answered that you were in the whole plan of the Lima Group taking advantage and inviting Venezuelans…, extra_data="{'translat...") 
+
+0.765  | Tweet 872: Translated(src=es, dest=en, text=@PolloFarsantePe Just in case, dear countrymen from Lima, - well, I was also born there - I warn you that in Tumbes, s… https://t.co/BTTnpIYy4e, pronunciation=@PolloFarsantePe Just in case, dear countrymen from Lima, - well, I was also born there - I warn you that in Tumbes, s… https://t.co/BTTnpIYy4e, extra_data="{'translat...") 
+
+-0.5106  | Tweet 873: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/vnC7qg0EZs, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 874: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/DDw7gPLNnx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 875: Translated(src=es, dest=en, text=@congresiste 10 million live in Lima. Many migrants from the north and center of the country, who live there for the es… https://t.co/YNiAJMFZvj, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 876: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/YK0WdRdXzq, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 877: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/SSUJqOAn6h, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9349  | Tweet 878: Translated(src=es, dest=en, text=@hermanntertsch: Those who have Añez imprisoned, those who use Venezuelan planes to move Iranian terrorists, cocaine around the world…, pronunciation=@hermanntertsch: Those who have Añez imprisoned, those who use Venezuelan planes to move Iranian terrorists, cocaine around the world…, extra_data="{'translat...") 
+
+0.7184  | Tweet 879: Translated(src=es, dest=en, text=@IdaniaChirinos @IvanDuque @NTN24ve @if you analyze honestly, President Duque is one of the causes of the em… https://t.co/S35frufygu, pronunciation=@IdaniaChirinos @IvanDuque @NTN24ve @if you analyze honestly, President Duque is one of the causes of the em… https://t.co/S35frufygu, extra_data="{'translat...") 
+
+-0.5106  | Tweet 880: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/A5LJCQyLd8, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 881: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/kaTU5UruuV, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 882: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/o5MK8Od1s3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 883: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/Z0gHDYzad7, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 884: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/7khEDk3yzb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 885: @sam2978 @Paoebs @lavidadenicol @japijane En realidad lo de inteligencia y talento lo tienen en todos lados, la dif… https://t.co/r71USRdXRm 
+
+0.0  | Tweet 885:  @ErasePeru: RETRO POADAS * MARICARMEN REGUEIRO y CATHERINE FULOP en la portada de "Tv y Novelas" edición Perú, febrero 1990. Entonces… 
+
+0.0  | Tweet 887: @Flash060976 Cierto, fue una joda Flash, probé las Venezolanas acá en Perú, son riquísimas 
+
+0.0  | Tweet 888: RETRO POADAS * MARICARMEN REGUEIRO y CATHERINE FULOP en la portada de "Tv y Novelas" edición Perú, febrero 1990.… https://t.co/O8TVXfFkHR 
+
+0.0  | Tweet 889:  @amnistiamexico: Más de la mitad de las personas venezolanas que viven en Colombia y Perú son mujeres. Los gobiernos tienen que asegurar… 
+
+0.0  | Tweet 890: Translated(src=es, dest=en, text=@VaneHikari Have you lived in Colombia, Ecuador, Peru, Chile or Argentina, for more than a year? If not, you don't know the Venezuelans… https://t.co/BzVacAsw89, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 891: Translated(src=es, dest=en, text=@CronicaPolicial The Aragua train and other Venezuelans have terrified Peru, as well as Chile, they also operate… https://t.co/G8DEfeRS3u, pronunciation=@CronicaPolicial The Aragua train and other Venezuelans have terrified Peru, as well as Chile, they also operate… https://t.co/G8DEfeRS3u, extra_data="{'translat...") 
+
+0.6249  | Tweet 892: Translated(src=es, dest=en, text=@cazamosfakenews: We carefully analyzed who had posted these positive messages on YouTube channels.
+
+We got more than…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9413  | Tweet 893: Translated(src=es, dest=en, text=@Cokis0910 I remember when Venezuelans celebrated when Chavez won the first time including many friends… https://t.co/GzZw39xazP, pronunciation=@Cokis0910 I remember when Venezuelans celebrated when Chavez won the first time including many friends… https://t.co/GzZw39xazP, extra_data="{'translat...") 
+
+-0.6597  | Tweet 894: Translated(src=es, dest=en, text=@cumanes_1984: #StrengthenYourVaccine
+
+Two Venezuelans were murdered by other nationals and alleged hit men in Peru https://t.co/BD…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 895: Translated(src=es, dest=en, text=@LuisVEchegaray @GersinB @Oscar_JMB As of today, Venezuelans should already know that the history to be taught… https://t.co/QXkI3yOdoE, pronunciation=@LuisVEchegaray @GersinB @Oscar_JMB As of today, Venezuelans should already know that the history to be taught… https://t.co/QXkI3yOdoE, extra_data="{'translat...") 
+
+-0.6597  | Tweet 896: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7xx6z
+ #INTERNATIONALS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 897: Translated(src=es, dest=en, text=The Governments of States that have received the six million Venezuelan migrants in the last six years com… https://t.co/t1RIOpdttE, pronunciation=The Governments of States that have received the six million Venezuelan migrants in the last six years com… https://t.co/t1RIOpdttE, extra_data="{'translat...") 
+
+-0.6597  | Tweet 898: Translated(src=es, dest=en, text=#BoostYourVaccine
+
+Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/BD5tKOuBzZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 899: Translated(src=es, dest=en, text=@GersinB @JulioTumbatodo This Mr. Tumbatodo seems to be a Venezuelan camouflaged as a Peruvian, in schools in Peru… https://t.co/2xRyG3TCfY, pronunciation=@GersinB @JulioTumbatodo This Mr. Tumbatodo seems to be a Venezuelan camouflaged as a Peruvian, in schools in Peru… https://t.co/2xRyG3TCfY, extra_data="{'translat...") 
+
+0.0  | Tweet 900: Translated(src=es, dest=en, text=@PERU_LIBRE1 Tell that to the million Venezuelans living in the cones., pronunciation=@PERU_LIBRE1 Tell that to the million Venezuelans living in the cones., extra_data="{'translat...") 
+
+-0.9432  | Tweet 901: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/SO6zhYCj8b, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/SO6zhYCj8b, extra_data="{'translat...") 
+
+-0.5267  | Tweet 902: Translated(src=es, dest=en, text=@OOsteicoechea: @RODRIGUEZCUATRO @calderonberetta @Mariangellitle @francis42034379 At no time have I expressed that Venezuelans are…, pronunciation=@OOsteicoechea: @RODRIGUEZCUATRO @calderonberetta @Mariangellitle @francis42034379 At no time have I expressed that Venezuelans are…, extra_data="{'translat...") 
+
+0.6249  | Tweet 903: Translated(src=es, dest=en, text=We carefully analyzed who had posted these positive messages on YouTube channels.
+
+We got more… https://t.co/aGqZPRscOn, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9803  | Tweet 904: Translated(src=es, dest=en, text=@juan_diaz12: @PolloFarsantePe 😬 We Venezuelans thought that no one could beat the mustachioed murderer Maduro when it came to speaking evil., pronunciation=@juan_diaz12: @PolloFarsantePe 😬 We Venezuelans thought that no one could beat the mustachioed murderer Maduro when it came to speaking evil., extra_data="{'translat...") 
+
+0.296  | Tweet 905: Translated(src=es, dest=en, text=#OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans run into… https://t.co/BNBRrBhVoX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 906: Translated(src=es, dest=en, text=@laruedadata: VENEZUELAN GIVES A XENOPHOBE A LESSON. “I work twelve hours, so that you come to say that all Venezuelans are m…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8689  | Tweet 907: Translated(src=es, dest=en, text=#INTERNATIONAL Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7xx6z, pronunciation=#INTERNATIONAL Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7xx6z, extra_data="{'translat...") 
+
+-0.5267  | Tweet 908: Translated(src=es, dest=en, text=@RODRIGUEZCUATRO @calderonberetta @Mariangellitle @francis42034379 At no time have I expressed that Venezuelans… https://t.co/Pbm07p2D4F, pronunciation=@RODRIGUEZCUATRO @calderonberetta @Mariangellitle @francis42034379 At no time have I expressed that Venezuelans… https://t.co/Pbm07p2D4F, extra_data="{'translat...") 
+
+0.7003  | Tweet 909: Translated(src=es, dest=en, text=@HoyPalestina @VLADIMIR_CERRON Good idea, the owner of Peru Libre should send a delegation of patrolmen to Pales… https://t.co/vTPd0gMQZN, pronunciation=@HoyPalestina @VLADIMIR_CERRON Good idea, the owner of Peru Libre should send a delegation of patrolmen to Pales… https://t.co/vTPd0gMQZN, extra_data="{'translat...") 
+
+-0.765  | Tweet 910: Translated(src=es, dest=en, text=@Defensoria_Peru the ombudsman has become a defender of criminals AND FOREIGN hit men, MOSTLY V… https://t.co/WgHeakcH7t, pronunciation=@Defensoria_Peru the ombudsman has become a defender of criminals AND FOREIGN hit men, MOSTLY V… https://t.co/WgHeakcH7t, extra_data="{'translat...") 
+
+0.0  | Tweet 911: Translated(src=es, dest=en, text=@virgilio_acuna @congresoperu Sir, did you not live in Peru during the first wave of Venezuelans?, pronunciation=@virgilio_acuna @congresoperu Sir, did you not live in Peru during the first wave of Venezuelans?, extra_data="{'translat...") 
+
+0.0  | Tweet 912: Translated(src=es, dest=en, text=@Joseandresqr It shows that you do not handle queen accounts, you watch as a spectator and I never said… https://t.co/wXvt11ie6A, pronunciation=@Joseandresqr It shows that you do not handle queen accounts, you watch as a spectator and I never said… https://t.co/wXvt11ie6A, extra_data="{'translat...") 
+
+-0.6597  | Tweet 913: Translated(src=es, dest=en, text=Two Venezuelans were murdered by other nationals and alleged hitmen in Peru https://t.co/0gnPP7xx6z
+#INTERNATIONALS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 914: Translated(src=es, dest=en, text=@arauca_simon: The Independence of #Colombia originates from the Congress of #Angosturas and not on July 20, 1810. August 7 is the…, pronunciation=@arauca_simon: The Independence of #Colombia originates from the Congress of #Angosturas and not on July 20, 1810. August 7 is the…, extra_data="{'translat...") 
+

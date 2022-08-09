@@ -1150,3 +1150,40 @@ Chile obviously had crime, but now you have to deal with crime..., pronunciation
 
 0.0  | Tweet 500: Translated(src=es, dest=en, text=@IVCNetworksVE @DiegoACastillo @IvanMedinaM #iVCMLB He should continue, he still has a lot to prove, cheers… https://t.co/q3vtckRpzy, pronunciation=@IVCNetworksVE @DiegoACastillo @IvanMedinaM #iVCMLB He should continue, he still has a lot to prove, cheers… https://t.co/q3vtckRpzy, extra_data="{'translat...") 
 
+0.0  | Tweet 501: Translated(src=es, dest=en, text=@RuanoFaxas: @EFEnoticias @UNmigration @ACNURamericas #VENEZUELA #ELECTIONS #MIGRATION
+In 2016, 700,000 #Venezuelan #refugees in the m…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 502: Translated(src=es, dest=en, text=@cronicals1: @LorenzoAgar @dimoralesj Refuge article that can make migrants pass in that capacity, especially Venezuelan…, pronunciation=@cronicals1: @LorenzoAgar @dimoralesj Refuge article that can make migrants pass in that capacity, especially Venezuelan…, extra_data="{'translat...") 
+
+0.0  | Tweet 503: Translated(src=es, dest=en, text=@LorenzoAgar @dimoralesj Refuge article that can make migrants pass in that capacity, especially to see… https://t.co/EBlySA0ruu, pronunciation=@LorenzoAgar @dimoralesj Refuge article that can make migrants pass in that capacity, especially to see… https://t.co/EBlySA0ruu, extra_data="{'translat...") 
+
+0.0  | Tweet 504: Translated(src=es, dest=en, text=Chileans 🇨🇱 are telling you that they won't just stick a finger in you.
+Look at Venezuela and the 600,000 Venezuelan refugees… https://t.co/9kClwoijuv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 505: Translated(src=es, dest=en, text=@tudia_13 Venezuelans go through 4 countries before arriving in Chile, that's not being refugees., pronunciation=@tudia_13 Venezuelans go through 4 countries before arriving in Chile, that's not being refugees., extra_data="{'translat...") 
+
+0.0  | Tweet 506: Translated(src=es, dest=en, text=@senadorLatorre @AprobaxChile @RDemocratica @RD_RegionValpo So that Chile is filled with "refugees", whether they are Venez… https://t.co/hPiCxxkTI9, pronunciation=@senadorLatorre @AprobaxChile @RDemocratica @RD_RegionValpo So that Chile is filled with "refugees", whether they are Venez… https://t.co/hPiCxxkTI9, extra_data="{'translat...") 
+
+-0.4767  | Tweet 507: Translated(src=es, dest=en, text=@GonzzRamon: #MuchoGustoMega
+The president of the Chamber calls businessmen unpatriotic. Mr. Soto is wrong, in Venezuela first…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 508: Translated(src=es, dest=en, text=#MuchoGustoMega
+The president of the Chamber calls businessmen unpatriotic. Mr. Soto is wrong, in Venezuela… https://t.co/Faw8a653LD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2584  | Tweet 509: Translated(src=es, dest=en, text=@Senado_Chile @raulsoto9 @gabrielboric
+Mr. Soto, make no mistake in Vzla, first they were businessmen, then ALL of them… https://t.co/vBvdZ0x3vi, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7783  | Tweet 510: Translated(src=es, dest=en, text=@junitoecu: @teleamazonasec This @LassoGuillermo is waiting for people to react as in Chile against criminal Venezuelans..., pronunciation=@junitoecu: @teleamazonasec This @LassoGuillermo is waiting for people to react as in Chile against criminal Venezuelans..., extra_data="{'translat...") 
+
+0.0  | Tweet 511: Translated(src=es, dest=en, text=@teleamazonasec This @LassoGuillermo is waiting for people to react as in Chile against the Venezuelans of… https://t.co/anee6DlUrU, pronunciation=@teleamazonasec This @LassoGuillermo is waiting for people to react as in Chile against the Venezuelans of… https://t.co/anee6DlUrU, extra_data="{'translat...") 
+
+-0.505  | Tweet 512: Translated(src=es, dest=en, text=@gene_llerena @MariaMa04509726 THESE VENECOS ARE HARD HEADS, AS THEY BELIEVE THAT VENEZUELA, COLOMBIA ARE THE SAME AS CH… https://t.co/YUfXiIrjWR, pronunciation=@gene_llerena @MariaMa04509726 THESE VENECOS ARE HARD HEADS, AS THEY BELIEVE THAT VENEZUELA, COLOMBIA ARE THE SAME AS CH… https://t.co/YUfXiIrjWR, extra_data="{'translat...") 
+
+-0.2263  | Tweet 513: Translated(src=es, dest=en, text=@tutututu_arica The multinational dishnidá arrived in the north. The Venecos of Maduro taking land and demanding what is not… https://t.co/IX9QHS0eVd, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8126  | Tweet 514: Translated(src=es, dest=en, text=@dutch_opinion Exactly a government of Narco Cuban/Veneco activists who allowed the destruction of Chile in their… https://t.co/BSzbUrCa7g, pronunciation=@dutch_opinion Exactly a government of Narco Cuban/Veneco activists who allowed the destruction of Chile in their… https://t.co/BSzbUrCa7g, extra_data="{'translat...") 
+
+-0.9471  | Tweet 515: Translated(src=es, dest=en, text=Peru and Chile is the same thing hahahaha but the poisons in Chilondon are not ready for that conversation yet, pronunciation=Peru and Chile is the same thing hahahaha but the poisons in Chilondon are not ready for that conversation yet, extra_data="{'translat...") 
+
+0.1531  | Tweet 516: Translated(src=es, dest=en, text=@NaleSimjat: @JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be impossible…, pronunciation=@NaleSimjat: @JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be impossible…, extra_data="{'translat...") 
+

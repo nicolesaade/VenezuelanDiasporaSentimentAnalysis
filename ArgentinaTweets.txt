@@ -1028,3 +1028,159 @@ On the plane they were at… https://t.co/R4pzVKy2qr, pronunciation=[[]], extra_
 
 0.0  | Tweet 461: Translated(src=es, dest=en, text=The new wave of Venezuelan migrants is coming, from Colombia... from Argentina it has already happened, without much noise https://t.co/fOpbxvdC32, pronunciation=The new wave of Venezuelan migrants is coming, from Colombia... from Argentina it has already happened, without much noise https://t.co/fOpbxvdC32, extra_data="{'translat...") 
 
+0.0  | Tweet 462: Translated(src=es, dest=en, text=@RuanoFaxas: @EFEnoticias @UNmigration @ACNURamericas #VENEZUELA #ELECTIONS #MIGRATION
+In 2016, 700,000 #Venezuelan #refugees in the m…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 463: Translated(src=es, dest=en, text=@viceminaereo @AbgLasu5 7 million Venezuelan refugees abroad, more than 100,000 Venezuelans in Argentina… https://t.co/3YeNB56Bgi, pronunciation=@viceminaereo @AbgLasu5 7 million Venezuelan refugees abroad, more than 100,000 Venezuelans in Argentina… https://t.co/3YeNB56Bgi, extra_data="{'translat...") 
+
+0.0  | Tweet 464: Translated(src=es, dest=en, text=@YOSEque Hace2_: Finance with common sense: Refugee... YOUR FINANCIAL ADVICE https://t.co/EpC5qPpq93 #blog #blogger #innovacion #Ref…, pronunciation=@YOSEque Hace2_: Finance with common sense: Refugee... YOUR FINANCIAL ADVICE https://t.co/EpC5qPpq93 #blog #blogger #innovacion #Ref…, extra_data="{'translat...") 
+
+0.0  | Tweet 465: Translated(src=es, dest=en, text=IPhone is stolen/lost the location is listed right in my building.
+
+Argentine logic: of NINE probabilities… https://t.co/rMM2vxt5Fi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1719  | Tweet 466: Translated(src=es, dest=en, text=Hating Venezuela and everything that has to do with the country does not make you cool, or cool, or from the first world and m… https://t.co/6u7yzNzd5z, pronunciation=Hating Venezuela and everything that has to do with the country does not make you cool, or cool, or from the first world and m… https://t.co/6u7yzNzd5z, extra_data="{'translat...") 
+
+0.0  | Tweet 467: Translated(src=es, dest=en, text=the venecos in Argentina https://t.co/tjJAcFGoZm, pronunciation=the venecos in Argentina https://t.co/tjJAcFGoZm, extra_data="{'translat...") 
+
+-0.1068  | Tweet 468: Translated(src=es, dest=en, text=@ rrcav47 And why aren't those cowardly venecos going to fight for their country instead of webinar here in Chile? Or is… https://t.co/JKoJTInTS1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7456  | Tweet 469: Translated(src=es, dest=en, text=A prosperous country LIKE VENEZUELA?
+Where Venezuelans sell candy on the tracks or are combi collectors,… https://t.co/LPWGD3Sw8h, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6896  | Tweet 470: Translated(src=es, dest=en, text=@israel_scl The fraud thing is no joke. In Argentina, they captured 3 Venezuelan cyberinformatics who work for… https://t.co/yqGj0IWGLK, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 471: Translated(src=es, dest=en, text=@Ciro_Colmenares @alferdez @petrogustavo Unlike the open-air shithole called Venezuela, in Argentina… https://t.co/jFw8hNTzkk, pronunciation=@Ciro_Colmenares @alferdez @petrogustavo Unlike the open-air shithole called Venezuela, in Argentina… https://t.co/jFw8hNTzkk, extra_data="{'translat...") 
+
+0.0  | Tweet 472: Translated(src=es, dest=en, text=@IreneToro13: Now we Venezuelans will have to see Colombians flee from the plague of socialism implanted in the only country, where..., pronunciation=@IreneToro13: Now we Venezuelans will have to see Colombians flee from the plague of socialism implanted in the only country, where..., extra_data="{'translat...") 
+
+0.0  | Tweet 473: Translated(src=es, dest=en, text=Now we Venezuelans will have to see Colombians flee from the plague of socialism implanted in the only country,… https://t.co/iFo2fnVsfq, pronunciation=Now we Venezuelans will have to see Colombians flee from the plague of socialism implanted in the only country,… https://t.co/iFo2fnVsfq, extra_data="{'translat...") 
+
+0.1511  | Tweet 474: Translated(src=es, dest=en, text=@josemigrante: @enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupted are those of Conviasa who do not pay Venezuelans who…, pronunciation=@josemigrante: @enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupted are those of Conviasa who do not pay Venezuelans who…, extra_data="{'translat...") 
+
+0.0  | Tweet 475: Translated(src=es, dest=en, text=Speaking of this, it shows that Venezuelans in Argentina are leaving, because rappi is almost always without entre… https://t.co/Uo2KwvEPFX, pronunciation=Speaking of this, it shows that Venezuelans in Argentina are leaving, because rappi is almost always without entre… https://t.co/Uo2KwvEPFX, extra_data="{'translat...") 
+
+0.0516  | Tweet 476: Translated(src=es, dest=en, text=Venezuela and Cuba in rubble. Uruguay with open doors. Cubans and Venezuelans, escaping to Argentina, Chile… https://t.co/fQeTcsV9xM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8074  | Tweet 477: Translated(src=es, dest=en, text=@carakistani I have no data to support it but we return to the same thing, they voted for Chavez en masse and they defeated them… https://t.co/DV4PGLHyXa, pronunciation=@carakistani I have no data to support it but we return to the same thing, they voted for Chavez en masse and they defeated them… https://t.co/DV4PGLHyXa, extra_data="{'translat...") 
+
+0.0  | Tweet 478: Translated(src=es, dest=en, text=@VaneHikari Have you lived in Colombia, Ecuador, Peru, Chile or Argentina, for more than a year? If not, you don't know the Venezuelans… https://t.co/BzVacAsw89, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 479: Translated(src=es, dest=en, text=@CronicaPolicial The Aragua train and other Venezuelans have terrified Peru, as well as Chile, they also operate… https://t.co/G8DEfeRS3u, pronunciation=@CronicaPolicial The Aragua train and other Venezuelans have terrified Peru, as well as Chile, they also operate… https://t.co/G8DEfeRS3u, extra_data="{'translat...") 
+
+0.296  | Tweet 480: Translated(src=es, dest=en, text=@ElPitazoTV: #OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans meet in #Chile #Argen..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 481: Translated(src=es, dest=en, text=#OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans run into… https://t.co/BNBRrBhVoX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 482: Translated(src=es, dest=en, text=@PadreHuerfano1 @MarBivialmu @IvanDuque Like Venezuelans cleaning windows and looking for large garbage like… https://t.co/wR2jZh7jtp, pronunciation=@PadreHuerfano1 @MarBivialmu @IvanDuque Like Venezuelans cleaning windows and looking for large garbage like… https://t.co/wR2jZh7jtp, extra_data="{'translat...") 
+
+0.0  | Tweet 483: Translated(src=es, dest=en, text=@TykO791 @VarskySports @gregksk @FabrizioRomano Maradona is in Argentina resting as he deserves after leaving… https://t.co/wlFFYzM1F8, pronunciation=@TykO791 @VarskySports @gregksk @FabrizioRomano Maradona is in Argentina resting as he deserves after leaving… https://t.co/wlFFYzM1F8, extra_data="{'translat...") 
+
+0.0  | Tweet 484: Translated(src=es, dest=en, text=@MariaFdaCabal, do you remember the Iranian plane, with Venezuelan and Iranian crew members in Argentina a few months ago? watch out for that., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 485: Translated(src=es, dest=en, text=@PabloEchenique @PabloEchenique And what about your country of origin Argentina.
+What to say about the damage they are suffering… https://t.co/7q6jZxWUWr, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7943  | Tweet 486: Translated(src=es, dest=en, text=@Francoro06: @ImAgustinF that's how it was in Venezuela xD, after a few months we left it and we no longer cared about the price of the dollar, Argentina,…, pronunciation=@Francoro06: @ImAgustinF that's how it was in Venezuela xD, after a few months we left it and we no longer cared about the price of the dollar, Argentina,…, extra_data="{'translat...") 
+
+0.0  | Tweet 487: Translated(src=es, dest=en, text=@turcolefebvre @Rocio_La_Negra @AM_1080 @UltimaHoracom Those Iranians and Venezuelans came to set up a base and… https://t.co/zAyLzPsDqK, pronunciation=@turcolefebvre @Rocio_La_Negra @AM_1080 @UltimaHoracom Those Iranians and Venezuelans came to set up a base and… https://t.co/zAyLzPsDqK, extra_data="{'translat...") 
+
+-0.7943  | Tweet 488: Translated(src=es, dest=en, text=@ImAgustinF that's how it was in Venezuela xD, after a few months we left it and we no longer cared about the price of the dollar, ar… https://t.co/s1bEE81bpH, pronunciation=@ImAgustinF that's how it was in Venezuela xD, after a few months we left it and we no longer cared about the price of the dollar, ar… https://t.co/s1bEE81bpH, extra_data="{'translat...") 
+
+0.5859  | Tweet 489: Translated(src=es, dest=en, text=@madorni @ceciliaboufflet They want Argentina to do well, because not only Venezuelans, but also Bolivians… https://t.co/WuQi36tRlT, pronunciation=@madorni @ceciliaboufflet They want Argentina to do well, because not only Venezuelans, but also Bolivians… https://t.co/WuQi36tRlT, extra_data="{'translat...") 
+
+0.296  | Tweet 490: Translated(src=es, dest=en, text=#OPINION| After emigrating fleeing from authoritarianism and the absence of freedoms, Venezuelans run into… https://t.co/SeSnfYTRGH, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1011  | Tweet 491: Translated(src=es, dest=en, text=@El_neociudadano: @PPeronity @bibitamoro Let's agree that Venezuelans are not very intelligent, they escaped from the populism of Venezuela..., pronunciation=@El_neociudadano: @PPeronity @bibitamoro Let's agree that Venezuelans are not very intelligent, they escaped from the populism of Venezuela..., extra_data="{'translat...") 
+
+0.8555  | Tweet 492: Translated(src=es, dest=en, text=@FeuerSnake: Chileans who see Uruguay as an option are going to end up like the Venezuelans in Argentina, better to leave Latam, pronunciation=@FeuerSnake: Chileans who see Uruguay as an option are going to end up like the Venezuelans in Argentina, better to leave Latam, extra_data="{'translat...") 
+
+0.0  | Tweet 493: Translated(src=es, dest=en, text=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/H5MBRZtEhf, pronunciation=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/H5MBRZtEhf, extra_data="{'translat...") 
+
+0.34  | Tweet 494: Translated(src=es, dest=en, text=@AIertaMundiaI Boric and his team for Chile 🇨🇱 want the same thing as what the Minister of Colombia says.
+God willing… https://t.co/fbNOhPrcZ0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 495: Translated(src=es, dest=en, text=@arielviano In Chile, but Chile is not Argentina... so I don't know if the K brought them just as they brought Bolivia... https://t.co/NdcTCaMrQV, pronunciation=@arielviano In Chile, but Chile is not Argentina... so I don't know if the K brought them just as they brought Bolivia... https://t.co/NdcTCaMrQV, extra_data="{'translat...") 
+
+0.765  | Tweet 496: Translated(src=es, dest=en, text=Chileans who see Uruguay as an option, are going to end up like the Venezuelans in Argentina, better cut off from Latam https://t.co/6dh1pt1hM7, pronunciation=Chileans who see Uruguay as an option, are going to end up like the Venezuelans in Argentina, better cut off from Latam https://t.co/6dh1pt1hM7, extra_data="{'translat...") 
+
+0.0  | Tweet 497: Translated(src=es, dest=en, text=Maintenance is carried out by Venezuelan experts who recently arrived in Santiago on an Iranian-Venezuelan plane… https://t.co/McrSOM6l05, pronunciation=Maintenance is carried out by Venezuelan experts who recently arrived in Santiago on an Iranian-Venezuelan plane… https://t.co/McrSOM6l05, extra_data="{'translat...") 
+
+0.0  | Tweet 498: Translated(src=es, dest=en, text=@LAConviasa This is how the Venezuelan peoples 🇻🇪 all have to raise their voices so that they can be heard in the… https://t.co/0kdKVXBJgA, pronunciation=@LAConviasa This is how the Venezuelan peoples 🇻🇪 all have to raise their voices so that they can be heard in the… https://t.co/0kdKVXBJgA, extra_data="{'translat...") 
+
+0.504  | Tweet 499: Translated(src=es, dest=en, text=@MatiasStarbucks @pulsopopular_ @larigediario And where are you from? Also from Argentina? 😂 Many Venezuelans pel… https://t.co/XbexjvNGlm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 500: Translated(src=es, dest=en, text=@Bosque80 @eduardoinda And then when your little masters defend chavismo, they go and defend the Argentine economy… https://t.co/BQXgiecmH0, pronunciation=@Bosque80 @eduardoinda And then when your little masters defend chavismo, they go and defend the Argentine economy… https://t.co/BQXgiecmH0, extra_data="{'translat...") 
+
+-0.34  | Tweet 501: Translated(src=es, dest=en, text=@johanaonavas @yzanella Baby, travel and meet. Leave the theory and stop thinking that you know it because you say any disp… https://t.co/befIkzbaL0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8429  | Tweet 502: Translated(src=es, dest=en, text=@VivaAdolfo: Wonderful!!!!
+I read it years ago.
+He clearly described the Argentine situation at the time of the Kirchners!
+The same feeling..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.886  | Tweet 503: Translated(src=es, dest=en, text=@MechadaCarne: The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them pay for…, pronunciation=@MechadaCarne: The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them pay for…, extra_data="{'translat...") 
+
+-0.8625  | Tweet 504: Translated(src=es, dest=en, text=The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them p… https://t.co/gaptXkMES4, pronunciation=The Aragua Train applies a devastating modus operandi: it follows Venezuelan migrants on their journey, makes them p… https://t.co/gaptXkMES4, extra_data="{'translat...") 
+
+0.0  | Tweet 505: Translated(src=es, dest=en, text=You know that it is a Venezuelan wedding in Argentina because of the Tequeños but also because they sing Argentine cumbia to everyone… https://t.co/PHUJiVD9LQ, pronunciation=You know that it is a Venezuelan wedding in Argentina because of the Tequeños but also because they sing Argentine cumbia to everyone… https://t.co/PHUJiVD9LQ, extra_data="{'translat...") 
+
+0.0  | Tweet 506: Translated(src=es, dest=en, text=@rquiroga777 and if they try to work instead of keeping bums and planers? Perhaps they are Robin Hood to get money from him… https://t.co/JIIcJPQ2qO, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.765  | Tweet 507: Translated(src=es, dest=en, text=@angelamrobledo @cuestion_p @IvanDuque If there were poverty, there would not be more than 2 million Venezuelans in Colombia… https://t.co/qFkTmJgR90, pronunciation=@angelamrobledo @cuestion_p @IvanDuque If there were poverty, there would not be more than 2 million Venezuelans in Colombia… https://t.co/qFkTmJgR90, extra_data="{'translat...") 
+
+0.9207  | Tweet 508: Translated(src=es, dest=en, text=And its legitimate owner must be delivered to Venezuela, Do not betray the Venezuelan brothers, show courage, and do not… https://t.co/3Qsb2TDsvO, pronunciation=And its legitimate owner must be delivered to Venezuela, Do not betray the Venezuelan brothers, show courage, and do not… https://t.co/3Qsb2TDsvO, extra_data="{'translat...") 
+
+0.1511  | Tweet 509: Translated(src=es, dest=en, text=@enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupt are those of Conviasa who do not pay Venezuelans… https://t.co/p0Asr5rnEF, pronunciation=@enriquezapata09 @LAConviasa @NicolasMaduro @alferdez Corrupt are those of Conviasa who do not pay Venezuelans… https://t.co/p0Asr5rnEF, extra_data="{'translat...") 
+
+-0.296  | Tweet 510: Translated(src=es, dest=en, text=@Paternina_Hugo: The same is said in France, Argentina... and Ecuador about Colombians. I remind you that when there was no work here in l…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4215  | Tweet 511: Translated(src=es, dest=en, text=@LarasFernando: @pattiberrios Pure lies. In Venezuela there is in the N.C. health, housing, education and much more. Result the Venez…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.34  | Tweet 512: Translated(src=es, dest=en, text=@rigoberto_lobo How crazy.
+It reminds me of being in Argentina that a lady told me to my face that Venezuelans… https://t.co/7KUxIcTaYW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 513: Translated(src=es, dest=en, text=One noticed who were Venezuelans in Argentina, especially in the winter, due to the exaggeration of divers, scarves,… https://t.co/g04yTCRjTr, pronunciation=One noticed who were Venezuelans in Argentina, especially in the winter, due to the exaggeration of divers, scarves,… https://t.co/g04yTCRjTr, extra_data="{'translat...") 
+
+-0.9769  | Tweet 514: Translated(src=es, dest=en, text=@joseandres08013: @IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and the worst of all is that they are the ones who talk about V…, pronunciation=@joseandres08013: @IvanCaratar @MONYRODRIGUEZOF But there are assholes who defend them and the worst of all is that they are the ones who talk about V…, extra_data="{'translat...") 
+
+-0.4215  | Tweet 515: Translated(src=es, dest=en, text=@pattiberrios Pure lies. In Venezuela there is in the N.C. health, housing, education and much more. Result the… https://t.co/UtPzYrR4xE, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 516: Translated(src=es, dest=en, text=@platilloblanco @atilioboron With the Venezuelan people, that is, with those who are oppressed by the Nicolás regime… https://t.co/4bwCTqDbaC, pronunciation=@platilloblanco @atilioboron With the Venezuelan people, that is, with those who are oppressed by the Nicolás regime… https://t.co/4bwCTqDbaC, extra_data="{'translat...") 
+
+0.0  | Tweet 517: Translated(src=es, dest=en, text=@edunkleypsuv @atilioboron Pure straw Enmanuel, let's ask Atilio if the Venezuelans working in the embassy… https://t.co/9hjDQcY3, pronunciation=@edunkleypsuv @atilioboron Pure straw Enmanuel, let's ask Atilio if the Venezuelans working in the embassy… https://t.co/9hjDQcY3, extra_data="{'translat...") 
+
+0.1154  | Tweet 518: Translated(src=es, dest=en, text=@luremara But they already have franchises in the countries with the largest number of Venezuelans. In Chile, Argentina, It is… https://t.co/1GzRcDy0hp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9246  | Tweet 519: Translated(src=es, dest=en, text=I agree that the happiest Venezuelans are in Argentina, but I also feel that those in Mexico… https://t.co/LeyFqCwEsj, pronunciation=I agree that the happiest Venezuelans are in Argentina, but I also feel that those in Mexico… https://t.co/LeyFqCwEsj, extra_data="{'translat...") 
+
+-0.296  | Tweet 520: Translated(src=es, dest=en, text=They say the same thing in France, Argentina... and Ecuador about Colombians. I remind you that when there was no work here… https://t.co/vTVmmBwC6g, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 521: Translated(src=gn, dest=en, text=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, pronunciation=@CronicaPolicial Here in Peru they also steal same as well as Chile Argentina Ecuador Colombia Brazil Paraguay Uruguay... https://t.co/06StXoMDdy, extra_data="{'translat...") 
+
+0.0  | Tweet 522: Translated(src=es, dest=en, text=@Edurodpal1: I am Venezuelan in Argentina and this reminds me of Venezuelan journalists @AliasMalula @ibepacheco @NituPerez @PattyPoleo Ni…, pronunciation=@Edurodpal1: I am Venezuelan in Argentina and this reminds me of Venezuelan journalists @AliasMalula @ibepacheco @NituPerez @PattyPoleo Ni…, extra_data="{'translat...") 
+
+0.0  | Tweet 523: Translated(src=es, dest=en, text=I am Venezuelan in Argentina and this reminds me of Venezuelan journalists @AliasMalula @ibepacheco @NituPerez… https://t.co/Fd8Uoded00, pronunciation=I am Venezuelan in Argentina and this reminds me of Venezuelan journalists @AliasMalula @ibepacheco @NituPerez… https://t.co/Fd8Uoded00, extra_data="{'translat...") 
+
+0.6597  | Tweet 524: Translated(src=es, dest=en, text=#6ago #Children's Day in #Argentina, the Caacupé parish together with Baires de Libertad organized a party for the children… https://t.co/KMWy8tCPZg, pronunciation=#6ago #Children's Day in #Argentina, the Caacupé parish together with Baires de Libertad organized a party for the children… https://t.co/KMWy8tCPZg, extra_data="{'translat...") 
+
+0.0  | Tweet 525: Translated(src=es, dest=en, text=@uruguayo0007 @ing_spain @LibranosdMal @infobae The tens of thousands of South Americans who come and… https://t.co/mAo0ccdCAI, pronunciation=@uruguayo0007 @ing_spain @LibranosdMal @infobae The tens of thousands of South Americans who come and… https://t.co/mAo0ccdCAI, extra_data="{'translat...") 
+
+0.3818  | Tweet 526: Translated(src=es, dest=en, text=@FonsiLoaiza It is better to agree with Maduro, where Venezuelans are starving, or in Chile, or in Argentina. Or lose… https://t.co/kSqk8CBFad, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 527: Translated(src=es, dest=en, text=@DevigoJos: ARGENTINES!!!! 2 Venezuelan television channels appeared in Argentina,,,, if they are the América channel and A24, these channels are…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 528: Translated(src=es, dest=en, text=Buenos Aires is mined with Venezuelans. Today I saw one with his best chicha street stall and his Lions cap… https://t.co/e59Fvtq6bI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 529: Translated(src=es, dest=en, text=@BienHallados: A group of Venezuelan migrants were invited to a wine tasting for apprentices and lovers of these wines. So start…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 530: Translated(src=es, dest=en, text=➡️ The Argentine justice maintained the prohibition to leave the country to seven Iranian and Venezuelan crew members of the avi… https://t.co/PtkVTS4G27, pronunciation=➡️ The Argentine justice maintained the prohibition to leave the country to seven Iranian and Venezuelan crew members of the avi… https://t.co/PtkVTS4G27, extra_data="{'translat...") 
+
+0.5267  | Tweet 531: Translated(src=es, dest=en, text=A group of Venezuelan migrants were invited to a wine tasting for apprentices and lovers of these wines. To… https://t.co/w33GANrrhI, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2869  | Tweet 532: Translated(src=es, dest=en, text=@MARILUMARILU1: @horaweb Are the Iranians and Venezuelans who came on that strange plane still in Buenos Aires? Does anyone know something?, pronunciation=None, extra_data="{'translat...") 
+
+0.7351  | Tweet 533: Translated(src=es, dest=en, text=@tupitopandy: @LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela... it's already…, pronunciation=@tupitopandy: @LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela... it's already…, extra_data="{'translat...") 
+
+0.7351  | Tweet 534: Translated(src=es, dest=en, text=@LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela… https://t.co/1qJugdXNlY, pronunciation=@LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela… https://t.co/1qJugdXNlY, extra_data="{'translat...") 
+
