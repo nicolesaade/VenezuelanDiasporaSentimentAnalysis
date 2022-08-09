@@ -10,6 +10,8 @@ The project gathers tweets about Venezuelans in 8 different countries with many 
 
 The program runs an analysis of the sentiments of these tweets using Vader. Later, it calculates the number of tweets with positive sentiments (tweets with a sentiment score higher than 0.0) and the number of tweets with negative sentiments (tweets with a sentiment score lower than 0.0). Later, an overall score is calculated based on the tweets with a positive and negative connotations. These results can be seen in the .xlsx file located in this repository. This file is updated once a week.
 
+Note: to run this program, the credentials for a Twitter Developer Account are needed.
+
 Tools and APIs used:
 
 This project used the Twitter Developer API  and Tweepy to access the tweets. It also uses Vader to conduct sentiment analysis on the tweets gathered. Since Vader is a platform that uses English as a primary language, I also made use of the Google Translate API to have the tweets translated. I also used Pandas to create a data frame based on the tweets and an excel file with the sentiment analysis results.
