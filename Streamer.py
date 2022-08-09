@@ -7,7 +7,6 @@ from googletrans import Translator
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import pandas as pd
 import sys
-import openpyxl
 
 """
 This function is in charge of retreiving tweets from the Twitter API.
