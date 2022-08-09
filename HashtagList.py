@@ -1,3 +1,6 @@
+#Hashtags to locate tweets making reference to Venezuelan migrants in different countries and specific locations within them
+#These tags also include common names of reference to Venezuelans in some of those countries
+
 hashtags_Colombia = [ "refugiados venezolanos colombia", "refugiado venezolano colombia", "veneco Bogotá", "veneco Cucuta", "venezolanos Cucuta", "venezolano Colombia", "venecos en Colombia", "venecas en Colombia", "venezolanos en Colombia", "venezolanas en Colombia", "migrantes venezolanos Colombia"]
 hashtags_Ecuador = [ "refugiados venezolanos ecuador", "venecos en Ecuador", "refugiado venezolano ecuador", "venecas en Ecuador", "venezolanos en Ecuador", "venezolanas en Ecuador", "migrantes venezolanos Ecuador"]
 hashtags_Peru = [ "refugiados venezolanos peru", "refugiado venezolano peru", "venecos lima", "venezolanos lima", "venecos en Peru", "venecas en Peru", "venezolanos en Peru", "venezolanas en Peru", "migrantes venezolanos Peru", "venezolano Peru", "venezolana Peru"]
