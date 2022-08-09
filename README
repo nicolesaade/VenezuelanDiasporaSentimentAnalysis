@@ -1,0 +1,37 @@
+Venezuelan Diaspora Sentiment Analysis
+
+Overview:
+
+As of July 5, 2022, there are approximately 6.15 million Venezuelan migrants and refugees across the world. This migration is a product of the humanitarian and social-economic crisis that Venezuela has been experiencing over the past decade.
+
+Venezuelans have migrated to many areas of the world, most of them being located in the Americas. 
+
+The project gathers tweets about Venezuelans in 8 different countries with many Venezuelan immigrants and refugees: Colombia (1.8M Venezuelan immigrants), Peru (1.28M Venezuelan immigrants),  Ecuador (513k Venezuelan immigrants), the United States (465k Venezuelan immigrants), Chile (448k Venezuelan immigrants), Argentina (170k Venezuelan immigrants), and Panama (121.5k Venezuelan immigrants), and the Dominican Republic (115.2k Venezuelan immigrants). 
+
+The program runs an analysis of the sentiments of these tweets using Vader. Later, it calculates the number of tweets with positive sentiments (tweets with a sentiment score higher than 0.0) and the number of tweets with negative sentiments (tweets with a sentiment score lower than 0.0). Later, an overall score is calculated based on the tweets with a positive and negative connotations. These results can be seen in the .xlsx file located in this repository. This file is updated once a week.
+
+Tools and APIs used:
+
+This project used the Twitter Developer API  and Tweepy to access the tweets. It also uses Vader to conduct sentiment analysis on the tweets gathered. Since Vader is a platform that uses English as a primary language, I also made use of the Google Translate API to have the tweets translated. I also used Pandas to create a data frame based on the tweets and an excel file with the sentiment analysis results.
+
+Limitations:
+
+This project has as a limitation the use of hashtags instead of geocodes to filter tweets. The hashtags used for specific countries are related to Venezuelans in those countries; for example, a hashtag for Peru is "Venezolanos en Peru," or in English, "Venezuelans in Peru" this is an attempt to be as accurate as possible.
+
+Geocodes or geotags were not used as a parameter because tweets with geotags are limited (approximately only 0.85% of all tweets are geotagged). This is why using hashtags seemed like a better alternative, as it will yield a more significant amount of tweets to analyze and then get a result based on a more extensive sample.
+
+Another limitation is that the tweets gathered can only go back seven days before the program runs. However, an approach to this limitation is constantly updating the files and results to amplify the database and calculate scores based on a constantly-expanding sample.
+
+Future updates:
+
+The tweet database and excel sheets are updated once a week to receive new tweets and calculate scores based on a database that is as extensive as possible. The latest update corresponds to August 9, 2022.
+
+Another future update to this project will include more countries with a significant number of Venezuelan refugees and immigrants.
+
+Referenced articles and websites:
+
+National Library of Medicine Website (Quantity of Geotagged Tweets):
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4636345/
+
+R4V (Quantity of Venezuelan refugees per country): https://www.r4v.info/es/refugiadosymigrantes
+
