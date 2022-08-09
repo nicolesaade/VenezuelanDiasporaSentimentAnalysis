@@ -30,6 +30,7 @@ def searcher(hashtags, filename):
             final_tweet =  translator.translate(untrans_final_tweet, dest='en')
             final_tweet = str(final_tweet)
             with open(filename, "r+") as file: 
+                #Conditional to not take into account the same tweet multiple times
                 if str(final_tweet) not in file.read():
                     tweet_count = tweet_count + 1 
                     comp = analyzer.polarity_scores(final_tweet)['compound']
@@ -69,9 +70,17 @@ def total_sentiment_calculator(filename, list):
                 except ValueError:
                     pass
         overall_average = (pos_raw + neg_raw) / (pos_count + neg_count)
+        overall_sentiment = ''
+        #Conditionals for determining if comment is positive or negative
+        if overall_average > 0:
+            overall_sentiment = 'Positive'
+        if overall_average < 0:
+            overall_sentiment = 'Negative'
+        #Calculating averages of positive and negative sentiments
         pos_average = pos_raw / pos_count
         neg_average = neg_raw / neg_count
-        sent_list = [ int(pos_count), pos_average, int(neg_count), neg_average, overall_average]
+        #Creating list and assigning it
+        sent_list = [ int(pos_count), pos_average, int(neg_count), neg_average, overall_average, overall_sentiment]
         list[:] = sent_list
 
 
@@ -82,6 +91,7 @@ def main():
     
     #Calling searcher methods to gather data to text files
     
+
     searcher(HashtagList.hashtags_Ecuador, 'EcuadorTweets.txt')
     searcher(HashtagList.hashtags_Peru, 'PeruTweets.txt')
     searcher(HashtagList.hashtags_Argentina, 'ArgentinaTweets.txt')
@@ -90,6 +100,7 @@ def main():
     searcher(HashtagList.hashtags_Panama, 'PanamaTweets.txt')
     searcher(HashtagList.hashtags_US, 'USTweets.txt')
     searcher(HashtagList.hashtags_RepDom, 'RepDomTweets.txt')
+
 
     
     #Creating lists and calling sentiment-calculating method
@@ -119,7 +130,7 @@ def main():
 
     #Creating Dataframe with all scores
     df = pd.DataFrame(country_dict, index=[ 'Number of Positive Reviews', 'Postive Score Average',
-    'Number of Negative Reviews', 'Negative Score Average', 'Overall Sentiment Average'])
+    'Number of Negative Reviews', 'Negative Score Average', 'Overall Sentiment Average', 'Overall Sentiment'])
 
     #Importing to Excel File
     df.to_excel("CountrySentiment(08-09).xlsx")
