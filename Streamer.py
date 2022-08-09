@@ -9,7 +9,12 @@ import pandas as pd
 import sys
 import openpyxl
 
-
+"""
+This function is in charge of retreiving tweets from the Twitter API.
+To conduct analysis, the tweets retreived are translated using the GoogleTrans API,
+then, Vader, a Sentiment-Analysis focused tool is used to determine the scores.
+Scores and sentiments are then place into a text file.
+"""
 
 def searcher(hashtags, filename):
     translator = Translator(['translate.googleapis.com'])
@@ -33,6 +38,14 @@ def searcher(hashtags, filename):
                     print("Tweet retreived \n")
         i = i + 1
     file.close()
+
+"""
+Reading from text files, and taking previously created lists as parameters,
+this function calculates score averages for the sentiments on gathered tweets with 
+subjectivity (read: sentiment score different than zero).
+Then, values are places on country-specific lists that will later be placed into data-
+sets.
+"""
 
 def total_sentiment_calculator(filename, list):
     with open(filename, "r+") as file: 
@@ -76,7 +89,7 @@ def main():
     searcher(HashtagList.hashtags_RepDom, 'RepDomTweets.txt')
 
     
-    #Creating lists and calling method
+    #Creating lists and calling sentiment-calculating method
 
     Ecuador_list = []
     total_sentiment_calculator('EcuadorTweets.txt', Ecuador_list)
@@ -101,6 +114,7 @@ def main():
     'Panama' : Panama_list, 'US' : US_list, 'Dominican Republic': RepDom_list, 'Colombia' : Colombia_list,
     'Argentina' : Argentina_list}
 
+    #Creating Dataframe with all scores
     df = pd.DataFrame(country_dict, index=[ 'Number of Positive Reviews', 'Postive Score Average',
     'Number of Negative Reviews', 'Negative Score Average', 'Overall Sentiment Average'])
 
