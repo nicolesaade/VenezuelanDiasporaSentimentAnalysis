@@ -74,6 +74,10 @@ def total_sentiment_calculator(filename, list):
         sent_list = [ int(pos_count), pos_average, int(neg_count), neg_average, overall_average]
         list[:] = sent_list
 
+
+"""
+Main method where all functions are called
+"""
 def main():
     
     #Calling searcher methods to gather data to text files
