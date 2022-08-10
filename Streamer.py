@@ -49,6 +49,7 @@ sets.
 
 def total_sentiment_calculator(filename, list):
     with open(filename, "r+") as file: 
+        #Variables for counting and averages
         pos_average = 0.0
         pos_raw = 0.0
         pos_count = 0
