@@ -1183,4 +1183,3 @@ It reminds me of being in Argentina that a lady told me to my face that Venezuel
 0.7351  | Tweet 533: Translated(src=es, dest=en, text=@tupitopandy: @LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela... it's already…, pronunciation=@tupitopandy: @LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela... it's already…, extra_data="{'translat...") 
 
 0.7351  | Tweet 534: Translated(src=es, dest=en, text=@LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela… https://t.co/1qJugdXNlY, pronunciation=@LAConviasa Greetings and the number of Venezuelans who are still in Buenos Aires waiting to return to Venezuela… https://t.co/1qJugdXNlY, extra_data="{'translat...") 
-

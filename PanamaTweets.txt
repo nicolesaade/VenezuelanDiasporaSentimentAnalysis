@@ -1414,4 +1414,3 @@ The Venezuelan U12 Baseball Team, WON 7 races X 0 to the Panamanian National Tea
 0.0  | Tweet 511: Translated(src=es, dest=en, text=@latimber: @noticias_58 all airlines in Venezuela are unsafe, old equipment and without spare parts, tell me Venezuelan who flew without…, pronunciation=@latimber: @noticias_58 all airlines in Venezuela are unsafe, old equipment and without spare parts, tell me Venezuelan who flew without…, extra_data="{'translat...") 
 
 0.0  | Tweet 512: Translated(src=es, dest=en, text=#OfInterest | Figures from the National Migration Service of #Panama state that 58% of migrants who cross… https://t.co/RYDDK9N3py, pronunciation=[[]], extra_data="{'translat...") 
-

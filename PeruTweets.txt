@@ -2537,4 +2537,3 @@ We got more… https://t.co/aGqZPRscOn, pronunciation=[[]], extra_data="{'transl
 #INTERNATIONALS, pronunciation=[[]], extra_data="{'translat...") 
 
 0.0  | Tweet 914: Translated(src=es, dest=en, text=@arauca_simon: The Independence of #Colombia originates from the Congress of #Angosturas and not on July 20, 1810. August 7 is the…, pronunciation=@arauca_simon: The Independence of #Colombia originates from the Congress of #Angosturas and not on July 20, 1810. August 7 is the…, extra_data="{'translat...") 
-

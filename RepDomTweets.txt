@@ -303,3 +303,5 @@ https://t.co/aA69T4Dmiw, pronunciation=[[]], extra_data="{'translat...")
 0.4215  | Tweet 111: Translated(src=es, dest=en, text=@Herejia618: Banesco has offices in Panama, the Dominican Republic and the United States of America.
 It is a traditional banking entity.…, pronunciation=[[]], extra_data="{'translat...") 
 
+
+

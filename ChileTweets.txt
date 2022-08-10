@@ -1186,4 +1186,3 @@ Mr. Soto, make no mistake in Vzla, first they were businessmen, then ALL of them
 -0.9471  | Tweet 515: Translated(src=es, dest=en, text=Peru and Chile is the same thing hahahaha but the poisons in Chilondon are not ready for that conversation yet, pronunciation=Peru and Chile is the same thing hahahaha but the poisons in Chilondon are not ready for that conversation yet, extra_data="{'translat...") 
 
 0.1531  | Tweet 516: Translated(src=es, dest=en, text=@NaleSimjat: @JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be impossible…, pronunciation=@NaleSimjat: @JohanRuss7 I just want to go back to Chile around 2011, when I was able to be in corners of Araucanía that today would be impossible…, extra_data="{'translat...") 
-
