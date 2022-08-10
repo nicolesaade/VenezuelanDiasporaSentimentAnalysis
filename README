@@ -14,7 +14,7 @@ Note: to run this program, the credentials for a Twitter Developer Account are n
 
 Tools and APIs used:
 
-This project used the Twitter Developer API  and Tweepy to access the tweets. It also uses VADER to conduct sentiment analysis on the tweets gathered. Since VaADER is a tool that uses English as a primary language, I also made use of the Google Translate API to translate the gathered tweets if necessary. I also used Pandas to create a data frame based on the tweets and an excel file with the sentiment analysis results.
+This project used the Twitter Developer API  and Tweepy to access the tweets. It also uses VADER to conduct sentiment analysis on the tweets gathered. Since VADER is a tool that uses English as a primary language, I also made use of the Google Translate API to translate the gathered tweets if necessary. I also used Pandas to create a data frame based on the tweets and an excel file with the sentiment analysis results.
 
 Limitations:
 
