@@ -8,7 +8,7 @@ Venezuelans have migrated to many areas of the world, most of them being located
 
 The project gathers tweets about Venezuelans in 8 different countries with many Venezuelan immigrants and refugees: Colombia (1.8M Venezuelan immigrants), Peru (1.28M Venezuelan immigrants),  Ecuador (513k Venezuelan immigrants), the United States (465k Venezuelan immigrants), Chile (448k Venezuelan immigrants), Argentina (170k Venezuelan immigrants), and Panama (121.5k Venezuelan immigrants), and the Dominican Republic (115.2k Venezuelan immigrants). 
 
-The program runs an analysis of the sentiments of these tweets using VADER. Later, it calculates the number of tweets with positive sentiments (tweets with a sentiment score higher than 0.0) and the number of tweets with negative sentiments (tweets with a sentiment score lower than 0.0). Later, an overall score is calculated based on the tweets with a positive and negative connotations. These results can be seen in the .xlsx file located in this repository. This file is updated once a week.
+The program runs an analysis of the sentiments of these tweets using VADER. Later, it calculates the number of tweets with positive sentiments (tweets with a sentiment score higher than 0.0) and the number of tweets with negative sentiments (tweets with a sentiment score lower than 0.0). Later, an overall score is calculated based on the tweets with positive or negative sentiments. These results can be seen in the .xlsx file located in this repository. This file is updated once a week.
 
 Note: to run this program, the credentials for a Twitter Developer Account are needed.
 
