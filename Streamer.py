@@ -35,7 +35,7 @@ def searcher(hashtags, filename):
                     tweet_count = tweet_count + 1 
                     comp = analyzer.polarity_scores(final_tweet)['compound']
                     print(str(comp) + "  | Tweet " + str(tweet_count) + ": " + final_tweet + " \n" , file=file)
-                    print("Tweet retrieved \n")
+                    print("Tweet retrieved")
         i = i + 1
     file.close()
 
