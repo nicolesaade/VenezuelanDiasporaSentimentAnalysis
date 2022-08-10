@@ -9,9 +9,9 @@ import pandas as pd
 import sys
 
 """
-This function is in charge of retreiving tweets from the Twitter API.
-To conduct analysis, the tweets retreived are translated using the GoogleTrans API,
-then, Vader, a Sentiment-Analysis focused tool is used to determine the scores.
+This function is in charge of retrieving tweets from the Twitter API.
+To conduct analysis, the tweets retrieved are translated using the GoogleTrans API,
+then, VADER, a Sentiment-Analysis focused tool is used to determine the scores.
 Scores and sentiments are then place into a text file.
 """
 
@@ -89,7 +89,7 @@ Main method where all functions are called
 """
 def main():
     
-    #Calling searcher methods to gather data to text files
+    #Calling searcher methods to gather data and place into text files
     
 
     searcher(HashtagList.hashtags_Ecuador, 'EcuadorTweets.txt')
