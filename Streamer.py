@@ -20,7 +20,7 @@ def searcher(hashtags, filename):
     auth_Handler = tweepy.OAuthHandler(Credentials.Consumer_Key, Credentials.Consumer_Secret)
     auth_Handler.set_access_token(Credentials.Access_Token, Credentials.Access_Token_Secret)
     api = tweepy.API(auth_Handler, wait_on_rate_limit=True)
-    tweet_count = 425
+    tweet_count = 516
     analyzer = SentimentIntensityAnalyzer()
     i = 0
     while i < len(hashtags):
@@ -101,9 +101,8 @@ def main():
     searcher(HashtagList.hashtags_Panama, 'PanamaTweets.txt')
     searcher(HashtagList.hashtags_US, 'USTweets.txt')
     searcher(HashtagList.hashtags_RepDom, 'RepDomTweets.txt')
+   
 
-
-    
     #Creating lists and calling sentiment-calculating method
 
     Ecuador_list = []
@@ -134,7 +133,7 @@ def main():
     'Number of Negative Reviews', 'Negative Score Average', 'Overall Sentiment Average', 'Overall Sentiment'])
 
     #Importing to Excel File
-    df.to_excel("CountrySentiment(08-09-2022).xlsx")
+    df.to_excel("CountrySentiment(08-14-2022).xlsx")
     print("Excel file successfully created!")
 
 
