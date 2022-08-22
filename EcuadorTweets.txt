@@ -1372,3 +1372,487 @@ https://t.co/AMmdb5AuOR… @NicolasMaduro, pronunciation=[[]], extra_data="{'tra
 
 -0.6597  | Tweet 575: Translated(src=es, dest=en, text=@AAAD25 What is the problem that we are Venezuelans to give an opinion on an issue, what do they have against Venezuelans… https://t.co/rJi9GwX7xH, pronunciation=@AAAD25 What is the problem that we are Venezuelans to give an opinion on an issue, what do they have against Venezuelans… https://t.co/rJi9GwX7xH, extra_data="{'translat...") 
 
+0.0  | Tweet 491: Translated(src=es, dest=en, text=@kimontare: Ecuador should now prepare for a new and gigantic wave of Colombian refugees and migrants, including the thousand…, pronunciation=@kimontare: Ecuador should now prepare for a new and gigantic wave of Colombian refugees and migrants, including the thousand…, extra_data="{'translat...") 
+
+0.0  | Tweet 492: Translated(src=es, dest=en, text=@LowDjEc: @FaustoJarrinT @MashiRafael Ecuador should already prepare for a new and gigantic wave of refugees and migrants colo..., pronunciation=@LowDjEc: @FaustoJarrinT @MashiRafael Ecuador should already prepare for a new and gigantic wave of refugees and migrants colo..., extra_data="{'translat...") 
+
+0.0  | Tweet 493: Translated(src=es, dest=en, text=@candy1975nicole: @NotiViralesEc @LassoGuillermo @juancaholguin there are your refugees to the Venezuelans who are going to regularize. Grace…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 494: Translated(src=es, dest=en, text=@FaustoJarrinT @MashiRafael Ecuador should already prepare for a new and gigantic wave of refugees and mig… https://t.co/2qDnOmGY7g, pronunciation=@FaustoJarrinT @MashiRafael Ecuador should already prepare for a new and gigantic wave of refugees and mig… https://t.co/2qDnOmGY7g, extra_data="{'translat...") 
+
+0.0  | Tweet 495: Translated(src=es, dest=en, text=@NotiViralesEc @LassoGuillermo @juancaholguin there are your refugees to the Venezuelans who are going to regularize. Gra… https://t.co/Sq54aNQxmw, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 496: Translated(src=es, dest=en, text=Ecuador should already prepare for a new and gigantic wave of Colombian refugees and migrants, including… https://t.co/NMyrPKvKFc, pronunciation=Ecuador should already prepare for a new and gigantic wave of Colombian refugees and migrants, including… https://t.co/NMyrPKvKFc, extra_data="{'translat...") 
+
+0.0  | Tweet 497: Translated(src=es, dest=en, text=@rtve brings us the story of Daniela Pérez, a Colombian refugee in Ecuador.
+
+Today, she is a humanitarian worker for… https://t.co/mt6BH6UdDX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 498: Translated(src=es, dest=en, text=@fronteravivanew: #17Ago 🇪🇨|🇻🇪 According to the United Nations Refugee Agency (UNHCR), there are around 500,000 ci..., pronunciation=@fronteravivanew: #17Ago 🇪🇨|🇻🇪 According to the United Nations Refugee Agency (UNHCR), there are around 500,000 ci..., extra_data="{'translat...") 
+
+0.6808  | Tweet 499: Translated(src=es, dest=en, text=#17Ago 🇪🇨|🇻🇪 According to the United Nations Refugee Agency (UNHCR), there are around 500,000… https://t.co/P5kg0Wa5Fb, pronunciation=#17Ago 🇪🇨|🇻🇪 According to the United Nations Refugee Agency (UNHCR), there are around 500,000… https://t.co/P5kg0Wa5Fb, extra_data="{'translat...") 
+
+0.0  | Tweet 500: Translated(src=es, dest=en, text=Omayrith is synonymous with resilience.
+
+🇻🇪 In her country, Venezuela, she was a bank teller.🏧
+
+🇪🇨 In Ecuador she has a san… https://t.co/XRVZgenh2e, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 501: Translated(src=es, dest=en, text=#Did you know that Ecuador is the country with the most refugees in the region? Most are from Venezuela.… https://t.co/XbUqUDFKo8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.886  | Tweet 502: Translated(src=es, dest=en, text=@LaNiaDeLaCalza1 @AnibalGarzon Hahaha well if I remind you a bit of geography that jungle is part of Colombia and ob… https://t.co/KQz72cCCIG, pronunciation=@LaNiaDeLaCalza1 @AnibalGarzon Hahaha well if I remind you a bit of geography that jungle is part of Colombia and ob… https://t.co/KQz72cCCIG, extra_data="{'translat...") 
+
+0.6124  | Tweet 503: Translated(src=es, dest=en, text=@LaMalenita25 we'll see in 2 years or less how they come to Ecuador like the Venecos..., pronunciation=@LaMalenita25 we'll see in 2 years or less how they come to Ecuador like the Venecos..., extra_data="{'translat...") 
+
+-0.7003  | Tweet 504: Translated(src=es, dest=en, text=Ecuador became the Colombia of the 80s, drug trafficking, explosions, choreo, poisons, prostitution and to top it off… https://t.co/IDJbsEZq6r, pronunciation=Ecuador became the Colombia of the 80s, drug trafficking, explosions, choreo, poisons, prostitution and to top it off… https://t.co/IDJbsEZq6r, extra_data="{'translat...") 
+
+0.0  | Tweet 505: Translated(src=es, dest=en, text=#22Ago 🇻🇪|🇪🇨 Through a series of surveys, carried out on 8,555 Venezuelans who make up 2,240 family groups… https://t.co/6f8bVOg89A, pronunciation=#22Ago 🇻🇪|🇪🇨 Through a series of surveys, carried out on 8,555 Venezuelans who make up 2,240 family groups… https://t.co/6f8bVOg89A, extra_data="{'translat...") 
+
+0.0  | Tweet 506: Translated(src=es, dest=en, text=@EdwinParraGuev1: They have realized that there are fewer and fewer Venezuelans left in Ecuador. Let a lassy explain to me, why are they fleeing Dubai? 🤔, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8089  | Tweet 507: Translated(src=es, dest=en, text=@DilzonAlexande1: @EcuaPunish @luisantonio_r @24HorasGYE @teleamazonasec It's not about terrorism, as he explains it, it's extortion..., pronunciation=@DilzonAlexande1: @EcuaPunish @luisantonio_r @24HorasGYE @teleamazonasec It's not about terrorism, as he explains it, it's extortion..., extra_data="{'translat...") 
+
+0.0  | Tweet 508: Translated(src=es, dest=en, text=A new process must be carried out by all foreigners residing in Ecuador.
+
+Read more here:… https://t.co/v9OQaEaDuh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9584  | Tweet 509: Translated(src=es, dest=en, text=@ElGuayacoGuzmi: Even Venezuelans who live in Ecuador know that those in the Quito league are 2 or 3 assholes..🤣🤣
+
+It's time to laugh 🤣🤣🤣🤣..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 510: Translated(src=es, dest=en, text=@LaCamachoEc: Ecuador beware
+#Watch out for this new way of getting money from VENEZUELANs residing in the country.
+They throw you with a…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8089  | Tweet 511: Translated(src=es, dest=en, text=@EcuaPunish @luisantonio_r @24HorasGYE @teleamazonasec It's not about terrorism, as he explains it, it's extortion… https://t.co/lPzg3dSlNg, pronunciation=@EcuaPunish @luisantonio_r @24HorasGYE @teleamazonasec It's not about terrorism, as he explains it, it's extortion… https://t.co/lPzg3dSlNg, extra_data="{'translat...") 
+
+-0.9432  | Tweet 512: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Fm0R43LmOc, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Fm0R43LmOc, extra_data="{'translat...") 
+
+0.5267  | Tweet 513: Translated(src=es, dest=en, text=@TractorParts: @EmergenciasEc When there is no Plague of Venezuelans who invade us like rats… until when are we going to allow these m…, pronunciation=@TractorParts: @EmergenciasEc When there is no Plague of Venezuelans who invade us like rats… until when are we going to allow these m…, extra_data="{'translat...") 
+
+0.8555  | Tweet 514: Translated(src=es, dest=en, text=Even the Venezuelans who live in Ecuador know that those in the Quito league are 2 or 3 assholes..🤣🤣
+
+It's time to laugh 🤣🤣… https://t.co/KxaDY3CcSS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 515: Translated(src=es, dest=en, text=@2001OnLine: #Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/1sUcZBWOqi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8126  | Tweet 516: Translated(src=es, dest=en, text=@ElCamioneroCL They did the same thing in Ecuador, they paid Venezuelans to say the same thing and #LaBanca won today… https://t.co/StQQ3YZb96, pronunciation=@ElCamioneroCL They did the same thing in Ecuador, they paid Venezuelans to say the same thing and #LaBanca won today… https://t.co/StQQ3YZb96, extra_data="{'translat...") 
+
+-0.9432  | Tweet 517: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/uI2nTu8i0m, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/uI2nTu8i0m, extra_data="{'translat...") 
+
+0.0  | Tweet 518: Translated(src=es, dest=en, text=#Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/1sUcZBWOqi, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6249  | Tweet 519: Translated(src=es, dest=en, text=@JosMore86785901 @JaimeRinconRD You don't know what you're saying. Watch The migration crisis of Venezuelans in Colombia… https://t.co/HNLadWG9cb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 520: Translated(src=es, dest=en, text=Care Ecuador
+#Watch out for this new way of getting money from VENEZUELANs residing in the country.
+They throw you… https://t.co/X3DDoT2cqq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 521: Translated(src=es, dest=en, text=@EmergenciasEc When there is no Plague of Venezuelans who invade us like rats … until when are we going to allow it to e… https://t.co/nkUaH1X2fX, pronunciation=@EmergenciasEc When there is no Plague of Venezuelans who invade us like rats … until when are we going to allow it to e… https://t.co/nkUaH1X2fX, extra_data="{'translat...") 
+
+0.0  | Tweet 522: Translated(src=es, dest=en, text=@2001OnLine: #Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/1sUcZCepOS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 523: Translated(src=gn, dest=en, text=@hirodaiki12 @eur0pan @LightTheGame @IamCristinini Speaking of xenophobia, in Chile, Ecuador, Peru, Colombia and much more... https://t.co/OnCkFvxIbr, pronunciation=@hirodaiki12 @eur0pan @LightTheGame @IamCristinini Speaking of xenophobia, in Chile, Ecuador, Peru, Colombia and much more... https://t.co/OnCkFvxIbr, extra_data="{'translat...") 
+
+0.0  | Tweet 524: Translated(src=es, dest=en, text=@CowardsOwl @eur0pan @LightTheGame @IamCristinini Speaking of xenophobia, in Chile, Ecuador, Peru, Colombia and many… https://t.co/yLsavvJI42, pronunciation=@CowardsOwl @eur0pan @LightTheGame @IamCristinini Speaking of xenophobia, in Chile, Ecuador, Peru, Colombia and many… https://t.co/yLsavvJI42, extra_data="{'translat...") 
+
+0.0  | Tweet 525: Translated(src=es, dest=en, text=@ElRatonJodedor In Ecuador they teach that they were invaded 3 times in their history: that of the Incas, that of the es… https://t.co/69tIPEbDxK, pronunciation=@ElRatonJodedor In Ecuador they teach that they were invaded 3 times in their history: that of the Incas, that of the es… https://t.co/69tIPEbDxK, extra_data="{'translat...") 
+
+0.0  | Tweet 526: Translated(src=es, dest=en, text=#Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/1sUcZCepOS, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 527: Translated(src=es, dest=en, text=@libertadbel @jlhalabi @aavitriago88 @isabelemus What screwed up Venezuela were the Venezuelans themselves for being lazy… https://t.co/tTOpiJ3wLK, pronunciation=@libertadbel @jlhalabi @aavitriago88 @isabelemus What screwed up Venezuela were the Venezuelans themselves for being lazy… https://t.co/tTOpiJ3wLK, extra_data="{'translat...") 
+
+-0.7184  | Tweet 528: Translated(src=es, dest=en, text=Peñarol, for its part, passed as 1st in Group B after beating Millonarios and LDU Quito and drawing in the last day… https://t.co/9Q2inQQ5WD, pronunciation=Peñarol, for its part, passed as 1st in Group B after beating Millonarios and LDU Quito and drawing in the last day… https://t.co/9Q2inQQ5WD, extra_data="{'translat...") 
+
+0.0  | Tweet 529: Translated(src=es, dest=en, text=@freddyp44055243: Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw their passports..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 530: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/S6UBcfJDo3, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/S6UBcfJDo3, extra_data="{'translat...") 
+
+0.0  | Tweet 531: Translated(src=es, dest=en, text=@2001OnLine: #Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/8xs2htGDrW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 532: Translated(src=es, dest=en, text=@ACNUREcuador: A conscious youth is a healthy youth💪🏽.
+
+In #Pimampiro, Imbabura, 20 Ecuadorian children and adolescents, see…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 533: Translated(src=es, dest=en, text=#Migration | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+https://t.co/8xs2htGDrW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7184  | Tweet 534: Translated(src=gn, dest=en, text=@DelvalleCalder2 @ElRatonFuck haha ​​the only slaves I see are the thousands of hungry Venezuelan mvert0s... https://t.co/mD4RjzJmRc, pronunciation=@DelvalleCalder2 @ElRatonFuck haha ​​the only slaves I see are the thousands of hungry Venezuelan mvert0s... https://t.co/mD4RjzJmRc, extra_data="{'translat...") 
+
+0.8825  | Tweet 535: Translated(src=es, dest=en, text=BROOOO, TWO VENEZUELANS ON THE PODIUM IN ECUADOR, ONE COMING OUT CHAMPION, pronunciation=BROOOO, TWO VENEZUELANS ON THE PODIUM IN ECUADOR, ONE COMING OUT CHAMPION, extra_data="{'translat...") 
+
+0.0  | Tweet 536: Translated(src=es, dest=en, text=#20Ago 🇻🇪🇪🇨 22.4% highlighted the need for documentation, while 17.9% said they had difficulty… https://t.co/mKYiSMSQgi, pronunciation=#20Ago 🇻🇪🇪🇨 22.4% highlighted the need for documentation, while 17.9% said they had difficulty… https://t.co/mKYiSMSQgi, extra_data="{'translat...") 
+
+0.0  | Tweet 537: Translated(src=es, dest=en, text=@leoperiodista: Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/rpLE87DM2d, pronunciation=@leoperiodista: Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/rpLE87DM2d, extra_data="{'translat...") 
+
+-0.3182  | Tweet 538: Translated(src=es, dest=en, text=#TrenDeAragua Venezuelan migrants are victims of the Aragua Train, even after having fled the country. S… https://t.co/dzmsS3RD4n, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3612  | Tweet 539: Translated(src=es, dest=en, text=@Jesusitom: Guillermo Lasso requested $250 million for his regularization process for Venezuelans in Ecuador.
+
+Today it is difficult for us to…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 540: Translated(src=es, dest=en, text=THE WAY VENEZUELANS ASSAULT YOU IN GUAYAQUIL...ECUADOR
+
+THEY GO BY BICYCLE AND CROSS THE CAR..
+
+IF YOU LEAVE… https://t.co/VB8T9kiHZA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 541: Translated(src=es, dest=en, text=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/cUPD2K85Ez, pronunciation=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/cUPD2K85Ez, extra_data="{'translat...") 
+
+0.0  | Tweet 542: Translated(src=es, dest=en, text=@fronteravivanew: #20Ago 🇻🇪🇪🇨 Venezuelans were also consulted about their employment situation and only 65.7% claimed to have a…, pronunciation=@fronteravivanew: #20Ago 🇻🇪🇪🇨 Venezuelans were also consulted about their employment situation and only 65.7% claimed to have a…, extra_data="{'translat...") 
+
+-0.9432  | Tweet 543: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/bRbTt15C3g, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/bRbTt15C3g, extra_data="{'translat...") 
+
+0.0  | Tweet 544: Translated(src=es, dest=en, text=They have realized that there are fewer and fewer Venezuelans left in Ecuador. Let a lassy explain to me, why are they fleeing Dubai? 🤔, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 545: Translated(src=es, dest=en, text=#20Ago 🇻🇪🇪🇨 Venezuelans were also consulted about their employment situation and only 65.7% claimed to have… https://t.co/XbaUJtqpax, pronunciation=#20Ago 🇻🇪🇪🇨 Venezuelans were also consulted about their employment situation and only 65.7% claimed to have… https://t.co/XbaUJtqpax, extra_data="{'translat...") 
+
+0.0  | Tweet 546: Translated(src=es, dest=en, text=Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/rpLE87DM2d, pronunciation=Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/rpLE87DM2d, extra_data="{'translat...") 
+
+0.0  | Tweet 547: Translated(src=es, dest=en, text=#20Aug 🗞️ | Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago
+
+https://t.co/kvimCX3HlU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 548: Translated(src=es, dest=en, text=@2001OnLine: Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/cvEZjq6bm5, pronunciation=@2001OnLine: Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/cvEZjq6bm5, extra_data="{'translat...") 
+
+0.0  | Tweet 549: Translated(src=es, dest=en, text=Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/cvEZjq6bm5, pronunciation=Venezuelans in Ecuador, Chile and Spain receive extensions and passports this #20Ago https://t.co/cvEZjq6bm5, extra_data="{'translat...") 
+
+0.0  | Tweet 550: Translated(src=es, dest=en, text=@VeneciaSU @crist_mans @vangelicaI56 Oh! I live in the same sector, Ecuador street literally taken over by Venezuelans., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 551: Translated(src=es, dest=en, text=@SUKOICRIOLLO: In PANAMA there are 500 VENEZUELAN registered to return in CONVIASA, in PERU there are 380, in ECUADOR there are 745, in CHILE 425, the a…, pronunciation=@SUKOICRIOLLO: In PANAMA there are 500 VENEZUELAN registered to return in CONVIASA, in PERU there are 380, in ECUADOR there are 745, in CHILE 425, the a…, extra_data="{'translat...") 
+
+0.0  | Tweet 552: Translated(src=es, dest=en, text=In PANAMA there are 500 VENEZUELAN registered to return to CONVIASA, in PERU there are 380, in ECUADOR there are 745, in CHILE 425… https://t.co/cWqWBRBKuP, pronunciation=In PANAMA there are 500 VENEZUELAN registered to return to CONVIASA, in PERU there are 380, in ECUADOR there are 745, in CHILE 425… https://t.co/cWqWBRBKuP, extra_data="{'translat...") 
+
+0.6597  | Tweet 553: Translated(src=es, dest=en, text=@MIGUEL96867489 @PerseusSan In Ecuador it is the Venezuelans, and they also vote in favor of 21st century socialism… https://t.co/HwBg6Ga2Y8, pronunciation=@MIGUEL96867489 @PerseusSan In Ecuador it is the Venezuelans, and they also vote in favor of 21st century socialism… https://t.co/HwBg6Ga2Y8, extra_data="{'translat...") 
+
+0.0  | Tweet 554: Translated(src=es, dest=en, text=@francod59396352 @ElizbethCristi7 @petrogustavo This is how they congratulated the Venezuelans... By the way, how many Venezuelans are there in Ecuador?, pronunciation=@francod59396352 @ElizbethCristi7 @petrogustavo This is how they congratulated the Venezuelans... By the way, how many Venezuelans are there in Ecuador?, extra_data="{'translat...") 
+
+-0.9432  | Tweet 555: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/D0xlHyHL1j, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/D0xlHyHL1j, extra_data="{'translat...") 
+
+0.0  | Tweet 556: Translated(src=es, dest=en, text=#CongressNewEpoch
+📢 Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador could… https://t.co/sehwsFF8ts, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 557: Translated(src=es, dest=en, text=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/aY4O3Xqlkc, pronunciation=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/aY4O3Xqlkc, extra_data="{'translat...") 
+
+0.0  | Tweet 558: Translated(src=es, dest=en, text=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/aY4O3Xqlkc, pronunciation=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/aY4O3Xqlkc, extra_data="{'translat...") 
+
+0.4939  | Tweet 559: Translated(src=es, dest=en, text=@redbullbatalla in red bull ecuador tomorrow 3 Venezuelans and in this other one, in Peru it is already certain that black will go… https://t.co/e4kJHSyDei, pronunciation=@redbullbatalla in red bull ecuador tomorrow 3 Venezuelans and in this other one, in Peru it is already certain that black will go… https://t.co/e4kJHSyDei, extra_data="{'translat...") 
+
+0.0  | Tweet 560: Translated(src=qu, dest=en, text=@VNUEcuador @UNEcuador @UNVolunteers @UNV_ROLAC @CuencaGlobal @RocioVergaraCh @litapaparoniUNV @KyokoYokosuka... https://t.co/uFpmmk4UIJ, pronunciation=@VNUEcuador @UNEcuador @UNVolunteers @UNV_ROLAC @CuencaGlobal @RocioVergaraCh @litapaparoniUNV @KyokoYokosuka... https://t.co/uFpmmk4UIJ, extra_data="{'translat...") 
+
+0.0  | Tweet 561: Translated(src=es, dest=en, text=@LeoLira22193661 @ortegaCLUIS @MiguelAguileraR It must be that in Colombia, Panama, Ecuador, Mexico, Brazil etc. There is no… https://t.co/cuMLL2bMV7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 562: Translated(src=es, dest=en, text=@cesuar21: 🗞 Consulate of Venezuela in Quito will deliver passports this Saturday.
+Venezuelans in Ecuador will be able to withdraw their passports and pr…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 563: Translated(src=es, dest=en, text=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/xZRVIuEf5n, pronunciation=@UNoticias: Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/xZRVIuEf5n, extra_data="{'translat...") 
+
+0.0  | Tweet 564: Translated(src=es, dest=en, text=Guillermo Lasso requested $250 million for his regularization process for Venezuelans in Ecuador.
+
+Today we care… https://t.co/TPyMevcrpX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 565: Translated(src=es, dest=en, text=@ limbert23: Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw their passports and pr…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 566: Translated(src=es, dest=en, text=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/xZRVIuEf5n, pronunciation=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/xZRVIuEf5n, extra_data="{'translat...") 
+
+0.0  | Tweet 567: Translated(src=es, dest=en, text=@PintaMiranda: Consulate of Venezuela in Quito will deliver passports this Saturday; Venezuelans in Ecuador will be able to withdraw their passports and…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8475  | Tweet 568: Translated(src=es, dest=en, text=3 Venezuelans in Ecuador Redbull, wow!, pronunciation=3 Venezuelans in Ecuador Redbull, wow!, extra_data="{'translat...") 
+
+0.0  | Tweet 569: Translated(src=es, dest=en, text=#19Ago 🇻🇪🇪🇨 This study highlights that in 2022 access to food "remains the main need of the… https://t.co/zYDnaS00hi, pronunciation=#19Ago 🇻🇪🇪🇨 This study highlights that in 2022 access to food "remains the main need of the… https://t.co/zYDnaS00hi, extra_data="{'translat...") 
+
+0.0  | Tweet 570: Translated(src=es, dest=en, text=@ willzambrano8: 🗞 Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw their passports..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 571: Translated(src=es, dest=en, text=@freddyp44055243 Passports for Venezuelans in Ecuador, pronunciation=@freddyp44055243 Passports for Venezuelans in Ecuador, extra_data="{'translat...") 
+
+0.0  | Tweet 572: Translated(src=es, dest=en, text=Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw passports… https://t.co/FEGtaJ5lK9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 573: Translated(src=es, dest=en, text=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/cUPD2K85Ez, pronunciation=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/cUPD2K85Ez, extra_data="{'translat...") 
+
+0.0  | Tweet 574: Translated(src=es, dest=en, text=Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw passports… https://t.co/DXouj4nJY7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 575: Translated(src=es, dest=en, text=Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw passports… https://t.co/vboirxJt4m, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8302  | Tweet 576: Translated(src=es, dest=en, text=Ecuador is so bad that Venezuelans are starting to leave here. What a pity Lasso!!! It will go down in history and… https://t.co/nGuye3cQZ7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 577: Translated(src=es, dest=en, text=@ALIRIOFernand16: I'll be here in three weeks giving this workshop.
+
+From #Gatalejo, editorial production agency of v…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 578: Translated(src=es, dest=en, text=Consulate of Venezuela in Quito will deliver passports this Saturday; Venezuelans in Ecuador will be able to withdraw their passports… https://t.co/1dUUR5eorW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 579: Translated(src=es, dest=en, text=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejFFcL #blog #blogger #Blogs #E…, pronunciation=@YOSEque Hace2_: Finance with common sense: Facing Panama… YOUR FINANCIAL ADVICE https://t.co/kUFxejFFcL #blog #blogger #Blogs #E…, extra_data="{'translat...") 
+
+0.0  | Tweet 580: Translated(src=es, dest=en, text=Passport delivery to Venezuelans in Ecuador https://t.co/WGtQ3EvGEN, pronunciation=Passport delivery to Venezuelans in Ecuador https://t.co/WGtQ3EvGEN, extra_data="{'translat...") 
+
+0.0  | Tweet 581: Translated(src=es, dest=en, text=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/3sI8wgPB21, pronunciation=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/3sI8wgPB21, extra_data="{'translat...") 
+
+0.0  | Tweet 582: Translated(src=es, dest=en, text=🗞 Consulate of Venezuela in Quito will deliver passports this Saturday.
+Venezuelans in Ecuador will be able to withdraw passports… https://t.co/wrPa39OWbR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 583: Translated(src=es, dest=en, text=🗞 Consulate of Venezuela in Quito will deliver passports this Saturday
+Venezuelans in Ecuador will be able to withdraw passports… https://t.co/Vb1verOuGJ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 584: Translated(src=es, dest=en, text=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/olJRJGIk4a, pronunciation=Venezuelans in Ecuador will be able to withdraw the passports and extensions of the bag on May 30 https://t.co/olJRJGIk4a, extra_data="{'translat...") 
+
+-0.9432  | Tweet 585: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/BljKBWeflF, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/BljKBWeflF, extra_data="{'translat...") 
+
+-0.6965  | Tweet 586: Translated(src=es, dest=en, text=@escovargabriela THIS IS IT!
+Pay no attention to resentful and bitter Venezuelans (THAT SURE ARE THOSE FROM TERRITORY… https://t.co/VCsrVRMDa2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 587: Translated(src=es, dest=en, text=@DanielS12576850: #OutMaduroOut
+Thousands of Venezuelans walk along the borders and highways of Colombia, Ecuador and Peru fleeing the ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 588: Translated(src=es, dest=en, text=#IMPOANT || DEPOTIONS
+
+The Ecuadorian Undersecretary of Migration has reported that while the regularization lasts… https://t.co/fyLF9tNAZp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 589: Translated(src=es, dest=en, text=A conscious youth is a healthy youth💪🏽.
+
+In #Pimampiro, Imbabura, 20 Ecuadorian children and adolescents… https://t.co/Rd6Sd4Txqz, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 590: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Jc8RWyULcF, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Jc8RWyULcF, extra_data="{'translat...") 
+
+0.0  | Tweet 591: Translated(src=es, dest=en, text=@revistavistazo: #VIDEOS l The story of a child has gone viral on social networks. It's about Jason, who would have been abandoned..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 592: Translated(src=qu, dest=en, text=@OrlandoBottini: @ivanfsilva01 @razapatac @FannyGuilarte @yamilaudio @ahinamendez @filomeno_trumps @lahijaderam @malufrancis @franherr6, pronunciation=@OrlandoBottini: @ivanfsilva01 @razapatac @FannyGuilarte @yamilaudio @ahinamendez @filomeno_trumps @lahijaderam @malufrancis @franherr6, extra_data="{'translat...") 
+
+0.6597  | Tweet 593: Translated(src=es, dest=en, text=A family of Venezuelan migrants is found by Bethany on the Ruta de Caminantes and receives help to carry out… https://t.co/AlE6eIhiDJ, pronunciation=A family of Venezuelan migrants is found by Bethany on the Ruta de Caminantes and receives help to carry out… https://t.co/AlE6eIhiDJ, extra_data="{'translat...") 
+
+0.1613  | Tweet 594: Translated(src=es, dest=en, text=@Jefferson_Diaz: Carrying out the migratory census/registration in Ecuador is FREE.
+Request the Venezuelan criminal record (beyond…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 595: Translated(src=qu, dest=en, text=@ivanfsilva01 @razapatac @FannyGuilarte @yamilaudio @ahinamendez @filomeno_trumps @lahijaderam @malufrancis... https://t.co/GO9ts3zQU6, pronunciation=@ivanfsilva01 @razapatac @FannyGuilarte @yamilaudio @ahinamendez @filomeno_trumps @lahijaderam @malufrancis... https://t.co/GO9ts3zQU6, extra_data="{'translat...") 
+
+0.1613  | Tweet 596: Translated(src=es, dest=en, text=Carrying out the migratory census/registration in Ecuador is FREE.
+Request the Venezuelan criminal record (beyond… https://t.co/ohjJ09LJ7g, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 597: Translated(src=es, dest=en, text=#OutMaduroOut
+Thousands of Venezuelans walk along the borders and highways of Colombia, Ecuador and Peru fleeing from… https://t.co/Awohom0f7g, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 598: Translated(src=es, dest=en, text=@MuchoGustoMEGA What does the Bolivian Chilean constitution take away from this black guy who wants to steal the north of… https://t.co/YT9wgEmkEe, pronunciation=@MuchoGustoMEGA What does the Bolivian Chilean constitution take away from this black guy who wants to steal the north of… https://t.co/YT9wgEmkEe, extra_data="{'translat...") 
+
+-0.8885  | Tweet 599: Translated(src=es, dest=en, text=@untalperezv @crchalbaud That's right, but you have to look further, the incidence of these bad elements, here in Ecuador... https://t.co/oIjqdJC9IS, pronunciation=@untalperezv @crchalbaud That's right, but you have to look further, the incidence of these bad elements, here in Ecuador... https://t.co/oIjqdJC9IS, extra_data="{'translat...") 
+
+-0.5423  | Tweet 600: Translated(src=es, dest=en, text=@tangamandapio59 @crchalbaud There are bad Venezuelans, of course. Just look at the prisons in Venezuela to… https://t.co/7zxAcOc2UA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6166  | Tweet 601: Translated(src=es, dest=en, text=@jacque_07 Jacque in Canada you said it.
+In Ecuador HONEST ECUADORIAN LAWYERS tell Venezuelans LEGA… https://t.co/Nma5HsTADY, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2411  | Tweet 602: Translated(src=es, dest=en, text=@martait58 @Carlosjcalderon @RCamachoVzla Oh no sure. It was not enough to scratch the Venezuelans in Colombia, C… https://t.co/q79jIUelbz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 603: Translated(src=es, dest=en, text=Those 17,000 Venezuelans that you counted one by one sitting at the entrance to the jungle, did not come from Venezuela even though… https://t.co/gph0J2eUb6, pronunciation=Those 17,000 Venezuelans that you counted one by one sitting at the entrance to the jungle, did not come from Venezuela even though… https://t.co/gph0J2eUb6, extra_data="{'translat...") 
+
+-0.5267  | Tweet 604: Translated(src=es, dest=en, text=@calvinhobbes33 @ammejiaaguado @ClaudiaLopez @FiscaliaCol @PoliciaColombia Until Colombians stop killing… https://t.co/5QDmYsjfpn, pronunciation=@calvinhobbes33 @ammejiaaguado @ClaudiaLopez @FiscaliaCol @PoliciaColombia Until Colombians stop killing… https://t.co/5QDmYsjfpn, extra_data="{'translat...") 
+
+-0.5267  | Tweet 605: Translated(src=es, dest=en, text=@AngelDemoni0 According to some chronicles of Venezuelan historians, Bolívar told San Martín to stop at… https://t.co/ged2Dyy2LQ, pronunciation=@AngelDemoni0 According to some chronicles of Venezuelan historians, Bolívar told San Martín to stop at… https://t.co/ged2Dyy2LQ, extra_data="{'translat...") 
+
+-0.9432  | Tweet 606: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/RgueAkVmsp, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/RgueAkVmsp, extra_data="{'translat...") 
+
+0.0  | Tweet 607: Translated(src=es, dest=en, text=@Adrynella: @LuisSomaza MMG those Venezuelans who cross the dairen jungle come from Chile, Argentina, Uruguay, Peru, Colombia, Ecuad…, pronunciation=@Adrynella: @LuisSomaza MMG those Venezuelans who cross the dairen jungle come from Chile, Argentina, Uruguay, Peru, Colombia, Ecuad…, extra_data="{'translat...") 
+
+-0.8126  | Tweet 608: Translated(src=es, dest=en, text=abroad to say that Venezuelans were a social scourge was Julio Borges and immediately the criminals came out… https://t.co/9tAwic0NlJ, pronunciation=abroad to say that Venezuelans were a social scourge was Julio Borges and immediately the criminals came out… https://t.co/9tAwic0NlJ, extra_data="{'translat...") 
+
+0.0  | Tweet 609: Translated(src=es, dest=en, text=@LuisSomaza MMG those Venezuelans who cross the dairen jungle come from Chile, Argentina, Uruguay, Peru, Colomb… https://t.co/YcnI2wrIRH, pronunciation=@LuisSomaza MMG those Venezuelans who cross the dairen jungle come from Chile, Argentina, Uruguay, Peru, Colomb… https://t.co/YcnI2wrIRH, extra_data="{'translat...") 
+
+0.0  | Tweet 610: Translated(src=es, dest=en, text=@nmaureir @Franco_Olave Venezuelans pass through Colombia, Ecuador, Peru and Bolivia before arriving here. All of this… https://t.co/h6aSD5Q0PW, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 611: Translated(src=es, dest=en, text=@SoyKadaryR And you who believe everything they tell you, and don't investigate if those Venezuelans are going to leave Vzla or if they had… https://t.co/DTm8SH1PJV, pronunciation=@SoyKadaryR And you who believe everything they tell you, and don't investigate if those Venezuelans are going to leave Vzla or if they had… https://t.co/DTm8SH1PJV, extra_data="{'translat...") 
+
+0.34  | Tweet 612: Translated(src=es, dest=en, text=I'll be here in three weeks giving this workshop.
+
+From #Gatalejo, editorial production agency of… https://t.co/AWiem8jBoR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5305  | Tweet 613: Translated(src=es, dest=en, text=@Daniel23Z: @CronicaPolicial I have no doubts that he was in Colombia-But-Ecuador and passed the Darién until he reached the US, serious damage to the…, pronunciation=@Daniel23Z: @CronicaPolicial I have no doubts that he was in Colombia-But-Ecuador and passed the Darién until he reached the US, serious damage to the…, extra_data="{'translat...") 
+
+-0.7124  | Tweet 614: Translated(src=es, dest=en, text=@ahilesvainfo: -Quick, stop that plane and all its crew!
+"What's inside, sir judge?" Weapons? drugs?
+-No, come…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 615: Translated(src=es, dest=en, text=@KarlOz2020 Karl well yes. There are people that one told them this and they don't believe it because they didn't live it.
+They will also say that… https://t.co/hOlEcouZbK, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 616: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/B3fSEQjWYf, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/B3fSEQjWYf, extra_data="{'translat...") 
+
+-0.7264  | Tweet 617: Translated(src=es, dest=en, text=@Maurici34148972: Migration must be the most terrible thing there is. That Correismo takes advantage of that to get out of its miseries is still..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 618: Translated(src=es, dest=en, text=The "elephant in the middle of the room" is that neither in Bolivia, Ecuador, Peru or Colombia are there job openings for everyone… https://t.co/56r60kgffq, pronunciation=The "elephant in the middle of the room" is that neither in Bolivia, Ecuador, Peru or Colombia are there job openings for everyone… https://t.co/56r60kgffq, extra_data="{'translat...") 
+
+0.4588  | Tweet 619: Translated(src=es, dest=en, text=#VIDEOS l A child's story has gone viral on social media. It's about Jason, who would have been abandon… https://t.co/7kMRFj8Zle, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.886  | Tweet 620: Translated(src=es, dest=en, text=@marcelaholguin Ms. Holguín, insecurity in Ecuador worsened when her corrupt employer, Correa, allowed the passage… https://t.co/AigoxnPCDt, pronunciation=@marcelaholguin Ms. Holguín, insecurity in Ecuador worsened when her corrupt employer, Correa, allowed the passage… https://t.co/AigoxnPCDt, extra_data="{'translat...") 
+
+0.9344  | Tweet 621: Translated(src=es, dest=en, text=@pierinaescorrea And the Venezuelans who leave the socialist paradise to seek a better future" here in Ecuador?, pronunciation=@pierinaescorrea And the Venezuelans who leave the socialist paradise to seek a better future" here in Ecuador?, extra_data="{'translat...") 
+
+0.0  | Tweet 622: Translated(src=es, dest=en, text=@PedroCastilloTe Pxq do not move the armed forces in the limits of Peru Ecuador Colombia for the issue of the ven… https://t.co/o8bHwdgKEM, pronunciation=@PedroCastilloTe Pxq do not move the armed forces in the limits of Peru Ecuador Colombia for the issue of the ven… https://t.co/o8bHwdgKEM, extra_data="{'translat...") 
+
+-0.7264  | Tweet 623: Translated(src=es, dest=en, text=Migration must be the most terrible thing that exists. That correismo takes advantage of that to get their miseries out is… https://t.co/GZryBpkI3o, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 624: Translated(src=es, dest=en, text=Informal work is the way out for 79% of Venezuelans in Ecuador https://t.co/AnJxMvbPBD, pronunciation=Informal work is the way out for 79% of Venezuelans in Ecuador https://t.co/AnJxMvbPBD, extra_data="{'translat...") 
+
+-0.9287  | Tweet 625: Translated(src=es, dest=en, text=@borjasmarind I DON'T JUDGE YOU, BUT FOR SOME BAD VENEZUELANS, EVERYONE PAYS,
+
+THE DETAIL IS THAT FOR THOSE BAD YOU VENEZ… https://t.co/svmv75f2GG, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 626: Translated(src=es, dest=en, text=These are the practices of the communists, Ecuador has an inflated electoral roll of 1 and a half million dead… https://t.co/ngIwrmI0Pl, pronunciation=These are the practices of the communists, Ecuador has an inflated electoral roll of 1 and a half million dead… https://t.co/ngIwrmI0Pl, extra_data="{'translat...") 
+
+0.5574  | Tweet 627: Translated(src=es, dest=en, text=@babadmerchan @ANT_ECUADOR Please control motorcycles in the sector of the town committee, Venezuelans circulate with… https://t.co/Nz5B70NhFu, pronunciation=@babadmerchan @ANT_ECUADOR Please control motorcycles in the sector of the town committee, Venezuelans circulate with… https://t.co/Nz5B70NhFu, extra_data="{'translat...") 
+
+0.0  | Tweet 628: Translated(src=es, dest=en, text=@limonrojas20 @CronicaPolicial It happened in Ecuador, Peru, Colombia, etc.. We'll see the xenophobes towards Venezuelans in the Yunaited too., pronunciation=@limonrojas20 @CronicaPolicial It happened in Ecuador, Peru, Colombia, etc.. We'll see the xenophobes towards Venezuelans in the Yunaited too., extra_data="{'translat...") 
+
+0.4545  | Tweet 629: Translated(src=es, dest=en, text=@CronicaPolicial I have no doubts that he was in Colombia-But-Ecuador and passed the Darién until he reached the US, serious da… https://t.co/x22qv3lCkn, pronunciation=@CronicaPolicial I have no doubts that he was in Colombia-But-Ecuador and passed the Darién until he reached the US, serious da… https://t.co/x22qv3lCkn, extra_data="{'translat...") 
+
+0.7506  | Tweet 630: Translated(src=es, dest=en, text=@dinhodric @Arturo23809501 @JesusMogollonPB @IDV_EC @Sudamericana @MelgarOficial Already friend, continue living in your world… https://t.co/vSWECpWH8p, pronunciation=@dinhodric @Arturo23809501 @JesusMogollonPB @IDV_EC @Sudamericana @MelgarOficial Already friend, continue living in your world… https://t.co/vSWECpWH8p, extra_data="{'translat...") 
+
+0.4939  | Tweet 631: Translated(src=es, dest=en, text=@Juliolopez19901 These nosy Venezuelans have me fed up, the problem is you, where do you leave the shit, po… https://t.co/O82vygd7fN, pronunciation=@Juliolopez19901 These nosy Venezuelans have me fed up, the problem is you, where do you leave the shit, po… https://t.co/O82vygd7fN, extra_data="{'translat...") 
+
+-0.7906  | Tweet 632: Translated(src=es, dest=en, text=@lacoronadation @xxxmarquez @petrogustavo It will destroy the institution of the armed forces, it will use the information systems… https://t.co/4LunZBknSs, pronunciation=@lacoronadation @xxxmarquez @petrogustavo It will destroy the institution of the armed forces, it will use the information systems… https://t.co/4LunZBknSs, extra_data="{'translat...") 
+
+0.34  | Tweet 633: Translated(src=es, dest=en, text=@eluniversocom: Jason, a 12-year-old boy who has spent the last few weeks sleeping in a park in the Ecuadorian Amazon, found…, pronunciation=@eluniversocom: Jason, a 12-year-old boy who has spent the last few weeks sleeping in a park in the Ecuadorian Amazon, found…, extra_data="{'translat...") 
+
+0.0  | Tweet 634: Translated(src=es, dest=en, text=@pierinaescorrea And what happens to Venezuelans who migrate to Ecuador and other countries, can Pierina explain that… https://t.co/X72SVijVM0, pronunciation=@pierinaescorrea And what happens to Venezuelans who migrate to Ecuador and other countries, can Pierina explain that… https://t.co/X72SVijVM0, extra_data="{'translat...") 
+
+-0.9432  | Tweet 635: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/CEI7KtjOU2, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/CEI7KtjOU2, extra_data="{'translat...") 
+
+0.0  | Tweet 636: Translated(src=es, dest=en, text=@inesan67 @PatricioPaezB what country do you live in?
+Perhaps you don't see how INFESTED Ecuador is with Venezuelans... by work and... https://t.co/NuQK07MXdP, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 637: Translated(src=es, dest=en, text=Jason, a 12-year-old boy who has spent the last few weeks sleeping in a park in the Ecuadorian Amazon, finds… https://t.co/mNeZXWqmAd, pronunciation=Jason, a 12-year-old boy who has spent the last few weeks sleeping in a park in the Ecuadorian Amazon, finds… https://t.co/mNeZXWqmAd, extra_data="{'translat...") 
+
+0.6369  | Tweet 638: Translated(src=es, dest=en, text=#MLBxESPN @GuillermoCelis a cordial greeting Here glued to the screen of espn3 say hello to my husband Luis Ernesto… https://t.co/NJhtHYen1o, pronunciation=#MLBxESPN @GuillermoCelis a cordial greeting Here glued to the screen of espn3 say hello to my husband Luis Ernesto… https://t.co/NJhtHYen1o, extra_data="{'translat...") 
+
+0.5423  | Tweet 639: Translated(src=es, dest=en, text=@SonPolemicas Bonus of 100 days that does not represent even one week of work for a teacher or teacher in Ecuador. That… https://t.co/Ony5whTM7d, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8056  | Tweet 640: Translated(src=es, dest=en, text=But how strange, many Venezuelans migrated to that WONDERFUL COUNTRY that is #Ecuador because here in… https://t.co/xY2HEiOobc, pronunciation=But how strange, many Venezuelans migrated to that WONDERFUL COUNTRY that is #Ecuador because here in… https://t.co/xY2HEiOobc, extra_data="{'translat...") 
+
+-0.25  | Tweet 641: Translated(src=es, dest=en, text=@ElsaMar55695354: @elcomerciocom I hope they check the criminal records of all foreigners who enter or live in Ecuador because…, pronunciation=@ElsaMar55695354: @elcomerciocom I hope they check the criminal records of all foreigners who enter or live in Ecuador because…, extra_data="{'translat...") 
+
+0.5767  | Tweet 642: Translated(src=es, dest=en, text=@Th3NamelssGhoul: I'm not surprised that these Venezuelans continue to do whatever they want in Ecuador
+The great globalist mafia pro…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5553  | Tweet 643: Translated(src=es, dest=en, text=It does not surprise me that these Venezuelans continue doing what they want in Ecuador
+The great globalist mafia… https://t.co/4kA0nUNbvT, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 644: Translated(src=es, dest=en, text=@everstrongever They will be the first to go to Ecuador and Brazil to ask for coins at traffic lights... and the list... https://t.co/8omcrsnLfM, pronunciation=@everstrongever They will be the first to go to Ecuador and Brazil to ask for coins at traffic lights... and the list... https://t.co/8omcrsnLfM, extra_data="{'translat...") 
+
+-0.25  | Tweet 645: Translated(src=es, dest=en, text=@elcomerciocom I hope they check the criminal records of all foreigners who enter or live in Ecuador for… https://t.co/ZaMk57A1hx, pronunciation=@elcomerciocom I hope they check the criminal records of all foreigners who enter or live in Ecuador for… https://t.co/ZaMk57A1hx, extra_data="{'translat...") 
+
+-0.9432  | Tweet 646: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/CGV4DTyOIe, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/CGV4DTyOIe, extra_data="{'translat...") 
+
+0.0  | Tweet 647: Translated(src=es, dest=en, text=@joseantonetti: 7- He tells me that since he arrived in Ecuador, 6 years ago, xenophobia against Venezuelans was already very marked and although…, pronunciation=@joseantonetti: 7- He tells me that since he arrived in Ecuador, 6 years ago, xenophobia against Venezuelans was already very marked and although…, extra_data="{'translat...") 
+
+-0.8126  | Tweet 648: Translated(src=es, dest=en, text=@GuillermoManti1 @LaPosta_Ecu @Lenin They say that Moreno experienced first-hand the misery of Venezuelans when… https://t.co/wNryMkaQSC, pronunciation=@GuillermoManti1 @LaPosta_Ecu @Lenin They say that Moreno experienced first-hand the misery of Venezuelans when… https://t.co/wNryMkaQSC, extra_data="{'translat...") 
+
+0.0  | Tweet 649: Translated(src=es, dest=en, text=Informal work is the way out for 79% of Venezuelans in Ecuador https://t.co/03X7whScy1, pronunciation=Informal work is the way out for 79% of Venezuelans in Ecuador https://t.co/03X7whScy1, extra_data="{'translat...") 
+
+-0.9214  | Tweet 650: Translated(src=es, dest=en, text=@newandriu @ZowlOficial Peru, Colombia and Ecuador corduroy, sadly I have had more bad experiences with Venezuelans in my country..., pronunciation=@newandriu @ZowlOficial Peru, Colombia and Ecuador corduroy, sadly I have had more bad experiences with Venezuelans in my country..., extra_data="{'translat...") 
+
+0.0  | Tweet 651: Translated(src=es, dest=en, text=7- He tells me that since he arrived in Ecuador, 6 years ago, xenophobia against Venezuelans was already very marked and… https://t.co/qz0gLHOLjJ, pronunciation=7- He tells me that since he arrived in Ecuador, 6 years ago, xenophobia against Venezuelans was already very marked and… https://t.co/qz0gLHOLjJ, extra_data="{'translat...") 
+
+-0.9432  | Tweet 652: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/K3Nn6dB3P6, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/K3Nn6dB3P6, extra_data="{'translat...") 
+
+0.0  | Tweet 653: Translated(src=es, dest=en, text=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/RoH3VYwf1c, pronunciation=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/RoH3VYwf1c, extra_data="{'translat...") 
+
+0.4019  | Tweet 654: Translated(src=es, dest=en, text=@HermanosVE: #HappyMonday | Interesting facts about #Venezuelans in #Ecuador:
+
+#R4V Needs Survey:
+ 
+-Food (87%)
+-Med…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 655: Translated(src=es, dest=en, text=#HappyMonday | Interesting facts about #Venezuelans in #Ecuador:
+
+#R4V Needs Survey:
+ 
+-Food (8… https://t.co/SQUoXF2Bav, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 656: Translated(src=es, dest=en, text=@ElPitazoTV: How are #Venezuelan migrants doing in other countries of #South America? Ernesto Contreras lived in Colombia, Ecuador and Per…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 657: Translated(src=es, dest=en, text=How are #Venezuelan migrants doing in other countries of #South America? Ernesto Contreras lived in Colombia, Ecuador… https://t.co/1sU1aXHiyp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 658: Translated(src=es, dest=en, text=@joseantoniokast He is interested in changing the constitution to put one at his command and then disarm the chi… https://t.co/n4JNBZ2JhE, pronunciation=@joseantoniokast He is interested in changing the constitution to put one at his command and then disarm the chi… https://t.co/n4JNBZ2JhE, extra_data="{'translat...") 
+
+0.0  | Tweet 659: Translated(src=es, dest=en, text=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/XyIa5iVogc, pronunciation=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/XyIa5iVogc, extra_data="{'translat...") 
+
+0.0  | Tweet 660: Translated(src=es, dest=en, text=@GLADYSR86260382: Governments of Peru - Ecuador -Chile-Bolivia- Colombia. Many ROBOTS at their borders to Venezuelans in which they re..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 661: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/LGFyYGbJHS, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/LGFyYGbJHS, extra_data="{'translat...") 
+
+0.0  | Tweet 662: Translated(src=es, dest=en, text=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/tkxLTRBgQf, pronunciation=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/tkxLTRBgQf, extra_data="{'translat...") 
+
+0.9383  | Tweet 663: Translated(src=es, dest=en, text=@enunezf No to gross Pinoshe, I'm thinking which country to emigrate to if I win the approval, since we'll have everything we want… https://t.co/bbTgZWKS28, pronunciation=@enunezf No to gross Pinoshe, I'm thinking which country to emigrate to if I win the approval, since we'll have everything we want… https://t.co/bbTgZWKS28, extra_data="{'translat...") 
+
+-0.9432  | Tweet 664: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/9BS15FFGD2, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/9BS15FFGD2, extra_data="{'translat...") 
+
+0.0  | Tweet 665: Translated(src=es, dest=en, text=@Pricelessmoore_ @fmonroy But, you are right. A % of Venezuelans settled in Colombia, Ecuador and Peru… https://t.co/TFsqbuRvjp, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8689  | Tweet 666: Translated(src=es, dest=en, text=@bellayrebelde_: Between 2018 and 2022 almost 5,000 Venezuelan migrants were murdered in Colombia, Peru, Ecuador and other countries of the…, pronunciation=@bellayrebelde_: Between 2018 and 2022 almost 5,000 Venezuelan migrants were murdered in Colombia, Peru, Ecuador and other countries of the…, extra_data="{'translat...") 
+
+0.0  | Tweet 667: Translated(src=es, dest=en, text=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/SoACZLccWn, pronunciation=The survey indicates that 87% of the relatives who have emigrated went to South American countries, where the main… https://t.co/SoACZLccWn, extra_data="{'translat...") 
+
+-0.8689  | Tweet 668: Translated(src=es, dest=en, text=Between 2018 and 2022 almost 5,000 Venezuelan migrants were murdered in Colombia, Peru, Ecuador and other countries of… https://t.co/LlONC8EziY, pronunciation=Between 2018 and 2022 almost 5,000 Venezuelan migrants were murdered in Colombia, Peru, Ecuador and other countries of… https://t.co/LlONC8EziY, extra_data="{'translat...") 
+
+0.0  | Tweet 669: Translated(src=es, dest=en, text=@MorenoFalconi @dama_rosas @PerseusSan Does it include me? Do you know me to affirm that Venezuelans are criminals?,… https://t.co/oUM8hnpyjz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7003  | Tweet 670: Translated(src=es, dest=en, text=@OITAndina: During #COVID19 😷, #MSMEs were essential to guarantee the livelihoods of migrants and refugees..., pronunciation=@OITAndina: During #COVID19 😷, #MSMEs were essential to guarantee the livelihoods of migrants and refugees..., extra_data="{'translat...") 
+
+0.7003  | Tweet 671: Translated(src=es, dest=en, text=During #COVID19 😷, #MSMEs were essential to guarantee the livelihoods of migrants and re… https://t.co/GiUCShyD4c, pronunciation=During #COVID19 😷, #MSMEs were essential to guarantee the livelihoods of migrants and re… https://t.co/GiUCShyD4c, extra_data="{'translat...") 
+
+0.0  | Tweet 672: Translated(src=es, dest=en, text=@HispanoUnion No. The 400,000 casualties are not just Venezuelans, but from what is now Venezuela, Colombia and Ecuador. And… https://t.co/wsQPdhOX5R, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8225  | Tweet 673: Translated(src=es, dest=en, text=@VozdeAmerica: The number of Venezuelan soccer players in Ecuador is growing. About 12 athletes are already active in the Ecuadorian Super League..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8225  | Tweet 674: Translated(src=es, dest=en, text=The number of Venezuelan soccer players in Ecuador is growing. Some 12 athletes are already active in the Ecuadorian Super League… https://t.co/xR4PelfqZT, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 675: Translated(src=es, dest=en, text=Venezuelan soccer players are increasingly required by professional teams from other parts of the world… https://t.co/Rc8YbT40us, pronunciation=Venezuelan soccer players are increasingly required by professional teams from other parts of the world… https://t.co/Rc8YbT40us, extra_data="{'translat...") 
+
+0.0  | Tweet 676: Translated(src=es, dest=en, text=@VozdeAmerica: Venezuelan soccer players are increasingly required by professional teams from other parts of the world. In…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 677: Translated(src=es, dest=en, text=Venezuelan soccer players are increasingly required by professional teams from other parts of the world… https://t.co/kPAqKKCvOa, pronunciation=Venezuelan soccer players are increasingly required by professional teams from other parts of the world… https://t.co/kPAqKKCvOa, extra_data="{'translat...") 
+
+0.0  | Tweet 678: Translated(src=es, dest=en, text=@Jesusitom @Noralih Martínez in Ecuador they call the tequeños "cheese fingers" I think that in the rest of the world… https://t.co/fP95AMykor, pronunciation=@Jesusitom @Noralih Martínez in Ecuador they call the tequeños "cheese fingers" I think that in the rest of the world… https://t.co/fP95AMykor, extra_data="{'translat...") 
+
+-0.8625  | Tweet 679: Translated(src=es, dest=en, text=The Government of Venezuela denounces that the fire in the warehouses of the Ministry of Health was caused by "force… https://t.co/bXZC8dL5hk, pronunciation=The Government of Venezuela denounces that the fire in the warehouses of the Ministry of Health was caused by "force… https://t.co/bXZC8dL5hk, extra_data="{'translat...") 
+
+-0.2023  | Tweet 680: Translated(src=es, dest=en, text=@lilialemoine I pay up to 30 dollars, that's what Venezuelan women charge here in Ecuador, pronunciation=@lilialemoine I pay up to 30 dollars, that's what Venezuelan women charge here in Ecuador, extra_data="{'translat...") 
+
+0.0  | Tweet 681: Translated(src=es, dest=en, text=#Ecuador although #GuillermoLasso orders that Twitter and other #SocialNetworks make us #Censorship we still receive… https://t.co/mOzftPGbse, pronunciation=#Ecuador although #GuillermoLasso orders that Twitter and other #SocialNetworks make us #Censorship we still receive… https://t.co/mOzftPGbse, extra_data="{'translat...") 
+
+0.6369  | Tweet 682: Translated(src=es, dest=en, text=@DialogoDiverso: #DDenQuito 💜
+
+Diverse Dialogue was part of the launch of InfoPa'lante Ecuador, an online guidance service…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 683: Translated(src=es, dest=en, text=#DDenQuito 💜
+
+Diverse Dialogue was part of the launch of InfoPa'lante Ecuador, an online orientation service… https://t.co/Hq8DgMv2Dd, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 684: Translated(src=es, dest=en, text=Really, one would like to leave Venezuela, this turned it into an M. electricity cuts the miserable salary n… https://t.co/HVVi31tVwb, pronunciation=Really, one would like to leave Venezuela, this turned it into an M. electricity cuts the miserable salary n… https://t.co/HVVi31tVwb, extra_data="{'translat...") 
+
+0.0  | Tweet 685: Translated(src=es, dest=en, text=@YTZEER @sumariumcom But it is not the common denominator, instead in Ecuador most women are self-conscious… https://t.co/lUJelt1s3F, pronunciation=@YTZEER @sumariumcom But it is not the common denominator, instead in Ecuador most women are self-conscious… https://t.co/lUJelt1s3F, extra_data="{'translat...") 
+
+0.0  | Tweet 686: Translated(src=es, dest=en, text=@integraecua: #Blanket | Venezuelan entrepreneurs from the Entrepreneurship Management Training School participated in the Conference on…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 687: Translated(src=es, dest=en, text=@ElPitazoTV: On the border between Ecuador and Peru, two Venezuelan adolescents were rescued from a network of trafficking and sexual exploitation..., pronunciation=@ElPitazoTV: On the border between Ecuador and Peru, two Venezuelan adolescents were rescued from a network of trafficking and sexual exploitation..., extra_data="{'translat...") 
+
+-0.7351  | Tweet 688: Translated(src=es, dest=en, text=@chicodunochenta: My people from #TwiterCuba yesterday at night an accident occurred in Mexico where several people were traveling..., pronunciation=@chicodunochenta: My people from #TwiterCuba yesterday at night an accident occurred in Mexico where several people were traveling..., extra_data="{'translat...") 
+
+-0.7351  | Tweet 689: Translated(src=es, dest=en, text=My people from #TwiterCuba yesterday at night an accident occurred in Mexico where several people were moving… https://t.co/vHF9q893UK, pronunciation=My people from #TwiterCuba yesterday at night an accident occurred in Mexico where several people were moving… https://t.co/vHF9q893UK, extra_data="{'translat...") 
+
+0.0  | Tweet 690: Translated(src=es, dest=en, text=@AsambleaEcuador: @juanflores18 states that it is necessary to know the reality of Venezuelan migrants. Migration is character..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 691: Translated(src=es, dest=en, text=@juanflores18 states that it is necessary to know the reality of Venezuelan migrants. Migration is charac… https://t.co/G0MoeKuDvO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 692: Translated(src=es, dest=en, text=Companies, Venezuelan and Colombian brothers return to their native countries, where there is security and employment, Ecuador n… https://t.co/VT1EHLuz0D, pronunciation=Companies, Venezuelan and Colombian brothers return to their native countries, where there is security and employment, Ecuador n… https://t.co/VT1EHLuz0D, extra_data="{'translat...") 
+

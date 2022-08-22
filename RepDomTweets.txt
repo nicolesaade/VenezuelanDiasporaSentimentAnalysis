@@ -728,3 +728,488 @@ To those who let their ears warm: … https://t.co/x2QXQqlg2y, pronunciation=[[]
 
 0.7467  | Tweet 270: Translated(src=es, dest=en, text=@ juberges61 The Venezuelan is proud and will never leave his country no matter how long they live in the DR, pronunciation=@ juberges61 The Venezuelan is proud and will never leave his country no matter how long they live in the DR, extra_data="{'translat...") 
 
+-0.9246  | Tweet 271: Translated(src=es, dest=en, text=@WilliamUseche18 Take it to your wits that there are more than 100,000 Venezuelans starving to death in the Dominican Republic 🇩🇴, pronunciation=@WilliamUseche18 Take it to your wits that there are more than 100,000 Venezuelans starving to death in the Dominican Republic 🇩🇴, extra_data="{'translat...") 
+
+0.0  | Tweet 272: Translated(src=es, dest=en, text=@Josefin63133955 An old video of a Dominican talking about his reality in the Dominican Republic... But applicable... https://t.co/tuzk6y9Jpn, pronunciation=@Josefin63133955 An old video of a Dominican talking about his reality in the Dominican Republic... But applicable... https://t.co/tuzk6y9Jpn, extra_data="{'translat...") 
+
+0.0  | Tweet 273: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports.
+
+https://t.co/js1ZsxZX0D, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8625  | Tweet 274: Translated(src=es, dest=en, text=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/oCFSLdl8eT, pronunciation=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/oCFSLdl8eT, extra_data="{'translat...") 
+
+-0.9486  | Tweet 275: Translated(src=es, dest=en, text=@nissan000a: But Maduro, not if out of ignorance or because he was a Combianian who does not love Venezuela or the Venezuelans, he gave him the refinery he saw..., pronunciation=@nissan000a: But Maduro, not if out of ignorance or because he was a Combianian who does not love Venezuela or the Venezuelans, he gave him the refinery he saw..., extra_data="{'translat...") 
+
+-0.8942  | Tweet 276: Translated(src=es, dest=en, text=But Maduro, not if out of ignorance or because he was a Combianian who does not love Venezuela or the Venezuelans, gave him the reference… https://t.co/kv5rTJhptJ, pronunciation=But Maduro, not if out of ignorance or because he was a Combianian who does not love Venezuela or the Venezuelans, gave him the reference… https://t.co/kv5rTJhptJ, extra_data="{'translat...") 
+
+-0.296  | Tweet 277: Translated(src=es, dest=en, text=#Internationals | Two Venezuelans among those accused of sexual exploitation network in the Dominican Republic 🌍 https://t.co/EBnRl3u5Cb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 278: Translated(src=es, dest=en, text=@MisaelGuzman When I see Venezuelans immigrating massively to the Dominican Republic and nobody says anything p… https://t.co/FT9fmD2TCh, pronunciation=@MisaelGuzman When I see Venezuelans immigrating massively to the Dominican Republic and nobody says anything p… https://t.co/FT9fmD2TCh, extra_data="{'translat...") 
+
+-0.0516  | Tweet 279: Translated(src=es, dest=en, text=@CDN37: More than six million Venezuelans have had to leave their country. In the Dominican Republic, more than 50,000 normalized their status…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 280: Translated(src=es, dest=en, text=@Consultores21sa: #Venezuelan Diaspora How many Venezuelans have returned to the country? 11% of those surveyed have relatives who have…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8625  | Tweet 281: Translated(src=es, dest=en, text=@RunRunesWeb: #JavierMayorca: “Two Venezuelans (one of them a woman) were arrested in the Dominican Republic accused of participating in…, pronunciation=@RunRunesWeb: #JavierMayorca: “Two Venezuelans (one of them a woman) were arrested in the Dominican Republic accused of participating in…, extra_data="{'translat...") 
+
+-0.0516  | Tweet 282: Translated(src=es, dest=en, text=More than six million Venezuelans have had to leave their country. In the Dominican Republic, more than 50 thousand normali… https://t.co/roLIErZdFY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 283: Translated(src=es, dest=en, text=@OIM_RRMV: Sachi left Venezuela🇻🇪 in 2011.
+ 
+Today she owns a beauty salon and runs one of the volunteer organizations…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.296  | Tweet 284: Translated(src=es, dest=en, text=#Internationals | Two Venezuelans among those accused of a sexual exploitation network in the Dominican Republic 🌍 https://t.co/EBnRl3cudB, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8625  | Tweet 285: Translated(src=es, dest=en, text=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/ANsBxlqljc, pronunciation=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/ANsBxlqljc, extra_data="{'translat...") 
+
+0.0  | Tweet 286: Translated(src=es, dest=en, text=@AgenciaVN_: Venezuelans in the Dominican Republic receive passports
+
+https://t.co/ZFiKmNGLFg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 287: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports
+
+https://t.co/ZFiKmNGLFg, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8625  | Tweet 288: Translated(src=es, dest=en, text=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/CE6IgCkSo6, pronunciation=#JavierMayorca: "Two Venezuelans (one of them a woman) were arrested in the Dominican Republic, accused of participating… https://t.co/CE6IgCkSo6, extra_data="{'translat...") 
+
+0.0  | Tweet 289: Translated(src=es, dest=en, text=@danielmendezp8: Venezuelans in the Dominican Republic receive passports https://t.co/7iVW1iSRZ6 via @AgenciaVN_, pronunciation=@danielmendezp8: Venezuelans in the Dominican Republic receive passports https://t.co/7iVW1iSRZ6 via @AgenciaVN_, extra_data="{'translat...") 
+
+0.0  | Tweet 290: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports https://t.co/7iVW1iSRZ6 via @AgenciaVN_, pronunciation=Venezuelans in the Dominican Republic receive passports https://t.co/7iVW1iSRZ6 via @AgenciaVN_, extra_data="{'translat...") 
+
+0.0  | Tweet 291: Translated(src=es, dest=en, text=@Guarapela22: 🇻🇪 Venezuelans in the Dominican Republic 🇩🇴 receive passports 🗃️
+@VenezuelaSaime
+
+#CongressNewEpoch
+Casemiro
+#PINKVENOM…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 292: Translated(src=es, dest=en, text=#Venezuelan Diaspora How many Venezuelans have returned to the country? 11% of those surveyed have family members who… https://t.co/5SOrSV4aiv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 293: Translated(src=es, dest=en, text=@PedroKonductaz: Venezuelans in the Dominican Republic receive passports https://t.co/jpI3Ydy1JC via @AgenciaVN_, pronunciation=@PedroKonductaz: Venezuelans in the Dominican Republic receive passports https://t.co/jpI3Ydy1JC via @AgenciaVN_, extra_data="{'translat...") 
+
+0.0  | Tweet 294: Translated(src=es, dest=en, text=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #saime #embajada… https://t.co/IitSnS7s46, pronunciation=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #saime #embajada… https://t.co/IitSnS7s46, extra_data="{'translat...") 
+
+0.0  | Tweet 295: Translated(src=es, dest=en, text=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #venezuela… https://t.co/pfY0EXiFQT, pronunciation=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #venezuela… https://t.co/pfY0EXiFQT, extra_data="{'translat...") 
+
+0.0  | Tweet 296: Translated(src=es, dest=en, text=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #repúblicadominicana… https://t.co/bseU9aCQ0l, pronunciation=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/khLpNZglFK #repúblicadominicana… https://t.co/bseU9aCQ0l, extra_data="{'translat...") 
+
+0.0  | Tweet 297: Translated(src=es, dest=en, text=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/qwOwMW4MZy #repúblicadominicana… https://t.co/v1w6bojR0C, pronunciation=They delivered #passport to Venezuelans who are in the Dominican Republic https://t.co/qwOwMW4MZy #repúblicadominicana… https://t.co/v1w6bojR0C, extra_data="{'translat...") 
+
+0.0  | Tweet 298: Translated(src=es, dest=en, text=🇻🇪 Venezuelans in the Dominican Republic 🇩🇴 receive passports 🗃️
+@VenezuelaSaime
+
+#CongressNewEpoch
+Casemiro… https://t.co/cyU3GldMT7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 299: Translated(src=es, dest=en, text=@Guacamaroja: Venezuelans in the Dominican Republic receive passports
+
+https://t.co/D9zlIx604Q
+#NewEpoch Congress https://t.co/W5hS0Bn4Oy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 300: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports
+
+https://t.co/D9zlIx604Q
+#NewEpoch Congress https://t.co/W5hS0Bn4Oy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 301: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports
+
+https://t.co/ZFiKmNYn3Q, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 302: Translated(src=es, dest=en, text=Venezuelans in the Dominican Republic receive passports https://t.co/jpI3Ydy1JC via @AgenciaVN_, pronunciation=Venezuelans in the Dominican Republic receive passports https://t.co/jpI3Ydy1JC via @AgenciaVN_, extra_data="{'translat...") 
+
+0.0  | Tweet 303: Translated(src=es, dest=en, text=They deliver passports to Venezuelans in the Dominican Republic https://t.co/BnMycCDdQr, pronunciation=They deliver passports to Venezuelans in the Dominican Republic https://t.co/BnMycCDdQr, extra_data="{'translat...") 
+
+0.5859  | Tweet 304: Translated(src=es, dest=en, text=Sachi left Venezuela🇻🇪 in 2011.
+ 
+Today she owns a beauty salon and runs one of the organizations… https://t.co/h0IiFekgxs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 305: Translated(src=es, dest=en, text=@OIMCentroAmer: Sachi worked 13 years as a nurse in Venezuela, before migrating to the Dominican Republic. She today she runs an organization of…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 306: Translated(src=es, dest=en, text=Sachi worked 13 years as a nurse in Venezuela, before migrating to the Dominican Republic. Today she runs an organization… https://t.co/9xaPGxpagh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 307: Translated(src=es, dest=en, text=Two Venezuelans among those accused of a network of sexual exploitation in the Dominican Republic #16Ago https://t.co/NWPNCfo4Dq, pronunciation=Two Venezuelans among those accused of a network of sexual exploitation in the Dominican Republic #16Ago https://t.co/NWPNCfo4Dq, extra_data="{'translat...") 
+
+-0.3818  | Tweet 308: Translated(src=es, dest=en, text=@cactus24noticia: Two Venezuelans among those charged with a network of sexual exploitation in the Dominican Republic #16Ago https://t.co/wfyNC9fv…, pronunciation=@cactus24noticia: Two Venezuelans among those charged with a network of sexual exploitation in the Dominican Republic #16Ago https://t.co/wfyNC9fv…, extra_data="{'translat...") 
+
+-0.5267  | Tweet 309: Translated(src=es, dest=en, text=Two Venezuelans among those accused of sexual exploitation network in the Dominican Republic # 16Ago https://t.co/wfyNC9fvx0, pronunciation=Two Venezuelans among those accused of sexual exploitation network in the Dominican Republic # 16Ago https://t.co/wfyNC9fvx0, extra_data="{'translat...") 
+
+-0.296  | Tweet 310: Translated(src=es, dest=en, text=@Punto_deCorte: #International | Two Venezuelans among those accused of a sexual exploitation network in the Dominican Republic 🌍 https://t..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 311: Translated(src=es, dest=en, text=Two Venezuelans on the list of defendants for sexual exploitation network in the Dominican Republic https://t.co/dTtlumTYny, pronunciation=Two Venezuelans on the list of defendants for sexual exploitation network in the Dominican Republic https://t.co/dTtlumTYny, extra_data="{'translat...") 
+
+-0.296  | Tweet 312: Translated(src=es, dest=en, text=Two Venezuelans among those accused of a network of sexual exploitation in the Dominican Republic
+https://t.co/xOkRpZ6HmH, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 313: Translated(src=es, dest=en, text=Sachi left Venezuela🇻🇪 in 2011.
+ 
+Today she owns a beauty salon and runs one of the organizations… https://t.co/qdQ2ZkAG2E, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 314: Translated(src=es, dest=en, text=@AlejoFer1398: This SPB season has several World Cup players (in addition to the Venezuelans)
+
+🏀Devon Collier (2019) with Pue…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 315: Translated(src=es, dest=en, text=This SPB season has several World Cup players (in addition to the Venezuelans)
+
+🏀Devon Collier (2019) c… https://t.co/Lfl46SmArj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 316: Translated(src=es, dest=en, text=Does anyone know if they are asking Venezuelans for a visa for the Dominican Republic and if they have recently traveled?, pronunciation=Does anyone know if they are asking Venezuelans for a visa for the Dominican Republic and if they have recently traveled?, extra_data="{'translat...") 
+
+0.2023  | Tweet 317: Translated(src=es, dest=en, text=@FraseSimple: #Important 👉🇩🇴 | What permits can Venezuelans with expired passports request in the Dominican Republic? https:/…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 318: Translated(src=es, dest=en, text=@ESPNDeportes @Enrique_Rojas1 Speaking of the Dominican Republic, I can say that the Dominican coaches of the teams… https://t.co/M7noq2skJK, pronunciation=@ESPNDeportes @Enrique_Rojas1 Speaking of the Dominican Republic, I can say that the Dominican coaches of the teams… https://t.co/M7noq2skJK, extra_data="{'translat...") 
+
+-0.7351  | Tweet 319: Translated(src=es, dest=en, text=@JosMore86785901 @JaimeRinconRD You progressive pro-Haitians are all stupid and excuse me, Venezuelans are very… https://t.co/HAslpkOdmy, pronunciation=@JosMore86785901 @JaimeRinconRD You progressive pro-Haitians are all stupid and excuse me, Venezuelans are very… https://t.co/HAslpkOdmy, extra_data="{'translat...") 
+
+-0.3818  | Tweet 320: Translated(src=es, dest=en, text=@javiermayorca: https://t.co/fb3Cta5ngc A Venezuelan couple charged for their participation in a human trafficking network in Domin…, pronunciation=@javiermayorca: https://t.co/fb3Cta5ngc A Venezuelan couple charged for their participation in a human trafficking network in Domin…, extra_data="{'translat...") 
+
+-0.3818  | Tweet 321: Translated(src=es, dest=en, text=https://t.co/fb3Cta5ngc A Venezuelan couple charged for their participation in a human trafficking network in… https://t.co/8XhtsjYurN, pronunciation=https://t.co/fb3Cta5ngc A Venezuelan couple charged for their participation in a human trafficking network in… https://t.co/8XhtsjYurN, extra_data="{'translat...") 
+
+-0.3818  | Tweet 322: Translated(src=es, dest=en, text=@javiermayorca: https://t.co/fb3Ct9NMoE A Venezuelan couple charged for their participation in a human trafficking network in Domin…, pronunciation=@javiermayorca: https://t.co/fb3Ct9NMoE A Venezuelan couple charged for their participation in a human trafficking network in Domin…, extra_data="{'translat...") 
+
+-0.2023  | Tweet 323: Translated(src=es, dest=en, text=@ReporteYa: #22Ago #MigratoryCrisis
+A Venezuelan couple charged for their participation in a human trafficking network in Dominic ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 324: Translated(src=es, dest=en, text=#22Aug #MigrationCrisis
+A Venezuelan couple charged for their participation in a human trafficking network and… https://t.co/9leThwMMzV, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3818  | Tweet 325: Translated(src=es, dest=en, text=https://t.co/fb3Ct9NMoE A Venezuelan couple charged for their participation in a human trafficking network in… https://t.co/O2wLlbIQJB, pronunciation=https://t.co/fb3Ct9NMoE A Venezuelan couple charged for their participation in a human trafficking network in… https://t.co/O2wLlbIQJB, extra_data="{'translat...") 
+
+0.9186  | Tweet 326: Translated(src=es, dest=en, text=@CanchaEntera: Just like everyone else does @SuperligaVen you should for your event, like we do here in the Dominican, like Puerto Rico does..., pronunciation=@CanchaEntera: Just like everyone else does @SuperligaVen you should for your event, like we do here in the Dominican, like Puerto Rico does..., extra_data="{'translat...") 
+
+0.0  | Tweet 327: Translated(src=es, dest=en, text=#Internationals | In subhuman conditions they kept 80 Venezuelan and Colombian women who were sexually exploited… https://t.co/456ESq6Srm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 328: Translated(src=es, dest=en, text=#Internationals | In subhuman conditions they kept 80 Venezuelan and Colombian women who were sexually exploited… https://t.co/oGtS6hUScB, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0382  | Tweet 329: Translated(src=es, dest=en, text=@GaOmBe: @Santuli20 They will close my account again, it doesn't matter FLORENCIA IS NOT IN CUBA, IT IS IN THE DOMINICAN REPUBLIC CASA D CAMPO VILLA RICA…, pronunciation=@GaOmBe: @Santuli20 They will close my account again, it doesn't matter FLORENCIA IS NOT IN CUBA, IT IS IN THE DOMINICAN REPUBLIC CASA D CAMPO VILLA RICA…, extra_data="{'translat...") 
+
+0.5719  | Tweet 330: Translated(src=es, dest=en, text=@radio_migrante: #20Ago Happy Saturday from Santo Domingo. 🇩🇴
+
+The Dominican capital has received thousands of Venezuelans looking for a future…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 331: Translated(src=es, dest=en, text=#20Aug Happy Saturday from Santo Domingo. 🇩🇴
+
+The Dominican capital has received thousands of Venezuelans looking for a f… https://t.co/xWHPlFmNqk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 332: Translated(src=es, dest=en, text=@NegraTActiva: #CongressNewEpoca
+Identify how Venezuelans can contribute to the Dominican economy
+
+https://t.co/6trYSXieHS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 333: Translated(src=es, dest=en, text=#CongressNewEpoch
+Identify how Venezuelans can contribute to the Dominican economy
+
+https://t.co/6trYSXieHS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 334: Translated(src=es, dest=en, text=Just as everyone @SuperligaVen does for their event, as we do here in the Dominican, as Pue does… https://t.co/KM0w3H415n, pronunciation=Just as everyone @SuperligaVen does for their event, as we do here in the Dominican, as Pue does… https://t.co/KM0w3H415n, extra_data="{'translat...") 
+
+0.4215  | Tweet 335: Translated(src=es, dest=en, text=@Richard241188 @estefancabre @dalasunto77 @nuriapiera @EducacionRDo If you were born in the United States, what country are you from? L… https://t.co/nJ4ZSSN3yJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2411  | Tweet 336: Translated(src=es, dest=en, text=@martait58 @Carlosjcalderon @RCamachoVzla Oh no sure. It was not enough to scratch the Venezuelans in Colombia, C… https://t.co/q79jIUelbz, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1531  | Tweet 337: Translated(src=es, dest=en, text=@danielgcolina: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, pronunciation=@danielgcolina: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, extra_data="{'translat...") 
+
+0.0  | Tweet 338: Translated(src=es, dest=en, text=@NegraTActiva: #MaduroWorkerPueblo
+Identify how Venezuelans can contribute to the Dominican economy
+
+https://t.co/6trYSXhGSk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 339: Translated(src=es, dest=en, text=#MaduroPuebloWorker
+Identify how Venezuelans can contribute to the Dominican economy
+
+https://t.co/6trYSXhGSk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5994  | Tweet 340: Translated(src=es, dest=en, text=@gab0reloaded @rafael_79 Manager in the minors with Astros.
+MLB coach with Astros and champion
+Manager of Caribes in… https://t.co/oynexoYFlf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 341: Translated(src=es, dest=en, text=#Internationals | This Thursday will be the presentation hearing for the detainees in Operation Cattleya 🌍 https://t.co/EBnRl3u5Cb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 342: Translated(src=es, dest=en, text=#Internationals | In subhuman conditions they kept 80 Venezuelan and Colombian women who were sexually exploited… https://t.co/STm8uWgAsZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 343: Translated(src=es, dest=en, text=@Punto_deCorte: #International | In subhuman conditions they kept 80 Venezuelans and Colombians who were sexually exploited..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 344: Translated(src=es, dest=en, text=#Internationals | In subhuman conditions they kept 80 Venezuelan and Colombian women who were sexually exploited… https://t.co/ZqJ0oZqva7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 345: Translated(src=es, dest=en, text=#Internationals | This Thursday will be the presentation hearing for the detainees in Operation Cattleya 🌍 https://t.co/EBnRl3cudB, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1531  | Tweet 346: Translated(src=es, dest=en, text=@AlbertoRavell: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, pronunciation=@AlbertoRavell: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, extra_data="{'translat...") 
+
+-0.765  | Tweet 347: Translated(src=es, dest=en, text=@egtegain @PSOE The same Venezuelans, when they are brazen thieves, take their money to Miami, but when they… https://t.co/vceCncGlaV, pronunciation=@egtegain @PSOE The same Venezuelans, when they are brazen thieves, take their money to Miami, but when they… https://t.co/vceCncGlaV, extra_data="{'translat...") 
+
+-0.1531  | Tweet 348: Translated(src=es, dest=en, text=@la_patilla: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, pronunciation=@la_patilla: Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and exploitation…, extra_data="{'translat...") 
+
+-0.1531  | Tweet 349: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/PT4jNvxh3N, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/PT4jNvxh3N, extra_data="{'translat...") 
+
+0.4588  | Tweet 350: Translated(src=es, dest=en, text=@SantiAce23 While the Dominican Republic plays preparation games, the Venezuelans are still in the SPB, without starting the… https://t.co/7uqW0c2Z3P, pronunciation=@SantiAce23 While the Dominican Republic plays preparation games, the Venezuelans are still in the SPB, without starting the… https://t.co/7uqW0c2Z3P, extra_data="{'translat...") 
+
+0.0  | Tweet 351: Translated(src=es, dest=en, text=@LucioQuincioC: Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23 years old..., pronunciation=@LucioQuincioC: Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23 years old..., extra_data="{'translat...") 
+
+0.0  | Tweet 352: Translated(src=es, dest=en, text=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/10YbDFl8IB, pronunciation=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/10YbDFl8IB, extra_data="{'translat...") 
+
+0.0  | Tweet 353: Translated(src=es, dest=en, text=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/aFh1vZxoaS, pronunciation=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/aFh1vZxoaS, extra_data="{'translat...") 
+
+0.0  | Tweet 354: Translated(src=es, dest=en, text=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 … https://t.co/3QDKBvzDoN, pronunciation=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 … https://t.co/3QDKBvzDoN, extra_data="{'translat...") 
+
+0.0  | Tweet 355: Translated(src=es, dest=en, text=@la_patilla: Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23 years old (F…, pronunciation=@la_patilla: Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23 years old (F…, extra_data="{'translat...") 
+
+0.0  | Tweet 356: Translated(src=es, dest=en, text=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/iznHfIJVXl, pronunciation=Two Venezuelans will be presented in the Dominican for human trafficking and sexual exploitation of young people between 18 and 23… https://t.co/iznHfIJVXl, extra_data="{'translat...") 
+
+-0.1531  | Tweet 357: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking... https://t.co/B6o2XctHS9, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking... https://t.co/B6o2XctHS9, extra_data="{'translat...") 
+
+-0.1531  | Tweet 358: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/PGJcj3QaIS, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/PGJcj3QaIS, extra_data="{'translat...") 
+
+-0.1531  | Tweet 359: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/iBcNnO4SqF, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/iBcNnO4SqF, extra_data="{'translat...") 
+
+-0.1531  | Tweet 360: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/pRm35n7dwN, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/pRm35n7dwN, extra_data="{'translat...") 
+
+-0.1531  | Tweet 361: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be presented to the Dominican justice for human trafficking and ex… https://t.co/PxicdpKvOw, pronunciation=Two Venezuelans along with other criminals will be presented to the Dominican justice for human trafficking and ex… https://t.co/PxicdpKvOw, extra_data="{'translat...") 
+
+-0.1531  | Tweet 362: Translated(src=es, dest=en, text=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/JDKx12FAgz, pronunciation=Two Venezuelans along with other criminals will be brought before the Dominican justice system for human trafficking and ex… https://t.co/JDKx12FAgz, extra_data="{'translat...") 
+
+0.0  | Tweet 363: Translated(src=es, dest=en, text=@TheeEmpiire HAHAHAHAHAHAHAHA are you xenophobic too? Are Venezuelans "not the same as you either"? I repeat, the… https://t.co/sSQm8w4FOe, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 364: Translated(src=es, dest=en, text=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/nPzyt5lwMo, pronunciation=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/nPzyt5lwMo, extra_data="{'translat...") 
+
+0.4939  | Tweet 365: Translated(src=es, dest=en, text=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/HhR5WYYcFa, pronunciation=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/HhR5WYYcFa, extra_data="{'translat...") 
+
+0.4939  | Tweet 366: Translated(src=es, dest=en, text=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/fbNaiJ5NVR, pronunciation=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/fbNaiJ5NVR, extra_data="{'translat...") 
+
+0.4939  | Tweet 367: Translated(src=es, dest=en, text=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/cHmmNIgW0G, pronunciation=@UNoticias: The areas of Cinema, Audiovisual Production, Software, Solar Energy and Sustainable Tourism stand out https://t.co/cHmmNIgW0G, extra_data="{'translat...") 
+
+0.0  | Tweet 368: Translated(src=es, dest=en, text=They identify how Venezuelans can contribute to the Dominican economy https://t.co/JZz1okVvRz, pronunciation=They identify how Venezuelans can contribute to the Dominican economy https://t.co/JZz1okVvRz, extra_data="{'translat...") 
+
+0.0  | Tweet 369: Translated(src=es, dest=en, text=@astudi_ces: #CovidIsNotFlu
+Identify how Venezuelans can contribute to the Dominican economy
+
+https://t.co/2sNbdKTyqj, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 370: Translated(src=es, dest=en, text=Windi Graterol: 'We have to go out hard against the Bahamas and the Dominican Republic' https://t.co/NvgIOSxb, pronunciation=Windi Graterol: 'We have to go out hard against the Bahamas and the Dominican Republic' https://t.co/NvgIOSxb, extra_data="{'translat...") 
+
+0.3818  | Tweet 371: Translated(src=es, dest=en, text=Venezuelan Alejandro Carrera scores at 54" with his club @mocafcc, his team is playing against @atlvegareal, on Thursday… https://t.co/yMrrcsofru, pronunciation=Venezuelan Alejandro Carrera scores at 54" with his club @mocafcc, his team is playing against @atlvegareal, on Thursday… https://t.co/yMrrcsofru, extra_data="{'translat...") 
+
+-0.2023  | Tweet 372: Translated(src=es, dest=en, text=@MeridianoTV: Windi Graterol: "We have to go out hard against the Bahamas and the Dominican Republic" https://t.co/NvgIORChFD, pronunciation=@MeridianoTV: Windi Graterol: "We have to go out hard against the Bahamas and the Dominican Republic" https://t.co/NvgIORChFD, extra_data="{'translat...") 
+
+-0.2023  | Tweet 373: Translated(src=es, dest=en, text=Windi Graterol: 'We have to go out hard against the Bahamas and the Dominican Republic' https://t.co/NvgIORChFD, pronunciation=Windi Graterol: 'We have to go out hard against the Bahamas and the Dominican Republic' https://t.co/NvgIORChFD, extra_data="{'translat...") 
+
+0.0  | Tweet 374: Translated(src=es, dest=en, text=@AgendaSolidarid: Dominican Republic present, now, in the "Wings against the blockade" meeting.
+Against the hijacking of the Venezuelan plane and…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 375: Translated(src=es, dest=en, text=Mariana Natera appointed before the Dominican Republic https://t.co/lPyWPyaNbB, pronunciation=Mariana Natera appointed before the Dominican Republic https://t.co/lPyWPyaNbB, extra_data="{'translat...") 
+
+-0.8225  | Tweet 376: Translated(src=es, dest=en, text=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/8vS62xatpc, pronunciation=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/8vS62xatpc, extra_data="{'translat...") 
+
+-0.6072  | Tweet 377: Translated(src=es, dest=en, text=@EmmaRincon Let's see, what Venezuelan is bothered that there is a direct flight from the US to Vzla? Who does not even remotely think of… https://t.co/vZJFpDx9wc, pronunciation=@EmmaRincon Let's see, what Venezuelan is bothered that there is a direct flight from the US to Vzla? Who does not even remotely think of… https://t.co/vZJFpDx9wc, extra_data="{'translat...") 
+
+0.0  | Tweet 378: Translated(src=es, dest=en, text=@la_patilla: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican Republic https://t.co/uSECEiG5Lw htt…, pronunciation=@la_patilla: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican Republic https://t.co/uSECEiG5Lw htt…, extra_data="{'translat...") 
+
+0.0  | Tweet 379: Translated(src=es, dest=en, text=@MeridianoTV: Mariana Natera designated against the Dominican Republic https://t.co/lPyWPyso39, pronunciation=@MeridianoTV: Mariana Natera designated against the Dominican Republic https://t.co/lPyWPyso39, extra_data="{'translat...") 
+
+0.0  | Tweet 380: Translated(src=es, dest=en, text=Mariana Natera appointed before the Dominican Republic https://t.co/lPyWPyso39, pronunciation=Mariana Natera appointed before the Dominican Republic https://t.co/lPyWPyso39, extra_data="{'translat...") 
+
+0.5831  | Tweet 381: Translated(src=es, dest=en, text=@NotiBasketball @spbven @SuperligaVen The truth is, @spbven teams have not banned any Venezuelan.
+Today we are… https://t.co/uA2ySd0A, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8225  | Tweet 382: Translated(src=es, dest=en, text=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/DeGCuugMMh, pronunciation=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/DeGCuugMMh, extra_data="{'translat...") 
+
+-0.8225  | Tweet 383: Translated(src=es, dest=en, text=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/uszFcEKuwb, pronunciation=How Venezuelan businessman José Luis Santoro Castellano became synonymous with fraud after bankrupting the Bank… https://t.co/uszFcEKuwb, extra_data="{'translat...") 
+
+0.34  | Tweet 384: Translated(src=es, dest=en, text=In the Dominican Republic, the Canarian communities were historically isolationist, separating themselves from the rest of… https://t.co/lpvSIeL1Jt, pronunciation=In the Dominican Republic, the Canarian communities were historically isolationist, separating themselves from the rest of… https://t.co/lpvSIeL1Jt, extra_data="{'translat...") 
+
+-0.6808  | Tweet 385: Translated(src=es, dest=en, text=@EliasPinaDR: The problems of #aití are not just their government; #aití's problems are greater, #aití's problems are ITS PEOPLE..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 386: Translated(src=es, dest=en, text=A Russian kid, who lives in the Dominican Republic, wrote a book about a Venezuelan who plays soccer. And the people… https://t.co/ywfwF00VNa, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 387: Translated(src=es, dest=en, text=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/VIPLydrID5, pronunciation=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/VIPLydrID5, extra_data="{'translat...") 
+
+0.0  | Tweet 388: Translated(src=es, dest=en, text=@danielgcolina: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican Republic https://t.co/zP7KqpLJHI…, pronunciation=@danielgcolina: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican Republic https://t.co/zP7KqpLJHI…, extra_data="{'translat...") 
+
+0.0  | Tweet 389: Translated(src=es, dest=en, text=@la_patilla: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican https://t.co/uSECEiG5Lw, pronunciation=@la_patilla: The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican https://t.co/uSECEiG5Lw, extra_data="{'translat...") 
+
+0.0  | Tweet 390: Translated(src=es, dest=en, text=Hearing of 15 defendants differ, two of them Venezuelan for human trafficking in the Dominican https://t.co/ZJ8gZnUPv2, pronunciation=Hearing of 15 defendants differ, two of them Venezuelan for human trafficking in the Dominican https://t.co/ZJ8gZnUPv2, extra_data="{'translat...") 
+
+0.0  | Tweet 391: Translated(src=es, dest=en, text=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/XJB0IZpXfQ, pronunciation=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/XJB0IZpXfQ, extra_data="{'translat...") 
+
+0.0  | Tweet 392: Translated(src=es, dest=en, text=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/AVYN4GFw6n, pronunciation=The hearing of 15 defendants differs, two of them Venezuelan for human trafficking in the Dominican… https://t.co/AVYN4GFw6n, extra_data="{'translat...") 
+
+0.0  | Tweet 393: Translated(src=es, dest=en, text=Hearing of 15 defendants differ, two of them Venezuelan for human trafficking in the Dominican https://t.co/uSECEiG5Lw, pronunciation=Hearing of 15 defendants differ, two of them Venezuelan for human trafficking in the Dominican https://t.co/uSECEiG5Lw, extra_data="{'translat...") 
+
+0.8481  | Tweet 394: Translated(src=es, dest=en, text=What a great game and what a shutout they did to the Dominican
+
+Venezuelan baseball is great in male and female🇻🇪🇻🇪💪🏼, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 395: Translated(src=es, dest=en, text=@davidmachado53 @caraquistas That's right, brother, you're absolutely right, Venezuela does have more than the Dominican, but the amount… https://t.co/8r76Dp8wa1, pronunciation=@davidmachado53 @caraquistas That's right, brother, you're absolutely right, Venezuela does have more than the Dominican, but the amount… https://t.co/8r76Dp8wa1, extra_data="{'translat...") 
+
+-0.6808  | Tweet 396: Translated(src=es, dest=en, text=#aití's problems are not just their government; #aití's problems are greater, #aití's problems are S… https://t.co/zrw1WTziPC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4588  | Tweet 397: Translated(src=es, dest=en, text=The Venezuelan National Team plays the World Cup against the Dominican Republic https://t.co/OyVKqN4XWU, pronunciation=The Venezuelan National Team plays the World Cup against the Dominican Republic https://t.co/OyVKqN4XWU, extra_data="{'translat...") 
+
+0.2023  | Tweet 398: Translated(src=es, dest=en, text=@RRPIERU: The Venezuelan National Team is playing the World Cup against the Dominican Republic. https://t.co/4aegLi6pkG
+
+#MaduroPuebloWorker, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 399: Translated(src=es, dest=en, text=The Venezuelan National Team plays the World Cup against the Dominican Republic. https://t.co/4aegLi6pkG
+
+#MaduroPuebloWorker, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 400: Translated(src=es, dest=en, text=Mariana Natera appointed before the Dominican Republic https://t.co/H7ubkWhC9Z https://t.co/0dI3APCDPs, pronunciation=Mariana Natera appointed before the Dominican Republic https://t.co/H7ubkWhC9Z https://t.co/0dI3APCDPs, extra_data="{'translat...") 
+
+0.2023  | Tweet 401: Translated(src=es, dest=en, text=@MeridianoTV: The Venezuelan National Team is playing the World Cup against the Dominican Republic | #PreWorldWomen's #17August #17Aug https…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 402: Translated(src=pt, dest=en, text=Mariana Natera appointed to the Dominican Republic | #PreMundialFemenino #17Agosto #17Ago https://t.co/lPyWPyaNbB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 403: Translated(src=es, dest=en, text=Venezuela National Team plays the World Cup against the Dominican Republic | #PreWorldWomen's #17August #17Aug https://t.co/ewsK4PMogu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 404: Translated(src=es, dest=en, text=@reinaldoantrod @shagtun1 1.- I'm not Venezuelan
+2.- There are more Dominican migrants in Mexico than Mexicans in Domini… https://t.co/m3NKrDlgVB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9451  | Tweet 405: Translated(src=es, dest=en, text=@luisabinader Congratulations from a Venezuelan who loves the Dominican Republic and its people., pronunciation=@luisabinader Congratulations from a Venezuelan who loves the Dominican Republic and its people., extra_data="{'translat...") 
+
+0.296  | Tweet 406: Translated(src=es, dest=en, text=@ljlopez28: We invite you to our YouTube channel to learn about the story of the Venezuelan horseman Carlos Lara Avila @CarlosA49347…, pronunciation=@ljlopez28: We invite you to our YouTube channel to learn about the story of the Venezuelan horseman Carlos Lara Avila @CarlosA49347…, extra_data="{'translat...") 
+
+0.296  | Tweet 407: Translated(src=es, dest=en, text=We invite you to our YouTube channel to learn the story of the Venezuelan rider Carlos Lara Avila… https://t.co/sXvGngiOxH, pronunciation=We invite you to our YouTube channel to learn the story of the Venezuelan rider Carlos Lara Avila… https://t.co/sXvGngiOxH, extra_data="{'translat...") 
+
+0.0  | Tweet 408: Translated(src=es, dest=en, text=@sheilaperez_7 @PantallaDeOro It already seemed to me that she had a Dominican face, she doesn't have a Venezuelan type., pronunciation=@sheilaperez_7 @PantallaDeOro It already seemed to me that she had a Dominican face, she doesn't have a Venezuelan type., extra_data="{'translat...") 
+
+-0.7003  | Tweet 409: Translated(src=es, dest=en, text=What is the reason for Venezuela to abandon the refineries in the Caribbean such as those in Curaçao and the Dominican Republic… https://t.co/14Kvztm5kA, pronunciation=What is the reason for Venezuela to abandon the refineries in the Caribbean such as those in Curaçao and the Dominican Republic… https://t.co/14Kvztm5kA, extra_data="{'translat...") 
+
+0.0  | Tweet 410: Translated(src=es, dest=en, text=@ljlopez28: Remember at 8pm we have an appointment with a Venezuelan rider who is telling the time in the Dominican Carlos Lara Avila, don't let…, pronunciation=@ljlopez28: Remember at 8pm we have an appointment with a Venezuelan rider who is telling the time in the Dominican Carlos Lara Avila, don't let…, extra_data="{'translat...") 
+
+0.0  | Tweet 411: Translated(src=es, dest=en, text=Remember at 8pm we have an appointment with a Venezuelan rider who is telling the time in the Dominican Carlos Lara Avil… https://t.co/mGE4aeu0eO, pronunciation=Remember at 8pm we have an appointment with a Venezuelan rider who is telling the time in the Dominican Carlos Lara Avil… https://t.co/mGE4aeu0eO, extra_data="{'translat...") 
+
+0.0  | Tweet 412: Translated(src=es, dest=en, text=@ljlopez28: Today Monday Carlos Lara Avila arrives at Certeza Hípica Live Streaming @CarlosA49347969 Venezuelan rider who campaigns in the…, pronunciation=@ljlopez28: Today Monday Carlos Lara Avila arrives at Certeza Hípica Live Streaming @CarlosA49347969 Venezuelan rider who campaigns in the…, extra_data="{'translat...") 
+
+0.0  | Tweet 413: Translated(src=es, dest=en, text=Dominican Republic present, now, in the "Wings against the blockade" meeting.
+Against the hijacking of the Venezuelan plane… https://t.co/XPXteGLqjy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 414: Translated(src=es, dest=en, text=@ljlopez28: Tomorrow, Monday, Certeza Hípica Live Streaming arrives at Carlos Lara Avila @CarlosA49347969 Venezuelan rider who campaigns in…, pronunciation=@ljlopez28: Tomorrow, Monday, Certeza Hípica Live Streaming arrives at Carlos Lara Avila @CarlosA49347969 Venezuelan rider who campaigns in…, extra_data="{'translat...") 
+
+0.0  | Tweet 415: Translated(src=es, dest=en, text=Today, Monday, Certeza Hípica Live Streaming arrives Carlos Lara Avila @CarlosA49347969 Venezuelan rider who campaigns… https://t.co/H6JTASc6IU, pronunciation=Today, Monday, Certeza Hípica Live Streaming arrives Carlos Lara Avila @CarlosA49347969 Venezuelan rider who campaigns… https://t.co/H6JTASc6IU, extra_data="{'translat...") 
+
+0.6597  | Tweet 416: Translated(src=es, dest=en, text=@SantiAce23 We have in favor that the Venezuelan team 🇻🇪 is cohesive, they work together the same nucleus for years,… https://t.co/MzgHeUGvAj, pronunciation=@SantiAce23 We have in favor that the Venezuelan team 🇻🇪 is cohesive, they work together the same nucleus for years,… https://t.co/MzgHeUGvAj, extra_data="{'translat...") 
+
+-0.5984  | Tweet 417: Translated(src=es, dest=en, text=@joseantoniokast @panchogarin Really crazy. Tell me the Bs… you have no idea how much the reserves would be… https://t.co/XAK36nTOai, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 418: Translated(src=es, dest=en, text=Tomorrow, Monday, Certeza Hípica Live Streaming arrives Carlos Lara Avila @CarlosA49347969 Venezuelan rider who does ca… https://t.co/kOdnbHOGRq, pronunciation=Tomorrow, Monday, Certeza Hípica Live Streaming arrives Carlos Lara Avila @CarlosA49347969 Venezuelan rider who does ca… https://t.co/kOdnbHOGRq, extra_data="{'translat...") 
+
+0.0516  | Tweet 419: Translated(src=es, dest=en, text=@am_villalobos @GeorgenyPerez How good a Venezuelan you are, you have to make a homeland and that means here being a hater of… https://t.co/B30BHzDLqE, pronunciation=@am_villalobos @GeorgenyPerez How good a Venezuelan you are, you have to make a homeland and that means here being a hater of… https://t.co/B30BHzDLqE, extra_data="{'translat...") 
+
+0.0  | Tweet 420: Translated(src=es, dest=en, text=@notidigitalrd1: Venezuelans must earn 15 dollars a day for basic food, says an NGO Notidigital RD https://t.co/dxX4CgEP39 htt…, pronunciation=@notidigitalrd1: Venezuelans must earn 15 dollars a day for basic food, says an NGO Notidigital RD https://t.co/dxX4CgEP39 htt…, extra_data="{'translat...") 
+
+0.0  | Tweet 421: Translated(src=es, dest=en, text=Venezuelans Must Earn 15 Dollars A Day For Basic Basket, Says An NGO Notidigital RD https://t.co/dxX4CgEP39 https://t.co/Lqj31lnjjL, pronunciation=Venezuelans Must Earn 15 Dollars A Day For Basic Basket, Says An NGO Notidigital RD https://t.co/dxX4CgEP39 https://t.co/Lqj31lnjjL, extra_data="{'translat...") 
+
+0.0  | Tweet 422: Translated(src=es, dest=en, text=Venezuelans must earn about 15 dollars a day for basic basket https://t.co/S0TFrF51UF https://t.co/wh9cXDK2gA, pronunciation=Venezuelans must earn about 15 dollars a day for basic basket https://t.co/S0TFrF51UF https://t.co/wh9cXDK2gA, extra_data="{'translat...") 
+
+0.5423  | Tweet 423: Translated(src=es, dest=en, text=@SxxiHistoria @pelegrinc @cearahatton @IsaPavel Are Poles superior to Ukrainians? The English to the Pol… https://t.co/agWISeZ5rM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4215  | Tweet 424: Translated(src=es, dest=en, text=@ListinDiario It is true in the DR there is hate speech against Haitian migrants for patriotic reasons to de… https://t.co/GH8lJZWX2U, pronunciation=@ListinDiario It is true in the DR there is hate speech against Haitian migrants for patriotic reasons to de… https://t.co/GH8lJZWX2U, extra_data="{'translat...") 
+
+-0.4019  | Tweet 425: Translated(src=es, dest=en, text=@jbperezsantos The problem of the DR is not the Venezuelans. They are the HAITIANS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 426: Translated(src=es, dest=en, text=@josenunez64 @JosephMitana Do you know how many Venezuelans live in DR? And how many jobs of Dominicans who invested… https://t.co/XckP7lU5ze, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3182  | Tweet 427: Translated(src=es, dest=en, text=@jvcs57 @luisabinader @IDuartianoRD He spat out a truth. I see this week that xenophobes and nationalists are… https://t.co/Af65TRrGWM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0516  | Tweet 428: Translated(src=es, dest=en, text=@OscarFliz @Mella10G Add to that, that no country in the world should have huge numbers of migrants beyond… https://t.co/ZO6Hcx1hxE, pronunciation=@OscarFliz @Mella10G Add to that, that no country in the world should have huge numbers of migrants beyond… https://t.co/ZO6Hcx1hxE, extra_data="{'translat...") 
+
+0.3182  | Tweet 429: Translated(src=es, dest=en, text=@ ListinDiario He spat out a truth. I see this week that xenophobes and nationalists are eating it raw. I see t… https://t.co/PvUymprBjg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 430: Translated(src=es, dest=en, text=@antoniopuesan: Two Venezuelan Crocodile players do have permission to play in the window and they prohibit Gelvis from playing with RD c…, pronunciation=@antoniopuesan: Two Venezuelan Crocodile players do have permission to play in the window and they prohibit Gelvis from playing with RD c…, extra_data="{'translat...") 
+
+0.7506  | Tweet 431: Translated(src=es, dest=en, text=Two Venezuelan Crocodile players do have permission to play in the window and prohibit Gelvis from playing with… https://t.co/NaOkxRbJ2a, pronunciation=Two Venezuelan Crocodile players do have permission to play in the window and prohibit Gelvis from playing with… https://t.co/NaOkxRbJ2a, extra_data="{'translat...") 
+
+0.5574  | Tweet 432: Translated(src=es, dest=en, text=@FerAlvarez I'm beginning to believe that there are people from the DR and Venezuela happy about Tatis's mistake, ah, I see that a cr… https://t.co/0HUx1WoCMB, pronunciation=@FerAlvarez I'm beginning to believe that there are people from the DR and Venezuela happy about Tatis's mistake, ah, I see that a cr… https://t.co/0HUx1WoCMB, extra_data="{'translat...") 
+
+0.0  | Tweet 433: Translated(src=es, dest=en, text=@miguelsantos12: First official radio broadcast in Spanish in the history of @tigers from Detroit and there are two Venezuelans: Mari Mo…, pronunciation=@miguelsantos12: First official radio broadcast in Spanish in the history of @tigers from Detroit and there are two Venezuelans: Mari Mo…, extra_data="{'translat...") 
+
+0.0  | Tweet 434: Translated(src=es, dest=en, text=@CDN37: #CDN37 In the DR, more than 50,000 Venezuelans normalized their status in just over a year. This has allowed them to insert themselves into life..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 435: Translated(src=es, dest=en, text=#CDN37 In the DR, more than 50,000 Venezuelans normalized their status in just over a year. This has allowed them to insert… https://t.co/PzhksVWHbQ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.765  | Tweet 436: Translated(src=es, dest=en, text=Puerto Plata Prosecutor Requests Preventive Prison against Four Venezuelans Linked to Card Theft… https://t.co/4GoLPKKQkH, pronunciation=Puerto Plata Prosecutor Requests Preventive Prison against Four Venezuelans Linked to Card Theft… https://t.co/4GoLPKKQkH, extra_data="{'translat...") 
+
+0.1531  | Tweet 437: Translated(src=es, dest=en, text=@ CDN37 Little is known about the misdeeds that Venezuelans are committing in the DR., pronunciation=@ CDN37 Little is known about the misdeeds that Venezuelans are committing in the DR., extra_data="{'translat...") 
+
+0.296  | Tweet 438: Translated(src=es, dest=en, text=@DiarioLibre: 📰|#ActualidadDL| Pope's envoy expresses solidarity with Venezuelan compatriots residing in the country
+
+🔗https://t.co/vZwtxg7m…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 439: Translated(src=es, dest=en, text=@AnibelcaRosario @digesettrd_ @PoliciaRD Look how Venezuelans are armed and breaking the laws in the DR., pronunciation=@AnibelcaRosario @digesettrd_ @PoliciaRD Look how Venezuelans are armed and breaking the laws in the DR., extra_data="{'translat...") 
+
+-0.7906  | Tweet 440: Translated(src=es, dest=en, text=@elnuevodiariord @digesettrd_ Look how Venezuelans are armed and violating the laws of the DR., pronunciation=@elnuevodiariord @digesettrd_ Look how Venezuelans are armed and violating the laws of the DR., extra_data="{'translat...") 
+
+0.296  | Tweet 441: Translated(src=es, dest=en, text=📰|#ActualidadDL| Pope's envoy expresses solidarity with Venezuelan compatriots residing in the country
+
+🔗… https://t.co/WIWQw0HVBr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 442: Translated(src=es, dest=en, text=@GutierrezSusano: I would like someone to tell me if they have seen Chinese, Italians, Spanish, Venezuelans, Chileans, Russians..., selling coconut..., pronunciation=@GutierrezSusano: I would like someone to tell me if they have seen Chinese, Italians, Spanish, Venezuelans, Chileans, Russians..., selling coconut..., extra_data="{'translat...") 
+
+0.0  | Tweet 443: Translated(src=es, dest=en, text=@fmonroy: Yes. I wrote quickly and an error remained. Monteagudo pitched in MLB first as a Cuban and then nationalized, Felipe Paulino was born…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 444: Translated(src=es, dest=en, text=Yes. I wrote quickly and an error remained. Monteagudo pitched in MLB first as a Cuban and then nationalized, Felipe P… https://t.co/ghNYiqy4i6, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.765  | Tweet 445: Translated(src=es, dest=en, text=MP requests prison for four Venezuelans linked to card theft https://t.co/blvkfCA3yh https://t.co/yMDuLL59jU, pronunciation=MP requests prison for four Venezuelans linked to card theft https://t.co/blvkfCA3yh https://t.co/yMDuLL59jU, extra_data="{'translat...") 
+
+0.7184  | Tweet 446: Translated(src=es, dest=en, text=@crchalbaud: That's how noble Venezuela was. That's how noble we Venezuelans are. https://t.co/PvKQUGU9wh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9081  | Tweet 447: Translated(src=es, dest=en, text=@VictorP13996448: Dozens of opponents of the Chinese Government in Hong Kong plead guilty to "conspiracy to subvert the power and…, pronunciation=@VictorP13996448: Dozens of opponents of the Chinese Government in Hong Kong plead guilty to "conspiracy to subvert the power and…, extra_data="{'translat...") 
+
+-0.9081  | Tweet 448: Translated(src=es, dest=en, text=Dozens of opponents of the Chinese Government in Hong Kong plead guilty to "conspiracy to subvert the power… https://t.co/FVhFFIGhyP, pronunciation=Dozens of opponents of the Chinese Government in Hong Kong plead guilty to "conspiracy to subvert the power… https://t.co/FVhFFIGhyP, extra_data="{'translat...") 
+
+0.0258  | Tweet 449: Translated(src=es, dest=en, text=@LisandroSoy: The culture of a Venezuelan is not a beer.
+The culture of us Venezuelans is, laugh, fuck, throw away, take out..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7124  | Tweet 450: Translated(src=es, dest=en, text=@ahilesvainfo: -Quick, stop that plane and all its crew!
+"What's inside, sir judge?" Weapons? drugs?
+-No, come…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6988  | Tweet 451: Translated(src=es, dest=en, text=@RArt350: @ValiantThorIN @hojillasilva Mario Silva is the M!£RD∆ who did not cover the cat, he is the lowest thing in Venezuelan Politics, or…, pronunciation=@RArt350: @ValiantThorIN @hojillasilva Mario Silva is the M!£RD∆ who did not cover the cat, he is the lowest thing in Venezuelan Politics, or…, extra_data="{'translat...") 
+
+-0.6988  | Tweet 452: Translated(src=es, dest=en, text=@ValiantThorIN @hojillasilva Mario Silva is the M! £RD∆ that did not cover the cat, it is the lowest thing in Ve Politics… https://t.co/Q2tTvWFLtX, pronunciation=@ValiantThorIN @hojillasilva Mario Silva is the M! £RD∆ that did not cover the cat, it is the lowest thing in Ve Politics… https://t.co/Q2tTvWFLtX, extra_data="{'translat...") 
+
+0.6759  | Tweet 453: Translated(src=es, dest=en, text=@RosieFeliz1 I imagine if the buyers were gringos or Venezuelans etc, it wouldn't generate "indignation"..., pronunciation=@RosieFeliz1 I imagine if the buyers were gringos or Venezuelans etc, it wouldn't generate "indignation"..., extra_data="{'translat...") 
+
+0.0  | Tweet 454: Translated(src=es, dest=en, text=@EmmaRincon @BasesFirmes Here in the DR we have almost 200,000 Venezuelan migrants. What more tests???, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6207  | Tweet 455: Translated(src=es, dest=en, text=TWO VENEZUELANS CHARGED FOR SEXUAL EXPLOITATION NETWORK IN DR https://t.co/UpDFvOemSY SUCESOS, pronunciation=TWO VENEZUELANS CHARGED FOR SEXUAL EXPLOITATION NETWORK IN DR https://t.co/UpDFvOemSY SUCESOS, extra_data="{'translat...") 
+
+0.4199  | Tweet 456: Translated(src=es, dest=en, text=@matiasgarciard We Venezuelans have to thank the RD for opening the doors for us! I in particular in the 2… https://t.co/OeJPNbQnb9, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.802  | Tweet 457: Translated(src=es, dest=en, text=@Yos63414255 I repeat I am not saying that it is illegal, I am saying that it usurps identity, by this I mean… https://t.co/XpLTqXwlH1, pronunciation=@Yos63414255 I repeat I am not saying that it is illegal, I am saying that it usurps identity, by this I mean… https://t.co/XpLTqXwlH1, extra_data="{'translat...") 
+
+0.0  | Tweet 458: Translated(src=es, dest=en, text=@arturomarcano The details here is that every time something happens to a Dominican in the MLB, you Venezuelans… https://t.co/qHkQSQcWQm, pronunciation=@arturomarcano The details here is that every time something happens to a Dominican in the MLB, you Venezuelans… https://t.co/qHkQSQcWQm, extra_data="{'translat...") 
+
+0.0  | Tweet 459: Translated(src=es, dest=en, text=@CabelloVzla: I know that mamagüevo is used in the DR and I don't know which other countries. BUT let me feel it as a Venezuelan achievement. c…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8316  | Tweet 460: Translated(src=es, dest=en, text=Dominican Garcia snatches Venezuelan Gutiérrez his super featherweight title https://t.co/WrUaUyLY1M https://t.co/8JseeG4fDt, pronunciation=Dominican Garcia snatches Venezuelan Gutiérrez his super featherweight title https://t.co/WrUaUyLY1M https://t.co/8JseeG4fDt, extra_data="{'translat...") 
+
+0.8481  | Tweet 461: Translated(src=es, dest=en, text=@AlvaroUribeVel Great HDP everything was orchestrated by you, whatever you say, you are and will be, the King of False pos… https://t.co/SJnXngn85T, pronunciation=@AlvaroUribeVel Great HDP everything was orchestrated by you, whatever you say, you are and will be, the King of False pos… https://t.co/SJnXngn85T, extra_data="{'translat...") 
+
+-0.3595  | Tweet 462: Translated(src=es, dest=en, text=@ churritafree2 They no longer find what to do to the Venezuelan people!
+Now they flood us with all that constellation crowd… https://t.co/9WkY0pXeYR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9081  | Tweet 463: Translated(src=es, dest=en, text=Héctor García was crowned champion of the super featherweight category of the World Boxing Association after defeating the Venezuelan… https://t.co/UARurnya3o, pronunciation=Héctor García was crowned champion of the super featherweight category of the World Boxing Association after defeating the Venezuelan… https://t.co/UARurnya3o, extra_data="{'translat...") 
+
+0.0  | Tweet 464: Translated(src=es, dest=en, text=@RCR750: Yesterday they pushed a Venezuelan out of the Maduro embassy in Chile and threw him to the ground after claiming his passport. https…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4939  | Tweet 465: Translated(src=es, dest=en, text=@Melaza_mty @lulymarte_ @Real_Mac_And1 @Lasuspendiditaa For every Venezuelan there are 500 ignorant Haitians in the DR., pronunciation=@Melaza_mty @lulymarte_ @Real_Mac_And1 @Lasuspendiditaa For every Venezuelan there are 500 ignorant Haitians in the DR., extra_data="{'translat...") 
+
+0.0  | Tweet 466: Translated(src=es, dest=en, text=I know that mamagüevo is used in the DR and I don't know which other countries. BUT let me feel it as a Venezuelan achievement… https://t.co/RITdIi0nxf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 467: Translated(src=es, dest=en, text=Venezuelan-Iranian plane: Uruguay responded to Argentina's request for information https://t.co/rSrJRVwxKK #News Suite https://t.co/DnGIWehdPx, pronunciation=Venezuelan-Iranian plane: Uruguay responded to Argentina's request for information https://t.co/rSrJRVwxKK #News Suite https://t.co/DnGIWehdPx, extra_data="{'translat...") 
+
+0.0  | Tweet 468: Translated(src=es, dest=en, text=@VanessaOrtizz: While Alberto Fernández remains silent about the theft of the Venezuelan plane, today Argentina demonstrated in front of the Casa Ro…, pronunciation=@VanessaOrtizz: While Alberto Fernández remains silent about the theft of the Venezuelan plane, today Argentina demonstrated in front of the Casa Ro…, extra_data="{'translat...") 
+
+0.4939  | Tweet 469: Translated(src=es, dest=en, text=@Williamjimenezg: Venezuelan-Iranian plane, involves senior officials of the TSJ, AN and Miraflores in Drug Trafficking, as well as their…, pronunciation=@Williamjimenezg: Venezuelan-Iranian plane, involves senior officials of the TSJ, AN and Miraflores in Drug Trafficking, as well as their…, extra_data="{'translat...") 
+
+-0.7909  | Tweet 470: Translated(src=es, dest=en, text=@ guille94 The one who does not agree that the manager is Omar Lopez is because he totally ignores the news of the… https://t.co/k9ITgGEvP6, pronunciation=@ guille94 The one who does not agree that the manager is Omar Lopez is because he totally ignores the news of the… https://t.co/k9ITgGEvP6, extra_data="{'translat...") 
+
+0.1901  | Tweet 471: Translated(src=es, dest=en, text=@ArielgonzalezGI @hgomez27 @Shawn_Spradling It was like that, for RD. This Venezuelan team projected to produce runs, but they would make him more., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 472: Translated(src=es, dest=en, text=@TonyAccardo08 @endsequera Of course we can't travel anywhere, we're not going to go to And that's going to get Maduro out, yes… https://t.co/JpPjfWPq6Z, pronunciation=@TonyAccardo08 @endsequera Of course we can't travel anywhere, we're not going to go to And that's going to get Maduro out, yes… https://t.co/JpPjfWPq6Z, extra_data="{'translat...") 
+
+0.0  | Tweet 473: Translated(src=es, dest=en, text=The Pope's envoy for Vatican Affairs, Venezuelan Edgar Robinson Peña Parra, works with the UN. It arrives… https://t.co/E7xGQCfdB5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 474: Translated(src=es, dest=en, text=@anadaysy and that is for all the migrant, Mexican in the USA, Venezuelan in Spain... or Haitian in the DR. or not?, pronunciation=None, extra_data="{'translat...") 
+
+0.34  | Tweet 475: Translated(src=es, dest=en, text=@Artaban_Erste @Abudiego_ZM @tania__rd @FelipeCalderon innocent TERNURITA. TfwCpZ2https://t.co/CpZ2, pronunciation=[[]], extra_data="{'translat...") 
+
