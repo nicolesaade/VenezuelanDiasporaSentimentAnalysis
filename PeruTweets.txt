@@ -6412,3 +6412,1250 @@ The Venezuelan participant… https://t.co/oNVjpMtx8O, pronunciation=[[]], extra
 
 0.9298  | Tweet 2594: Translated(src=es, dest=en, text=A Venezuelan is today in the final of the Peru voice, it would be very funny if she wins, pronunciation=A Venezuelan is today in the final of the Peru voice, it would be very funny if she wins, extra_data="{'translat...") 
 
+0.0  | Tweet 2595: Translated(src=gn, dest=en, text=@junitoecu: @dama_rosas @LassoGuillermo @juancaholguin @panchojimenezs @CarrilloRosero this is how it is every day and it is cojudo of the Lasso to them., pronunciation=@junitoecu: @dama_rosas @LassoGuillermo @juancaholguin @panchojimenezs @CarrilloRosero this is how it is every day and it is cojudo of the Lasso to them., extra_data="{'translat...") 
+
+0.0  | Tweet 2596: Translated(src=gn, dest=en, text=@dama_rosas @LassoGuillermo @juancaholguin @panchojimenezs @CarrilloRosero this is how it is every day and it is cojudo of the La... https://t.co/MevC95pMYy, pronunciation=@dama_rosas @LassoGuillermo @juancaholguin @panchojimenezs @CarrilloRosero this is how it is every day and it is cojudo of the La... https://t.co/MevC95pMYy, extra_data="{'translat...") 
+
+0.6597  | Tweet 2597: Translated(src=es, dest=en, text=@MigrantesT: Japan and IOM will contribute with a project in favor of Venezuelan refugees and migrants and host communities in Peru htt…, pronunciation=@MigrantesT: Japan and IOM will contribute with a project in favor of Venezuelan refugees and migrants and host communities in Peru htt…, extra_data="{'translat...") 
+
+0.6114  | Tweet 2598: Translated(src=es, dest=en, text=@venezuela_migra: Excellent Friday for everyone!
+
+The @Plataforma_R4V updated its figures and, by the end of August, there are already 6.…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 2599: Translated(src=es, dest=en, text=Japan and IOM will contribute to a project in favor of Venezuelan refugees and migrants and host communities in the… https://t.co/6cEalLz6zP, pronunciation=Japan and IOM will contribute to a project in favor of Venezuelan refugees and migrants and host communities in the… https://t.co/6cEalLz6zP, extra_data="{'translat...") 
+
+0.0  | Tweet 2600: Translated(src=es, dest=en, text=Excellent Friday to all!
+
+The @Plataforma_R4V updated its figures and, by the end of August, they are already… https://t.co/79PShwGj19, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2601: Translated(src=es, dest=en, text=#SepaQueAccording to the Interagency Coordination Platform for Refugees and Migrants from Venezuela, the majority of… https://t.co/AGzlqgklGb, pronunciation=#SepaQueAccording to the Interagency Coordination Platform for Refugees and Migrants from Venezuela, the majority of… https://t.co/AGzlqgklGb, extra_data="{'translat...") 
+
+0.0  | Tweet 2602: Translated(src=es, dest=en, text=@Plataforma_R4V updated data on Venezuelan refugees and migrants corresponding to the new figure of 6,805,209… https://t.co/YCXlNmqWR6, pronunciation=@Plataforma_R4V updated data on Venezuelan refugees and migrants corresponding to the new figure of 6,805,209… https://t.co/YCXlNmqWR6, extra_data="{'translat...") 
+
+0.0  | Tweet 2603: Translated(src=es, dest=en, text=Peru 🇵🇪 is the second country with the most Venezuelan migrants and refugees in Latin America and the Caribbean.
+As of 05 AUG is… https://t.co/LzvcbvGfDS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2604: Translated(src=es, dest=en, text=@CaleidoHumano: #Colombia brings together 2.48 million Venezuelans, #Peru (1.22 million), #Ecuador (502,000), #Chile (448,000) and #Brazil…, pronunciation=@CaleidoHumano: #Colombia brings together 2.48 million Venezuelans, #Peru (1.22 million), #Ecuador (502,000), #Chile (448,000) and #Brazil…, extra_data="{'translat...") 
+
+0.0  | Tweet 2605: Translated(src=es, dest=en, text=#Colombia brings together 2.48 million Venezuelans, #Peru (1.22 million), #Ecuador (502,000), #Chile (448,000) and… https://t.co/u5NCLy2AsQ, pronunciation=#Colombia brings together 2.48 million Venezuelans, #Peru (1.22 million), #Ecuador (502,000), #Chile (448,000) and… https://t.co/u5NCLy2AsQ, extra_data="{'translat...") 
+
+0.0  | Tweet 2606: Translated(src=es, dest=en, text=Colombia, 2.48 million Venezuelans
+Peru, 1.22 million
+Ecuador, 502,000
+Chile, 448,100
+Brazil, 358,400
+Argentina… https://t.co/z0vroEjJPD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 2607: Translated(src=es, dest=en, text=@Jefferson_Diaz: And well, we went from being 6.1 to 6.8 million Venezuelan refugees and migrants in the world by August 2022 according to…, pronunciation=@Jefferson_Diaz: And well, we went from being 6.1 to 6.8 million Venezuelan refugees and migrants in the world by August 2022 according to…, extra_data="{'translat...") 
+
+0.0  | Tweet 2608: Translated(src=es, dest=en, text=@fronteravivanew: #29Ago 👤🇻🇪 Colombia is followed by Peru (1.22 million), Ecuador (502,000), Chile (448,000) and Brazil (358,000).
+
+#SomosFr…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 2609: Translated(src=es, dest=en, text=@jeanfreddy: UN raises number of Venezuelan refugees and migrants to 6.8 million people https://t.co/uqk0CpYGS5 According to Cdh-UCAB «l…, pronunciation=@jeanfreddy: UN raises number of Venezuelan refugees and migrants to 6.8 million people https://t.co/uqk0CpYGS5 According to Cdh-UCAB «l…, extra_data="{'translat...") 
+
+0.0  | Tweet 2610: Translated(src=es, dest=en, text=#29Ago 👤🇻🇪 Colombia is followed by Peru (1.22 million), Ecuador (502,000), Chile (448,000) and Brazil (358,000).… https://t.co/r4gAng1u0J, pronunciation=#29Ago 👤🇻🇪 Colombia is followed by Peru (1.22 million), Ecuador (502,000), Chile (448,000) and Brazil (358,000).… https://t.co/r4gAng1u0J, extra_data="{'translat...") 
+
+0.1531  | Tweet 2611: Translated(src=es, dest=en, text=UN raises number of Venezuelan refugees and migrants to 6.8 million people https://t.co/uqk0CpYGS5 According to Cdh… https://t.co/dDQHGDFUAV, pronunciation=UN raises number of Venezuelan refugees and migrants to 6.8 million people https://t.co/uqk0CpYGS5 According to Cdh… https://t.co/dDQHGDFUAV, extra_data="{'translat...") 
+
+0.4939  | Tweet 2612: Translated(src=es, dest=en, text=And well, we went from being 6.1 to 6.8 million Venezuelan refugees and migrants in the world by August 2022… https://t.co/L8CP3kYJ1Z, pronunciation=And well, we went from being 6.1 to 6.8 million Venezuelan refugees and migrants in the world by August 2022… https://t.co/L8CP3kYJ1Z, extra_data="{'translat...") 
+
+0.1531  | Tweet 2613: Translated(src=es, dest=en, text=@edigrecr: #28Ago The number of Venezuelan migrants and refugees, distributed by different countries of the world, exceeded 6.81 million, s…, pronunciation=@edigrecr: #28Ago The number of Venezuelan migrants and refugees, distributed by different countries of the world, exceeded 6.81 million, s…, extra_data="{'translat...") 
+
+0.1531  | Tweet 2614: Translated(src=es, dest=en, text=#28Ago The number of Venezuelan migrants and refugees, distributed by different countries of the world, exceeded 6.81 million… https://t.co/nEANa6z4jo, pronunciation=#28Ago The number of Venezuelan migrants and refugees, distributed by different countries of the world, exceeded 6.81 million… https://t.co/nEANa6z4jo, extra_data="{'translat...") 
+
+0.0  | Tweet 2615: Translated(src=es, dest=en, text=@TerritorioD: Most of them landed in Latin American and Caribbean countries. Colombia brings together 2.48 million and is followed by Peru (1.22..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2616: Translated(src=es, dest=en, text=Most of them ended up in Latin American and Caribbean countries. Colombia brings together 2.48 million and is followed by Per… https://t.co/KuxJSJz6VT, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7379  | Tweet 2617: Translated(src=es, dest=en, text=@Eltritura2 @aahdelaguila I have no doubt that some of them are chamba. But if they behave ugly, they are very aggressive, haughty… https://t.co/Yd7MCWUpdZ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1531  | Tweet 2618: Translated(src=es, dest=en, text=@Eltritura2 @aahdelaguila And what were the forms according to you? ... most of these people react badly and they are like that... https://t.co/KA7nRqUCcu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7783  | Tweet 2619: Translated(src=es, dest=en, text=@rlopezaliaga1 Come on PORKY if that's the goal you have my vote...we want a Lima free of crime, free of… https://t.co/cUR2APdu8Q, pronunciation=@rlopezaliaga1 Come on PORKY if that's the goal you have my vote...we want a Lima free of crime, free of… https://t.co/cUR2APdu8Q, extra_data="{'translat...") 
+
+-0.6669  | Tweet 2620: Translated(src=es, dest=en, text=@LaSalitadelSin HUNGER IS WHAT THIS MARRANO ASKED FOR THE DOLLAR TO RAISE 💵, SO THAT THOSE OF US WHO CHOOSE CAST SUFFER… https://t.co/oJSxJVUe5l, pronunciation=@LaSalitadelSin HUNGER IS WHAT THIS MARRANO ASKED FOR THE DOLLAR TO RAISE 💵, SO THAT THOSE OF US WHO CHOOSE CAST SUFFER… https://t.co/oJSxJVUe5l, extra_data="{'translat...") 
+
+-0.3875  | Tweet 2621: Translated(src=es, dest=en, text=@Politica_LR Always the laptop of the DBA, it is not surprising that they are venecos sent from Lima, pronunciation=@Politica_LR Always the laptop of the DBA, it is not surprising that they are venecos sent from Lima, extra_data="{'translat...") 
+
+-0.4717  | Tweet 2622: Translated(src=es, dest=en, text=@oscar32017606: @NachoParedesL @majo_marcet He couldn't win. Less will be able to with Lima. 5 million inhabitants plus the VENECOS., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4717  | Tweet 2623: Translated(src=es, dest=en, text=@NachoParedesL @majo_marcet He couldn't win. Less will be able to with Lima. 5 million inhabitants plus the VENECOS., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2624: Translated(src=es, dest=en, text=#04Sep Presence: “With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima”… https://t.co/dzLXEXQR3m, pronunciation=#04Sep Presence: “With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima”… https://t.co/dzLXEXQR3m, extra_data="{'translat...") 
+
+0.0  | Tweet 2625: Translated(src=es, dest=en, text=@AngelMonagas: Presence: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X1Pv9zeUMM through…, pronunciation=@AngelMonagas: Presence: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X1Pv9zeUMM through…, extra_data="{'translat...") 
+
+0.0  | Tweet 2626: Translated(src=es, dest=en, text=Presence: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X1Pv9zeUMM via @ cqc44, pronunciation=Presence: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X1Pv9zeUMM via @ cqc44, extra_data="{'translat...") 
+
+-0.9771  | Tweet 2627: Translated(src=es, dest=en, text=They arrest 20 Venezuelan criminals, finding 5 weapons of war in 2 Lima Peru independence nightclubs., pronunciation=They arrest 20 Venezuelan criminals, finding 5 weapons of war in 2 Lima Peru independence nightclubs., extra_data="{'translat...") 
+
+-0.5574  | Tweet 2628: Translated(src=es, dest=en, text=With the Venezuelans and Colombians who share Lima and provinces as crime territories (pimping, drugs… https://t.co/Jcsa9ox8EC, pronunciation=With the Venezuelans and Colombians who share Lima and provinces as crime territories (pimping, drugs… https://t.co/Jcsa9ox8EC, extra_data="{'translat...") 
+
+0.4767  | Tweet 2629: Translated(src=es, dest=en, text=@alexanvnzla: Tomorrow Saturday. Free legal consultations in criminal cases for Venezuelans in Peru. Interested write by private.…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 2630: Translated(src=es, dest=en, text=Where is the murderer of the girl in a barrel full of cement, in Lima?
+Years have passed of this horrend… https://t.co/5CZI0kxpGt, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 2631: Translated(src=es, dest=en, text=@SahzdiPaz: Today in Lima I feel like in the Venezuela of 2008: farewells after farewells.
+Peruvian and Venezuelan friends doing new…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.75  | Tweet 2632: Translated(src=es, dest=en, text=@vente_mundo: Venezuelan pride! 🇻🇪🙌🏼
+
+🤺 Marianela Sequera, Sports Commissioner of @VenteMiranda, won the title of Pan…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2633: Translated(src=es, dest=en, text=#Emigrants «With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima»: … https://t.co/YbHf3Qs8YJ, pronunciation=#Emigrants «With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima»: … https://t.co/YbHf3Qs8YJ, extra_data="{'translat...") 
+
+0.0  | Tweet 2634: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/ZmoH4o7nlz, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/ZmoH4o7nlz, extra_data="{'translat...") 
+
+0.0  | Tweet 2635: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/h9cBmDaeJo, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/h9cBmDaeJo, extra_data="{'translat...") 
+
+0.0  | Tweet 2636: Translated(src=es, dest=en, text=@ Vesiempre1: «With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima»
+
+https://t.co/UtgiB1dRzP
+
+https://t.co/v4…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2637: Translated(src=es, dest=en, text=@ Vesiempre1: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/tLWFKM396v https://t.co/kszk…, pronunciation=@ Vesiempre1: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/tLWFKM396v https://t.co/kszk…, extra_data="{'translat...") 
+
+0.0  | Tweet 2638: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/tLWFKM396v https://t.co/kszkREE7dI, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/tLWFKM396v https://t.co/kszkREE7dI, extra_data="{'translat...") 
+
+0.0  | Tweet 2639: Translated(src=es, dest=en, text=“With 800,000 Venezuelans living here, there is a small Venezuela inside Lima”
+
+https://t.co/UtgiB1dRzP… https://t.co/9FQ80PG7mO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4767  | Tweet 2640: Translated(src=es, dest=en, text=Tomorrow Saturday. Free legal consultations in criminal cases for Venezuelans in Peru. Interested write for the p… https://t.co/xDmPKEKaMc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2641: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X4jnNUqogy, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/X4jnNUqogy, extra_data="{'translat...") 
+
+0.0  | Tweet 2642: Translated(src=es, dest=en, text=@DiarioTalCual: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" #TalCual #ClaroyRaspao https://t.co/4k…, pronunciation=@DiarioTalCual: "With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" #TalCual #ClaroyRaspao https://t.co/4k…, extra_data="{'translat...") 
+
+0.0  | Tweet 2643: Translated(src=es, dest=en, text=“With 800,000 Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/iTWhr7poA8, pronunciation=“With 800,000 Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/iTWhr7poA8, extra_data="{'translat...") 
+
+0.0  | Tweet 2644: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/8frlxssDUk, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/8frlxssDUk, extra_data="{'translat...") 
+
+0.0  | Tweet 2645: Translated(src=es, dest=en, text=“With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/Sq7ixIkQBY, pronunciation=“With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/Sq7ixIkQBY, extra_data="{'translat...") 
+
+0.6808  | Tweet 2646: Translated(src=es, dest=en, text=Today in Lima I feel like in the Venezuela of 2008: farewells after farewells.
+Peruvian and Venezuelan friends do… https://t.co/vyTj4qQoei, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6633  | Tweet 2647: Translated(src=es, dest=en, text=@PTV_Noticias THE POPULATION OF LIMA GREW BY 6% WITH THE ARRIVAL OF VENEZUELANS. ALL CRIMINALS AND ARMED., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2648: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/iRCfC9OE4a, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/iRCfC9OE4a, extra_data="{'translat...") 
+
+0.0  | Tweet 2649: Translated(src=es, dest=en, text="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/e8y2ySbj2A, pronunciation="With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima" https://t.co/e8y2ySbj2A, extra_data="{'translat...") 
+
+0.0  | Tweet 2650: Translated(src=es, dest=en, text=“With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/wmclDa3g5n, pronunciation=“With 800 thousand Venezuelans living here, there is a small Venezuela inside Lima” #TalCual #ClaroyRaspao… https://t.co/wmclDa3g5n, extra_data="{'translat...") 
+
+-0.5106  | Tweet 2651: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/zs3UvK66KR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2652: Translated(src=en, dest=en, text=@m_munck: @Alexbalza306 @JessicaLedezmaM @tommy_astros @Chanabassarah @b_baruj @Anthony04676 @cristeladeLourd @Anabella76N @01Arelysjgr…, pronunciation=@m_munck: @Alexbalza306 @JessicaLedezmaM @tommy_astros @Chanabassarah @b_baruj @Anthony04676 @cristeladeLourd @Anabella76N @01Arelysjgr…, extra_data="{'translat...") 
+
+0.0  | Tweet 2653: Translated(src=en, dest=en, text=@Alexbalza306 @JessicaLedezmaM @tommy_astros @Chanabassarah @b_baruj @Anthony04676 @cristeladeLourd @Anabella76N… https://t.co/6d9DAd9y2z, pronunciation=@Alexbalza306 @JessicaLedezmaM @tommy_astros @Chanabassarah @b_baruj @Anthony04676 @cristeladeLourd @Anabella76N… https://t.co/6d9DAd9y2z, extra_data="{'translat...") 
+
+-0.5562  | Tweet 2654: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/KcHcg0zwcc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2655: Translated(src=es, dest=en, text=The theme is accompanied by a video clip recorded in Arequipa. 🇻🇪🎶
+
+https://t.co/eRXdbZxwme, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2656: Translated(src=es, dest=en, text=🚴Bikers 58 is not a group of cyclists.
+💙Bikers 58 is a family.
+
+Pedaling through the streets of Lima, Peru, is more than… https://t.co/CqHlqd1E4h, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 2657: Translated(src=es, dest=en, text=@RadioRecorte: 1/2 #Peru The police set up a trap for them and 2 Venezuelan extortionists who demanded 2,000 soles a week from companies…, pronunciation=@RadioRecorte: 1/2 #Peru The police set up a trap for them and 2 Venezuelan extortionists who demanded 2,000 soles a week from companies…, extra_data="{'translat...") 
+
+-0.7506  | Tweet 2658: Translated(src=es, dest=en, text=1/2 #Peru The police set a trap for them and 2 Venezuelan extortionists who demanded 2 thousand soles a week from… https://t.co/yCTsvtJXRQ, pronunciation=1/2 #Peru The police set a trap for them and 2 Venezuelan extortionists who demanded 2 thousand soles a week from… https://t.co/yCTsvtJXRQ, extra_data="{'translat...") 
+
+0.8555  | Tweet 2659: Translated(src=es, dest=en, text=Thank you @pamelaneith ♥️ a little bit of the Venezuelan Andes in Lima... https://t.co/vdWdd1njV8, pronunciation=Thank you @pamelaneith ♥️ a little bit of the Venezuelan Andes in Lima... https://t.co/vdWdd1njV8, extra_data="{'translat...") 
+
+0.0  | Tweet 2660: Translated(src=es, dest=en, text=@rostrosven: "Gran Gaitazo 2022" announced in Lima and Arequipa
+
+It will be on 5/11 at the Plaza Arena of the Jockey Club of Lima
+
+And on 6/11 in the Ex…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.9726  | Tweet 2661: Translated(src=es, dest=en, text=@scarlethsenior Amen thank you I came from Lima last year and thank God I'm doing well, I feel super here, it's… https://t.co/4buhQUeefm, pronunciation=@scarlethsenior Amen thank you I came from Lima last year and thank God I'm doing well, I feel super here, it's… https://t.co/4buhQUeefm, extra_data="{'translat...") 
+
+0.9349  | Tweet 2662: Translated(src=es, dest=en, text=@NicolasMaduro Come to Peru, here the Venezuelans who are in Lima will give you a great welcome, pronunciation=@NicolasMaduro Come to Peru, here the Venezuelans who are in Lima will give you a great welcome, extra_data="{'translat...") 
+
+0.0  | Tweet 2663: Translated(src=es, dest=en, text=CAPS, carried out a “Diagnosis on the mental health situation of Venezuelan migrants and refugees in Lima… https://t.co/9OMrfp3WKV, pronunciation=CAPS, carried out a “Diagnosis on the mental health situation of Venezuelan migrants and refugees in Lima… https://t.co/9OMrfp3WKV, extra_data="{'translat...") 
+
+-0.4215  | Tweet 2664: Translated(src=es, dest=en, text=Mercedes BenzMiami | Franki Alberto Medina Diaz de Lima // BCV's exchange intervention only prolongs the agony of… https://t.co/90UHVZkle4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2665: Translated(src=gn, dest=en, text=@presidenciaperu @LiliaParedesN @PedroCastilloTe @MinjusDH_Peru Government presents project Law on attributions and limits... https://t.co/wZxIzcMhEK, pronunciation=@presidenciaperu @LiliaParedesN @PedroCastilloTe @MinjusDH_Peru Government presents project Law on attributions and limits... https://t.co/wZxIzcMhEK, extra_data="{'translat...") 
+
+0.7184  | Tweet 2666: Translated(src=es, dest=en, text=@comunidadgye @EcuavisaInforma Blessed day of Santa Rosa de Lima, wow how they kill people in Guayaquil, I think and… https://t.co/xT9kQCXfTi, pronunciation=@comunidadgye @EcuavisaInforma Blessed day of Santa Rosa de Lima, wow how they kill people in Guayaquil, I think and… https://t.co/xT9kQCXfTi, extra_data="{'translat...") 
+
+0.9552  | Tweet 2667: Translated(src=es, dest=en, text=Good and blessed day my Santa Rosa de Lima, today we celebrate your day with great devotion. Bless my Venezian brothers… https://t.co/1Zs19Ujn93, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2668: Translated(src=es, dest=en, text="Gran Gaitazo 2022" announced in Lima and Arequipa
+
+It will be on 5/11 at the Plaza Arena of the Jockey Club of Lima
+
+And on 6/11… https://t.co/XKGMaXIYY5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2669: Translated(src=es, dest=en, text=@MariuSnacksVzL: #Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 https://t.co/wuJmpAnpNV, pronunciation=@MariuSnacksVzL: #Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 https://t.co/wuJmpAnpNV, extra_data="{'translat...") 
+
+0.0  | Tweet 2670: Translated(src=es, dest=en, text=@MariuSnacksVzL: #Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 https://t.co/xFFnM0cYOa, pronunciation=@MariuSnacksVzL: #Products 💯 Venezuelans in #Peru #Lima get it here 👇👇#Contacts +51 936 752123 https://t.co/xFFnM0cYOa, extra_data="{'translat...") 
+
+0.0  | Tweet 2671: Translated(src=es, dest=en, text=Addressed to: Members of Local Governments, UGEL O2, Schools, Grassroots Social Organizations, NGOs, Youth Groups… https://t.co/H6WbF4i5zw, pronunciation=Addressed to: Members of Local Governments, UGEL O2, Schools, Grassroots Social Organizations, NGOs, Youth Groups… https://t.co/H6WbF4i5zw, extra_data="{'translat...") 
+
+-0.749  | Tweet 2672: Translated(src=es, dest=en, text=@5834be695c9a413 @QUARESMO10 Lima feels sorry for so many dirty provincials who came to the capital. Dirty with… https://t.co/Ur1C4lfJBl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2673: Translated(src=es, dest=en, text=@diariocorreo: Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/Hg6W4NQ6Ka, pronunciation=@diariocorreo: Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/Hg6W4NQ6Ka, extra_data="{'translat...") 
+
+-0.5106  | Tweet 2674: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/lwsKnA9YZu, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8908  | Tweet 2675: Translated(src=es, dest=en, text=@02tpo15 @buxtrep @DanielUrresti1 Ohhh what an offense! Please stop stupid victimizations, there is crime p… https://t.co/6lcXL0tP25, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2676: Translated(src=es, dest=en, text=Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/Hg6W4NQ6Ka, pronunciation=Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/Hg6W4NQ6Ka, extra_data="{'translat...") 
+
+0.0  | Tweet 2677: Translated(src=es, dest=en, text=@peru21noticias: Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/HvI3bEmQX6, pronunciation=@peru21noticias: Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/HvI3bEmQX6, extra_data="{'translat...") 
+
+0.0  | Tweet 2678: Translated(src=es, dest=en, text=Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/HvI3bEmQX6, pronunciation=Migrations: group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/HvI3bEmQX6, extra_data="{'translat...") 
+
+0.9618  | Tweet 2679: Translated(src=es, dest=en, text=@Taniaramirezga2 @PoliciaPeru @PedroCastilloTe Ha ha ha This lackey putschist makes me laugh, he sells his country, to all who come… https://t.co/vv1E9N7uyh, pronunciation=@Taniaramirezga2 @PoliciaPeru @PedroCastilloTe Ha ha ha This lackey putschist makes me laugh, he sells his country, to all who come… https://t.co/vv1E9N7uyh, extra_data="{'translat...") 
+
+0.7178  | Tweet 2680: Translated(src=es, dest=en, text=@v_genaro: @GuaroAtravesado I completely agree with it. I had the honor of meeting him in Lima Peru, who helped a group of Venezuelans to…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2681: Translated(src=es, dest=en, text=#Products 💯 Venezuelans in #Peru get it here 👇👇#Contacts +51 936 752123 #Lima #Cake #Cake https://t.co/aHgyj9Ojb2, pronunciation=#Products 💯 Venezuelans in #Peru get it here 👇👇#Contacts +51 936 752123 #Lima #Cake #Cake https://t.co/aHgyj9Ojb2, extra_data="{'translat...") 
+
+0.0  | Tweet 2682: Translated(src=es, dest=en, text=@VLADIMIR_CERRON You are right, that is why there are 2 million Venezuelan workers in Peru and half in Lima., pronunciation=@VLADIMIR_CERRON You are right, that is why there are 2 million Venezuelan workers in Peru and half in Lima., extra_data="{'translat...") 
+
+-0.5106  | Tweet 2683: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/NcVNCuCLPH, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9206  | Tweet 2684: Translated(src=es, dest=en, text=Venezuelans with more than 5 arrests is the terror of the Lima fence https://t.co/nzvjl4EOlv, pronunciation=Venezuelans with more than 5 arrests is the terror of the Lima fence https://t.co/nzvjl4EOlv, extra_data="{'translat...") 
+
+-0.5562  | Tweet 2685: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/GVcDqnBW8N, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2686: Translated(src=es, dest=en, text=@gkcmPE: @Mcley01 @raul_olaechea Let's see you have it. What are you doing with that? In addition to eternalizing these wretches in power.
+
+UN 2022: 6.8…, pronunciation=None, extra_data="{'translat...") 
+
+-0.5106  | Tweet 2687: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/GY3dihub03, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 2688: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/sPJpc7s01f, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7178  | Tweet 2689: Translated(src=es, dest=en, text=@GuaroAtravesado I completely agree with it. I had the honor of meeting him in Lima Peru, who helped us with a group of poisons… https://t.co/1Nh6OOBVz6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2690: Translated(src=es, dest=en, text=@Mcley01 @raul_olaechea Let's see you have it. What are you doing with that? In addition to eternalizing these wretches in power.
+
+ON… https://t.co/IfkSfEGzdC, pronunciation=None, extra_data="{'translat...") 
+
+-0.2924  | Tweet 2691: Translated(src=es, dest=en, text=@LuigiVa60523782: @OsLopezMartinez @reina_merlyn And the only one I would vote for is @ElGeorgeHarris. He is not a comedian. He is a magician who..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2692: Translated(src=es, dest=en, text=@tlacuache2: Rodés, A. (2022-08-24). The voices of the gravediggers. https://t.co/8U8IxzPdHt
+In his latest book, the Peruvian writer Jose…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2693: Translated(src=es, dest=en, text=🚴Bikers 58 is not a group of cyclists.
+💙Bikers 58 is a family.
+
+Pedaling through the streets of Lima, Peru, is more than… https://t.co/iRzkOyudkU, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 2694: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/FJbtuljebP, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 2695: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/eLzcSGp7nn, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2696: Translated(src=es, dest=en, text=@rostrosven: The conference will be held on Sunday, September 11 at the headquarters of @MigracionesPe Carabaya. 1,200 people will be served…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 2697: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/M00xTsjcXc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2698: Translated(src=es, dest=en, text=Rodés, A. (2022-08-24). The voices of the gravediggers. https://t.co/8U8IxzPdHt
+In his latest book, the Peruvian writer… https://t.co/2NRWed0xyi, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4003  | Tweet 2699: Translated(src=es, dest=en, text=Venezuelan pride! 🇻🇪🙌🏼
+
+🤺 Marianela Sequera, Sports Commissioner of @VenteMiranda, obtained the title of Champion… https://t.co/KZLAUglEqC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2700: Translated(src=es, dest=en, text=The conference will be held on Sunday, September 11 at the headquarters of @MigracionesPe Carabaya. 1,200 people will be served… https://t.co/Sxo64SLx0O, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6908  | Tweet 2701: Translated(src=es, dest=en, text=@FraseSimple: Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the info economy…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 2702: Translated(src=es, dest=en, text=Worrying 😰 | The lack of documentation forces almost 80% of Venezuelans in Lima to work in the economy… https://t.co/vxAPXDHqFs, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5562  | Tweet 2703: Translated(src=es, dest=en, text=A GROWING PROBLEM! The lack of documentation forces almost 80% of Venezuelans in Lima to work… https://t.co/crzirAx4ik, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2924  | Tweet 2704: Translated(src=es, dest=en, text=@OsLopezMartinez @reina_merlyn And the only one I would vote for is @ElGeorgeHarris. He is not a comedian. He is a magician who… https://t.co/rxBzjmMJj6, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2705: Translated(src=es, dest=en, text=@peru21noticias: They regularize the migratory situation of Venezuelan children and adolescents in the country https://t.co/SIe8qy6kc8, pronunciation=@peru21noticias: They regularize the migratory situation of Venezuelan children and adolescents in the country https://t.co/SIe8qy6kc8, extra_data="{'translat...") 
+
+0.0  | Tweet 2706: Translated(src=es, dest=en, text=@ALDIANews: The voices of the gravediggers: in his latest book, the Peruvian writer Joseph Zárate (@jzarate33) accompanies the workers…, pronunciation=@ALDIANews: The voices of the gravediggers: in his latest book, the Peruvian writer Joseph Zárate (@jzarate33) accompanies the workers…, extra_data="{'translat...") 
+
+0.0  | Tweet 2707: Translated(src=es, dest=en, text=They regularize the migratory situation of Venezuelan children and adolescents in the country https://t.co/SIe8qy6kc8, pronunciation=They regularize the migratory situation of Venezuelan children and adolescents in the country https://t.co/SIe8qy6kc8, extra_data="{'translat...") 
+
+0.0  | Tweet 2708: Translated(src=es, dest=en, text=The voices of the gravediggers: in his latest book, the Peruvian writer Joseph Zárate (@jzarate33) accompanies the tr… https://t.co/Tc3SziviXc, pronunciation=The voices of the gravediggers: in his latest book, the Peruvian writer Joseph Zárate (@jzarate33) accompanies the tr… https://t.co/Tc3SziviXc, extra_data="{'translat...") 
+
+0.9153  | Tweet 2709: Translated(src=es, dest=en, text=#Products 💯 Venezuelans in #Peru #Lima get it here 👇👇 #Contacts +51 936 752123 #Party #Celebrate https://t.co/gk7zyCzsoo, pronunciation=#Products 💯 Venezuelans in #Peru #Lima get it here 👇👇 #Contacts +51 936 752123 #Party #Celebrate https://t.co/gk7zyCzsoo, extra_data="{'translat...") 
+
+0.0  | Tweet 2710: Translated(src=es, dest=en, text=@Armin52741082 THE SEVEN BIBLICAL PLAGUES OF EGYPT HAVE RETURNED, BUT NOW IN PERU:
+1_CHOTANS
+2_VENECOS
+3_LA FL… https://t.co/uj8UJ6fqCX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 2711: Translated(src=es, dest=en, text=@CarolineGibu It is not xenophobic to ask to throw out the Venecos who commit crimes in Peru. Do not try to figure out defending them… https://t.co/TgjICcGXHQ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8126  | Tweet 2712: Translated(src=es, dest=en, text=@Eltritura2 @aahdelaguila Mano go to tik tok and look for poisons in Peru and you will find more than a thousand videos that speak… https://t.co/EiBF8JWvMI, pronunciation=@Eltritura2 @aahdelaguila Mano go to tik tok and look for poisons in Peru and you will find more than a thousand videos that speak… https://t.co/EiBF8JWvMI, extra_data="{'translat...") 
+
+-0.1531  | Tweet 2713: Translated(src=es, dest=en, text=@diego19011989 @hectorjose2685 @ovacionweb Calm down piranha. Drop the terokal.
+
+Shame fan made equi… https://t.co/4h2rpDCKAv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.128  | Tweet 2714: Translated(src=es, dest=en, text=@thesoccerart1 @gopb15 @MariaFdaCabal Yes of course hpta all Colombians migrated to now right? There was no c… https://t.co/WRKsbGG0LM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6124  | Tweet 2715: Translated(src=es, dest=en, text=@Excelsior @pepaeyzaguirre That website was the one that criticized the closure of the Venecos in Ecuador and Peru.… https://t.co/v6T09ZO4qm, pronunciation=@Excelsior @pepaeyzaguirre That website was the one that criticized the closure of the Venecos in Ecuador and Peru.… https://t.co/v6T09ZO4qm, extra_data="{'translat...") 
+
+0.93  | Tweet 2716: Translated(src=es, dest=en, text=@elcomercio_peru Great opportunity for all Venecos in Peru to return to work in their country., pronunciation=@elcomercio_peru Great opportunity for all Venecos in Peru to return to work in their country., extra_data="{'translat...") 
+
+0.7096  | Tweet 2717: Translated(src=es, dest=en, text=@oscar32017606: @Pusycat2017 So much so that 188 VENECO criminals were going to be deported to their country but according to the great @MininterPeru VE…, pronunciation=@oscar32017606: @Pusycat2017 So much so that 188 VENECO criminals were going to be deported to their country but according to the great @MininterPeru VE…, extra_data="{'translat...") 
+
+-0.8126  | Tweet 2718: Translated(src=es, dest=en, text=@Pusycat2017 So much so that 188 VENECO criminals were going to be deported to their country but according to the great… https://t.co/LpOFWf1H1h, pronunciation=@Pusycat2017 So much so that 188 VENECO criminals were going to be deported to their country but according to the great… https://t.co/LpOFWf1H1h, extra_data="{'translat...") 
+
+0.802  | Tweet 2719: Translated(src=es, dest=en, text=@victoravendano_ @FiscaliaPeru Those receive money from the 5 billion soles in bonuses that are never given to people.… https://t.co/nKbaJpFREE, pronunciation=@victoravendano_ @FiscaliaPeru Those receive money from the 5 billion soles in bonuses that are never given to people.… https://t.co/nKbaJpFREE, extra_data="{'translat...") 
+
+0.802  | Tweet 2720: Translated(src=es, dest=en, text=@CriminalesL the venecos watching the video thinking that they will do well like in peru/chile: 🫥, pronunciation=@CriminalesL the venecos watching the video thinking that they will do well like in peru/chile: 🫥, extra_data="{'translat...") 
+
+0.0  | Tweet 2721: Translated(src=es, dest=en, text=@oscar32017606: @PabloMoreyraAlm @alvarezrodrich @congresoperu I DON'T SEE A REACTION FROM @congresoperu I ONLY SEE SOMEONE DANCING SHOWING…, pronunciation=@oscar32017606: @PabloMoreyraAlm @alvarezrodrich @congresoperu I DON'T SEE A REACTION FROM @congresoperu I ONLY SEE SOMEONE DANCING SHOWING…, extra_data="{'translat...") 
+
+0.0  | Tweet 2722: Translated(src=es, dest=en, text=@PabloMoreyraAlm @alvarezrodrich @congresoperu I DON'T SEE A REACTION FROM @congresoperu I ONLY SEE SOMEONE DANCING MOST… https://t.co/wMAUJJQq3g, pronunciation=@PabloMoreyraAlm @alvarezrodrich @congresoperu I DON'T SEE A REACTION FROM @congresoperu I ONLY SEE SOMEONE DANCING MOST… https://t.co/wMAUJJQq3g, extra_data="{'translat...") 
+
+0.802  | Tweet 2723: Translated(src=es, dest=en, text=The Venecos who managed to have a stable job and the condescension of the government or managed to secure their fo… https://t.co/BiGUrjEgta, pronunciation=The Venecos who managed to have a stable job and the condescension of the government or managed to secure their fo… https://t.co/BiGUrjEgta, extra_data="{'translat...") 
+
+0.0  | Tweet 2724: Translated(src=es, dest=en, text=The venecas remove husbands in Peru said never again https://t.co/rTJflF76Rc, pronunciation=The venecas remove husbands in Peru said never again https://t.co/rTJflF76Rc, extra_data="{'translat...") 
+
+-0.4767  | Tweet 2725: Translated(src=es, dest=en, text=@jferrer56: The disproportionate attack against Bolívar in the RRSS in recent weeks is striking. From Spain, Argentina, Colombia…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 2726: Translated(src=es, dest=en, text=@SebaCarrascoS @El_Ciudadano Thanks to the shock system that Peru applied in 1993 by Fujimori, Peru from… https://t.co/TcODmSp11Y, pronunciation=@SebaCarrascoS @El_Ciudadano Thanks to the shock system that Peru applied in 1993 by Fujimori, Peru from… https://t.co/TcODmSp11Y, extra_data="{'translat...") 
+
+0.7506  | Tweet 2727: Translated(src=es, dest=en, text=@lona1961 @Chileokulto So this is repeated in several countries...a friend who lives in Peru is the same...Venezuelans... https://t.co/x1UwpEJmaL, pronunciation=@lona1961 @Chileokulto So this is repeated in several countries...a friend who lives in Peru is the same...Venezuelans... https://t.co/x1UwpEJmaL, extra_data="{'translat...") 
+
+0.8316  | Tweet 2728: Translated(src=es, dest=en, text=There are so many Venezuelans in so many countries that I ask God every day not only for the progress of #Venezuela, but… https://t.co/66f4l50lOm, pronunciation=There are so many Venezuelans in so many countries that I ask God every day not only for the progress of #Venezuela, but… https://t.co/66f4l50lOm, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2729: Translated(src=es, dest=en, text=@AgenciaCN: Two Venezuelans are arrested, one of them a former police officer, for extorting money in Peru https://t.co/a7Kn8oKRhQ #noticias #carabobo #venez…, pronunciation=@AgenciaCN: Two Venezuelans are arrested, one of them a former police officer, for extorting money in Peru https://t.co/a7Kn8oKRhQ #noticias #carabobo #venez…, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2730: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/lj0doK6aOV, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/lj0doK6aOV, extra_data="{'translat...") 
+
+0.0  | Tweet 2731: Translated(src=es, dest=en, text=Gang of Venezuelans caught using a child to dock in Peru https://t.co/UHX54yuggI, pronunciation=Gang of Venezuelans caught using a child to dock in Peru https://t.co/UHX54yuggI, extra_data="{'translat...") 
+
+-0.1154  | Tweet 2732: Translated(src=es, dest=en, text=In Spain, Colombia, Peru and Bolivia they have always denied it. Argentina I do not know what whistle plays. But Venezuelans... https://t.co/52XJj6keAl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2733: Translated(src=es, dest=en, text=@Resist_VZLA2017 Because that's the way to spread the communist virus. Venezuelans emigrated to Colombia, Ar… https://t.co/zumytvLfuQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2734: Translated(src=es, dest=en, text=@hulagu_khamacho @SahzdiPaz I don't mean to say that the issue in Venezuela is the same as in Peru or Colombia. But it is to… https://t.co/jFFMaaavnw, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8126  | Tweet 2735: Translated(src=es, dest=en, text=@PedroRo62871764 @Maybell_N When the gringos see Venezuelan gangs stealing, of course they will remember and… https://t.co/H3756ZW883, pronunciation=@PedroRo62871764 @Maybell_N When the gringos see Venezuelan gangs stealing, of course they will remember and… https://t.co/H3756ZW883, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2736: Translated(src=es, dest=en, text=Two Venezuelans are arrested, one of them a former police officer, for extorting money in Peru https://t.co/a7Kn8oKRhQ #noticias… https://t.co/1by0NRffCQ, pronunciation=Two Venezuelans are arrested, one of them a former police officer, for extorting money in Peru https://t.co/a7Kn8oKRhQ #noticias… https://t.co/1by0NRffCQ, extra_data="{'translat...") 
+
+0.25  | Tweet 2737: Translated(src=es, dest=en, text=@carloso12465570: @jferrer56 They try to make us Venezuelans hate the man who gave us freedom, just as he gave it to them..., pronunciation=@carloso12465570: @jferrer56 They try to make us Venezuelans hate the man who gave us freedom, just as he gave it to them..., extra_data="{'translat...") 
+
+-0.7351  | Tweet 2738: Translated(src=es, dest=en, text=In Peru, two Venezuelans who extorted money on behalf of the Aragua Train were arrested https://t.co/UMjKQaQN32, pronunciation=In Peru, two Venezuelans who extorted money on behalf of the Aragua Train were arrested https://t.co/UMjKQaQN32, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2739: Translated(src=es, dest=en, text=In Peru, two Venezuelans were arrested who extorted money on behalf of the Aragua Train https://t.co/Hd3RtNNmeN, pronunciation=In Peru, two Venezuelans were arrested who extorted money on behalf of the Aragua Train https://t.co/Hd3RtNNmeN, extra_data="{'translat...") 
+
+0.25  | Tweet 2740: Translated(src=es, dest=en, text=@ jferrer56 They try to make us Venezuelans hate the man who gave us freedom, just as they gave it… https://t.co/dEfzMMQaz4, pronunciation=@ jferrer56 They try to make us Venezuelans hate the man who gave us freedom, just as they gave it… https://t.co/dEfzMMQaz4, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2741: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wqRUQ296wr, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/wqRUQ296wr, extra_data="{'translat...") 
+
+0.0  | Tweet 2742: Translated(src=es, dest=en, text=@oscarabp: 3rd Registry of Venezuelan Professionals in Peru Open until 09/20/2022. Enter through: https://t.co/grPqPqaQVD…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2743: Translated(src=es, dest=en, text=@TomyWarlock @steppenwolfen That's right. In Peru, Panama, Ecuador, Chile, Colombia and Brazil they demonize all Venezuelans… https://t.co/zFLEtdPslu, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7579  | Tweet 2744: Translated(src=gn, dest=en, text=@FontainePedro @raimundoencina There are illegal people.. and as if Piñera was the only irresponsible one. Paraguay also i... https://t.co/EMULQeeyab, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2745: Translated(src=pt, dest=en, text=@RadioRecorte: Capturan 'Los chamos malditos de San Juan' band of Venezuelans who extorted the businessman in #Peru #03Sep #SJM Los ha…, pronunciation=@RadioRecorte: Capturan 'Los chamos malditos de San Juan' band of Venezuelans who extorted the businessman in #Peru #03Sep #SJM Los ha…, extra_data="{'translat...") 
+
+0.0  | Tweet 2746: Translated(src=es, dest=en, text=@ peru21noticias That's right Salas, you comment on it where there are 33 million Peruvians and 1 million Venezuelans any… https://t.co/L6IcuD3SR5, pronunciation=@ peru21noticias That's right Salas, you comment on it where there are 33 million Peruvians and 1 million Venezuelans any… https://t.co/L6IcuD3SR5, extra_data="{'translat...") 
+
+0.0  | Tweet 2747: Translated(src=es, dest=en, text=@Parraga_LVBP Ojo, born in Peru, but of Venezuelan parents and he has already asked on several occasions that they take him as a Venezuelan, pronunciation=@Parraga_LVBP Ojo, born in Peru, but of Venezuelan parents and he has already asked on several occasions that they take him as a Venezuelan, extra_data="{'translat...") 
+
+0.0  | Tweet 2748: Translated(src=es, dest=en, text=3rd Registry of Venezuelan Professionals in Peru Open until 09/20/2022. Enter through:… https://t.co/cdw0PE1ehw, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2749: Translated(src=es, dest=en, text=@Venezue_lucha @evoespueblo @CFKArgentina There are 3 million Venezuelans in Peru, a large majority asking for charity… https://t.co/PGayyox8sA, pronunciation=@Venezue_lucha @evoespueblo @CFKArgentina There are 3 million Venezuelans in Peru, a large majority asking for charity… https://t.co/PGayyox8sA, extra_data="{'translat...") 
+
+-0.5267  | Tweet 2750: Translated(src=es, dest=en, text=@analistaamateur @salasdia In other words, before the Venezuelans came, there were no parents in Peru who had to… https://t.co/xk1ZnUkIAi, pronunciation=@analistaamateur @salasdia In other words, before the Venezuelans came, there were no parents in Peru who had to… https://t.co/xk1ZnUkIAi, extra_data="{'translat...") 
+
+0.9421  | Tweet 2751: Translated(src=es, dest=en, text=@Msantos77: @alexanvnzla Excellent work, thank you for not leaving Venezuelans alone who need legal advice in their situation..., pronunciation=@Msantos77: @alexanvnzla Excellent work, thank you for not leaving Venezuelans alone who need legal advice in their situation..., extra_data="{'translat...") 
+
+-0.5859  | Tweet 2752: Translated(src=es, dest=en, text=@ caesar80690 @malu222203 @LaVidaESTriunfo @alejandramgi Unfortunately this is what happens, Venezuelans think of… https://t.co/C4FMiYeqew, pronunciation=@ caesar80690 @malu222203 @LaVidaESTriunfo @alejandramgi Unfortunately this is what happens, Venezuelans think of… https://t.co/C4FMiYeqew, extra_data="{'translat...") 
+
+0.0  | Tweet 2753: Translated(src=es, dest=en, text=@TIBYPlaza @AlbertoRodNews I'm going to give you a piece of information, the majority of Venezuelans who cross the Dairen, their point of p… https://t.co/O8NkeoY4CD, pronunciation=@TIBYPlaza @AlbertoRodNews I'm going to give you a piece of information, the majority of Venezuelans who cross the Dairen, their point of p… https://t.co/O8NkeoY4CD, extra_data="{'translat...") 
+
+0.0  | Tweet 2754: Translated(src=pt, dest=en, text=Capturan 'Los chamos malditos de San Juan' band of Venezuelans who extorted a businessman in #Peru #03Sep #SJM… https://t.co/bYiy19qoYS, pronunciation=Capturan 'Los chamos malditos de San Juan' band of Venezuelans who extorted a businessman in #Peru #03Sep #SJM… https://t.co/bYiy19qoYS, extra_data="{'translat...") 
+
+-0.6597  | Tweet 2755: Translated(src=es, dest=en, text=@sandraarchive: the police of Peru detained Venezuelans in tumbes in flagrante delicto https://t.co/qZjjFD5qjP, pronunciation=@sandraarchive: the police of Peru detained Venezuelans in tumbes in flagrante delicto https://t.co/qZjjFD5qjP, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2756: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/cVjTeRMwIs, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/cVjTeRMwIs, extra_data="{'translat...") 
+
+0.0  | Tweet 2757: Translated(src=es, dest=en, text=@cd_omy: @mecozam @ensustrece Why did the Venezuelan ambassador go to the government palace?
+The change of command of the CAN because they did it..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2758: Translated(src=es, dest=en, text=@AnmariellyH: Venezuelans in Peru!!
+👇👇👇, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1779  | Tweet 2759: Translated(src=es, dest=en, text=@EnriqueVasquez: Is it true that there are Venezuelans in Peru who say that Peruvian food is horrible? I can't believe that., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1779  | Tweet 2760: Translated(src=es, dest=en, text=Is it true that there are Venezuelans in Peru who say that Peruvian food is horrible? I can't believe that., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 2761: Translated(src=es, dest=en, text=@informateperu If it is confirmed that Juan Silva is in Venezuela, obviously the help would be from the executive… https://t.co/4DDLVeDviG, pronunciation=@informateperu If it is confirmed that Juan Silva is in Venezuela, obviously the help would be from the executive… https://t.co/4DDLVeDviG, extra_data="{'translat...") 
+
+0.0  | Tweet 2762: Translated(src=es, dest=en, text=What is the immigration amnesty that Ecuador will give to thousands of Venezuelan immigrants https://t.co/FBaAbn2dB2, pronunciation=What is the immigration amnesty that Ecuador will give to thousands of Venezuelan immigrants https://t.co/FBaAbn2dB2, extra_data="{'translat...") 
+
+-0.3182  | Tweet 2763: Translated(src=es, dest=en, text=#TrenDeAragua Venezuelan migrants are victims of the Aragua Train, even after having fled the country. S… https://t.co/ZvziZCRGfB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2764: Translated(src=es, dest=en, text=How deluded were the Venezuelan Motorized in Peru when they dreamed of returning to Venezuela by land in an rtm, a wanxin or an Italika., pronunciation=How deluded were the Venezuelan Motorized in Peru when they dreamed of returning to Venezuela by land in an rtm, a wanxin or an Italika., extra_data="{'translat...") 
+
+-0.9432  | Tweet 2765: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/6PpEaxEVy3, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/6PpEaxEVy3, extra_data="{'translat...") 
+
+0.9508  | Tweet 2766: Translated(src=es, dest=en, text=@alexanvnzla Excellent work, thank you for not leaving Venezuelans alone who need legal advice regarding their legal situation in Peru 👍, pronunciation=@alexanvnzla Excellent work, thank you for not leaving Venezuelans alone who need legal advice regarding their legal situation in Peru 👍, extra_data="{'translat...") 
+
+0.802  | Tweet 2767: Translated(src=es, dest=en, text=@sandraarchive: Venezuelans in Peru are arrested in an impressive persecution by a brave watchman from Surco https://t.co/l9nOJ5SUZw, pronunciation=@sandraarchive: Venezuelans in Peru are arrested in an impressive persecution by a brave watchman from Surco https://t.co/l9nOJ5SUZw, extra_data="{'translat...") 
+
+-0.4767  | Tweet 2768: Translated(src=es, dest=en, text=The disproportionate attack against Bolívar in the RRSS in recent weeks is striking. From Spain, Argentina,… https://t.co/DS9qMPS8oo, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 2769: Translated(src=es, dest=en, text=Woman is dragged by the hair after collecting a debt from Venezuelans in Peru https://t.co/IEHecmtOLJ, pronunciation=Woman is dragged by the hair after collecting a debt from Venezuelans in Peru https://t.co/IEHecmtOLJ, extra_data="{'translat...") 
+
+-0.6597  | Tweet 2770: Translated(src=es, dest=en, text=Peruvian police detained Venezuelans in flagrante delicto https://t.co/qZjjFD5qjP, pronunciation=Peruvian police detained Venezuelans in flagrante delicto https://t.co/qZjjFD5qjP, extra_data="{'translat...") 
+
+0.0  | Tweet 2771: Translated(src=es, dest=en, text=@jalexvergara: @chivingo To the Venezuelans who are already there, throwing their weight behind, trying to forge a future and get rid of the stigma…, pronunciation=@jalexvergara: @chivingo To the Venezuelans who are already there, throwing their weight behind, trying to forge a future and get rid of the stigma…, extra_data="{'translat...") 
+
+0.0  | Tweet 2772: Translated(src=es, dest=en, text=Venezuelans in Peru!!
+👇👇👇 https://t.co/0mDi1PcUN0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 2773: Translated(src=es, dest=en, text=@chivingo To the Venezuelans who are already there, giving it a leg, trying to forge a future and get rid of the… https://t.co/v2iHX4jWkY, pronunciation=@chivingo To the Venezuelans who are already there, giving it a leg, trying to forge a future and get rid of the… https://t.co/v2iHX4jWkY, extra_data="{'translat...") 
+
+0.9413  | Tweet 2774: Translated(src=es, dest=en, text=@OJCastilloN @AlertaNews24 They repeat that in Peru, but the truth is that a free market government never existed in… https://t.co/vmNmetpOyY, pronunciation=@OJCastilloN @AlertaNews24 They repeat that in Peru, but the truth is that a free market government never existed in… https://t.co/vmNmetpOyY, extra_data="{'translat...") 
+
+-0.5267  | Tweet 2775: Translated(src=es, dest=en, text=Venezuelans who have returned return to Peru, Colombia and Chile after 15 days: they can't stand it because there is no work… https://t.co/Tmn4lkai6y, pronunciation=Venezuelans who have returned return to Peru, Colombia and Chile after 15 days: they can't stand it because there is no work… https://t.co/Tmn4lkai6y, extra_data="{'translat...") 
+
+0.0  | Tweet 2776: Translated(src=es, dest=en, text=@Carlos60970446 We send back the thousands of Venezuelans we have in Peru for 1 Juan Silva. !!!!, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2777: Translated(src=es, dest=en, text=@mecozam @ensustrece Why did the Venezuelan ambassador go to the government palace?
+The change of command of the CAN xq… https://t.co/W9KUzZONFM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 2778: Translated(src=es, dest=en, text=@felipeestevesvg This old man creating hatred among Peruvians like Chavez did among Venezuelans. They want a… https://t.co/33Ulx4708j, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9571  | Tweet 2779: Translated(src=es, dest=en, text=#crime in #Peru continues to kill entrepreneurs, #SME businessmen, extorting them, many criminals see… https://t.co/cJKybKal2R, pronunciation=#crime in #Peru continues to kill entrepreneurs, #SME businessmen, extorting them, many criminals see… https://t.co/cJKybKal2R, extra_data="{'translat...") 
+
+0.0  | Tweet 2780: Translated(src=es, dest=en, text=THEY CAME FROM PERU: this happened with 5 adults and 6 children, Venezuelan walkers, at a gas station in Ecuador
+
+https://t.co/3V4W2vQdcm, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 2781: Translated(src=es, dest=en, text=@CancilleriaVE Leave the excuses for the so-called "attack". Venezuelans in Peru and Chile have since last year… https://t.co/UCQQnX1K57, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6269  | Tweet 2782: Translated(src=es, dest=en, text=@NicolasRubioB: Maduro doesn't give a damn that the number of Venezuelan migrants is close to 7 million and that almost 6 of them..., pronunciation=@NicolasRubioB: Maduro doesn't give a damn that the number of Venezuelan migrants is close to 7 million and that almost 6 of them..., extra_data="{'translat...") 
+
+-0.9432  | Tweet 2783: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/fghjV1hmFk, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/fghjV1hmFk, extra_data="{'translat...") 
+
+0.4707  | Tweet 2784: Translated(src=es, dest=en, text=@RichardArcePeru @anibaltorresv @FiscaliaPeru @pcmperu HYPOCRITE .ASIV WANT TO MANIPULATE ALL PERUVIANS THE SAME… https://t.co/I6q70J6enc, pronunciation=@RichardArcePeru @anibaltorresv @FiscaliaPeru @pcmperu HYPOCRITE .ASIV WANT TO MANIPULATE ALL PERUVIANS THE SAME… https://t.co/I6q70J6enc, extra_data="{'translat...") 
+
+-0.1027  | Tweet 2785: Translated(src=es, dest=en, text=Despite the crime brought by many Venezuelans to Peru. I admire the quality education of many others… https://t.co/ndbSvBTF, pronunciation=[[]], extra_data="{'translat...") 
+
+0.584  | Tweet 2786: Translated(src=es, dest=en, text=@EmmaRincon We must also take into account that the Venezuelans of that time treated the migrants very well, NO… https://t.co/K8h1dU9yil, pronunciation=@EmmaRincon We must also take into account that the Venezuelans of that time treated the migrants very well, NO… https://t.co/K8h1dU9yil, extra_data="{'translat...") 
+
+-0.1779  | Tweet 2787: Translated(src=es, dest=en, text=Peru
+So that they know how these mediocre Venezuelan communist HDP promote poverty. That is what he wants… https://t.co/ynnXMHHpUs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2788: Translated(src=es, dest=en, text=@joseagilyepes Always compare Venezuela with Peru because we have a similar population and territory, so if we remain… https://t.co/lkEy7ZF7Uc, pronunciation=@joseagilyepes Always compare Venezuela with Peru because we have a similar population and territory, so if we remain… https://t.co/lkEy7ZF7Uc, extra_data="{'translat...") 
+
+0.0  | Tweet 2789: Translated(src=es, dest=en, text=Can someone tell me how it is called in Peru, what we Venezuelans call "cinnamon turn"? It is a name… https://t.co/kE8gbEC8wj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.802  | Tweet 2790: Translated(src=es, dest=en, text=Venezuelans in Peru are arrested in an impressive persecution by a brave watchman from Surco https://t.co/l9nOJ5SUZw, pronunciation=Venezuelans in Peru are arrested in an impressive persecution by a brave watchman from Surco https://t.co/l9nOJ5SUZw, extra_data="{'translat...") 
+
+0.0  | Tweet 2791: Translated(src=es, dest=en, text=@dgaviacion_ @CopaAirlines When @Avianca @LATAM_CO @wingo and other Venezuelan airlines between Colom… https://t.co/ucH4eNBTmK, pronunciation=@dgaviacion_ @CopaAirlines When @Avianca @LATAM_CO @wingo and other Venezuelan airlines between Colom… https://t.co/ucH4eNBTmK, extra_data="{'translat...") 
+
+0.0  | Tweet 2792: Translated(src=es, dest=en, text=@CancilleriaEc: Álvaro Garcés, Undersecretary of Immigration and Consular Services, explains technical details about the regulatory process…, pronunciation=@CancilleriaEc: Álvaro Garcés, Undersecretary of Immigration and Consular Services, explains technical details about the regulatory process…, extra_data="{'translat...") 
+
+0.0  | Tweet 2793: Translated(src=es, dest=en, text=@MeteoAero: At least 753,000 Venezuelans have left the country since November 2021. Around 6.8 million people have fled…, pronunciation=@MeteoAero: At least 753,000 Venezuelans have left the country since November 2021. Around 6.8 million people have fled…, extra_data="{'translat...") 
+
+0.0  | Tweet 2794: Translated(src=es, dest=en, text=@monlaferte Venezuelan children in Peru and Chile reading this 🤨🤨🤨🤨🤨🤨, pronunciation=@monlaferte Venezuelan children in Peru and Chile reading this 🤨🤨🤨🤨🤨🤨, extra_data="{'translat...") 
+
+0.8402  | Tweet 2795: Translated(src=es, dest=en, text=@EdsonTC3 @Vero_Mendoza_F Jajajjaajajajajajaajja yes for sure the more than millions of Venezuelans are in Peru because… https://t.co/bN55ObAnmy, pronunciation=@EdsonTC3 @Vero_Mendoza_F Jajajjaajajajajajaajja yes for sure the more than millions of Venezuelans are in Peru because… https://t.co/bN55ObAnmy, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2796: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/jdxifd47Sw, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/jdxifd47Sw, extra_data="{'translat...") 
+
+0.0  | Tweet 2797: Translated(src=es, dest=en, text=@PatricioParejax: @amnistichile @MarkRuffalo Chile on the brink of becoming Venezuela, that means that Chileans would migrate to P…, pronunciation=@PatricioParejax: @amnistichile @MarkRuffalo Chile on the brink of becoming Venezuela, that means that Chileans would migrate to P…, extra_data="{'translat...") 
+
+0.4939  | Tweet 2798: Translated(src=qu, dest=en, text=@KamayuqKhipu: @larepublica_pe @rumillaqta Once again @larepublica is committed to minimizing the HARMFUL and CORROSSIVE effect of 1.5 million., pronunciation=@KamayuqKhipu: @larepublica_pe @rumillaqta Once again @larepublica is committed to minimizing the HARMFUL and CORROSSIVE effect of 1.5 million., extra_data="{'translat...") 
+
+0.0  | Tweet 2799: Translated(src=es, dest=en, text=At least 753,000 Venezuelans have left the country since November 2021. Around 6.8 million people have… https://t.co/ucJSk80MB5, pronunciation=At least 753,000 Venezuelans have left the country since November 2021. Around 6.8 million people have… https://t.co/ucJSk80MB5, extra_data="{'translat...") 
+
+0.0  | Tweet 2800: Translated(src=es, dest=en, text=@indafrero: Several of my countrymen in NY tell me that you are seeing many Venezuelans who come from Peru, Colombia and Ecuador, take out..., pronunciation=@indafrero: Several of my countrymen in NY tell me that you are seeing many Venezuelans who come from Peru, Colombia and Ecuador, take out..., extra_data="{'translat...") 
+
+0.0  | Tweet 2801: Translated(src=es, dest=en, text=@ insufici3nt3 In Peru we are not so Christmassy. It is more of Venezuelans., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2802: Translated(src=es, dest=en, text=@GmzPll0 @azthorn @MrRangerR1 @Josea2tp The largest concentration of Venezuelans in Latin America is in Colombia and… https://t.co/4YZ7kyXjqU, pronunciation=@GmzPll0 @azthorn @MrRangerR1 @Josea2tp The largest concentration of Venezuelans in Latin America is in Colombia and… https://t.co/4YZ7kyXjqU, extra_data="{'translat...") 
+
+0.0  | Tweet 2803: Translated(src=es, dest=en, text=@larepublica_pe @rumillaqta Again @larepublica lends itself to minimizing the HARMFUL and CORROSIVE effect of 1.5 million… https://t.co/OC5HUvq34z, pronunciation=@larepublica_pe @rumillaqta Again @larepublica lends itself to minimizing the HARMFUL and CORROSIVE effect of 1.5 million… https://t.co/OC5HUvq34z, extra_data="{'translat...") 
+
+0.1779  | Tweet 2804: Translated(src=es, dest=en, text=@Julioce97971516 @the_S3R610 Here I agree with you, these undesirables must be in prison just like Cerrón. L… https://t.co/j2kRS9zW2a, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2805: Translated(src=es, dest=en, text=@aliciaretto DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT TO DEFEND THE VENEZUE… https://t.co/LhBipivqzV, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2806: Translated(src=es, dest=en, text=@fabril72 DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. OF THE RIGHT TO DEFEND THE VENEZOLA… https://t.co/HmKmil2fpk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2807: Translated(src=es, dest=en, text=@peruarchivo @GabrielDeledda @g_rafael Pataz gold mine is not being discovered today full of Colombians and Venezuelans… https://t.co/V04HJcPMbC, pronunciation=@peruarchivo @GabrielDeledda @g_rafael Pataz gold mine is not being discovered today full of Colombians and Venezuelans… https://t.co/V04HJcPMbC, extra_data="{'translat...") 
+
+0.0  | Tweet 2808: Translated(src=es, dest=en, text=TESTIMONIALS FROM VENEZUELANS IN PERU PERU YOU ARE ON TIME! https://t.co/gzNBbmsr7J via @YouTube, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 2809: Translated(src=es, dest=en, text=I share some reflections.
+Did the application for visas to Venezuelans in Ecuador, Peru, Chile cause the income to drop… https://t.co/fLK0ESQtjM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 2810: Translated(src=es, dest=en, text=@oscarabp: #Activate the 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To promote May…, pronunciation=@oscarabp: #Activate the 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To promote May…, extra_data="{'translat...") 
+
+-0.5319  | Tweet 2811: Translated(src=es, dest=en, text=@Ramosrogmar Right-wing migrant Venezuelans are A SOCIAL PROBLEM WHATEVER THE COUNTRY THEY ARE IN. In C… https://t.co/mkaED3HiHB, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 2812: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/fKMmYD5rPP, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/fKMmYD5rPP, extra_data="{'translat...") 
+
+-0.6739  | Tweet 2813: Translated(src=es, dest=en, text=@alejandromill19 @DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT OF D… https://t.co/ZpTH4gMXfq, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2814: Translated(src=es, dest=en, text=@alejandromill19 @DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT OF D… https://t.co/hWgAgfZOgW, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2815: Translated(src=es, dest=en, text=@alejandromill19 @DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT OF D… https://t.co/THPGi8SyH8, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2816: Translated(src=es, dest=en, text=@alejandromill19 @DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT OF D… https://t.co/ddEpDmCCPt, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2817: Translated(src=es, dest=en, text=@CossethP @DrusilaZileri SON OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT TO DEFEND… https://t.co/k8c88hOdf1, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2818: Translated(src=es, dest=en, text=@SheilaEgoavil @DrusilaZileri SON OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. OF THE RIGHT OF DEF… https://t.co/Ora6GJcK07, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2819: Translated(src=es, dest=en, text=@fabril72 @DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT TO DEFEND… https://t.co/J4ZAn21d8l, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6739  | Tweet 2820: Translated(src=es, dest=en, text=@DrusilaZileri DAUGHTER OF A BITCH. AND. IT IS KNOWN THAT THE JOURNALISTS. THEY HAVE AN ORDER. FROM THE RIGHT TO DEFEND THE VEN… https://t.co/5IcQxLr7xp, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 2821: Translated(src=es, dest=en, text=@GersinB @sinrendirse62 @alexanvnzla Supposedly educated people should know the social problems of their country… https://t.co/i1wI7dN85U, pronunciation=@GersinB @sinrendirse62 @alexanvnzla Supposedly educated people should know the social problems of their country… https://t.co/i1wI7dN85U, extra_data="{'translat...") 
+
+0.6794  | Tweet 2822: Translated(src=es, dest=en, text=@ cafetalera0252 Totally agree, he had the audacity to say, "The Exodus that supposedly exists" when until… https://t.co/NW58HHpTwC, pronunciation=@ cafetalera0252 Totally agree, he had the audacity to say, "The Exodus that supposedly exists" when until… https://t.co/NW58HHpTwC, extra_data="{'translat...") 
+
+0.0  | Tweet 2823: Translated(src=es, dest=en, text=WITTY! Making money with garbage: Venezuelan recyclers and another way to make money in Peru
+  https://t.co/4FIuIfgrJM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0258  | Tweet 2824: Translated(src=es, dest=en, text=@Morcilla17: Understand, no media will say that Venezuelan migration in Peru generated an increase in GDP. That news does not generate an audience.…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 2825: Translated(src=es, dest=en, text=The Peruvian police investigate and are convinced of the participation of at least one Venezuelan in this horrendous crime… https://t.co/tX7zJO7iKB, pronunciation=The Peruvian police investigate and are convinced of the participation of at least one Venezuelan in this horrendous crime… https://t.co/tX7zJO7iKB, extra_data="{'translat...") 
+
+0.0  | Tweet 2826: Translated(src=es, dest=en, text=@dw_espanol Here in Peru we have a million and a half Venezuelans and we don't say anything, pronunciation=@dw_espanol Here in Peru we have a million and a half Venezuelans and we don't say anything, extra_data="{'translat...") 
+
+0.9393  | Tweet 2827: Translated(src=es, dest=en, text=@oscarabp @Defensoria_Peru Please Defender @ElianaRevollar there are thousands of good Venezuelans who help us today… https://t.co/L5d3UCSUsI, pronunciation=@oscarabp @Defensoria_Peru Please Defender @ElianaRevollar there are thousands of good Venezuelans who help us today… https://t.co/L5d3UCSUsI, extra_data="{'translat...") 
+
+0.0  | Tweet 2828: Translated(src=es, dest=en, text=@amnistiachile @MarkRuffalo Chile on the verge of becoming Venezuela, that means that Chileans would migrate to… https://t.co/kv5mW8zSus, pronunciation=@amnistiachile @MarkRuffalo Chile on the verge of becoming Venezuela, that means that Chileans would migrate to… https://t.co/kv5mW8zSus, extra_data="{'translat...") 
+
+-0.122  | Tweet 2829: Translated(src=es, dest=en, text=@larepublica_pe The fact that THERE IS NO ARMED CONFLICT in Venezuela makes the requests TOTALLY INELEGIBLE… https://t.co/KNLTffJob0, pronunciation=@larepublica_pe The fact that THERE IS NO ARMED CONFLICT in Venezuela makes the requests TOTALLY INELEGIBLE… https://t.co/KNLTffJob0, extra_data="{'translat...") 
+
+0.0  | Tweet 2830: Translated(src=es, dest=en, text=ARE YOU VENEZUELAN?
+I ASK WHY THE RESTAURANTS I'VE BEEN TO, AND VENEZUELAN WAITERS AND WAITRESSES HAVE ATTENDED ME, THEY ASK ME… https://t.co/G66XfxNHht, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2831: Translated(src=es, dest=en, text=#TheDate | #Colombia is the country with the most Venezuelan migrants (1,842,390), followed by #Peru with 1,286,464, in… https://t.co/qfWuismR8I, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3182  | Tweet 2832: Translated(src=es, dest=en, text=Venezuelans in Chile: she was Chilean.
+Venezuelans in Colombia: Colombian.
+Venezuelans in Peru: I'm sure she was Peruvian.
+See… https://t.co/uXi7npPVqL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2833: Translated(src=es, dest=en, text=@julianaoxenford @PERU_LIBRE1 It's not xenophobia, saying you don't understand Peruvian thought, it's the other way around, your attacks… https://t.co/LZx3O8Z1wL, pronunciation=@julianaoxenford @PERU_LIBRE1 It's not xenophobia, saying you don't understand Peruvian thought, it's the other way around, your attacks… https://t.co/LZx3O8Z1wL, extra_data="{'translat...") 
+
+0.0  | Tweet 2834: Translated(src=es, dest=en, text=@gregoelquecanta @MichelCaballero In Vzla the Venezuelans who were in Peru are returning because Castill arrived… https://t.co/nM4OGqC9el, pronunciation=@gregoelquecanta @MichelCaballero In Vzla the Venezuelans who were in Peru are returning because Castill arrived… https://t.co/nM4OGqC9el, extra_data="{'translat...") 
+
+0.0  | Tweet 2835: Translated(src=es, dest=en, text=@EvaMaribel5 @MichelCaballero They will have returned from Peru, because Castillo brought socialism to Peru and converted… https://t.co/jR2zsQWxmR, pronunciation=@EvaMaribel5 @MichelCaballero They will have returned from Peru, because Castillo brought socialism to Peru and converted… https://t.co/jR2zsQWxmR, extra_data="{'translat...") 
+
+-0.4939  | Tweet 2836: Translated(src=es, dest=en, text=@joecrzlpz @KasKas0508 @alvarezrodrich We were on the right track, we were the envy of many in South America, why… https://t.co/Q52lJKFqlw, pronunciation=@joecrzlpz @KasKas0508 @alvarezrodrich We were on the right track, we were the envy of many in South America, why… https://t.co/Q52lJKFqlw, extra_data="{'translat...") 
+
+0.6124  | Tweet 2837: Translated(src=es, dest=en, text=@RoxanaPereiraVE Many Venezuelans, not all have taken it as a fashion, like for example living in Chile, Colom… https://t.co/nwAklr3k7x, pronunciation=@RoxanaPereiraVE Many Venezuelans, not all have taken it as a fashion, like for example living in Chile, Colom… https://t.co/nwAklr3k7x, extra_data="{'translat...") 
+
+0.0  | Tweet 2838: Translated(src=es, dest=en, text=Several of my countrymen in NY tell me that many Venezuelans who come from Peru, Colombia and Ecuador are being seen… https://t.co/pGXVNwDIJE, pronunciation=Several of my countrymen in NY tell me that many Venezuelans who come from Peru, Colombia and Ecuador are being seen… https://t.co/pGXVNwDIJE, extra_data="{'translat...") 
+
+0.128  | Tweet 2839: Translated(src=es, dest=en, text=@WSJForero: The number of Venezuelans abroad reaches 6.81 million, the UN announced. In Colombia, the largest recipient, are…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2840: Translated(src=en, dest=en, text=@HUS07777781 @Sputnik2022 @urbimaria37 @Fredypm @ProfdeCaliches @IIuminat @Ch14beisd34d @1961Tokio… https://t.co/QMkQe6TbPv, pronunciation=@HUS07777781 @Sputnik2022 @urbimaria37 @Fredypm @ProfdeCaliches @IIuminat @Ch14beisd34d @1961Tokio… https://t.co/QMkQe6TbPv, extra_data="{'translat...") 
+
+0.0  | Tweet 2841: Translated(src=es, dest=en, text=@pukakunas @rlopezaliaga1 @hermanntertsch @Luishid07612826 @joseantoniokast @AgustinLaje Actually, Lucar is simple… https://t.co/7vFRpei0nm, pronunciation=@pukakunas @rlopezaliaga1 @hermanntertsch @Luishid07612826 @joseantoniokast @AgustinLaje Actually, Lucar is simple… https://t.co/7vFRpei0nm, extra_data="{'translat...") 
+
+0.0  | Tweet 2842: Translated(src=es, dest=en, text=@ChileYAAC is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one of… https://t.co/qRh9jCuaUF, pronunciation=@ChileYAAC is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one of… https://t.co/qRh9jCuaUF, extra_data="{'translat...") 
+
+0.0  | Tweet 2843: Translated(src=es, dest=en, text=@CNNChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one of… https://t.co/McB1bhMFxC, pronunciation=@CNNChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one of… https://t.co/McB1bhMFxC, extra_data="{'translat...") 
+
+0.6597  | Tweet 2844: Translated(src=es, dest=en, text=@torrethdata2 This is how it should be...although it is a special case, Black was born in Brazil, his parents are Venezuelan and the majority… https://t.co/t2k7f4LH4N, pronunciation=@torrethdata2 This is how it should be...although it is a special case, Black was born in Brazil, his parents are Venezuelan and the majority… https://t.co/t2k7f4LH4N, extra_data="{'translat...") 
+
+0.0  | Tweet 2845: Translated(src=es, dest=en, text=@UNoticias comes to light that Venezuelan, Colombian thugs, etc, who entered Chile months ago, each of them… https://t.co/oDjolfABsO, pronunciation=@UNoticias comes to light that Venezuelan, Colombian thugs, etc, who entered Chile months ago, each of them… https://t.co/oDjolfABsO, extra_data="{'translat...") 
+
+0.0  | Tweet 2846: Translated(src=es, dest=en, text=@adnradiochile comes to light that Venezuelan, Colombian thugs, etc., who entered Chile months ago, each of… https://t.co/drSNYEgQEP, pronunciation=@adnradiochile comes to light that Venezuelan, Colombian thugs, etc., who entered Chile months ago, each of… https://t.co/drSNYEgQEP, extra_data="{'translat...") 
+
+0.0  | Tweet 2847: Translated(src=es, dest=en, text=@T13 The world looks at the Venezuelan, Colombian, etc. thugs who entered Chile months ago, each one of them… https://t.co/AdBNFNC8s1, pronunciation=@T13 The world looks at the Venezuelan, Colombian, etc. thugs who entered Chile months ago, each one of them… https://t.co/AdBNFNC8s1, extra_data="{'translat...") 
+
+0.0  | Tweet 2848: Translated(src=es, dest=en, text=@PDI_CHILE comment that Venezuelan, Colombian thugs, etc., who entered Chile months ago, each of them… https://t.co/KE1G7ifEa6, pronunciation=@PDI_CHILE comment that Venezuelan, Colombian thugs, etc., who entered Chile months ago, each of them… https://t.co/KE1G7ifEa6, extra_data="{'translat...") 
+
+0.0  | Tweet 2849: Translated(src=es, dest=en, text=@Ejercito_Chile SOS comes to light that Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/O834t3ogy8, pronunciation=@Ejercito_Chile SOS comes to light that Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/O834t3ogy8, extra_data="{'translat...") 
+
+0.0  | Tweet 2850: Translated(src=es, dest=en, text=#ApoderadosDelRechazose is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago,… https://t.co/rDA06hOpz8, pronunciation=#ApoderadosDelRechazose is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago,… https://t.co/rDA06hOpz8, extra_data="{'translat...") 
+
+0.0  | Tweet 2851: Translated(src=es, dest=en, text=#ApoderadosChilese is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, ca… https://t.co/Isaj0YLbdt, pronunciation=#ApoderadosChilese is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, ca… https://t.co/Isaj0YLbdt, extra_data="{'translat...") 
+
+0.0  | Tweet 2852: Translated(src=es, dest=en, text=@donretwitt is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each one… https://t.co/xtTydKStwJ, pronunciation=@donretwitt is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each one… https://t.co/xtTydKStwJ, extra_data="{'translat...") 
+
+0.0  | Tweet 2853: Translated(src=es, dest=en, text=@a_republicana is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/c3Q32CvFHx, pronunciation=@a_republicana is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/c3Q32CvFHx, extra_data="{'translat...") 
+
+0.0  | Tweet 2854: Translated(src=es, dest=en, text=#PlebiscitoConstitucionalse is spreading Venezuelan, Colombian thugs, etc, who entered Chile a month ago… https://t.co/57cMt54bN8, pronunciation=#PlebiscitoConstitucionalse is spreading Venezuelan, Colombian thugs, etc, who entered Chile a month ago… https://t.co/57cMt54bN8, extra_data="{'translat...") 
+
+0.0  | Tweet 2855: Translated(src=es, dest=en, text=@Carabdechile is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/YHIriTzv9d, pronunciation=@Carabdechile is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/YHIriTzv9d, extra_data="{'translat...") 
+
+0.0  | Tweet 2856: Translated(src=es, dest=en, text=@T13 Are you going to? spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one of them… https://t.co/ZJ2yCxyLId, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2857: Translated(src=es, dest=en, text=@joseantoniokast Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each of them carrying… https://t.co/uSl5vU2ica, pronunciation=@joseantoniokast Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each of them carrying… https://t.co/uSl5vU2ica, extra_data="{'translat...") 
+
+0.0  | Tweet 2858: Translated(src=es, dest=en, text=@CNNChile is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each one of… https://t.co/AmKCBNfyJE, pronunciation=@CNNChile is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each one of… https://t.co/AmKCBNfyJE, extra_data="{'translat...") 
+
+0.2023  | Tweet 2859: Translated(src=es, dest=en, text=Peru is studying a controversial bill that would promote the deportation of foreigners. The community of Venezuelans in… https://t.co/Dus2EluHEZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2860: Translated(src=es, dest=en, text=@GobiernodeChile take precautions, Venezuelan thugs, Colombians, etc, who entered Chile months ago, each one… https://t.co/uyc8AZN95d, pronunciation=@GobiernodeChile take precautions, Venezuelan thugs, Colombians, etc, who entered Chile months ago, each one… https://t.co/uyc8AZN95d, extra_data="{'translat...") 
+
+0.0  | Tweet 2861: Translated(src=es, dest=en, text=@gabrielboric is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/C7MFmi9QUj, pronunciation=@gabrielboric is spreading Venezuelan, Colombian thugs, etc, who entered Chile months ago, each… https://t.co/C7MFmi9QUj, extra_data="{'translat...") 
+
+0.0  | Tweet 2862: Translated(src=es, dest=en, text=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/erA7EAcclh, pronunciation=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/erA7EAcclh, extra_data="{'translat...") 
+
+0.0  | Tweet 2863: Translated(src=es, dest=en, text=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/eqwXVbCuhI, pronunciation=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/eqwXVbCuhI, extra_data="{'translat...") 
+
+0.0  | Tweet 2864: Translated(src=es, dest=en, text=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/NILZTZ84lE, pronunciation=@ServelChile is spreading Venezuelan, Colombian, etc. thugs, who entered Chile months ago, each one… https://t.co/NILZTZ84lE, extra_data="{'translat...") 
+
+-0.3182  | Tweet 2865: Translated(src=es, dest=en, text=#TrenDeAragua Venezuelan migrants are victims of the Aragua Train, even after having fled the country. S… https://t.co/pOV4bSp77V, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2866: Translated(src=es, dest=en, text=@BarchiesiDip LAST MOMENT Venezuelan, Colombian thugs, etc, entered Chile months ago, each one of them… https://t.co/LoLOL05iDO, pronunciation=@BarchiesiDip LAST MOMENT Venezuelan, Colombian thugs, etc, entered Chile months ago, each one of them… https://t.co/LoLOL05iDO, extra_data="{'translat...") 
+
+0.0  | Tweet 2867: Translated(src=es, dest=en, text=@Santiag83975280 @gerardorojas10 @AnibalGarzon everyone who lives in Latin America, and here in Peru for 6 years has seen… https://t.co/KNWc7BQzSB, pronunciation=@Santiag83975280 @gerardorojas10 @AnibalGarzon everyone who lives in Latin America, and here in Peru for 6 years has seen… https://t.co/KNWc7BQzSB, extra_data="{'translat...") 
+
+0.1027  | Tweet 2868: Translated(src=es, dest=en, text=Nothing stops them 🔥🇻🇪 | Venezuelans without limits: the migrants who dream of being part of the national team of… https://t.co/SIPwruUD1e, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 2869: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/5KDQwV8FUM, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/5KDQwV8FUM, extra_data="{'translat...") 
+
+0.0  | Tweet 2870: Translated(src=es, dest=en, text=@rolando110889 @coquifalconc @angelsa44806345 So what mrd did Castillo say, "All Venezuelans or foreigners who h… https://t.co/IbBn7nwKV1, pronunciation=@rolando110889 @coquifalconc @angelsa44806345 So what mrd did Castillo say, "All Venezuelans or foreigners who h… https://t.co/IbBn7nwKV1, extra_data="{'translat...") 
+
+0.0  | Tweet 2871: Translated(src=es, dest=en, text=@riderbike24 @Gatoparco @MichelCaballero Those who return are the Venezuelans who were in Peru because the social… https://t.co/EcfG9Qb0ZR, pronunciation=@riderbike24 @Gatoparco @MichelCaballero Those who return are the Venezuelans who were in Peru because the social… https://t.co/EcfG9Qb0ZR, extra_data="{'translat...") 
+
+0.0  | Tweet 2872: Translated(src=es, dest=en, text=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/Y1T4jotBQ4, pronunciation=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/Y1T4jotBQ4, extra_data="{'translat...") 
+
+0.0  | Tweet 2873: Translated(src=es, dest=en, text=@ValeriiSobolen1: @PabloMoreyraAlm @ContraloriaPeru Pablo, and me? I am Ukrainian, I live 15 years in Peru. I contribute more than many Peruvians. A…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2874: Translated(src=es, dest=en, text=@sandraarchive: Venezuelans in Peru extorted money from their former boss "aragua train" https://t.co/Vn0C161eZS, pronunciation=@sandraarchive: Venezuelans in Peru extorted money from their former boss "aragua train" https://t.co/Vn0C161eZS, extra_data="{'translat...") 
+
+0.0  | Tweet 2875: Translated(src=es, dest=en, text=@RunRunesWeb: Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million, Ecuador..., pronunciation=@RunRunesWeb: Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million, Ecuador..., extra_data="{'translat...") 
+
+0.0  | Tweet 2876: Translated(src=es, dest=en, text=Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million,… https://t.co/pi1uhs52oQ, pronunciation=Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million,… https://t.co/pi1uhs52oQ, extra_data="{'translat...") 
+
+0.0  | Tweet 2877: Translated(src=es, dest=en, text=Portfolio 8/29/22
+-Peru in the presidency of the CAN
+-Aldor (mechato) sells +40%
+-Half a million financial products from Venezuelans, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3818  | Tweet 2878: Translated(src=es, dest=en, text=@NedaPolaris It also bothers you that in your tweet you include 6.8 million Venezuelans in the same bag, I'm 3 years old... https://t.co/DWkQeiQrXW, pronunciation=@NedaPolaris It also bothers you that in your tweet you include 6.8 million Venezuelans in the same bag, I'm 3 years old... https://t.co/DWkQeiQrXW, extra_data="{'translat...") 
+
+0.802  | Tweet 2879: Translated(src=es, dest=en, text=@ Iphrodite3 In Peru many Venezuelans had misunderstandings because of that hahaha., pronunciation=@ Iphrodite3 In Peru many Venezuelans had misunderstandings because of that hahaha., extra_data="{'translat...") 
+
+-0.2263  | Tweet 2880: Translated(src=es, dest=en, text=Or the time I was paid $20 (in total) to be a CM for 6 brands. How to forget when I worked with a guy who took me… https://t.co/UzrAg3lg54, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2881: Translated(src=es, dest=en, text=@Analitica: According to the report, "people of 74 different nationalities" were able to access the migration regularization process, same..., pronunciation=@Analitica: According to the report, "people of 74 different nationalities" were able to access the migration regularization process, same..., extra_data="{'translat...") 
+
+0.0  | Tweet 2882: Translated(src=es, dest=en, text=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/IOPhgKSBkd, pronunciation=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/IOPhgKSBkd, extra_data="{'translat...") 
+
+0.0  | Tweet 2883: Translated(src=es, dest=en, text=@unionenliberta: Likewise, César Medina, on behalf of the Liga Libertad; Venezuelan citizens living in Peru, tra…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2884: Translated(src=es, dest=en, text=Also César Medina, representing the Liga Libertad; Venezuelan citizens living in Peru, people… https://t.co/80ydJhXjCO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2885: Translated(src=es, dest=en, text=The countries with the largest Venezuelan population continue to be Colombia, Peru, Ecuador, Chile and Brazil with 73% of the… https://t.co/EKW3qcSeGl, pronunciation=The countries with the largest Venezuelan population continue to be Colombia, Peru, Ecuador, Chile and Brazil with 73% of the… https://t.co/EKW3qcSeGl, extra_data="{'translat...") 
+
+0.0  | Tweet 2886: Translated(src=es, dest=en, text=@Sinmordaza: CDH-UCAB also reports that there is a slight decrease in the population of Venezuelans in Mexico, Peru and Ecuador. However, h…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2887: Translated(src=es, dest=en, text=CDH-UCAB also reports that there is a slight decrease in the population of Venezuelans in Mexico, Peru and Ecuador. However… https://t.co/xmyTSZe0dA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2888: Translated(src=es, dest=en, text=Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million,… https://t.co/TP7vtPJ1vR, pronunciation=Colombia, with 2.5 million Venezuelans, leads the reception of this population, followed by Peru with 1.3 million,… https://t.co/TP7vtPJ1vR, extra_data="{'translat...") 
+
+0.0  | Tweet 2889: Translated(src=es, dest=en, text=@Domingo63462311: @Dies_Irae_1977 @luis89798550 The same story lived in VENEZUELA. The same recipe is repeated and all Venezuelans…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2890: Translated(src=es, dest=en, text=@Dies_Irae_1977 @luis89798550 The same story lived in VENEZUELA. The same recipe is repeated and all the venezo… https://t.co/rbE85PS8aV, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 2891: Translated(src=es, dest=en, text=@juan_diaz12: A number of Venezuelans are passing through Puerto Maldonado (Peru) to the state of Acre (Brazil) on the border..., pronunciation=@juan_diaz12: A number of Venezuelans are passing through Puerto Maldonado (Peru) to the state of Acre (Brazil) on the border..., extra_data="{'translat...") 
+
+0.4019  | Tweet 2892: Translated(src=es, dest=en, text=@titowankalaw Yes, of course, the new constitution that in Venezuela changed their lives. Thousands of Venezuelans had to… https://t.co/SnoeCOPeFI, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6269  | Tweet 2893: Translated(src=es, dest=en, text=Maduro does not give a damn that the number of Venezuelan migrants is close to 7 million and that almost 6 of… https://t.co/IJO0bbcNID, pronunciation=Maduro does not give a damn that the number of Venezuelan migrants is close to 7 million and that almost 6 of… https://t.co/IJO0bbcNID, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2894: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/vdMX0slZ44, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/vdMX0slZ44, extra_data="{'translat...") 
+
+-0.1027  | Tweet 2895: Translated(src=gn, dest=en, text=@Naborum2 @EdixonMarquinez That should be in Ecuador, Chile, Peru, Paraguay, Uruguay. And others more. There if they exploit the Venezuelans., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 2896: Translated(src=es, dest=en, text=@Adeguerreroco @AABenedetti Miserable, you don't realize that only in Peru there are more than 2 million ve… https://t.co/v6avuwQfC3, pronunciation=@Adeguerreroco @AABenedetti Miserable, you don't realize that only in Peru there are more than 2 million ve… https://t.co/v6avuwQfC3, extra_data="{'translat...") 
+
+0.0  | Tweet 2897: Translated(src=es, dest=en, text=@RunRunesWeb: According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and Peru, t…, pronunciation=@RunRunesWeb: According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and Peru, t…, extra_data="{'translat...") 
+
+-0.7003  | Tweet 2898: Translated(src=es, dest=en, text=The situation of the expiration of the licenses issued with CPP is beginning to worry drivers and motorcyclists… https://t.co/M0KjRBARbb, pronunciation=The situation of the expiration of the licenses issued with CPP is beginning to worry drivers and motorcyclists… https://t.co/M0KjRBARbb, extra_data="{'translat...") 
+
+0.0  | Tweet 2899: Translated(src=es, dest=en, text=According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and… https://t.co/xu4peQMCLW, pronunciation=According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and… https://t.co/xu4peQMCLW, extra_data="{'translat...") 
+
+-0.3313  | Tweet 2900: Translated(src=es, dest=en, text=@andres_plazas @MEMIN68 @AABenedetti @NicolasMaduro @maduro_en Do you know that I take drugs? Is the offense necessary? I… https://t.co/POyH0fdSuk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8578  | Tweet 2901: Translated(src=es, dest=en, text=@AlfayOmegaJmmr @MichelCaballero Those people from the land of Santander are good, not in vain thousands of Venezuelans… https://t.co/SNsEp9qLUS, pronunciation=@AlfayOmegaJmmr @MichelCaballero Those people from the land of Santander are good, not in vain thousands of Venezuelans… https://t.co/SNsEp9qLUS, extra_data="{'translat...") 
+
+0.0  | Tweet 2902: Translated(src=es, dest=en, text=@HermanosVE: OFFICIAL | The figure continues to rise: By August 2022, 6.8 million people have left #Venezuela. 84% live in America…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.296  | Tweet 2903: Translated(src=es, dest=en, text=POOR COLOMBIANS.
+
+THEY ONLY HAVE TO LEAVE THEIR COUNTRY
+LIKE THE VENEZUELANS
+OR JOIN AND TAKE OUT THE TERRORIST.
+
+DO CO… https://t.co/YBZa3qhixj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2904: Translated(src=es, dest=en, text=@JoseDel64311441: @liberalCoMx @katsnow12 @Betta_ET Which generation of Chavez? When I studied in primary school it was Carlo's government..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2905: Translated(src=es, dest=en, text=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/CyKVrcpqix, pronunciation=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/CyKVrcpqix, extra_data="{'translat...") 
+
+0.0  | Tweet 2906: Translated(src=es, dest=en, text=@PabloMoreyraAlm @ContraloriaPeru Pablo, and me? I am Ukrainian, I live 15 years in Peru. I contribute more than many Peruvians… https://t.co/j8NEx5ylEP, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8993  | Tweet 2907: Translated(src=es, dest=en, text=@ImpactoVE: THEY ALMOST KILLED THEM! They brutally beat up three Venezuelans in Peru
+
+https://t.co/4RYrOdUvhz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2908: Translated(src=es, dest=en, text=@venezuela_migra: #You Must Know Although Colombia🇨🇴 registers an increasing variation with 2.45 million Venezuelan migrants🇻🇪, Peru🇵🇪…, pronunciation=@venezuela_migra: #You Must Know Although Colombia🇨🇴 registers an increasing variation with 2.45 million Venezuelan migrants🇻🇪, Peru🇵🇪…, extra_data="{'translat...") 
+
+0.0  | Tweet 2909: Translated(src=es, dest=en, text=#You Must Know Although Colombia🇨🇴 registers an increasing variation with 2.45 million Venezuelan migrants🇻🇪, Per… https://t.co/KFqWFKXWv7, pronunciation=#You Must Know Although Colombia🇨🇴 registers an increasing variation with 2.45 million Venezuelan migrants🇻🇪, Per… https://t.co/KFqWFKXWv7, extra_data="{'translat...") 
+
+0.0  | Tweet 2910: Translated(src=es, dest=en, text=@DanteBobadilla You are Colon, you discovered America. Peru is a market economy where Entrepreneurship prevails… https://t.co/0mQqVi6SEN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5023  | Tweet 2911: Translated(src=es, dest=en, text=@Ventana1404 @MaceWindu01 I see so many cases of Venezuelans here in Peru. Prisons with many Venezuelans but like too many, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6166  | Tweet 2912: Translated(src=es, dest=en, text=@susana_bozzo: THIS IS HOW VENEZUELANS MAKE FUN OF THE SITUATION IN PERU. https://t.co/rAZ5OAoSSC, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7906  | Tweet 2913: Translated(src=es, dest=en, text=@musicavenezolan: "A message of encouragement for all those who leave their countries fleeing from hunger, disease or violence,..., pronunciation=@musicavenezolan: "A message of encouragement for all those who leave their countries fleeing from hunger, disease or violence,..., extra_data="{'translat...") 
+
+0.0  | Tweet 2914: Translated(src=es, dest=en, text=According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and… https://t.co/E9fgw2ccEk, pronunciation=According to several IOM and UNHCR reports, Venezuelan migrants in South American countries, such as Colombia and… https://t.co/E9fgw2ccEk, extra_data="{'translat...") 
+
+0.0  | Tweet 2915: Translated(src=es, dest=en, text=6, 8 MILLION VENEZUELANS HAVE LEFT VENEZUELA
+
+5.7 million have stayed in Latin American countries
+
+2.4… https://t.co/M7NZPkKMEZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 2916: Translated(src=es, dest=en, text=@_NOALCOMUNISMO To be honest, you have to be miserable to vote for an individual like this, you have to… https://t.co/0vmKICgRwv, pronunciation=@_NOALCOMUNISMO To be honest, you have to be miserable to vote for an individual like this, you have to… https://t.co/0vmKICgRwv, extra_data="{'translat...") 
+
+0.5086  | Tweet 2917: Translated(src=es, dest=en, text=Petro in Peru asking for Venezuela to be part of the CAN again... that campaign definitely did not pay for itself! M… https://t.co/ADbz1qUbN5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.699  | Tweet 2918: Translated(src=es, dest=en, text=@PedroCastilloTe Very well president, we were there supporting your presence, Tacna is Peru, unfortunately some pe… https://t.co/O7sK1w00t3, pronunciation=@PedroCastilloTe Very well president, we were there supporting your presence, Tacna is Peru, unfortunately some pe… https://t.co/O7sK1w00t3, extra_data="{'translat...") 
+
+0.0  | Tweet 2919: Translated(src=es, dest=en, text=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/VuJjdA9Eig, pronunciation=According to the report, “people of 74 different nationalities” were able to access the migratory regularization process… https://t.co/VuJjdA9Eig, extra_data="{'translat...") 
+
+0.0  | Tweet 2920: Translated(src=es, dest=en, text=@VLADIMIR_CERRON Let's ask the million Venezuelan immigrants who live in Peru without thinking the same as this p… https://t.co/sEPYs38e5Z, pronunciation=@VLADIMIR_CERRON Let's ask the million Venezuelan immigrants who live in Peru without thinking the same as this p… https://t.co/sEPYs38e5Z, extra_data="{'translat...") 
+
+0.0  | Tweet 2921: Translated(src=es, dest=en, text=OFFICIAL | The figure continues to rise: By August 2022, 6.8 million people have left #Venezuela. 84% live… https://t.co/T0JzcHoxzC, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5106  | Tweet 2922: Translated(src=es, dest=en, text=In Peru, before the Venezuelans arrived, we were overwhelmed by crime and hired assassins.
+
+then how e… https://t.co/T5PeBrEQx2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2923: Translated(src=es, dest=en, text=@DianaCRodrigz: 3/4 Our sister country Colombia is home to 2.48 million Venezuelans, being the largest recipient. Second is…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2924: Translated(src=es, dest=en, text=#Activate 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To print… https://t.co/0Thzfftv9s, pronunciation=#Activate 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To print… https://t.co/0Thzfftv9s, extra_data="{'translat...") 
+
+0.0  | Tweet 2925: Translated(src=es, dest=en, text=#Activate 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To print… https://t.co/5z9N7R3H58, pronunciation=#Activate 3rd Registry of Venezuelan Professionals in Peru, from August 30 to September 20, 2022. To print… https://t.co/5z9N7R3H58, extra_data="{'translat...") 
+
+-0.5267  | Tweet 2926: Translated(src=es, dest=en, text=@JReengel @Fernand0_sl I always read about 5 years ago, that in Peru, they no longer wanted the Venezuelan brothers... now I understood why..., pronunciation=@JReengel @Fernand0_sl I always read about 5 years ago, that in Peru, they no longer wanted the Venezuelan brothers... now I understood why..., extra_data="{'translat...") 
+
+-0.9432  | Tweet 2927: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/vDCtVUP5Hb, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/vDCtVUP5Hb, extra_data="{'translat...") 
+
+0.0  | Tweet 2928: Translated(src=es, dest=en, text=3/4 Our sister country Colombia is home to 2.48 million Venezuelans, being the largest recipient. Secondly… https://t.co/Y42wdb2VGh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2929: Translated(src=es, dest=en, text=@atv_noticias In 2018, Venezuelans began to arrive in Peru, a large percentage of them, I dare say… https://t.co/ZGNFbXKI44, pronunciation=@atv_noticias In 2018, Venezuelans began to arrive in Peru, a large percentage of them, I dare say… https://t.co/ZGNFbXKI44, extra_data="{'translat...") 
+
+0.0  | Tweet 2930: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | "The records show a slight decrease in the Venezuelan population in Mexico, Peru and Ecuador, and increases and..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9042  | Tweet 2931: Translated(src=es, dest=en, text=@RadioRecorte: Criminals caught red-handed during a pharmacy assault in #Comas #Peru #29Agos The security cameras recorded…, pronunciation=@RadioRecorte: Criminals caught red-handed during a pharmacy assault in #Comas #Peru #29Agos The security cameras recorded…, extra_data="{'translat...") 
+
+-0.9371  | Tweet 2932: Translated(src=es, dest=en, text=5/100 I am going to ask Venezuelans for charity for not allowing themselves to be raped, or murdered in Peru, Chile, murdered… https://t.co/jB7vTtkyEV, pronunciation=5/100 I am going to ask Venezuelans for charity for not allowing themselves to be raped, or murdered in Peru, Chile, murdered… https://t.co/jB7vTtkyEV, extra_data="{'translat...") 
+
+-0.6808  | Tweet 2933: Translated(src=es, dest=en, text=4/100 I am going to ask for charity to the Venezuelans who leave Venezuela or murdered in Peru, Chile, murdered… https://t.co/Ied9e2k0dF, pronunciation=4/100 I am going to ask for charity to the Venezuelans who leave Venezuela or murdered in Peru, Chile, murdered… https://t.co/Ied9e2k0dF, extra_data="{'translat...") 
+
+0.0  | Tweet 2934: Translated(src=es, dest=en, text=@ Javierito321 These are the same ones that were dispatched in Ecuador, Chile, Peru. They are the ones that scratch the Venezuelans who do… https://t.co/inLipGNcW2, pronunciation=@ Javierito321 These are the same ones that were dispatched in Ecuador, Chile, Peru. They are the ones that scratch the Venezuelans who do… https://t.co/inLipGNcW2, extra_data="{'translat...") 
+
+0.0  | Tweet 2935: Translated(src=es, dest=en, text=@rostrosven: Venezuelans and other foreigners in Peru with CPP will be able in a few days to see the update of the extension of the validity…, pronunciation=@rostrosven: Venezuelans and other foreigners in Peru with CPP will be able in a few days to see the update of the extension of the validity…, extra_data="{'translat...") 
+
+-0.6124  | Tweet 2936: Translated(src=es, dest=en, text=@Gabriel35005987 @MichelCaballero They are fighting in Peru and Chile because some communist governments were set up and fucking… https://t.co/VcUqYzghvk, pronunciation=@Gabriel35005987 @MichelCaballero They are fighting in Peru and Chile because some communist governments were set up and fucking… https://t.co/VcUqYzghvk, extra_data="{'translat...") 
+
+0.765  | Tweet 2937: Translated(src=es, dest=en, text=The NGO Veneactiva also has a free telephone line for Venezuelan migrants residing in Pe… https://t.co/nLziVFlBMB, pronunciation=The NGO Veneactiva also has a free telephone line for Venezuelan migrants residing in Pe… https://t.co/nLziVFlBMB, extra_data="{'translat...") 
+
+0.0  | Tweet 2938: Translated(src=es, dest=en, text=#Migration | "The records show a slight decrease in the Venezuelan population in Mexico, Peru and Ecuador, and au… https://t.co/7nijv1j8Tp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2939: Translated(src=es, dest=en, text=@liberalCoMx @katsnow12 @Betta_ET Which generation of Chavez? When I studied in the first year, it was the government of Ca… https://t.co/tQMpQ7dKeu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2940: Translated(src=es, dest=en, text=Venezuelans and other foreigners in Peru with CPP will be able to see the update of the extension of the… https://t.co/oHU5GGocXS, pronunciation=Venezuelans and other foreigners in Peru with CPP will be able to see the update of the extension of the… https://t.co/oHU5GGocXS, extra_data="{'translat...") 
+
+0.6874  | Tweet 2941: Translated(src=es, dest=en, text=@contrapuntovzla And since it was Venezuela before, we gave shelter to all the people of the world, dad GOD is watching… https://t.co/whZw0O0y9f, pronunciation=@contrapuntovzla And since it was Venezuela before, we gave shelter to all the people of the world, dad GOD is watching… https://t.co/whZw0O0y9f, extra_data="{'translat...") 
+
+0.0  | Tweet 2942: Translated(src=es, dest=en, text=Venezuelans in Peru extorted money from their former boss "Tren de Aragua" https://t.co/Vn0C161eZS, pronunciation=Venezuelans in Peru extorted money from their former boss "Tren de Aragua" https://t.co/Vn0C161eZS, extra_data="{'translat...") 
+
+-0.9042  | Tweet 2943: Translated(src=es, dest=en, text=They capture criminals during an assault on a pharmacy in #Comas #Peru #29Agos The security cameras record… https://t.co/OgeZRKm71a, pronunciation=They capture criminals during an assault on a pharmacy in #Comas #Peru #29Agos The security cameras record… https://t.co/OgeZRKm71a, extra_data="{'translat...") 
+
+0.1531  | Tweet 2944: Translated(src=es, dest=en, text=A number of Venezuelans are passing through Puerto Maldonado (Peru) to the state of Acre (Brazil) in the f… https://t.co/uLO5ijpybe, pronunciation=A number of Venezuelans are passing through Puerto Maldonado (Peru) to the state of Acre (Brazil) in the f… https://t.co/uLO5ijpybe, extra_data="{'translat...") 
+
+0.0  | Tweet 2945: Translated(src=es, dest=en, text=#MusicaQMC🎶| Fusion of Peruvian and Venezuelan sounds
+
+The artist of Venezuelan nationality presents a new pro… https://t.co/tjXeJrLvcA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5859  | Tweet 2946: Translated(src=es, dest=en, text=@VLADIMIR_CERRON I mean, you are telling me that all the Venezuelans that we have in Peru are crazy that they fled from… https://t.co/spkjkG1ta6, pronunciation=@VLADIMIR_CERRON I mean, you are telling me that all the Venezuelans that we have in Peru are crazy that they fled from… https://t.co/spkjkG1ta6, extra_data="{'translat...") 
+
+0.0  | Tweet 2947: Translated(src=es, dest=en, text=@Salo_049: president @NicolasMaduro make the links with @PedroCastilloTe the boy Nickxon is hospitalized at the El Salvador hospital..., pronunciation=@Salo_049: president @NicolasMaduro make the links with @PedroCastilloTe the boy Nickxon is hospitalized at the El Salvador hospital..., extra_data="{'translat...") 
+
+-0.9432  | Tweet 2948: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/FZj3wqJKCa, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/FZj3wqJKCa, extra_data="{'translat...") 
+
+0.0  | Tweet 2949: Translated(src=es, dest=en, text=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/d8o9zO9ycP, pronunciation=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/d8o9zO9ycP, extra_data="{'translat...") 
+
+0.3818  | Tweet 2950: Translated(src=es, dest=en, text=@larepublica_pe @DenisseTorrico The Venezuelans who commit crimes in our Peru earned the hard way that they want… https://t.co/G3WdshrAsl, pronunciation=@larepublica_pe @DenisseTorrico The Venezuelans who commit crimes in our Peru earned the hard way that they want… https://t.co/G3WdshrAsl, extra_data="{'translat...") 
+
+-0.9349  | Tweet 2951: Translated(src=es, dest=en, text=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPF7kFD, pronunciation=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPF7kFD, extra_data="{'translat...") 
+
+0.4019  | Tweet 2952: Translated(src=es, dest=en, text=@EdgarVidao: Let's support Venezuelans 🇻🇪 in #Peru who are starting their business to get ahead. https://t.co/DyxMyJxQQM
+#Vene…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2953: Translated(src=es, dest=en, text=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/3dYB81C3rr, pronunciation=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/3dYB81C3rr, extra_data="{'translat...") 
+
+0.0  | Tweet 2954: Translated(src=es, dest=en, text=Migrations: foreign citizens obtain Peruvian nationality under the marriage modality https://t.co/pZ1ZAN8Z0u, pronunciation=Migrations: foreign citizens obtain Peruvian nationality under the marriage modality https://t.co/pZ1ZAN8Z0u, extra_data="{'translat...") 
+
+0.0  | Tweet 2955: Translated(src=es, dest=en, text=@techivin @elcomercio_peru @rlopezaliaga1 @Renzo_Reggiardo We need to throw out Venezuelans, those people have only brought cr… https://t.co/2aOrTsTxZw, pronunciation=@techivin @elcomercio_peru @rlopezaliaga1 @Renzo_Reggiardo We need to throw out Venezuelans, those people have only brought cr… https://t.co/2aOrTsTxZw, extra_data="{'translat...") 
+
+-0.9602  | Tweet 2956: Translated(src=es, dest=en, text=@ONETWO507 Ok, he's not the only one, if they are so demanding and critical, why the hell have they been through the Darien jungle... https://t.co/glJfbLjBBz, pronunciation=@ONETWO507 Ok, he's not the only one, if they are so demanding and critical, why the hell have they been through the Darien jungle... https://t.co/glJfbLjBBz, extra_data="{'translat...") 
+
+0.0  | Tweet 2957: Translated(src=es, dest=en, text=Group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/BvZpIvm9Hy, pronunciation=Group of foreigners obtains Peruvian nationality under the marriage modality https://t.co/BvZpIvm9Hy, extra_data="{'translat...") 
+
+0.0  | Tweet 2958: Translated(src=es, dest=en, text=Foreigners obtain Peruvian nationality under the marriage modality https://t.co/rqX2PLgaym, pronunciation=Foreigners obtain Peruvian nationality under the marriage modality https://t.co/rqX2PLgaym, extra_data="{'translat...") 
+
+0.0  | Tweet 2959: Translated(src=es, dest=en, text=@GeographerDC: @MargotPalaciosH @IEPeruanos @PedroCastilloTe @WaykaPeru @exitosape @DiarioUnoPeru @teleSURtv @BancadaPLiber Ask the…, pronunciation=@GeographerDC: @MargotPalaciosH @IEPeruanos @PedroCastilloTe @WaykaPeru @exitosape @DiarioUnoPeru @teleSURtv @BancadaPLiber Ask the…, extra_data="{'translat...") 
+
+-0.8402  | Tweet 2960: Translated(src=es, dest=en, text=If what this criminal of genocides proposed worked, we would not have Venezuelans with university degrees in Peru… https://t.co/kjBri8SdrW, pronunciation=If what this criminal of genocides proposed worked, we would not have Venezuelans with university degrees in Peru… https://t.co/kjBri8SdrW, extra_data="{'translat...") 
+
+-0.3182  | Tweet 2961: Translated(src=es, dest=en, text=#TrenDeAragua Venezuelan migrants are victims of the Aragua Train, even after having fled the country. S… https://t.co/CXOMiLDVZk, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7639  | Tweet 2962: Translated(src=es, dest=en, text=@Anynameforyou: More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later.
+
+The amount of weapons!!
+Y…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 2963: Translated(src=es, dest=en, text=In Peru they arrested more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago… https://t.co/jAR7Xaqzbp, pronunciation=In Peru they arrested more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago… https://t.co/jAR7Xaqzbp, extra_data="{'translat...") 
+
+0.0  | Tweet 2964: Translated(src=es, dest=en, text=@elimpulsocom: In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago - https://t.co/2…, pronunciation=@elimpulsocom: In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago - https://t.co/2…, extra_data="{'translat...") 
+
+-0.7184  | Tweet 2965: Translated(src=es, dest=en, text=@AdrianzenEduard @slpng_giants_pe And it has to be said. Crime in Peru worsened with the lack of values ​​and culture… https://t.co/lXfy5v9w9j, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 2966: Translated(src=es, dest=en, text=@hispanopost: #Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/j5Xv…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2967: Translated(src=es, dest=en, text=@Naborum2 This is how employers in Colombia Chile Peru Ecuador Bolivia Trinidad do with Venezuelan immigrants.., pronunciation=@Naborum2 This is how employers in Colombia Chile Peru Ecuador Bolivia Trinidad do with Venezuelan immigrants.., extra_data="{'translat...") 
+
+0.0  | Tweet 2968: Translated(src=es, dest=en, text=@MargotPalaciosH @IEPeruanos @PedroCastilloTe @WaykaPeru @exitosape @DiarioUnoPeru @teleSURtv @BancadaPLiber Ask… https://t.co/Xtf8ADZadm, pronunciation=@MargotPalaciosH @IEPeruanos @PedroCastilloTe @WaykaPeru @exitosape @DiarioUnoPeru @teleSURtv @BancadaPLiber Ask… https://t.co/Xtf8ADZadm, extra_data="{'translat...") 
+
+-0.8481  | Tweet 2969: Translated(src=gn, dest=en, text=@GuaroAtravesado @Alejandr0Camb @TarekWiliamSaab And I said it in another Twitt brother there was police excess and violence d... https://t.co/tf6IBCh6Oi, pronunciation=@GuaroAtravesado @Alejandr0Camb @TarekWiliamSaab And I said it in another Twitt brother there was police excess and violence d... https://t.co/tf6IBCh6Oi, extra_data="{'translat...") 
+
+0.0  | Tweet 2970: Translated(src=es, dest=en, text=In Peru they detained more than 100 Venezuelans at a party, they are released and now they are going to be deported #25Ago - https://t.co/2cayFA5PoF, pronunciation=In Peru they detained more than 100 Venezuelans at a party, they are released and now they are going to be deported #25Ago - https://t.co/2cayFA5PoF, extra_data="{'translat...") 
+
+0.1531  | Tweet 2971: Translated(src=es, dest=en, text=@VLADIMIR_CERRON That tell Venezuelans that there are in Peru fleeing from reality what you want to do here in this… https://t.co/1Hx1Lzkdwn, pronunciation=@VLADIMIR_CERRON That tell Venezuelans that there are in Peru fleeing from reality what you want to do here in this… https://t.co/1Hx1Lzkdwn, extra_data="{'translat...") 
+
+-0.6486  | Tweet 2972: Translated(src=es, dest=en, text=@larepublica_pe: Rejection grows against a project that seeks the expulsion of migrants
+
+Association of Venezuelans and the IOM accuse measure as dis ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 2973: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/44UVrnQcMK, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 2974: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/qi5cwMgH52, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/qi5cwMgH52, extra_data="{'translat...") 
+
+-0.4215  | Tweet 2975: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later.
+
+The number of weapons… https://t.co/hQlBTBGNCd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2976: Translated(src=es, dest=en, text=@VanessaOrtizz @CMonteroOficial the lukewarm is part of the framework, it is as if you had said, at the time, Len… https://t.co/5zIyofWMKb, pronunciation=@VanessaOrtizz @CMonteroOficial the lukewarm is part of the framework, it is as if you had said, at the time, Len… https://t.co/5zIyofWMKb, extra_data="{'translat...") 
+
+0.0  | Tweet 2977: Translated(src=es, dest=en, text=@AnahiDurandG Rights here, rights there, rights and more rights, oh but, we have one million two hundred… https://t.co/xPkRtFP3HB, pronunciation=@AnahiDurandG Rights here, rights there, rights and more rights, oh but, we have one million two hundred… https://t.co/xPkRtFP3HB, extra_data="{'translat...") 
+
+-0.4588  | Tweet 2978: Translated(src=es, dest=en, text=@NicolasMaduro WHAT YOU HAVE THIEF IS MILLIONS IN BANKS AND MILLIONS OF VENEZUELANS OUTSIDE YOUR COUNTRY GIVING PUNISHMENT… https://t.co/z34b7btgRL, pronunciation=@NicolasMaduro WHAT YOU HAVE THIEF IS MILLIONS IN BANKS AND MILLIONS OF VENEZUELANS OUTSIDE YOUR COUNTRY GIVING PUNISHMENT… https://t.co/z34b7btgRL, extra_data="{'translat...") 
+
+-0.8012  | Tweet 2979: Translated(src=es, dest=en, text=Everything will remain the same Venezuela more poverty and more Venezuelans in Peru 😡😡 https://t.co/vwgjKy2WqD, pronunciation=Everything will remain the same Venezuela more poverty and more Venezuelans in Peru 😡😡 https://t.co/vwgjKy2WqD, extra_data="{'translat...") 
+
+-0.8877  | Tweet 2980: Translated(src=es, dest=en, text=AFTER A LONG TIME, IT HAPPENED TO SEE THE NEWS... MURDERS AND ROBBERY BY DOZENS IN ALL LOS CANALUCHOS NACI… https://t.co/2LjXQiGW5E, pronunciation=AFTER A LONG TIME, IT HAPPENED TO SEE THE NEWS... MURDERS AND ROBBERY BY DOZENS IN ALL LOS CANALUCHOS NACI… https://t.co/2LjXQiGW5E, extra_data="{'translat...") 
+
+0.128  | Tweet 2981: Translated(src=es, dest=en, text=The number of Venezuelans abroad reaches 6.81 million, the UN announced. In Colombia, the largest recipient, is in… https://t.co/kTSPb8FkL1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.25  | Tweet 2982: Translated(src=es, dest=en, text=@AdrianzenEduard @RenZentido @canalN_ Keep supporting and being crazy with everything Castillo does, we are already… https://t.co/lchUp8i4tG, pronunciation=@AdrianzenEduard @RenZentido @canalN_ Keep supporting and being crazy with everything Castillo does, we are already… https://t.co/lchUp8i4tG, extra_data="{'translat...") 
+
+-0.9432  | Tweet 2983: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/HFFe8xDe28, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/HFFe8xDe28, extra_data="{'translat...") 
+
+0.0  | Tweet 2984: Translated(src=es, dest=en, text=@xgutierrez: @diariocorreo There are still 1,271,000 Venezuelan migrants left in Peru then., pronunciation=@xgutierrez: @diariocorreo There are still 1,271,000 Venezuelan migrants left in Peru then., extra_data="{'translat...") 
+
+0.0  | Tweet 2985: Translated(src=es, dest=en, text=@AlexaGomezDos @ rivassarai19 We Venezuelans are horny if that happens in Peru Colombia etc with some countrymen who decide… https://t.co/Buwz84OH6F, pronunciation=@AlexaGomezDos @ rivassarai19 We Venezuelans are horny if that happens in Peru Colombia etc with some countrymen who decide… https://t.co/Buwz84OH6F, extra_data="{'translat...") 
+
+0.4019  | Tweet 2986: Translated(src=es, dest=en, text=@Patrici76142410: @Argus25Arlo @GEIN_PERU @leydelacalle Yes papaya and mangoes included. So much is the escalation in advance of Venezuela that if..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 2987: Translated(src=es, dest=en, text=Rejection grows to project that seeks the expulsion of migrants
+
+Association of Venezuelans and the IOM accuse the measure as… https://t.co/eFgsKhdBhq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 2988: Translated(src=es, dest=en, text=@hispanopost: #Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/0bi4…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 2989: Translated(src=es, dest=en, text=@porlagoma: "Born in Peru, son of Venezuelans, raised in Miami", says @joselnapoles, with all love, @Baby_Jesus9 is Venezuelan p..., pronunciation=@porlagoma: "Born in Peru, son of Venezuelans, raised in Miami", says @joselnapoles, with all love, @Baby_Jesus9 is Venezuelan p..., extra_data="{'translat...") 
+
+0.0  | Tweet 2990: Translated(src=es, dest=en, text=@NicolasMaduro You must be ashamed to see the number of displaced Venezuelans begging for charity in Ecuador, Colombia, Peru, pronunciation=@NicolasMaduro You must be ashamed to see the number of displaced Venezuelans begging for charity in Ecuador, Colombia, Peru, extra_data="{'translat...") 
+
+0.0  | Tweet 2991: Translated(src=es, dest=en, text=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/lQUz0Krb27, pronunciation=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/lQUz0Krb27, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2992: Translated(src=es, dest=en, text=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/1bErhi4Lcb, pronunciation=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/1bErhi4Lcb, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2993: Translated(src=es, dest=en, text=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/U0uiQA1JBg, pronunciation=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/U0uiQA1JBg, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2994: Translated(src=es, dest=en, text=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/KcZiisScDm, pronunciation=Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later https://t.co/KcZiisScDm, extra_data="{'translat...") 
+
+0.0  | Tweet 2995: Translated(src=es, dest=en, text=@Agencia_Andina: Unicef ​​promotes migration regularization of Venezuelan children and adolescents https://t.co/7NbEGIZ3I7
+
+The project…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9432  | Tweet 2996: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/zK7hpvfwHQ, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/zK7hpvfwHQ, extra_data="{'translat...") 
+
+0.0  | Tweet 2997: Translated(src=es, dest=en, text=@eldiario: #26Aug | According to the organization, 5.45 million Venezuelans migrated to other countries in Latin America and the Caribbean.
+
+c…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 2998: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/0bi45ZZued, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 2999: Translated(src=es, dest=en, text=@jokeria08 @MarioRico98 @fmsmex @DominicGirt_ @lancersito @urbanroosters @PepsiMEX there are no Venezuelans on the rise… https://t.co/vu9lSImli8, pronunciation=@jokeria08 @MarioRico98 @fmsmex @DominicGirt_ @lancersito @urbanroosters @PepsiMEX there are no Venezuelans on the rise… https://t.co/vu9lSImli8, extra_data="{'translat...") 
+
+0.7003  | Tweet 3000: Translated(src=es, dest=en, text=@oburneo40 @AlbertoJParedes We have to hope that the unforeseeable does not happen, although the political trend in Chile is… https://t.co/RdSVTtwL0o, pronunciation=@oburneo40 @AlbertoJParedes We have to hope that the unforeseeable does not happen, although the political trend in Chile is… https://t.co/RdSVTtwL0o, extra_data="{'translat...") 
+
+-0.6808  | Tweet 3001: Translated(src=es, dest=en, text=@alexanvnzla @DidierGuevara12 Axel, the one who does not know or has already lived in Peru, does not know how copper is beaten there with the… https://t.co/lQFBn0LZSM, pronunciation=@alexanvnzla @DidierGuevara12 Axel, the one who does not know or has already lived in Peru, does not know how copper is beaten there with the… https://t.co/lQFBn0LZSM, extra_data="{'translat...") 
+
+0.0  | Tweet 3002: Translated(src=es, dest=en, text=@Smylo2 @tortadezapayo @Paoamargo xenophobic? In Chile they burn their tents, in Mexico they ask for a visa, in Peru… https://t.co/ej3RnQrGse, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3003: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 🔵, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 🔵, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3004: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR `, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR `, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3005: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 ▪, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 ▪, extra_data="{'translat...") 
+
+-0.561  | Tweet 3006: Translated(src=es, dest=en, text=@RoiLopezRivas Enough of going to a place where they are not wanted. Because they put their children through this terrible experience… https://t.co/ZQfF0eXbml, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3007: Translated(src=es, dest=en, text=@sandraarchive: Venezuelans from the Aragua train in Peru dismember again https://t.co/0ici9KwfQC, pronunciation=@sandraarchive: Venezuelans from the Aragua train in Peru dismember again https://t.co/0ici9KwfQC, extra_data="{'translat...") 
+
+0.0  | Tweet 3008: Translated(src=es, dest=en, text=WITTY! Making money with garbage: Venezuelan recyclers and another way to make money in Peru https://t.co/bPHQasgwYU, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8993  | Tweet 3009: Translated(src=es, dest=en, text=THEY ALMOST KILLED THEM! They brutally beat up three Venezuelans in Peru
+
+https://t.co/4RYrOdCTSZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7889  | Tweet 3010: Translated(src=es, dest=en, text=@ ZurdaRoja18 The most important thing is that they say they are very well and 14 Venezuelans sleep in one room (in Peru)., pronunciation=@ ZurdaRoja18 The most important thing is that they say they are very well and 14 Venezuelans sleep in one room (in Peru)., extra_data="{'translat...") 
+
+-0.7351  | Tweet 3011: Translated(src=es, dest=en, text=@Mamertos0 Poor delusions, they don't take a year to be touring the streets of Colombia, Ecuador and Peru fighting… https://t.co/6uvjeyJUZF, pronunciation=@Mamertos0 Poor delusions, they don't take a year to be touring the streets of Colombia, Ecuador and Peru fighting… https://t.co/6uvjeyJUZF, extra_data="{'translat...") 
+
+0.0  | Tweet 3012: Translated(src=es, dest=en, text=#26Aug | According to the organization, 5.45 million Venezuelans migrated to other Latin American countries and the… https://t.co/CWtsyANqMX, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8176  | Tweet 3013: Translated(src=es, dest=en, text=@Rufus95397079: Pedro Sánchez's Latin band:
+-Kirchner, a billion stolen, a dead prosecutor. Managed by Pablo Iglesias
+-Ripe,…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7717  | Tweet 3014: Translated(src=es, dest=en, text=@EAristeguieta: The oligophrenic who presides over Peru at a bad time, dispatched himself at will insulting Venezuelans. If there were a here..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.807  | Tweet 3015: Translated(src=es, dest=en, text=@luisr_rondon @CronicaPolicial @JeanCRodriguez_ In Peru everything bad is because of the Venezuelans. The media attack us very hard., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3016: Translated(src=es, dest=en, text=@diariocorreo There are still 1,271,000 Venezuelan migrants in Peru then., pronunciation=@diariocorreo There are still 1,271,000 Venezuelan migrants in Peru then., extra_data="{'translat...") 
+
+0.0  | Tweet 3017: Translated(src=es, dest=en, text=@BRUJITAVIAJERA: @gonzalesposadal Peru has its chavez. Either they wake up or I'll see them migrating all over the world. getting the same treatment..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6597  | Tweet 3018: Translated(src=es, dest=en, text=@rostrosven: @nancyarellano president of @veneactiva announcing the special migratory day that she will carry out together with @MigracionesP…, pronunciation=@rostrosven: @nancyarellano president of @veneactiva announcing the special migratory day that she will carry out together with @MigracionesP…, extra_data="{'translat...") 
+
+0.6597  | Tweet 3019: Translated(src=es, dest=en, text=@nancyarellano president of @veneactiva announcing the special migratory day that she will carry out with… https://t.co/2B6qXpOUyR, pronunciation=@nancyarellano president of @veneactiva announcing the special migratory day that she will carry out with… https://t.co/2B6qXpOUyR, extra_data="{'translat...") 
+
+-0.9834  | Tweet 3020: Translated(src=es, dest=en, text=Venezuelans have been in Peru for a long time and continue to make small clothes 😭😭😭😭😭, pronunciation=Venezuelans have been in Peru for a long time and continue to make small clothes 😭😭😭😭😭, extra_data="{'translat...") 
+
+0.8906  | Tweet 3021: Translated(src=es, dest=en, text=@Primicias An investigative journalism, that is really interested in the truths, in real stories, I don't know… https://t.co/IQlTO311vd, pronunciation=@Primicias An investigative journalism, that is really interested in the truths, in real stories, I don't know… https://t.co/IQlTO311vd, extra_data="{'translat...") 
+
+0.0  | Tweet 3022: Translated(src=es, dest=en, text=@Medianalisis: According to the latest mental health study for journalists from Ecuador, Peru and Venezuela, 21.3% of Venezuelan journalists…, pronunciation=@Medianalisis: According to the latest mental health study for journalists from Ecuador, Peru and Venezuela, 21.3% of Venezuelan journalists…, extra_data="{'translat...") 
+
+0.7579  | Tweet 3023: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations
+
+🔴 Meet… https://t.co/SEDJyd3RcG, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 3024: Translated(src=es, dest=en, text=@Argus25Arlo @GEIN_PERU @leydelacalle Yes papaya and mangoes included. Venezuela is escalating so much that… https://t.co/U92O4ndmdx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8767  | Tweet 3025: Translated(src=es, dest=en, text=@luisr_rondon: @CronicaPolicial @JeanCRodriguez_ And in Peru there is crime?? Capable they already say they are Venezuelans. 😂😂😂😂, pronunciation=[[]], extra_data="{'translat...") 
+
+0.765  | Tweet 3026: Translated(src=es, dest=en, text=@rostrosven: #BREAKING They admit in the Peruvian Congress a bill that would grant amnesty for fines that affect almost 1…, pronunciation=@rostrosven: #BREAKING They admit in the Peruvian Congress a bill that would grant amnesty for fines that affect almost 1…, extra_data="{'translat...") 
+
+0.8555  | Tweet 3027: Translated(src=es, dest=en, text=@elpedrorueda: Defense Commission of the Peruvian Congress admits the bill that would grant Amnesty for the fines that affect…, pronunciation=@elpedrorueda: Defense Commission of the Peruvian Congress admits the bill that would grant Amnesty for the fines that affect…, extra_data="{'translat...") 
+
+0.0  | Tweet 3028: Translated(src=es, dest=en, text=According to the latest mental health study for journalists from Ecuador, Peru and Venezuela, 21.3% of journalists… https://t.co/4r1hDT0NvZ, pronunciation=According to the latest mental health study for journalists from Ecuador, Peru and Venezuela, 21.3% of journalists… https://t.co/4r1hDT0NvZ, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3029: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45PqXZ ·, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45PqXZ ·, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3030: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3,, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3,, extra_data="{'translat...") 
+
+-0.9432  | Tweet 3031: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/QI0ofCt7pO, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/QI0ofCt7pO, extra_data="{'translat...") 
+
+0.0  | Tweet 3032: Translated(src=es, dest=en, text=@gonzalesposadal Peru has its chavez. Either they wake up or I'll see them migrating all over the world. receiving the.same t… https://t.co/nlZOSE5QQd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7906  | Tweet 3033: Translated(src=es, dest=en, text=To the amazement of many, including the local press, the group of foreigners, mostly Venezuelans, were released… https://t.co/O7Kv7ZMFcv, pronunciation=To the amazement of many, including the local press, the group of foreigners, mostly Venezuelans, were released… https://t.co/O7Kv7ZMFcv, extra_data="{'translat...") 
+
+0.0  | Tweet 3034: Translated(src=es, dest=en, text=If Gaetano the crybaby sees this video, he says that they are Venezuelans dressed as Peruvians to make believe that in Peru it is… https://t.co/BIUeKMtZaC, pronunciation=If Gaetano the crybaby sees this video, he says that they are Venezuelans dressed as Peruvians to make believe that in Peru it is… https://t.co/BIUeKMtZaC, extra_data="{'translat...") 
+
+0.4019  | Tweet 3035: Translated(src=es, dest=en, text=On September 11, @MigracionesPe will hold a special event for Venezuelans in Peru. It is expected to attend 1200… https://t.co/DsDffUOmmA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8807  | Tweet 3036: Translated(src=es, dest=en, text=@Luishid07612826 @CCFFAA_PERU @congresoperu What the hell are you waiting for... Let's go to the street yaaaa.... there are still idiots who believe in this... https://t.co/eALu2CgF6n, pronunciation=@Luishid07612826 @CCFFAA_PERU @congresoperu What the hell are you waiting for... Let's go to the street yaaaa.... there are still idiots who believe in this... https://t.co/eALu2CgF6n, extra_data="{'translat...") 
+
+0.0  | Tweet 3037: Translated(src=es, dest=en, text=@Caretas: A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents who e…, pronunciation=@Caretas: A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents who e…, extra_data="{'translat...") 
+
+0.8767  | Tweet 3038: Translated(src=es, dest=en, text=@CronicaPolicial @JeanCRodriguez_ And in Peru there is crime?? Capable they already say they are Venezuelans. 😂😂😂😂, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1761  | Tweet 3039: Translated(src=es, dest=en, text=Venezuela
+It seems that they are really tired of Maduro
+Until when will they continue like this
+Here in Peru there are already more than… https://t.co/Oa7CqQ11c4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3040: Translated(src=es, dest=en, text=Venezuelans from the Aragua train in Peru dismember again https://t.co/0ici9KwfQC, pronunciation=Venezuelans from the Aragua train in Peru dismember again https://t.co/0ici9KwfQC, extra_data="{'translat...") 
+
+0.0  | Tweet 3041: Translated(src=es, dest=en, text=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/wuJIaZ0mpM, pronunciation=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/wuJIaZ0mpM, extra_data="{'translat...") 
+
+-0.1531  | Tweet 3042: Translated(src=es, dest=en, text=@joserckeller: The xenophobia in countries like Peru is terrible. Today I spoke with a girl who told me that, when she returned with her p…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.34  | Tweet 3043: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ▶, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ▶, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3044: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR ◼, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR ◼, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3045: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 🟢, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 🟢, extra_data="{'translat...") 
+
+-0.8176  | Tweet 3046: Translated(src=es, dest=en, text=The Latin band of Pedro Sánchez:
+-Kirchner, a billion stolen, a dead prosecutor. Managed by Pablo Iglesias
+-Ma… https://t.co/gyhpCTZdO9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3047: Translated(src=es, dest=en, text=The Judiciary is Slow Because Narco Fujimorismo PAYS TO NOT Touch the Fujimorist Mafias, the Criminals… https://t.co/YzUhjFTWBq, pronunciation=The Judiciary is Slow Because Narco Fujimorismo PAYS TO NOT Touch the Fujimorist Mafias, the Criminals… https://t.co/YzUhjFTWBq, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3048: Translated(src=es, dest=en, text=More than 130 Venezuelans are arrested in a nightclub in Peru and released 12 days later https://t.co/LPAG6Uiojy, pronunciation=More than 130 Venezuelans are arrested in a nightclub in Peru and released 12 days later https://t.co/LPAG6Uiojy, extra_data="{'translat...") 
+
+0.2263  | Tweet 3049: Translated(src=es, dest=en, text=@Angora913 @MashiRafael You seriously mean it, dear Sebastian. Just check how many Venezuelans live in the country, then… https://t.co/adZhnaPmxx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3050: Translated(src=es, dest=en, text=Unicef ​​promotes migratory regularization of Venezuelan children and adolescents https://t.co/7NbEGIZ3I7
+
+The pro… https://t.co/73CRbF3OoY, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3051: Translated(src=es, dest=en, text=@agenciaNDS: More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ", pronunciation=@agenciaNDS: More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ", extra_data="{'translat...") 
+
+-0.7351  | Tweet 3052: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later… https://t.co/QLPPA2ZW4D, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later… https://t.co/QLPPA2ZW4D, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3053: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ", pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4 ", extra_data="{'translat...") 
+
+-0.7351  | Tweet 3054: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR ▪, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR ▪, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3055: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 >>, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3 >>, extra_data="{'translat...") 
+
+-0.9432  | Tweet 3056: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/E1FUJuizWM, pronunciation=3. In Colombia, Ecuador and Peru, a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/E1FUJuizWM, extra_data="{'translat...") 
+
+0.7579  | Tweet 3057: Translated(src=es, dest=en, text=@hispanopost: #Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/O6RC…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3058: Translated(src=es, dest=en, text=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/ia5gR21ZlL, pronunciation=A total of 1.29 million Venezuelan citizens reside in our country, and 18% are children and adolescents… https://t.co/ia5gR21ZlL, extra_data="{'translat...") 
+
+0.0  | Tweet 3059: Translated(src=es, dest=en, text=@VenezuelaSaime Venezuelans residing in Peru are still waiting to assign appointments for the issuance of new… https://t.co/nu3h0EreyJ, pronunciation=@VenezuelaSaime Venezuelans residing in Peru are still waiting to assign appointments for the issuance of new… https://t.co/nu3h0EreyJ, extra_data="{'translat...") 
+
+0.6597  | Tweet 3060: Translated(src=es, dest=en, text=Let's support Venezuelans 🇻🇪 in #Peru who are starting their business to get ahead.… https://t.co/OF1CCYWxFn, pronunciation=Let's support Venezuelans 🇻🇪 in #Peru who are starting their business to get ahead.… https://t.co/OF1CCYWxFn, extra_data="{'translat...") 
+
+0.7579  | Tweet 3061: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/O6RCjD9yX2, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3062: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/XTIF45xhJR, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3063: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/PRVHAORxx4, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3064: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/8F2kHxahz3, extra_data="{'translat...") 
+
+-0.4019  | Tweet 3065: Translated(src=es, dest=en, text=#SucesosET After 12 days, more than 130 Venezuelans detained in a nightclub in Peru are released
+https://t.co/2LOVOGw6Ig https://t.co/hv6Sa01ad5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3066: Translated(src=es, dest=en, text=In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to be deported #25Ago - https://t.co/2cayFzOe05, pronunciation=In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to be deported #25Ago - https://t.co/2cayFzOe05, extra_data="{'translat...") 
+
+-0.9349  | Tweet 3067: Translated(src=es, dest=en, text=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFoW4d, pronunciation=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFoW4d, extra_data="{'translat...") 
+
+-0.855  | Tweet 3068: Translated(src=es, dest=en, text=@ideeleradio: #Factchecking This situation makes imprisoned immigrants more vulnerable, since they are deprived…, pronunciation=@ideeleradio: #Factchecking This situation makes imprisoned immigrants more vulnerable, since they are deprived…, extra_data="{'translat...") 
+
+0.0  | Tweet 3069: Translated(src=es, dest=en, text=@MichelCaballero hey Caballero, you should read the stories of the migrants and you will realize that a large majority are… https://t.co/vzEQdT36Ny, pronunciation=@MichelCaballero hey Caballero, you should read the stories of the migrants and you will realize that a large majority are… https://t.co/vzEQdT36Ny, extra_data="{'translat...") 
+
+0.6597  | Tweet 3070: Translated(src=es, dest=en, text=@RCR750 Ah yes and where is all the money that they have given you to the Venezuelans in Peru..., pronunciation=@RCR750 Ah yes and where is all the money that they have given you to the Venezuelans in Peru..., extra_data="{'translat...") 
+
+-0.6808  | Tweet 3071: Translated(src=es, dest=en, text=@PintaMiranda: Three Venezuelans were beaten with bottles after leaving a nightclub in the city of Chiclayo in the department…, pronunciation=@PintaMiranda: Three Venezuelans were beaten with bottles after leaving a nightclub in the city of Chiclayo in the department…, extra_data="{'translat...") 
+
+0.0  | Tweet 3072: Translated(src=es, dest=en, text=president @NicolasMaduro make the links with @PedroCastilloTe the boy Nickxon is hospitalized in the hospital… https://t.co/41fQOrn9ft, pronunciation=president @NicolasMaduro make the links with @PedroCastilloTe the boy Nickxon is hospitalized in the hospital… https://t.co/41fQOrn9ft, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3073: Translated(src=es, dest=en, text=@LaVozDelSur_1: Three Venezuelans are beaten when leaving a nightclub in Peru
+
+The Venezuelans were seriously injured..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8993  | Tweet 3074: Translated(src=es, dest=en, text=THEY ALMOST KILLED THEM! They brutally beat up three Venezuelans in Peru
+
+https://t.co/4RYrOdUvhz, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 3075: Translated(src=es, dest=en, text=#SucesosET After 12 days, more than 130 Venezuelans detained in a nightclub in Peru are released
+https://t.co/2LOVOGNI6Q https://t.co/TKgGYUfbgT, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.855  | Tweet 3076: Translated(src=es, dest=en, text=#Factchecking This situation makes imprisoned immigrants more vulnerable, since they are… https://t.co/V9DqAmrHN6, pronunciation=#Factchecking This situation makes imprisoned immigrants more vulnerable, since they are… https://t.co/V9DqAmrHN6, extra_data="{'translat...") 
+
+-0.9349  | Tweet 3077: Translated(src=es, dest=en, text=Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFoW4d, pronunciation=Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFoW4d, extra_data="{'translat...") 
+
+0.7579  | Tweet 3078: Translated(src=es, dest=en, text=@hispanopost: #Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/w67n…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 3079: Translated(src=es, dest=en, text=@panasenutah: Peru: More than 130 Venezuelans were arrested in a nightclub and released 12 days later
+https://t.co/kJjVZ8hbn5, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 3080: Translated(src=es, dest=en, text=Peru: More than 130 Venezuelans were detained in a nightclub and released 12 days later
+https://t.co/kJjVZ8hbn5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 3081: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/w67nLa71wz, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3082: Translated(src=es, dest=en, text=MEETING FRIDAY, with Dr. Pérez
+@ cperez1962, Dr. Carlos Guía @AbgGuia and political scientist Aldo De Vivo… https://t.co/4yeNfQjuAd, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 3083: Translated(src=es, dest=en, text=@elimpulsocom: In Peru they arrested more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago - https://t.co/2…, pronunciation=@elimpulsocom: In Peru they arrested more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago - https://t.co/2…, extra_data="{'translat...") 
+
+-0.2023  | Tweet 3084: Translated(src=es, dest=en, text=In Peru they arrested more than 100 Venezuelans at a party, they are released and now they are going to be deported #25Ago - https://t.co/2cayFA5PoF, pronunciation=In Peru they arrested more than 100 Venezuelans at a party, they are released and now they are going to be deported #25Ago - https://t.co/2cayFA5PoF, extra_data="{'translat...") 
+
+-0.9349  | Tweet 3085: Translated(src=es, dest=en, text=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFptTL, pronunciation=@la_patilla: Three Venezuelans received a brutal beating when leaving a nightclub in Peru https://t.co/BD3KPFptTL, extra_data="{'translat...") 
+
+0.3382  | Tweet 3086: Translated(src=es, dest=en, text=@hectorcamacho_ Chavista Venezuelans? Outside... end of the world! well my nephew who is in Peru also tells me that… https://t.co/KASEn2d542, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3087: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | Venezuelans Anabel and Crisman Urbáez took two months to cross 10 countries, a journey that included…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 3088: Translated(src=es, dest=en, text=“A message of encouragement for all those who leave their countries fleeing from hunger, disease or violence… https://t.co/b9oTx3fSkq, pronunciation=“A message of encouragement for all those who leave their countries fleeing from hunger, disease or violence… https://t.co/b9oTx3fSkq, extra_data="{'translat...") 
+
+0.0  | Tweet 3089: Translated(src=es, dest=en, text=#Migration | Venezuelans Anabel and Crisman Urbáez took two months to cross 10 countries, a journey in which… https://t.co/p5XD31YNiO, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3090: Translated(src=es, dest=en, text=@DrecZep @Johanjr1 @tiempolibre1985 Peru is still a poor country, which means that everything in it will be precarious… https://t.co/91r2u3ZQDu, pronunciation=@DrecZep @Johanjr1 @tiempolibre1985 Peru is still a poor country, which means that everything in it will be precarious… https://t.co/91r2u3ZQDu, extra_data="{'translat...") 
+
+-0.9432  | Tweet 3091: Translated(src=es, dest=en, text=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Wf28w0tFgA, pronunciation=3. In Colombia, Ecuador and Peru a campaign of hate, persecution, contempt and xenophobia is being developed… https://t.co/Wf28w0tFgA, extra_data="{'translat...") 
+
+0.1027  | Tweet 3092: Translated(src=es, dest=en, text=Nothing stops them 🔥🇻🇪 | Venezuelans without limits: the migrants who dream of being part of the national team of… https://t.co/EJTgUiujZ0, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3093: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/6qhc9EmViB, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/6qhc9EmViB, extra_data="{'translat...") 
+
+-0.7351  | Tweet 3094: Translated(src=es, dest=en, text=At least 130 Venezuelans were arrested in a nightclub in Peru https://t.co/Rs0GFqhWHf #noticias #carabobo #venezuela, pronunciation=At least 130 Venezuelans were arrested in a nightclub in Peru https://t.co/Rs0GFqhWHf #noticias #carabobo #venezuela, extra_data="{'translat...") 
+
+0.7579  | Tweet 3095: Translated(src=es, dest=en, text=@hispanopost: #Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/3ng5…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7579  | Tweet 3096: Translated(src=es, dest=en, text=#Trend | Venezuelan doctors in Peru take care of the health of their countrymen, offer free consultations https://t.co/3ng5Nk0Z6k, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 3097: Translated(src=es, dest=en, text=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/03NvajiDxG, pronunciation=More than 130 Venezuelans were arrested in a nightclub in Peru and released 12 days later https://t.co/03NvajiDxG, extra_data="{'translat...") 
+
+0.0  | Tweet 3098: Translated(src=es, dest=en, text=@RCidencial: ▷ In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago https://t.co/…, pronunciation=@RCidencial: ▷ In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago https://t.co/…, extra_data="{'translat...") 
+
+0.0  | Tweet 3099: Translated(src=es, dest=en, text=@elimpulsocom: In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago https://t.co/XL4…, pronunciation=@elimpulsocom: In Peru they detained more than 100 Venezuelans at a party, they released them and now they are going to deport them #25Ago https://t.co/XL4…, extra_data="{'translat...") 
+
+0.0  | Tweet 3100: Translated(src=es, dest=en, text=@AlixMihay @ScZamurai @ocram the intonation and modulation among a person from Lima, be it from any district, is very different… https://t.co/c3U6Px4Xqu, pronunciation=@AlixMihay @ScZamurai @ocram the intonation and modulation among a person from Lima, be it from any district, is very different… https://t.co/c3U6Px4Xqu, extra_data="{'translat...") 
+
+-0.5719  | Tweet 3101: Translated(src=es, dest=en, text=@presidenciaperu
+@pcmperu
+@MininterPeru
+Foreign criminals, Colombians, Venezuelans and Brazil
+they have found… https://t.co/wu9vhsIv3d, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 3102: Translated(src=es, dest=en, text=@rostrosven: Would you participate from Peru in the Venezuelan elections to elect a new president in 2024?
+
+We want to know what you think ht…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 3103: Translated(src=es, dest=en, text=Would you participate from Peru in the Venezuelan elections to elect a new president in 2024?
+
+We want to know what or… https://t.co/dTyAjQHUm2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3104: Translated(src=es, dest=en, text=@KeiAzkaban It is the same young woman who said in Peru: "Venezuelan women with their totona take away the husband of Peruvian women",… https://t.co/H8lSqWqm6H, pronunciation=@KeiAzkaban It is the same young woman who said in Peru: "Venezuelan women with their totona take away the husband of Peruvian women",… https://t.co/H8lSqWqm6H, extra_data="{'translat...") 
+
+0.1531  | Tweet 3105: Translated(src=es, dest=en, text=@VanessaOrtizz Friend @VanessaOrtizz, be objective... insecurity is low in the diaspora. That is a truth of but… https://t.co/u6VgNh8FT1, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6249  | Tweet 3106: Translated(src=es, dest=en, text=@diariocriterio: #UPDATE || According to official data from Amnesty International for the Americas, gender-based violence against…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6249  | Tweet 3107: Translated(src=es, dest=en, text=#UPDATE || According to official data from Amnesty International for the Americas, gender-based violence with… https://t.co/bPI0DnLMrM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6478  | Tweet 3108: Translated(src=es, dest=en, text=Donella sounded very silly today 🤩 in love.
+
+Donella: *explains about the serious economic and social situation of… https://t.co/nkvOnhm7aG, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.0516  | Tweet 3109: Translated(src=es, dest=en, text=@tromepe: SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/xkYuLigC7h, pronunciation=@tromepe: SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/xkYuLigC7h, extra_data="{'translat...") 
+
+0.5267  | Tweet 3110: Translated(src=es, dest=en, text=Get to know the 'SAMMI' podcast that shares stories of Venezuelan women leaders in Peru https://t.co/LABFgTDvvW, pronunciation=Get to know the 'SAMMI' podcast that shares stories of Venezuelan women leaders in Peru https://t.co/LABFgTDvvW, extra_data="{'translat...") 
+
+-0.0516  | Tweet 3111: Translated(src=es, dest=en, text=SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/xkYuLigC7h, pronunciation=SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/xkYuLigC7h, extra_data="{'translat...") 
+
+0.5267  | Tweet 3112: Translated(src=es, dest=en, text=Get to know the 'SAMMI' podcast that shares stories of Venezuelan women leaders in Peru https://t.co/ftigN4xJAL, pronunciation=Get to know the 'SAMMI' podcast that shares stories of Venezuelan women leaders in Peru https://t.co/ftigN4xJAL, extra_data="{'translat...") 
+
+-0.0516  | Tweet 3113: Translated(src=es, dest=en, text=SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/YaqFinn08L, pronunciation=SAMMI, the podcast that shares the struggle stories of Venezuelan women in Peru https://t.co/YaqFinn08L, extra_data="{'translat...") 
+
+0.5267  | Tweet 3114: Translated(src=es, dest=en, text=Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https://t.co/Ult5JqGyPS, pronunciation=Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https://t.co/Ult5JqGyPS, extra_data="{'translat...") 
+
+0.5267  | Tweet 3115: Translated(src=es, dest=en, text=@peru21noticias: Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https…, pronunciation=@peru21noticias: Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https…, extra_data="{'translat...") 
+
+0.5267  | Tweet 3116: Translated(src=es, dest=en, text=Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https://t.co/qfFjMVZIgi, pronunciation=Stories with SAMMI: Meet the podcast that shares the resilience stories of Venezuelan women leaders in Peru https://t.co/qfFjMVZIgi, extra_data="{'translat...") 
+
+-0.0516  | Tweet 3117: Translated(src=es, dest=en, text=@marthamarco_ Well, in places of guerrilla warfare I have seen several mercenaries the same with members of the esp… https://t.co/v7D3FHJkWa, pronunciation=@marthamarco_ Well, in places of guerrilla warfare I have seen several mercenaries the same with members of the esp… https://t.co/v7D3FHJkWa, extra_data="{'translat...") 
+
+0.6486  | Tweet 3118: Translated(src=es, dest=en, text=@swingerslatam I am from Peru, but living in the US and well, I know the city of Medellín since my ex-wife… https://t.co/c2pBNlnohC, pronunciation=@swingerslatam I am from Peru, but living in the US and well, I know the city of Medellín since my ex-wife… https://t.co/c2pBNlnohC, extra_data="{'translat...") 
+
+-0.5267  | Tweet 3119: Translated(src=es, dest=en, text=#UPDATE || An Amnesty International report indicates that state abandonment in Colombia and Peru causes despr… https://t.co/hncZ7mvsq9, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.886  | Tweet 3120: Translated(src=es, dest=en, text=@Ubadel10: Amnesty International report indicates that state abandonment in Colombia and Peru causes lack of protection and gender violence…, pronunciation=@Ubadel10: Amnesty International report indicates that state abandonment in Colombia and Peru causes lack of protection and gender violence…, extra_data="{'translat...") 
+
+-0.296  | Tweet 3121: Translated(src=es, dest=en, text=@YohaDeGouveia: How ugly they treat us here in Peru for being Venezuelans., pronunciation=@YohaDeGouveia: How ugly they treat us here in Peru for being Venezuelans., extra_data="{'translat...") 
+
+-0.886  | Tweet 3122: Translated(src=es, dest=en, text=Amnesty International report indicates that state abandonment in Colombia and Peru causes lack of protection and violence… https://t.co/5j1CfUktUY, pronunciation=Amnesty International report indicates that state abandonment in Colombia and Peru causes lack of protection and violence… https://t.co/5j1CfUktUY, extra_data="{'translat...") 
+
+-0.9554  | Tweet 3123: Translated(src=es, dest=en, text=@larepublica_pe @DenisseTorrico IN PERU THEY REJECT AND CALLED US AS THE WORST BUT WHEN THE US DEPOSES IN A MASSIVE WAY N… https://t.co/cIZVxaZMhC, pronunciation=@larepublica_pe @DenisseTorrico IN PERU THEY REJECT AND CALLED US AS THE WORST BUT WHEN THE US DEPOSES IN A MASSIVE WAY N… https://t.co/cIZVxaZMhC, extra_data="{'translat...") 
+
+-0.296  | Tweet 3124: Translated(src=es, dest=en, text=How ugly how they treat us here in Peru for being Venezuelans., pronunciation=How ugly how they treat us here in Peru for being Venezuelans., extra_data="{'translat...") 
+
+0.4767  | Tweet 3125: Translated(src=es, dest=en, text=@Putin2122 @jefemaestro1993 @ionutzeu @VanessaOrtizz Fidel Castro deserves all the respect he educated his people.
+Come… https://t.co/jslBn9xALB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3126: Translated(src=es, dest=en, text=@RadioNacionalFM: 🔴 LIVE | Iris Baño Romero, communications officer of @ACNURPeru: "There are around 532 thousand Venezuelan people..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3127: Translated(src=es, dest=en, text=@RadioNacionalFM: 🔴 LIVE | @IrisBanoRomero, communications officer of @ACNURPeru: ''We also have a study that tells us that s…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3128: Translated(src=es, dest=en, text=🔴 LIVE | @IrisBanoRomero, communications officer of @ACNURPeru: ''We also have a study that tells us that… https://t.co/gMuMEiNPdp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3129: Translated(src=es, dest=en, text=🔴 LIVE | Iris Baño Romero, communications officer of @ACNURPeru: ''There are around 532 thousand Venezuelan people… https://t.co/pxOjJnCqz4, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 3130: Translated(src=es, dest=en, text=STOP! 7 out of 10 Venezuelan migrants in Ecuador and Peru consider that their compatriots suffer violence from… https://t.co/mGhwhbKx3i, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8356  | Tweet 3131: Translated(src=es, dest=en, text=STOP! 7 out of 10 Venezuelan migrants in Ecuador and Peru consider that their compatriots suffer violence from… https://t.co/rzxvFqDbJx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4389  | Tweet 3132: Translated(src=es, dest=en, text=COOL! Tigritas del deporte: the Venezuelans who promote kickingball in Peru https://t.co/nBLGP9WsIs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4515  | Tweet 3133: Translated(src=es, dest=en, text=@bbcmundo and what are you waiting for?? benefits for Venezuelans and other migrants no, there are people from Peru, Cuba, Ha… https://t.co/yClar53upb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3134: Translated(src=es, dest=en, text=@bbcmundo: The first phase is for Venezuelans, but a second will give way to irregular migrants from Peru, Cuba, Haiti... etc.
+https:…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3135: Translated(src=es, dest=en, text=@parislima: .@chaparro_am ::: [#other_shame] #CongresoPerú wants to facilitate the #expulsion of #Venezuelan_migrants.
+A #project…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3136: Translated(src=es, dest=en, text=The first phase is for Venezuelans, but a second will give way to irregular migrants from Peru, Cuba, Haiti... and... https://t.co/BfT2v7tqzV, pronunciation=The first phase is for Venezuelans, but a second will give way to irregular migrants from Peru, Cuba, Haiti... and... https://t.co/BfT2v7tqzV, extra_data="{'translat...") 
+
+0.0  | Tweet 3137: Translated(src=es, dest=en, text=.@chaparro_am ::: [#other_shame] #CongresoPerú wants to facilitate the #expulsion of #Venezuelan_migrants.
+A… https://t.co/XOZ9Wrs5ly, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3138: Translated(src=es, dest=en, text=@MasNoticiasVe: Venezuelan migrants who decided to return to their country, have been returned to Chile, Peru or Colombia for not getting work…, pronunciation=@MasNoticiasVe: Venezuelan migrants who decided to return to their country, have been returned to Chile, Peru or Colombia for not getting work…, extra_data="{'translat...") 
+
+0.0  | Tweet 3139: Translated(src=es, dest=en, text=Venezuelan migrants who decided to return to their country have been returned to Chile, Peru or Colombia for not getting… https://t.co/CurRLxVrI7, pronunciation=Venezuelan migrants who decided to return to their country have been returned to Chile, Peru or Colombia for not getting… https://t.co/CurRLxVrI7, extra_data="{'translat...") 
+
+0.0  | Tweet 3140: Translated(src=es, dest=en, text=Colombia, Peru and Ecuador are the countries with the most Venezuelan migrants | #Country #31Aug
+https://t.co/sVf7a83aHy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3141: Translated(src=es, dest=en, text=@poloninadia: Peru wants to facilitate the expulsion of Venezuelan migrants. A bill establishes a direct link between delinquency…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3142: Translated(src=es, dest=en, text=@jorgealvaradoja: Now the destiny of Venezuelan migrants is to cross the Darién jungle and then cross the Rio Bravo Mexico to arrive…, pronunciation=@jorgealvaradoja: Now the destiny of Venezuelan migrants is to cross the Darién jungle and then cross the Rio Bravo Mexico to arrive…, extra_data="{'translat...") 
+
+0.0  | Tweet 3143: Translated(src=es, dest=en, text=Now the destiny of Venezuelan migrants is to cross the Darien jungle and then cross the Rio Bravo Mexico to l… https://t.co/B6matP1t6Z, pronunciation=Now the destiny of Venezuelan migrants is to cross the Darien jungle and then cross the Rio Bravo Mexico to l… https://t.co/B6matP1t6Z, extra_data="{'translat...") 
+
+-0.3182  | Tweet 3144: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/T8ijE6DHhO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3145: Translated(src=es, dest=en, text=@now_contenido: #Peru, a project to facilitate the expulsion of migrants arriving from #Venezuela https://t.co/QU394EAqJO https://t.co/OkM…, pronunciation=@now_contenido: #Peru, a project to facilitate the expulsion of migrants arriving from #Venezuela https://t.co/QU394EAqJO https://t.co/OkM…, extra_data="{'translat...") 
+
+0.0  | Tweet 3146: Translated(src=es, dest=en, text=#Peru, project to facilitate the expulsion of migrants arriving from #Venezuela https://t.co/QU394EAqJO https://t.co/OkMXYaYVLn, pronunciation=#Peru, project to facilitate the expulsion of migrants arriving from #Venezuela https://t.co/QU394EAqJO https://t.co/OkMXYaYVLn, extra_data="{'translat...") 
+
+-0.3182  | Tweet 3147: Translated(src=es, dest=en, text=#Migration | The Aragua Train extended its operations to Bolivia, Peru, Chile and Colombia. Among his victims p… https://t.co/qT4dxb2lqh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 3148: Translated(src=es, dest=en, text=Peru wants to facilitate the expulsion of Venezuelan migrants. A bill establishes a direct link between… https://t.co/avxQuHxPEf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2732  | Tweet 3149: Translated(src=es, dest=en, text=@Juan11743384: #BREAKING | The #UN confirms that the mass exodus of #Venezuelans increased to 6.8 million migrants
+
+Only #Colombia ag…, pronunciation=[[]], extra_data="{'translat...") 
+
