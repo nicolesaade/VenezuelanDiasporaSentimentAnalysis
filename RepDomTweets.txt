@@ -1742,3 +1742,261 @@ And that…, pronunciation=None, extra_data="{'translat...")
 
 0.584  | Tweet 685: Translated(src=es, dest=en, text=@GuzmanFermin1 @CapellanSanchez It shows very well that you do not know Mathematics, for you to come out from under a Cam… https://t.co/v1hrzLJCUX, pronunciation=@GuzmanFermin1 @CapellanSanchez It shows very well that you do not know Mathematics, for you to come out from under a Cam… https://t.co/v1hrzLJCUX, extra_data="{'translat...") 
 
+-0.93  | Tweet 686: Translated(src=es, dest=en, text=@leovillaoficial And you are a bastard who pays you to say these stupid things and divide even more… https://t.co/hstKJ96c6N, pronunciation=@leovillaoficial And you are a bastard who pays you to say these stupid things and divide even more… https://t.co/hstKJ96c6N, extra_data="{'translat...") 
+
+-0.875  | Tweet 687: Translated(src=es, dest=en, text=This Dictator of @NicolasMaduro does not know the history of the Genocide Jacques Dessalines, who killed children and women D… https://t.co/s2LpNMmnM5, pronunciation=This Dictator of @NicolasMaduro does not know the history of the Genocide Jacques Dessalines, who killed children and women D… https://t.co/s2LpNMmnM5, extra_data="{'translat...") 
+
+0.0  | Tweet 688: Translated(src=es, dest=en, text=@GlobalizateR: 👉The Normalization Plan for Venezuelans in the Dominican Republic has given regular immigration #status to more than 30…, pronunciation=@GlobalizateR: 👉The Normalization Plan for Venezuelans in the Dominican Republic has given regular immigration #status to more than 30…, extra_data="{'translat...") 
+
+0.7591  | Tweet 689: Translated(src=es, dest=en, text=@leovillaoficial The only ones who live well in VENEZUELA, ARE THE PLUGGED LIKE YOU. But better ask him… https://t.co/AUBmSFeuF9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 690: Translated(src=es, dest=en, text=👉The Normalization Plan for Venezuelans in the Dominican Republic has given regular immigration #status to more… https://t.co/ixZZaP0QIl, pronunciation=👉The Normalization Plan for Venezuelans in the Dominican Republic has given regular immigration #status to more… https://t.co/ixZZaP0QIl, extra_data="{'translat...") 
+
+0.1989  | Tweet 691: Translated(src=es, dest=en, text=@andy_presidente @AndiRiedl7 Venezuelans are more grateful people, they even block people from the Republic… https://t.co/wtuzQ4tKO1, pronunciation=@andy_presidente @AndiRiedl7 Venezuelans are more grateful people, they even block people from the Republic… https://t.co/wtuzQ4tKO1, extra_data="{'translat...") 
+
+-0.516  | Tweet 692: Translated(src=es, dest=en, text=@Anynameforyou: They are DESPERATELY looking for bilingual teachers to teach the children of asylum seeking families.
+
+The is…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.516  | Tweet 693: Translated(src=es, dest=en, text=They are DESPERATELY looking for bilingual teachers to teach the children of asylum seeking families.
+
+The… https://t.co/g3JYubbfE3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 694: Translated(src=es, dest=en, text=@existirlibres: @ghitis @UnamonosxCol The illegitimate M19 guerrilla literally confirms his hatred of 🇨🇴🆘📢
+From what little was reported and…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 695: Translated(src=es, dest=en, text=@ghitis @UnamonosxCol The illegitimate M19 guerrilla literally confirms his hatred of 🇨🇴🆘📢
+From what little is known… https://t.co/SX8Y2jNv0x, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 696: Translated(src=es, dest=en, text=@luisabinader Mr. President Luis Abinader, my regards to you… I want to ask you a question; when will it give us… https://t.co/XUrtgjCrQ5, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 697: Translated(src=es, dest=en, text=@_cinco8: 🇩🇴🇻🇪 In a country where more than 120 thousand Venezuelans already live, Lilliam Frías, one of the voices of Un Solo Pueblo, returned to the scene…, pronunciation=@_cinco8: 🇩🇴🇻🇪 In a country where more than 120 thousand Venezuelans already live, Lilliam Frías, one of the voices of Un Solo Pueblo, returned to the scene…, extra_data="{'translat...") 
+
+0.0  | Tweet 698: Translated(src=es, dest=en, text=🇩🇴🇻🇪 In a country where more than 120 thousand Venezuelans already live, Lilliam Frías, one of the voices of Un Solo Pueblo, returned… https://t.co/iQN9fR3D5u, pronunciation=🇩🇴🇻🇪 In a country where more than 120 thousand Venezuelans already live, Lilliam Frías, one of the voices of Un Solo Pueblo, returned… https://t.co/iQN9fR3D5u, extra_data="{'translat...") 
+
+0.4939  | Tweet 699: Translated(src=es, dest=en, text=@LucyPN And because evil has multiplied, the love of many will cool down, it's biblical, but here in the Dominican Republic… https://t.co/l8qV6Tk1hX, pronunciation=@LucyPN And because evil has multiplied, the love of many will cool down, it's biblical, but here in the Dominican Republic… https://t.co/l8qV6Tk1hX, extra_data="{'translat...") 
+
+0.4404  | Tweet 700: Translated(src=es, dest=en, text=@SecPrensaSV @CEPASV @anliker1980 Go ahead ARAJET. Venezuelans with links in the Dominican Republic, we hope that… https://t.co/Cekkp8NkAx, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 701: Translated(src=es, dest=en, text=@lalogitud: Tarek William Saab..
+This is how scammers get caught, without thanking any president... PRINT ON VENEZUELAN BANKNOTES..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6207  | Tweet 702: Translated(src=es, dest=en, text=@dosquintetoscom A lack of RESPECT for VENEZUELAN PROFESSIONALS... why a FOREIGNER has to direct the C… https://t.co/a6CaW5E6Kx, pronunciation=@dosquintetoscom A lack of RESPECT for VENEZUELAN PROFESSIONALS... why a FOREIGNER has to direct the C… https://t.co/a6CaW5E6Kx, extra_data="{'translat...") 
+
+-0.1877  | Tweet 703: Translated(src=es, dest=en, text=@geronimomaneiro @GFdeVenezuela It is not exclusive to Venezuelans, in the Dominican Republic it is a tradition to ask for it., pronunciation=@geronimomaneiro @GFdeVenezuela It is not exclusive to Venezuelans, in the Dominican Republic it is a tradition to ask for it., extra_data="{'translat...") 
+
+-0.9118  | Tweet 704: Translated(src=es, dest=en, text=Abinader screwed us, Dominican Republic under attack, Haitians and Venezuelans, pronunciation=Abinader screwed us, Dominican Republic under attack, Haitians and Venezuelans, extra_data="{'translat...") 
+
+0.8555  | Tweet 705: Translated(src=es, dest=en, text=@IFChicago: In NY they have been listening to the best salsa in the world for more than fifty years, it is the home of large Latin communities, such as…, pronunciation=@IFChicago: In NY they have been listening to the best salsa in the world for more than fifty years, it is the home of large Latin communities, such as…, extra_data="{'translat...") 
+
+0.8555  | Tweet 706: Translated(src=es, dest=en, text=In NY they have been listening to the best salsa in the world for more than fifty years, it is the home of large Latin communities,… https://t.co/2vx9QHatLz, pronunciation=In NY they have been listening to the best salsa in the world for more than fifty years, it is the home of large Latin communities,… https://t.co/2vx9QHatLz, extra_data="{'translat...") 
+
+-0.7351  | Tweet 707: Translated(src=es, dest=en, text=@widhaiti_shop @VinicioSenador Of course it is legal, they are illegal when your stay exceeds the time that is for… https://t.co/dg8SHpUTx7, pronunciation=@widhaiti_shop @VinicioSenador Of course it is legal, they are illegal when your stay exceeds the time that is for… https://t.co/dg8SHpUTx7, extra_data="{'translat...") 
+
+0.0  | Tweet 708: Translated(src=es, dest=en, text=@delgado_yasfir @YecidGarrido @EAristeguieta They also ask Venezuelans for a visa: Aruba, Chile, Costa Rica, Cu… https://t.co/IhNUcer61c, pronunciation=@delgado_yasfir @YecidGarrido @EAristeguieta They also ask Venezuelans for a visa: Aruba, Chile, Costa Rica, Cu… https://t.co/IhNUcer61c, extra_data="{'translat...") 
+
+0.0  | Tweet 709: Translated(src=es, dest=en, text=@ConsultaPorVzla: The world knows that the legitimate National Assembly is the one chosen by millions of Venezuelans in 2015. Germany, Brazil,…, pronunciation=@ConsultaPorVzla: The world knows that the legitimate National Assembly is the one chosen by millions of Venezuelans in 2015. Germany, Brazil,…, extra_data="{'translat...") 
+
+-0.4939  | Tweet 710: Translated(src=es, dest=en, text=@dominiki809: They say that accents don't stick, last night I was with Venezuelan cigars and my ex's maracucho came out...they even doubted that..., pronunciation=@dominiki809: They say that accents don't stick, last night I was with Venezuelan cigars and my ex's maracucho came out...they even doubted that..., extra_data="{'translat...") 
+
+0.0  | Tweet 711: Translated(src=es, dest=en, text=@Linoduranp @Chuchoponte already last year, there were 3 Venezuelans in the Dominican, Odubel Herrera, and the Receivers Rene… https://t.co/fqQ3bj3PPM, pronunciation=@Linoduranp @Chuchoponte already last year, there were 3 Venezuelans in the Dominican, Odubel Herrera, and the Receivers Rene… https://t.co/fqQ3bj3PPM, extra_data="{'translat...") 
+
+0.0  | Tweet 712: Translated(src=ilo, dest=en, text=@Alcyonemito @adrianUltraD @alexisaguirre72 @MacaSuarezVE Oooohhhhh but what a coincidence that OS is sent by everyone... https://t.co/7C4kiTUbtc, pronunciation=@Alcyonemito @adrianUltraD @alexisaguirre72 @MacaSuarezVE Oooohhhhh but what a coincidence that OS is sent by everyone... https://t.co/7C4kiTUbtc, extra_data="{'translat...") 
+
+0.0  | Tweet 713: Translated(src=es, dest=en, text=They say that accents don't stick, last night I was with Venezuelan cigars and my ex's maracucho came out... until I doubt… https://t.co/GCrfOSJRV3, pronunciation=They say that accents don't stick, last night I was with Venezuelan cigars and my ex's maracucho came out... until I doubt… https://t.co/GCrfOSJRV3, extra_data="{'translat...") 
+
+0.9637  | Tweet 714: Translated(src=es, dest=en, text=When I see Venezuelans enjoying Venezuelan food, yes, it is really rich, but Colombian food is also very good… https://t.co/z0xtncn7rP, pronunciation=When I see Venezuelans enjoying Venezuelan food, yes, it is really rich, but Colombian food is also very good… https://t.co/z0xtncn7rP, extra_data="{'translat...") 
+
+0.0  | Tweet 715: Translated(src=es, dest=en, text=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCA2uS, pronunciation=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCA2uS, extra_data="{'translat...") 
+
+0.0  | Tweet 716: Translated(src=es, dest=en, text=@MeridianoTV: World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCir6i, pronunciation=@MeridianoTV: World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCir6i, extra_data="{'translat...") 
+
+0.0  | Tweet 717: Translated(src=es, dest=en, text=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCir6i, pronunciation=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCir6i, extra_data="{'translat...") 
+
+0.0  | Tweet 718: Translated(src=ru, dest=en, text=@atletashome @antoniopuesan @JLMendoza_ @WinterballData @ngomez27 @nestornerreras @vodelfanatico @carloszlogo… https://t.so/lxGvnk2M, pronunciation=None, extra_data="{'translat...") 
+
+-0.8481  | Tweet 719: Translated(src=es, dest=en, text=@LuisSucesosLuis: A 6-year-old Venezuelan boy was murdered and wounded 2 migrant adults after an assault in the Dairén jungle
+I raided them…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8481  | Tweet 720: Translated(src=es, dest=en, text=@leovillaoficial Mr. You are a hypocrite, you in the past when the country was beginning the disaster you… https://t.co/kBtSmBiEJG, pronunciation=@leovillaoficial Mr. You are a hypocrite, you in the past when the country was beginning the disaster you… https://t.co/kBtSmBiEJG, extra_data="{'translat...") 
+
+-0.5423  | Tweet 721: Translated(src=es, dest=en, text=@feluchini: Report 4:00 am. Attention .. Coletazos of the now Hurricane Fiona that is over the Dominican Republic, produces bad weather in the West ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.1744  | Tweet 722: Translated(src=es, dest=en, text=@juneik_13: @leovillaoficial @imerua We understand you Leo, you are Venezuelan just like all of us. If you didn't do well in the Dominican it's..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.1744  | Tweet 723: Translated(src=es, dest=en, text=@leovillaoficial @imerua We understand you Leo, you are Venezuelan just like all of us. If you did not do well in Domin… https://t.co/V5LDF2zkgZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 724: Translated(src=es, dest=en, text=This is how coffee is made in the Dominican Republic ☕️ 🇩🇴 https://t.co/G0LC9J8uA4 via @YouTube #youtube #cafe… https://t.co/pcvTLs8Zc8, pronunciation=This is how coffee is made in the Dominican Republic ☕️ 🇩🇴 https://t.co/G0LC9J8uA4 via @YouTube #youtube #cafe… https://t.co/pcvTLs8Zc8, extra_data="{'translat...") 
+
+0.0  | Tweet 725: Translated(src=es, dest=en, text=The national baseball team already knows the schedule for how the first phase of the 2023 World Classic will play… https://t.co/HhPAciNsQo, pronunciation=The national baseball team already knows the schedule for how the first phase of the 2023 World Classic will play… https://t.co/HhPAciNsQo, extra_data="{'translat...") 
+
+-0.4404  | Tweet 726: Translated(src=es, dest=en, text=@ Vivianacollado1: How many dirty words are heard in the mouths of these Barriales women from Dominican television.
+#HowWeChange…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7003  | Tweet 727: Translated(src=es, dest=en, text=How many dirty words are heard in the mouths of these Barriales women from Dominican television.… https://t.co/Kas9jzwUpu, pronunciation=How many dirty words are heard in the mouths of these Barriales women from Dominican television.… https://t.co/Kas9jzwUpu, extra_data="{'translat...") 
+
+0.0  | Tweet 728: Translated(src=es, dest=en, text=@MeridianoTV: #WBSC | World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCAAkq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 729: Translated(src=es, dest=en, text=@MeridianoTV: World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCA2uS, pronunciation=@MeridianoTV: World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCA2uS, extra_data="{'translat...") 
+
+0.0  | Tweet 730: Translated(src=es, dest=en, text=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/4Ori9FOg2J https://t.co/nEknRpSmPJ, pronunciation=World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/4Ori9FOg2J https://t.co/nEknRpSmPJ, extra_data="{'translat...") 
+
+0.0  | Tweet 731: Translated(src=es, dest=en, text=#WBSC | World Baseball Classic Calendar: Venezuela debuts against the Dominican Republic (+Tweet) https://t.co/s2nhlCAAkq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 732: Translated(src=es, dest=en, text=@DihigoGilberto: The “Concordia” team in one way or another planted the seed for the future Caribbean Series, since it was the first team…, pronunciation=@DihigoGilberto: The “Concordia” team in one way or another planted the seed for the future Caribbean Series, since it was the first team…, extra_data="{'translat...") 
+
+0.0  | Tweet 733: Translated(src=es, dest=en, text=#BaloncestoVenezolano GRANDES IMPOADOS: @jack15martinez (Dominican Republic) is a fixture in Venezuelan basketball… https://t.co/qVvQQcweQ8, pronunciation=#BaloncestoVenezolano GRANDES IMPOADOS: @jack15martinez (Dominican Republic) is a fixture in Venezuelan basketball… https://t.co/qVvQQcweQ8, extra_data="{'translat...") 
+
+0.0  | Tweet 734: Translated(src=es, dest=en, text=The "Concordia" team in one way or another sowed the seed of the future Caribbean Series, since it was the first… https://t.co/b9pv0KdDK6, pronunciation=The "Concordia" team in one way or another sowed the seed of the future Caribbean Series, since it was the first… https://t.co/b9pv0KdDK6, extra_data="{'translat...") 
+
+-0.024  | Tweet 735: Translated(src=es, dest=en, text=What does the word Gafo mean in Venezuelan?
+
+As a synonym for fool ('who has little intelligence or little understanding… https://t.co/TQSOSvxj9Y, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 736: Translated(src=es, dest=en, text=@arcosisaac1 @CopaAirlines hey what happened to this?? You can make a stopover in the Dominican Republic to go to Cara… https://t.co/pa4ceBSjYi, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.25  | Tweet 737: Translated(src=es, dest=en, text=@maduradascom: This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning in Repú…, pronunciation=@maduradascom: This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning in Repú…, extra_data="{'translat...") 
+
+0.296  | Tweet 738: Translated(src=es, dest=en, text=@Alberto_8019: Be careful what you are going to drink and where, be careful where you travel. This is how it was after ingesting alcohol with a toxic.
+👇
+https://t.co/JFr…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 739: Translated(src=es, dest=en, text=@rikkawawa As you can see, the Venezuelan passport has much more power than the Dominican Republic and Ecuador and Bolivia https://t.co/bSiMPk51bo, pronunciation=@rikkawawa As you can see, the Venezuelan passport has much more power than the Dominican Republic and Ecuador and Bolivia https://t.co/bSiMPk51bo, extra_data="{'translat...") 
+
+-0.25  | Tweet 740: Translated(src=es, dest=en, text=This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning and… https://t.co/zyzSYizzcx, pronunciation=This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning and… https://t.co/zyzSYizzcx, extra_data="{'translat...") 
+
+0.296  | Tweet 741: Translated(src=es, dest=en, text=Be careful what you are going to drink and where, be careful where you travel. This is how she was after ingesting alcohol with a toxic.
+👇
+https://t.co/JFrujVnaLM, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8519  | Tweet 742: Translated(src=es, dest=en, text=A 6-year-old Venezuelan boy was killed and wounded 2 migrant adults after an assault in the Dairén jungle
+The a… https://t.co/JexW3B657O, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 743: Translated(src=es, dest=en, text=@JuanC_MSC @bjs_alejo2 @puyidominicano @TorresErwerle Venezuelan starving, the Argentine team is the 3rd… https://t.co/lVoDwliewR, pronunciation=@JuanC_MSC @bjs_alejo2 @puyidominicano @TorresErwerle Venezuelan starving, the Argentine team is the 3rd… https://t.co/lVoDwliewR, extra_data="{'translat...") 
+
+-0.25  | Tweet 744: Translated(src=es, dest=en, text=This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning and… https://t.co/aTk9gSI1m5, pronunciation=This is the health of Armando Medina, the Venezuelan tattoo artist who survived methanol poisoning and… https://t.co/aTk9gSI1m5, extra_data="{'translat...") 
+
+0.3818  | Tweet 745: Translated(src=es, dest=en, text=@ElTabloncillo That is fine but very hairy unless you are a first-generation Venezuelan gringo of all… https://t.co/KEZzFBfISH, pronunciation=@ElTabloncillo That is fine but very hairy unless you are a first-generation Venezuelan gringo of all… https://t.co/KEZzFBfISH, extra_data="{'translat...") 
+
+-0.5423  | Tweet 746: Translated(src=es, dest=en, text=@AsiEsNoticiasVe: Report 4:00 am. Attention .. Coletazos of the now Hurricane Fiona that is over the Dominican Republic, produces bad weather in the West ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5423  | Tweet 747: Translated(src=es, dest=en, text=Report 4:00 a.m. Attention .. Coletazos of the now Hurricane Fiona that is over the Dominican Republic, produces bad weather in the O… https://t.co/Z6PK9Ns7ad, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1511  | Tweet 748: Translated(src=es, dest=en, text=I, a Venezuelan citizen living in the Dominican Republic, with a salary that does not pay even a week, looking for preci… https://t.co/aCBm78O6xC, pronunciation=I, a Venezuelan citizen living in the Dominican Republic, with a salary that does not pay even a week, looking for preci… https://t.co/aCBm78O6xC, extra_data="{'translat...") 
+
+0.0  | Tweet 749: Translated(src=es, dest=en, text=Goods they have must be placed at the disposal of the Venezuelan people, in Spain there are many, the Dominican Republic, Me… https://t.co/W7GqoytKP0, pronunciation=Goods they have must be placed at the disposal of the Venezuelan people, in Spain there are many, the Dominican Republic, Me… https://t.co/W7GqoytKP0, extra_data="{'translat...") 
+
+0.34  | Tweet 750: Translated(src=es, dest=en, text=#Baseball Venezuelan Edward Olivares will play this year in the Dominican Republic
+
+https://t.co/SQMwBn4EaX, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5423  | Tweet 751: Translated(src=es, dest=en, text=Report 4:00 a.m. Attention .. Coletazos of the now Hurricane Fiona that is over the Dominican Republic, produces bad weather in the O… https://t.co/QgnGD27Wzl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 752: Translated(src=es, dest=en, text=Venezuelan Edward Olivares will play with Estrellas Orientales in the Dominican League (LIDOM) https://t.co/W9JW7uSO4h, pronunciation=Venezuelan Edward Olivares will play with Estrellas Orientales in the Dominican League (LIDOM) https://t.co/W9JW7uSO4h, extra_data="{'translat...") 
+
+-0.5574  | Tweet 753: Translated(src=es, dest=en, text=@MeridianoTV: Tiburones de La Guaira loses a pitcher who goes to the Dominican https://t.co/0UVwExrkBQ, pronunciation=@MeridianoTV: Tiburones de La Guaira loses a pitcher who goes to the Dominican https://t.co/0UVwExrkBQ, extra_data="{'translat...") 
+
+-0.5574  | Tweet 754: Translated(src=es, dest=en, text=Tiburones de La Guaira loses a pitcher who goes to the Dominican https://t.co/0UVwExrkBQ, pronunciation=Tiburones de La Guaira loses a pitcher who goes to the Dominican https://t.co/0UVwExrkBQ, extra_data="{'translat...") 
+
+0.0  | Tweet 755: Translated(src=es, dest=en, text=@MichelCaballero MAGIC JUAN is practically VENEZUELAN, he came from the DOMINICAN REPUBLIC as a TEENAGER… https://t.co/AN6WJssnkL, pronunciation=@MichelCaballero MAGIC JUAN is practically VENEZUELAN, he came from the DOMINICAN REPUBLIC as a TEENAGER… https://t.co/AN6WJssnkL, extra_data="{'translat...") 
+
+0.4939  | Tweet 756: Translated(src=es, dest=en, text=@feluchini: Warning. Tropical Storm FIONA gains strength in the Caribbean. In the next few hours it will pass over Puerto Rico and north of Domini..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 757: Translated(src=es, dest=en, text=@solarsihoe HAHAHAHAHA I found you in a fish tank in a Venezuelan mall in the Dominican Republic, pronunciation=@solarsihoe HAHAHAHAHA I found you in a fish tank in a Venezuelan mall in the Dominican Republic, extra_data="{'translat...") 
+
+0.6808  | Tweet 758: Translated(src=es, dest=en, text=Warning. Tropical Storm FIONA gains strength in the Caribbean. In the next few hours it will pass over Puerto Rico and to the North… https://t.co/9w5o9diAcr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 759: Translated(src=es, dest=en, text=Venezuelan domino prepares for the World Cup in the Dominican https://t.co/iwa3KgSo2e, pronunciation=Venezuelan domino prepares for the World Cup in the Dominican https://t.co/iwa3KgSo2e, extra_data="{'translat...") 
+
+-0.5574  | Tweet 760: Translated(src=es, dest=en, text=Tiburones de La Guaira loses a pitcher who goes to #Dominicana https://t.co/0UVwExrkBQ, pronunciation=Tiburones de La Guaira loses a pitcher who goes to #Dominicana https://t.co/0UVwExrkBQ, extra_data="{'translat...") 
+
+0.5574  | Tweet 761: Translated(src=es, dest=en, text=@PatriotasDomi: It is the truth, this man is one of the 18 UN agents in the DR, he is controlled in migration, both for V…, pronunciation=@PatriotasDomi: It is the truth, this man is one of the 18 UN agents in the DR, he is controlled in migration, both for V…, extra_data="{'translat...") 
+
+0.5574  | Tweet 762: Translated(src=es, dest=en, text=It is the truth, this man is one of the 18 UN agents in the DR, he is controlled in migration, both p… https://t.co/9eImRrjiT3, pronunciation=It is the truth, this man is one of the 18 UN agents in the DR, he is controlled in migration, both p… https://t.co/9eImRrjiT3, extra_data="{'translat...") 
+
+0.5574  | Tweet 763: Translated(src=es, dest=en, text=@ManuelValdezRD1 It's the truth, this man is one of the 18 UN agents in the DR, he is controlled in m… https://t.co/3EVqYECZBu, pronunciation=@ManuelValdezRD1 It's the truth, this man is one of the 18 UN agents in the DR, he is controlled in m… https://t.co/3EVqYECZBu, extra_data="{'translat...") 
+
+0.0  | Tweet 764: Translated(src=es, dest=en, text=@guerrerohegh @sergiocarlo @edithfebles @RicardoRipoll @nieves_rd @domingo_paez @matiasgarciard And more if they are tight… https://t.co/3mAinG1d01, pronunciation=@guerrerohegh @sergiocarlo @edithfebles @RicardoRipoll @nieves_rd @domingo_paez @matiasgarciard And more if they are tight… https://t.co/3mAinG1d01, extra_data="{'translat...") 
+
+0.1531  | Tweet 765: Translated(src=es, dest=en, text=@gilmiguel55 @jmgi1968 @Juandcayado You want to find your racial angle, I told you that there are black Venezuelans in this country… https://t.co/IiqvxIlKkW, pronunciation=@gilmiguel55 @jmgi1968 @Juandcayado You want to find your racial angle, I told you that there are black Venezuelans in this country… https://t.co/IiqvxIlKkW, extra_data="{'translat...") 
+
+0.0  | Tweet 766: Translated(src=es, dest=en, text=@RohanmyG @estarlinminaj @candelapuya No, the difference is that there are dark Arabs, black Venezuelans,… https://t.co/LyXH5GbLPx, pronunciation=@RohanmyG @estarlinminaj @candelapuya No, the difference is that there are dark Arabs, black Venezuelans,… https://t.co/LyXH5GbLPx, extra_data="{'translat...") 
+
+0.0  | Tweet 767: Translated(src=en, dest=en, text=Paco rabanne one million RD$ 5,500 síguenos👉 Miperfumeriard #OneMillionMarchForObiAndDatti #Perfume_fanart #fragan… https://t.co/weuug0YqEN, pronunciation=Paco rabanne one million RD$ 5,500 síguenos👉 Miperfumeriard #OneMillionMarchForObiAndDatti #Perfume_fanart #fragan… https://t.co/weuug0YqEN, extra_data="{'translat...") 
+
+0.3597  | Tweet 768: Translated(src=es, dest=en, text=@nbysrwkqn8 @unpodcastnice @Pepelucazo @nefgon2012 @legsluquis @EdFiCa Or leave more easily, you could say. In… https://t.co/jBuIlsLgRK, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 769: Translated(src=es, dest=en, text=#NEWYORK #RD #SuccessFactorMagazineNEWS
+Power of Venezuelans Torres and Cabrera buried the Pirates in New York
+In… https://t.co/nXQPOCKh9q, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 770: Translated(src=es, dest=en, text=@VictorP13996448: For the first time in the world, Venezuelan scientists regenerate dental pulp through stem cell implantation - R…, pronunciation=@VictorP13996448: For the first time in the world, Venezuelan scientists regenerate dental pulp through stem cell implantation - R…, extra_data="{'translat...") 
+
+0.0  | Tweet 771: Translated(src=es, dest=en, text=For the first time in the world, Venezuelan scientists regenerate dental pulp through stem cell implantation… https://t.co/fTHxLBbUpv, pronunciation=For the first time in the world, Venezuelan scientists regenerate dental pulp through stem cell implantation… https://t.co/fTHxLBbUpv, extra_data="{'translat...") 
+
+-0.6597  | Tweet 772: Translated(src=es, dest=en, text=@RodRolll @tania__rd Faced with the inability of the populist government, Mexicans, Venezuelans, Cubans, Hondurans and all countries… https://t.co/TnkOa0bsO3, pronunciation=@RodRolll @tania__rd Faced with the inability of the populist government, Mexicans, Venezuelans, Cubans, Hondurans and all countries… https://t.co/TnkOa0bsO3, extra_data="{'translat...") 
+
+-0.9382  | Tweet 773: Translated(src=es, dest=en, text=@tania__rd Maybe satan was there, but now I see a false prophet who killed and ran Venezuelans out of their country., pronunciation=@tania__rd Maybe satan was there, but now I see a false prophet who killed and ran Venezuelans out of their country., extra_data="{'translat...") 
+
+-0.8832  | Tweet 774: Translated(src=es, dest=en, text=@dsmolansky: Unfortunately, a 10-year-old Venezuelan girl was found dead in El Darién. How much pain! At least 14 mig…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 775: Translated(src=es, dest=en, text=@monitoreamos: #BREAKING Biden rules out deporting Venezuelan, Cuban and Nicaraguan migrants: "It's not rational" https://t.co/WCw5Y..., pronunciation=@monitoreamos: #BREAKING Biden rules out deporting Venezuelan, Cuban and Nicaraguan migrants: "It's not rational" https://t.co/WCw5Y..., extra_data="{'translat...") 
+
+0.0  | Tweet 776: Translated(src=es, dest=en, text=@LAKILLlE I googled it and it says that Spanish is spoken by a minority of mainly Venezuelan immigrants… https://t.co/MyqVDf0OAj, pronunciation=@LAKILLlE I googled it and it says that Spanish is spoken by a minority of mainly Venezuelan immigrants… https://t.co/MyqVDf0OAj, extra_data="{'translat...") 
+
+-0.5647  | Tweet 777: Translated(src=es, dest=en, text=@larightdiario: 🇺🇸 | Total hypocrisy: Michelle Obama talked about the racism she suffered in white neighborhoods, but when DeSantis told her…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3818  | Tweet 778: Translated(src=es, dest=en, text=@tania__rd @JHRomero_ And how do Venezuelans live?
+The richest country today overflowing with misery.
+Good for some and p… https://t.co/6MUyIpPPyB, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5875  | Tweet 779: Translated(src=es, dest=en, text=@rubenbarrera591 Uuf yes...they are not having a good time there...and look, there are Venezuelans in the DR, pronunciation=@rubenbarrera591 Uuf yes...they are not having a good time there...and look, there are Venezuelans in the DR, extra_data="{'translat...") 
+
+-0.7579  | Tweet 780: Translated(src=es, dest=en, text=Today in the barbershop a group was discussing a possible Haiti-DR war. Topics:
+- Scenarios of possible battles.
+- Posi… https://t.co/As6gA94jEk, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 781: Translated(src=es, dest=en, text=@mejiaweb @TheeEmpiire There are Venezuelans who have been in the DR for more than 10 years, but as I said there are not so many to saturate… https://t.co/KJcAPnM7UM, pronunciation=@mejiaweb @TheeEmpiire There are Venezuelans who have been in the DR for more than 10 years, but as I said there are not so many to saturate… https://t.co/KJcAPnM7UM, extra_data="{'translat...") 
+
+0.4215  | Tweet 782: Translated(src=es, dest=en, text=@AlbertoRodNews: LAST MINUTE | Former President Iván Duque urges the United States, Canada and the rest of the hemisphere to press for elections ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 783: Translated(src=es, dest=en, text=@aquilesjimenez @UNFPARDC @ONU_es @ONU_poderes @ONU_RD @DGMRD @Alcnta1Venancio @luisabinader @Haitiensp How are they… https://t.co/nKviiWGS68, pronunciation=@aquilesjimenez @UNFPARDC @ONU_es @ONU_poderes @ONU_RD @DGMRD @Alcnta1Venancio @luisabinader @Haitiensp How are they… https://t.co/nKviiWGS68, extra_data="{'translat...") 
+
+0.0  | Tweet 784: Translated(src=es, dest=en, text=@Amarcelagt22: If you are Venezuelan and they are forcing you to march on the 26th, remember that on the same day @petrogustavo opens the border that c…, pronunciation=@Amarcelagt22: If you are Venezuelan and they are forcing you to march on the 26th, remember that on the same day @petrogustavo opens the border that c…, extra_data="{'translat...") 
+
+0.8265  | Tweet 785: Translated(src=es, dest=en, text=@jorgeglem: A very pretty girl at @carnegiehall tells me in English:
+
+- “What is the name of that instrument? It is one of the most beautiful things I have heard…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 786: Translated(src=pt, dest=en, text=@GlobalizateR @OIM_RD @ACNURamericas @OIM_RRMV @ONU_es @UnionEuropeaRD @ilo @coalicionve @PresidenciaRD… https://t.co/VX602hnzR4, pronunciation=@GlobalizateR @OIM_RD @ACNURamericas @OIM_RRMV @ONU_es @UnionEuropeaRD @ilo @coalicionve @PresidenciaRD… https://t.co/VX602hnzR4, extra_data="{'translat...") 
+
+0.5859  | Tweet 787: Translated(src=es, dest=en, text=The driver of @ExatlonTVEEUU the Venezuelan @Fredefutbol shared a video through the networks showing the… https://t.co/1D0nW6oodm, pronunciation=The driver of @ExatlonTVEEUU the Venezuelan @Fredefutbol shared a video through the networks showing the… https://t.co/1D0nW6oodm, extra_data="{'translat...") 
+
+0.0  | Tweet 788: Translated(src=es, dest=en, text=@MaestreLuis1 @AIertaMundiaI This @AlertaMundial is led by Venezuelan Oppositionists. And they are always informed… https://t.co/z6WPUFoVOr, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 789: Translated(src=es, dest=en, text=@fdo_buitrago @diegoarisot @MayuCuesta @VictorP13996448 @celsomrpp @nieves_rd @Manuelcruztv @MigueTavarez… https://t.co/vzsvN4U9yj, pronunciation=@fdo_buitrago @diegoarisot @MayuCuesta @VictorP13996448 @celsomrpp @nieves_rd @Manuelcruztv @MigueTavarez… https://t.co/vzsvN4U9yj, extra_data="{'translat...") 
+
+0.8402  | Tweet 790: Translated(src=es, dest=en, text=@dexter1733 @tania__rd @JHRomero_ Find out, they live in an economic blockade like the Cubans, restrictions like the… https://t.co/AeEfHWpTZ6, pronunciation=@dexter1733 @tania__rd @JHRomero_ Find out, they live in an economic blockade like the Cubans, restrictions like the… https://t.co/AeEfHWpTZ6, extra_data="{'translat...") 
+
+0.0  | Tweet 791: Translated(src=es, dest=en, text=@DRCaribena: #RepublicaDominicana #Venezuela People who are building in #DR. BEWARE of this #Venezuelan #Scammer #KervinFran..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 792: Translated(src=es, dest=en, text=@DRCaribena: #Venezuela People who are building in #RD. BEWARE of this #Venezuelan #Scammer #KervinFranciscoBorges breaches…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 793: Translated(src=es, dest=en, text=#RepublicaDominicana #Venezuela People who are building in #RD. BEWARE of this #Venezuelan #Scammer… https://t.co/GTgJPIiaS1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 794: Translated(src=es, dest=en, text=#Venezuela People who are building in #RD. BEWARE of this #Venezuelan #Scammer #KervinFranciscoBorges i… https://t.co/uG5bsKYBlD, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.871  | Tweet 795: Translated(src=es, dest=en, text=@PrensaXtremard: THIS INTERNATIONAL CRIMINALS WANTED, FOR SEVERAL CRIMES LUIS GUILLERMO GONZALEZ, VENEZUELAN AND HOMOSEXUAL, IS DANGEROUS…, pronunciation=@PrensaXtremard: THIS INTERNATIONAL CRIMINALS WANTED, FOR SEVERAL CRIMES LUIS GUILLERMO GONZALEZ, VENEZUELAN AND HOMOSEXUAL, IS DANGEROUS…, extra_data="{'translat...") 
+
+0.0  | Tweet 796: Translated(src=es, dest=en, text=#Venezuela People who are building in #RD. BEWARE of this #Venezuelan #Scammer #KervinFranciscoBorges i… https://t.co/EA5ITiF1sF, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 797: Translated(src=es, dest=en, text=#Venezuela People who are building in #RD. BEWARE of this #Venezuelan #Scammer #KervinFranciscoBorges i… https://t.co/nrkugEQrcl, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 798: Translated(src=es, dest=en, text=@TropicalWS @HollySanchezSFM How do you think it will be in La Romana, how sad I am Venezuelan here in DR, pronunciation=@TropicalWS @HollySanchezSFM How do you think it will be in La Romana, how sad I am Venezuelan here in DR, extra_data="{'translat...") 
+
+0.1027  | Tweet 799: Translated(src=es, dest=en, text=@rmirez57 @Esperan88656902 The Venezuelan swears that he lives in the DR because to get into a live of Haitians and… https://t.co/GWZAY7qePs, pronunciation=@rmirez57 @Esperan88656902 The Venezuelan swears that he lives in the DR because to get into a live of Haitians and… https://t.co/GWZAY7qePs, extra_data="{'translat...") 
+
+0.7783  | Tweet 800: Translated(src=es, dest=en, text=@tania__rd Just a kind reminder, the president did not invent the 4T, everything is a copy of the Cuban and Venezuelan model., pronunciation=@tania__rd Just a kind reminder, the president did not invent the 4T, everything is a copy of the Cuban and Venezuelan model., extra_data="{'translat...") 
+
+0.0772  | Tweet 801: Translated(src=es, dest=en, text=@luisnunezz Besides, Latin Americans can say that they are from wherever they want. Less one Colombian says… https://t.co/p1E8DMR8jj, pronunciation=[[]], extra_data="{'translat...") 
+

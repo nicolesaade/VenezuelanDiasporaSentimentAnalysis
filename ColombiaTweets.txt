@@ -5707,3 +5707,523 @@ https://t.co/UjYdbRz9Fj, pronunciation=[[]], extra_data="{'translat...")
 
 0.0  | Tweet 2477: Translated(src=es, dest=en, text=@MichelCaballero @DEYSIMMUGUERZAB Since Pérez Jiménez many Venezuelans eradicated in Colombia have progressed, crisis… https://t.co/ZxLjOJOOC2, pronunciation=@MichelCaballero @DEYSIMMUGUERZAB Since Pérez Jiménez many Venezuelans eradicated in Colombia have progressed, crisis… https://t.co/ZxLjOJOOC2, extra_data="{'translat...") 
 
+-0.1531  | Tweet 2478: Translated(src=es, dest=en, text=@dona_pily2: The people who are suffering need a response that does not try to turn them into the political opportunity of the moment…, pronunciation=@dona_pily2: The people who are suffering need a response that does not try to turn them into the political opportunity of the moment…, extra_data="{'translat...") 
+
+-0.1531  | Tweet 2479: Translated(src=es, dest=en, text=People who are suffering need a response that doesn't try to turn them into the political opportunity of… https://t.co/DEWoxKsdcS, pronunciation=People who are suffering need a response that doesn't try to turn them into the political opportunity of… https://t.co/DEWoxKsdcS, extra_data="{'translat...") 
+
+0.0  | Tweet 2480: Translated(src=es, dest=en, text=🇻🇪 Between 200 and 300 Venezuelan migrants arrive daily in Capurganá, Colombia, with the intention of crossing the Go… https://t.co/G7rXEN0Oes, pronunciation=🇻🇪 Between 200 and 300 Venezuelan migrants arrive daily in Capurganá, Colombia, with the intention of crossing the Go… https://t.co/G7rXEN0Oes, extra_data="{'translat...") 
+
+0.8957  | Tweet 2481: Translated(src=es, dest=en, text=@ luisoliveros13 I only hope among so many things, that it is for the benefit of the thousands of Venezuelans displaced by Ma… https://t.co/zMM03PqAN4, pronunciation=@ luisoliveros13 I only hope among so many things, that it is for the benefit of the thousands of Venezuelans displaced by Ma… https://t.co/zMM03PqAN4, extra_data="{'translat...") 
+
+0.0  | Tweet 2482: Translated(src=es, dest=en, text=@AAAD25 @Nasich_Malakh The Tsunami of Venezuelan refugees who, fleeing from communism, settle on Colombian land… https://t.co/RRN7m1FpNa, pronunciation=@AAAD25 @Nasich_Malakh The Tsunami of Venezuelan refugees who, fleeing from communism, settle on Colombian land… https://t.co/RRN7m1FpNa, extra_data="{'translat...") 
+
+0.0  | Tweet 2483: Translated(src=es, dest=en, text=Communicating always has an intention and this can be a #JournalismLibreDeXenofobia Participate: Teams:… https://t.co/gX3WLCsImo, pronunciation=Communicating always has an intention and this can be a #JournalismLibreDeXenofobia Participate: Teams:… https://t.co/gX3WLCsImo, extra_data="{'translat...") 
+
+0.0  | Tweet 2484: Translated(src=es, dest=en, text=Today, September 21, Venezuelan migrant walkers refugees #cerosenofobia #integration #todossomosmigrantes… https://t.co/bwuvlBidiJ, pronunciation=Today, September 21, Venezuelan migrant walkers refugees #cerosenofobia #integration #todossomosmigrantes… https://t.co/bwuvlBidiJ, extra_data="{'translat...") 
+
+0.3382  | Tweet 2485: Translated(src=es, dest=en, text=@AdamSmithFree: @RevistaSemana #PradaPidaPidaForgiveColombia
+
+@alfonsoprada is a Wretched and Scoundrel!
+
+Ask Venezuela for "forgiveness" for h…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2486: Translated(src=es, dest=en, text=#UNGA In Argentina, a "pastoral address". In Colombia, a “magisterial” intervention. In the US and EU? Security… https://t.co/1cyekWqiaO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 2487: Translated(src=es, dest=en, text=@CarrillonavasG: #MananasBLU Minister Iván Velásquez is a disgrace, a profitable relationship with a genocide like Nicolás Maduro, and…, pronunciation=@CarrillonavasG: #MananasBLU Minister Iván Velásquez is a disgrace, a profitable relationship with a genocide like Nicolás Maduro, and…, extra_data="{'translat...") 
+
+0.5574  | Tweet 2488: Translated(src=es, dest=en, text=#MananasBLU Minister Iván Velásquez is a shame, a profitable relationship with a genocide like Nicolás Maduro… https://t.co/ow1Matb2Op, pronunciation=#MananasBLU Minister Iván Velásquez is a shame, a profitable relationship with a genocide like Nicolás Maduro… https://t.co/ow1Matb2Op, extra_data="{'translat...") 
+
+0.0  | Tweet 2489: Translated(src=es, dest=en, text=🇻🇪 Between 200 and 300 Venezuelan migrants arrive daily in Capurganá, Colombia, with the intention of crossing the Go… https://t.co/KvjuKtP0B8, pronunciation=🇻🇪 Between 200 and 300 Venezuelan migrants arrive daily in Capurganá, Colombia, with the intention of crossing the Go… https://t.co/KvjuKtP0B8, extra_data="{'translat...") 
+
+0.7184  | Tweet 2490: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration l Nery Santaella devised Voices Of Venezuela, a space that through social networks teaches with videos and graphics…, pronunciation=@ElPitazoTV: #Migration l Nery Santaella devised Voices Of Venezuela, a space that through social networks teaches with videos and graphics…, extra_data="{'translat...") 
+
+0.8402  | Tweet 2491: Translated(src=es, dest=en, text=#Migration l Nery Santaella created Voices Of Venezuela, a space that teaches through social networks with videos and… https://t.co/nKeAGkMzg7, pronunciation=#Migration l Nery Santaella created Voices Of Venezuela, a space that teaches through social networks with videos and… https://t.co/nKeAGkMzg7, extra_data="{'translat...") 
+
+0.0  | Tweet 2492: Translated(src=es, dest=en, text=#Migration | Nery Santaella devised Voices Of Venezuela, a space that "through social networks intends to teach… https://t.co/Q7Wsrp4Oi4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2493: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | Nery Santaella devised Voices Of #Venezuela, a space that "through social networks intends to teach with vi…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2494: Translated(src=es, dest=en, text=@lilianaf523 @LEParraG What a disease with Cuba. It seems that in Cuba they had a factory of doctors. The gu is repeated… https://t.co/4vbVCnRp5j, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2495: Translated(src=es, dest=en, text=#Migration | Nery Santaella devised Voices Of #Venezuela, a space that "through social networks aims to teach… https://t.co/W0GmwgDIZN, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4588  | Tweet 2496: Translated(src=es, dest=en, text=@Williamjimenezg: Alert the persecuted Venezuelan politicians who are refugees in Colombia, that extraction agreements are being prepared…, pronunciation=@Williamjimenezg: Alert the persecuted Venezuelan politicians who are refugees in Colombia, that extraction agreements are being prepared…, extra_data="{'translat...") 
+
+0.0  | Tweet 2497: Translated(src=es, dest=en, text=@ElPitazoTV: #Migration | Nery Santaella devised Voices Of Venezuela, a space that "through social networks intends to teach with life…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2498: Translated(src=es, dest=en, text=#Migration | Nery Santaella devised Voices Of Venezuela, a space that "through social networks intends to teach… https://t.co/1cEQxHUxqk, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6435  | Tweet 2499: Translated(src=es, dest=en, text=@RevistaSemana This really is disrespectful to Colombia, it shows that @petrogustavo does not care that Maduro is… https://t.co/Oi35Myw8EX, pronunciation=@RevistaSemana This really is disrespectful to Colombia, it shows that @petrogustavo does not care that Maduro is… https://t.co/Oi35Myw8EX, extra_data="{'translat...") 
+
+0.0  | Tweet 2500: Translated(src=es, dest=en, text=According to the UN Refugee Agency, #UNHCR, there are 6.8 million Venezuelan migrants in the world… https://t.co/0KfPUUVBNm, pronunciation=According to the UN Refugee Agency, #UNHCR, there are 6.8 million Venezuelan migrants in the world… https://t.co/0KfPUUVBNm, extra_data="{'translat...") 
+
+-0.1847  | Tweet 2501: Translated(src=es, dest=en, text=@TobMal Polvo That doesn't bother a veneco that has just arrived in Bogotá after stomping around from Cúcuta 😬, pronunciation=@TobMal Polvo That doesn't bother a veneco that has just arrived in Bogotá after stomping around from Cúcuta 😬, extra_data="{'translat...") 
+
+0.3089  | Tweet 2502: Translated(src=es, dest=en, text=After the echo says that if it is not in man bone. I left part does not stay being that I don't give a damn. If… https://t.co/pKI5npIW, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4588  | Tweet 2503: Translated(src=es, dest=en, text=@PelosNecios1312: In #Bogotá it can NOT be.
+
+Today, at noon I was going to the university on the H13 route of @TransMilenio and I was attacked..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 2504: Translated(src=es, dest=en, text=@david3_30: Bogota Colombia 🇨🇴♥️🇨🇴♥️🇨🇴
+#DuaLipaBogota #dualipacolombia #dualipa #FutureNostalgiaTour
+An unforgettable spectacular show h…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2505: Translated(src=es, dest=en, text=JINKX MONSOON WILL BE IN BOGOTÁ ON 10/7 AND I'M STILL IN THIS COUNTRY VENECO T.T, pronunciation=JINKX MONSOON WILL BE IN BOGOTÁ ON 10/7 AND I'M STILL IN THIS COUNTRY VENECO T.T, extra_data="{'translat...") 
+
+-0.9776  | Tweet 2506: Translated(src=es, dest=en, text=Today is Dua's concert in Bogota😭😭😭 I hate being Veneco in Venezuela, pronunciation=Today is Dua's concert in Bogota😭😭😭 I hate being Veneco in Venezuela, extra_data="{'translat...") 
+
+0.0  | Tweet 2507: Translated(src=es, dest=en, text=@DiazJorge666: At yesterday's Coldplay concert in Bogotá 🇨🇴 a Veneco handed the Venezuelan flag 🇻🇪 to Camila Cabello #FelizSaba..., pronunciation=@DiazJorge666: At yesterday's Coldplay concert in Bogotá 🇨🇴 a Veneco handed the Venezuelan flag 🇻🇪 to Camila Cabello #FelizSaba..., extra_data="{'translat...") 
+
+0.7506  | Tweet 2508: Translated(src=es, dest=en, text=At yesterday's Coldplay concert in Bogotá 🇨🇴 a veneco handed the Venezuelan flag 🇻🇪 to Camila Cabello #HappySaturday 🤣, pronunciation=At yesterday's Coldplay concert in Bogotá 🇨🇴 a veneco handed the Venezuelan flag 🇻🇪 to Camila Cabello #HappySaturday 🤣, extra_data="{'translat...") 
+
+-0.4215  | Tweet 2509: Translated(src=es, dest=en, text=@elandresj: The Veneco who passed the flag of his country to Camila Cabello in Bogota 😂🇻🇪🇨🇴 #ColdplayBogota #CamilaCabelloEnColombia http…, pronunciation=@elandresj: The Veneco who passed the flag of his country to Camila Cabello in Bogota 😂🇻🇪🇨🇴 #ColdplayBogota #CamilaCabelloEnColombia http…, extra_data="{'translat...") 
+
+-0.4215  | Tweet 2510: Translated(src=es, dest=en, text=The veneco who passed the flag of his country to Camila Cabello in Bogota 😂🇻🇪🇨🇴 #ColdplayBogota… https://t.co/mR1O10ZvLI, pronunciation=The veneco who passed the flag of his country to Camila Cabello in Bogota 😂🇻🇪🇨🇴 #ColdplayBogota… https://t.co/mR1O10ZvLI, extra_data="{'translat...") 
+
+-0.7351  | Tweet 2511: Translated(src=gn, dest=en, text=@morrogallus @yoryi_abreu @isaiashguzman @luisalfredomc10 @Eliojgm @marianerraiz Fake, 40 years ago we went to Colombia... https://t.co/M0vZUVFgqB, pronunciation=@morrogallus @yoryi_abreu @isaiashguzman @luisalfredomc10 @Eliojgm @marianerraiz Fake, 40 years ago we went to Colombia... https://t.co/M0vZUVFgqB, extra_data="{'translat...") 
+
+-0.9274  | Tweet 2512: Translated(src=es, dest=en, text=Here remembering when I was in a supermarket in Cucuta at 15 and they blamed me for stealing from some children… https://t.co/3alE4GmAds, pronunciation=Here remembering when I was in a supermarket in Cucuta at 15 and they blamed me for stealing from some children… https://t.co/3alE4GmAds, extra_data="{'translat...") 
+
+0.0  | Tweet 2513: Translated(src=es, dest=en, text=@CarlosCano07 They give you a cucuta sports cap because you are Veneco fjfjjfbffb, pronunciation=@CarlosCano07 They give you a cucuta sports cap because you are Veneco fjfjjfbffb, extra_data="{'translat...") 
+
+0.0  | Tweet 2514: Translated(src=es, dest=en, text=@Jojare2: Did the democratic center move to Cúcuta today to recruit Venezuelans for a march?, pronunciation=@Jojare2: Did the democratic center move to Cúcuta today to recruit Venezuelans for a march?, extra_data="{'translat...") 
+
+-0.8225  | Tweet 2515: Translated(src=es, dest=en, text=@PESUG048: @RevistaSemana @_ViViAnA_2022 If you found out before writing bullshit, the passage of Venezuelan migrants is always…, pronunciation=@PESUG048: @RevistaSemana @_ViViAnA_2022 If you found out before writing bullshit, the passage of Venezuelan migrants is always…, extra_data="{'translat...") 
+
+-0.7506  | Tweet 2516: Translated(src=es, dest=en, text=@jguaido Responds for all the money stolen from our nation scammer monomeros CITGO the one with the alleged human aid… https://t.co/7tIh18Mgit, pronunciation=@jguaido Responds for all the money stolen from our nation scammer monomeros CITGO the one with the alleged human aid… https://t.co/7tIh18Mgit, extra_data="{'translat...") 
+
+0.0  | Tweet 2517: Translated(src=es, dest=en, text=That the democratic center moved to Cúcuta today to hire Venezuelans for a march?, pronunciation=That the democratic center moved to Cúcuta today to hire Venezuelans for a march?, extra_data="{'translat...") 
+
+0.0  | Tweet 2518: Translated(src=es, dest=en, text=@Orlando14285774: Those who knew the small and medium industry of Cúcuta and Bucaramanga and their thriving trade, know that the cause of…, pronunciation=@Orlando14285774: Those who knew the small and medium industry of Cúcuta and Bucaramanga and their thriving trade, know that the cause of…, extra_data="{'translat...") 
+
+0.0  | Tweet 2519: Translated(src=es, dest=en, text=@Odara_10 @Agencia_Sana Millions of Venezuelans live in Ecuador or in Cúcuta and they are not going to hold a referendum for that… https://t.co/V60nEO3EIS, pronunciation=@Odara_10 @Agencia_Sana Millions of Venezuelans live in Ecuador or in Cúcuta and they are not going to hold a referendum for that… https://t.co/V60nEO3EIS, extra_data="{'translat...") 
+
+0.0  | Tweet 2520: Translated(src=es, dest=en, text=Those who knew the small and medium industry of Cúcuta and Bucaramanga and their thriving trade, know that the cause… https://t.co/gpOlvjXH7v, pronunciation=Those who knew the small and medium industry of Cúcuta and Bucaramanga and their thriving trade, know that the cause… https://t.co/gpOlvjXH7v, extra_data="{'translat...") 
+
+0.0  | Tweet 2521: Translated(src=es, dest=en, text=@bolivarcucuta: What is known and what is not known about the reopening of the border between Colombia and Venezuela this 09/26/2022. #venezuela…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5859  | Tweet 2522: Translated(src=es, dest=en, text=@Lacrovsky1: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and l…, pronunciation=@Lacrovsky1: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and l…, extra_data="{'translat...") 
+
+-0.8225  | Tweet 2523: Translated(src=es, dest=en, text=@RevistaSemana @_ViViAnA_2022 If you found out before writing bullshit, the passage of Venezuelan migrants… https://t.co/DQ0cKNP3N5, pronunciation=@RevistaSemana @_ViViAnA_2022 If you found out before writing bullshit, the passage of Venezuelan migrants… https://t.co/DQ0cKNP3N5, extra_data="{'translat...") 
+
+0.7227  | Tweet 2524: Translated(src=es, dest=en, text=@RevisionistaCL But we were filled with Venezuelans and Colombians after they were invited to Cucuta. The happy deliveries, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5267  | Tweet 2525: Translated(src=es, dest=en, text=@VillegasPoljak: I share the poem “I am white, I am Indian, I am black” by my old man, Cruz Villegas, read by me in #Cúcuta during…, pronunciation=@VillegasPoljak: I share the poem “I am white, I am Indian, I am black” by my old man, Cruz Villegas, read by me in #Cúcuta during…, extra_data="{'translat...") 
+
+0.0  | Tweet 2526: Translated(src=es, dest=en, text=@VillegasPoljak: Read here the poem "Manuela", read by the Minister of Culture, Arts and Knowledge of #Colombia @PatriciaArizaF during En…, pronunciation=@VillegasPoljak: Read here the poem "Manuela", read by the Minister of Culture, Arts and Knowledge of #Colombia @PatriciaArizaF during En…, extra_data="{'translat...") 
+
+0.0  | Tweet 2527: Translated(src=es, dest=en, text=@VillegasPoljak: Antonio Trujillo was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held…, pronunciation=@VillegasPoljak: Antonio Trujillo was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held…, extra_data="{'translat...") 
+
+0.0  | Tweet 2528: Translated(src=es, dest=en, text=@VillegasPoljak: The Minister of Culture, Arts and Knowledge of #Colombia @PatriciaArizaF proposes a "pact" for cultural integration between…, pronunciation=@VillegasPoljak: The Minister of Culture, Arts and Knowledge of #Colombia @PatriciaArizaF proposes a "pact" for cultural integration between…, extra_data="{'translat...") 
+
+0.7003  | Tweet 2529: Translated(src=es, dest=en, text=@VillegasPoljak: A Venezuelan peeled arepa with Falcón cream was my gift to the Minister of #Culture of #Colombia, who decided to buy…, pronunciation=@VillegasPoljak: A Venezuelan peeled arepa with Falcón cream was my gift to the Minister of #Culture of #Colombia, who decided to buy…, extra_data="{'translat...") 
+
+0.5859  | Tweet 2530: Translated(src=es, dest=en, text=@VillegasPoljak: As if that lunch were Eucharist and the peeled arepa was a host, poets from #Venezuela and #Colombia shared the…, pronunciation=@VillegasPoljak: As if that lunch were Eucharist and the peeled arepa was a host, poets from #Venezuela and #Colombia shared the…, extra_data="{'translat...") 
+
+0.4939  | Tweet 2531: Translated(src=es, dest=en, text=@VillegasPoljak: President @NicolasMaduro greeted the Meeting of Venezuelan and Colombian Poets held in #Cúcuta and #SanCristóbal…, pronunciation=@VillegasPoljak: President @NicolasMaduro greeted the Meeting of Venezuelan and Colombian Poets held in #Cúcuta and #SanCristóbal…, extra_data="{'translat...") 
+
+0.8402  | Tweet 2532: Translated(src=es, dest=en, text=@VillegasPoljak: The poem “Punto y line”, by Aníbal Nazoa, read by Ana María Oviedo, fit like a glove at Encuentro de Poetas…, pronunciation=@VillegasPoljak: The poem “Punto y line”, by Aníbal Nazoa, read by Ana María Oviedo, fit like a glove at Encuentro de Poetas…, extra_data="{'translat...") 
+
+0.0  | Tweet 2533: Translated(src=es, dest=en, text=@VillegasPoljak: Review by Yepfri Argüello about the Meeting of Venezuelan and Colombian Poets held in #Cúcuta and #SanCristóbal and…, pronunciation=@VillegasPoljak: Review by Yepfri Argüello about the Meeting of Venezuelan and Colombian Poets held in #Cúcuta and #SanCristóbal and…, extra_data="{'translat...") 
+
+0.0  | Tweet 2534: Translated(src=es, dest=en, text=@VillegasPoljak: Originally from the Wayú ethnic group, the Colombian poet Víctor Apushana recited in Wayuunaiki at the Meeting of Venezuelan Poets…, pronunciation=@VillegasPoljak: Originally from the Wayú ethnic group, the Colombian poet Víctor Apushana recited in Wayuunaiki at the Meeting of Venezuelan Poets…, extra_data="{'translat...") 
+
+0.0  | Tweet 2535: Translated(src=es, dest=en, text=@VillegasPoljak: The Venezuelan William Osuna was one of the participants in the Meeting of Venezuelan and Colombian Poets held…, pronunciation=@VillegasPoljak: The Venezuelan William Osuna was one of the participants in the Meeting of Venezuelan and Colombian Poets held…, extra_data="{'translat...") 
+
+0.0  | Tweet 2536: Translated(src=es, dest=en, text=@VillegasPoljak: Yorlady Ruiz was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets held this…, pronunciation=@VillegasPoljak: Yorlady Ruiz was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets held this…, extra_data="{'translat...") 
+
+0.0  | Tweet 2537: Translated(src=es, dest=en, text=@VillegasPoljak: Leonardo Ruiz Tirado was one of the compatriots participating in the real Meeting of Venezuelan and Colombian Poets…, pronunciation=@VillegasPoljak: Leonardo Ruiz Tirado was one of the compatriots participating in the real Meeting of Venezuelan and Colombian Poets…, extra_data="{'translat...") 
+
+0.0  | Tweet 2538: Translated(src=es, dest=en, text=@VillegasPoljak: Angelica Hoyos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held in…, pronunciation=@VillegasPoljak: Angelica Hoyos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held in…, extra_data="{'translat...") 
+
+0.0  | Tweet 2539: Translated(src=es, dest=en, text=@VillegasPoljak: Vielsi Arias was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held this…, pronunciation=@VillegasPoljak: Vielsi Arias was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held this…, extra_data="{'translat...") 
+
+0.0  | Tweet 2540: Translated(src=es, dest=en, text=@VillegasPoljak: Rómulo Bustos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held this…, pronunciation=@VillegasPoljak: Rómulo Bustos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held this…, extra_data="{'translat...") 
+
+0.7184  | Tweet 2541: Translated(src=es, dest=en, text=@VillegasPoljak: The poem "Manuela", dedicated to the Liberator of the Liberator, reads @PatriciaArizaF, Minister of Cultures, Arts and Knowledge..., pronunciation=@VillegasPoljak: The poem "Manuela", dedicated to the Liberator of the Liberator, reads @PatriciaArizaF, Minister of Cultures, Arts and Knowledge..., extra_data="{'translat...") 
+
+0.0  | Tweet 2542: Translated(src=es, dest=en, text=@RevisionistaCL What is concrete: Haitians from Bachelet did not arrive, but Venezuelans and Colombians from Piñera and Cúcuta., pronunciation=@RevisionistaCL What is concrete: Haitians from Bachelet did not arrive, but Venezuelans and Colombians from Piñera and Cúcuta., extra_data="{'translat...") 
+
+0.0  | Tweet 2543: Translated(src=es, dest=en, text=@nellacord @Fabita_Patriota @claudiome01 But as a migrant you know that Piñera went to Cucuta and invited all the vene… https://t.co/hQjFDjy8Jc, pronunciation=@nellacord @Fabita_Patriota @claudiome01 But as a migrant you know that Piñera went to Cucuta and invited all the vene… https://t.co/hQjFDjy8Jc, extra_data="{'translat...") 
+
+0.0  | Tweet 2544: Translated(src=es, dest=en, text=@bolivarcucuta: What is not known about the reopening of the border between Colombia and Venezuela this 09/26/2022. #venezuela #colombia #fron…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2545: Translated(src=es, dest=en, text=What is not known about the reopening of the border between Colombia and Venezuela this 09/26/2022. #Venezuela #Colombia… https://t.co/tuJ11Uz3G8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7897  | Tweet 2546: Translated(src=es, dest=en, text=@lucaspe: I am in Cúcuta at a binational @Rotary seminar, very exciting: 240 Rotarians gathered and of them 170 Venezuelans from all…, pronunciation=@lucaspe: I am in Cúcuta at a binational @Rotary seminar, very exciting: 240 Rotarians gathered and of them 170 Venezuelans from all…, extra_data="{'translat...") 
+
+0.0  | Tweet 2547: Translated(src=es, dest=en, text=What is known and what is not known about the reopening of the border between Colombia and Venezuela this 09/26/2022.… https://t.co/CDCghOkyL4, pronunciation=What is known and what is not known about the reopening of the border between Colombia and Venezuela this 09/26/2022.… https://t.co/CDCghOkyL4, extra_data="{'translat...") 
+
+0.5106  | Tweet 2548: Translated(src=es, dest=en, text=@HannaChocolat: @petrogustavo Cúcuta inflation through the roof. Laundering via high-end restaurants is impressive. Informality…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5106  | Tweet 2549: Translated(src=es, dest=en, text=@petrogustavo inflation of Cúcuta through the clouds. Laundering via high-end restaurants is impressive. Report… https://t.co/wRai2muTZw, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8957  | Tweet 2550: Translated(src=es, dest=en, text=@MasudaAlex @InterferenciaCL The gap was under the government of Piñera while he was in Cucutá inviting Venezuelans hahaha, pronunciation=@MasudaAlex @InterferenciaCL The gap was under the government of Piñera while he was in Cucutá inviting Venezuelans hahaha, extra_data="{'translat...") 
+
+0.7906  | Tweet 2551: Translated(src=es, dest=en, text=@luchaalmada: #EnPhotos📸 We are in Cúcuta to carry out the I Meeting of Venezuelan and Colombian poets for peace, with this…, pronunciation=@luchaalmada: #EnPhotos📸 We are in Cúcuta to carry out the I Meeting of Venezuelan and Colombian poets for peace, with this…, extra_data="{'translat...") 
+
+-0.7034  | Tweet 2552: Translated(src=es, dest=en, text=@HuracanRodrigui: OUT THE VENEZUELAN TERRORISTS
+HIT MEN OF MEIGGS. THE ARAGUA TRAIN.
+The Pinochet right has allied itself with the…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 2553: Translated(src=es, dest=en, text=@LuisACo83622155: That the Venezuelans on the border are happy about the reopening? Q the 2,300 students who travel daily to Cúcuta…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2554: Translated(src=es, dest=en, text=@JulietaL38: @RodrigoPrezR2 The one who is up to his knees is the Piñera mobster who went to Cúcuta to negotiate the entry of thousands of…, pronunciation=@JulietaL38: @RodrigoPrezR2 The one who is up to his knees is the Piñera mobster who went to Cúcuta to negotiate the entry of thousands of…, extra_data="{'translat...") 
+
+0.0  | Tweet 2555: Translated(src=es, dest=en, text=@JulietaL38: @drogabipedo @FcoMunoz_TP @laleydeldia1 @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl @YouTube Piñer…, pronunciation=@JulietaL38: @drogabipedo @FcoMunoz_TP @laleydeldia1 @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl @YouTube Piñer…, extra_data="{'translat...") 
+
+0.0  | Tweet 2556: Translated(src=es, dest=en, text=@drogabipedo @FcoMunoz_TP @laleydeldia1 @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl… https://t.co/k7jsrUWlS3, pronunciation=@drogabipedo @FcoMunoz_TP @laleydeldia1 @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl… https://t.co/k7jsrUWlS3, extra_data="{'translat...") 
+
+0.5994  | Tweet 2557: Translated(src=es, dest=en, text=@Fariacrt: Colombia and Venezuela unite in the loving power of poetry this Saturday #17Sep and Sunday #18Sep.
+
+Sister nations are..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.7897  | Tweet 2558: Translated(src=es, dest=en, text=I am in Cúcuta at a binational seminar of @Rotary, very exciting: 240 Rotarians gathered and of them 170 Venezuelans… https://t.co/GLO8qHxnAe, pronunciation=I am in Cúcuta at a binational seminar of @Rotary, very exciting: 240 Rotarians gathered and of them 170 Venezuelans… https://t.co/GLO8qHxnAe, extra_data="{'translat...") 
+
+0.0  | Tweet 2559: Translated(src=es, dest=en, text=@JulietaL38: @PoliticaCons7 Piñera is deeply involved, he went to Cúcuta to negotiate the entry of thousands of Venezuelans to Chile.
+The…, pronunciation=None, extra_data="{'translat...") 
+
+0.0  | Tweet 2560: Translated(src=es, dest=en, text=@PoliticaCons7 Piñera is up to his knees, he went to Cúcuta to negotiate the entry of thousands of Venezuelans to Chi… https://t.co/IC8o8PXC38, pronunciation=@PoliticaCons7 Piñera is up to his knees, he went to Cúcuta to negotiate the entry of thousands of Venezuelans to Chi… https://t.co/IC8o8PXC38, extra_data="{'translat...") 
+
+0.0  | Tweet 2561: Translated(src=es, dest=en, text=@Cepeda02Dalva @FcoMunoz_TP @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl The one who is involved… https://t.co/RcuW1T8dt0, pronunciation=@Cepeda02Dalva @FcoMunoz_TP @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl The one who is involved… https://t.co/RcuW1T8dt0, extra_data="{'translat...") 
+
+0.0  | Tweet 2562: Translated(src=es, dest=en, text=@FcoMunoz_TP @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl The one who is up to his neck… https://t.co/b39sr12Fkj, pronunciation=@FcoMunoz_TP @USAmbCL @Ejercito_Chile @Armada_Chile @Carabdechile @EmbajadaEEUUcl The one who is up to his neck… https://t.co/b39sr12Fkj, extra_data="{'translat...") 
+
+0.0  | Tweet 2563: Translated(src=es, dest=en, text=@RodrigoPrezR2 The one who is up to his knees is the Piñera mobster who went to Cúcuta to negotiate the entry of… https://t.co/HOkSkXH4pO, pronunciation=@RodrigoPrezR2 The one who is up to his knees is the Piñera mobster who went to Cúcuta to negotiate the entry of… https://t.co/HOkSkXH4pO, extra_data="{'translat...") 
+
+0.296  | Tweet 2564: Translated(src=es, dest=en, text=@Mitovegaf @ultimominuto_22 @Chileno51101624 Piñera brought them when he went to Cúcuta to invite Venezuelans to Oa… https://t.co/N16uAEjuCe, pronunciation=@Mitovegaf @ultimominuto_22 @Chileno51101624 Piñera brought them when he went to Cúcuta to invite Venezuelans to Oa… https://t.co/N16uAEjuCe, extra_data="{'translat...") 
+
+0.9081  | Tweet 2565: Translated(src=es, dest=en, text=@VillegasPoljak: We left #Colombia for #Venezuela happy for having had the privilege of attending the reunion of our pu..., pronunciation=@VillegasPoljak: We left #Colombia for #Venezuela happy for having had the privilege of attending the reunion of our pu..., extra_data="{'translat...") 
+
+0.0  | Tweet 2566: Translated(src=es, dest=en, text=@albaciudad: (VIDEO) Inaugurated the Meeting of Venezuelan and Colombian Poets in Cúcuta https://t.co/ozlq03DOoo via @YouTube, pronunciation=@albaciudad: (VIDEO) Inaugurated the Meeting of Venezuelan and Colombian Poets in Cúcuta https://t.co/ozlq03DOoo via @YouTube, extra_data="{'translat...") 
+
+0.0  | Tweet 2567: Translated(src=es, dest=en, text=@VillegasPoljak: Walking towards the Venezuelan side of the Simón Bolívar International Bridge, after the first day in #Cúcuta del Encu…, pronunciation=@VillegasPoljak: Walking towards the Venezuelan side of the Simón Bolívar International Bridge, after the first day in #Cúcuta del Encu…, extra_data="{'translat...") 
+
+0.0  | Tweet 2568: Translated(src=es, dest=en, text=@VillegasPoljak: This is how I said goodbye to the #Colombian Police officers who accompanied me across the Simón Bolívar Bridge to the limit with #V…, pronunciation=@VillegasPoljak: This is how I said goodbye to the #Colombian Police officers who accompanied me across the Simón Bolívar Bridge to the limit with #V…, extra_data="{'translat...") 
+
+0.5859  | Tweet 2569: Translated(src=es, dest=en, text=@ninhc @Sinfiltros_tv @gabrielboric @carolinatoha @Mayafernandeza The opposition did not travel to Cucuta to play nice… https://t.co/4JMRDvqtIA, pronunciation=@ninhc @Sinfiltros_tv @gabrielboric @carolinatoha @Mayafernandeza The opposition did not travel to Cucuta to play nice… https://t.co/4JMRDvqtIA, extra_data="{'translat...") 
+
+0.5719  | Tweet 2570: Translated(src=es, dest=en, text=@CaracolCucuta: Fifty thousand people move through international bridges
+
+Colombians and Venezuelans celebrate border opening…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 2571: Translated(src=es, dest=en, text=That Venezuelans on the border are happy about the reopening? Q the 2,300 students who travel daily to Cúc… https://t.co/KfFIgPGUuu, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2572: Translated(src=es, dest=en, text=1,300 young Venezuelans study in schools in Cúcuta and 40,000 Venezuelans spend the day to stay in Colombia… https://t.co/yNaFVjODex, pronunciation=1,300 young Venezuelans study in schools in Cúcuta and 40,000 Venezuelans spend the day to stay in Colombia… https://t.co/yNaFVjODex, extra_data="{'translat...") 
+
+0.0  | Tweet 2573: Translated(src=qu, dest=en, text=@Consuelo_babu @udipopular @javiermacaya
+@chahuan @RNchile isn't following anyone. Autodesk_new
+@evopoli @felipekast
+@melladosuazo
+🔴MISERABLE,they were... https://t.co/gzqBvX2Or1, pronunciation=[[]], extra_data="{'translat...") 
+
+0.1531  | Tweet 2574: Translated(src=es, dest=en, text=@verialex @ultimominuto_22 @gabrielboric Boric did not go to Cucuta to invite the Venezuelans. was another, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2575: Translated(src=es, dest=en, text=@OctavioMonaster @OSCAR_M76 But what if Piñera when he went to Cúcuta to look for Venezuelans? Do you have the date there Rick?, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5423  | Tweet 2576: Translated(src=es, dest=en, text=@Mippcivzla: Meeting of Poets for Peace.
+🇻🇪10 Venezuelan poets
+🇨🇴10 Colombian poets will meet in Cúcuta 🇨🇴 and San Cristóbal 🇻🇪…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 2577: Translated(src=es, dest=en, text=Fifty thousand people move across the international bridges
+
+Colombians and Venezuelans celebrate front opening… https://t.co/8ya9TPrIRU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2578: Translated(src=es, dest=en, text=Venezuela: Price of the dollar today, Thursday, September 22, 2022, according to DolarToday and Dollar Monitor https://t.co/5YYODAfMsw via @RPPNoticias, pronunciation=Venezuela: Price of the dollar today, Thursday, September 22, 2022, according to DolarToday and Dollar Monitor https://t.co/5YYODAfMsw via @RPPNoticias, extra_data="{'translat...") 
+
+0.0  | Tweet 2579: Translated(src=es, dest=en, text=@JulietaL38: @AgustinLaje @dannyejecutivo What is being uncovered is the business that Piñera went to Cúcuta to do in exchange for letting in…, pronunciation=@JulietaL38: @AgustinLaje @dannyejecutivo What is being uncovered is the business that Piñera went to Cúcuta to do in exchange for letting in…, extra_data="{'translat...") 
+
+0.5859  | Tweet 2580: Translated(src=es, dest=en, text=@TaitaWalosky: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and…, pronunciation=@TaitaWalosky: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and…, extra_data="{'translat...") 
+
+-0.7034  | Tweet 2581: Translated(src=es, dest=en, text=OUT THE VENEZUELAN TERRORISTS
+HIT MEN OF MEIGGS. THE ARAGUA TRAIN.
+The Pinochet right has allied itself with… https://t.co/Wa32r7aVjs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2582: Translated(src=es, dest=en, text=@Farid_nicolas @nancysalas233 @Leasclabos @luque_paulina Ahhh.. 1,000 Cubans and 9,000 Venezuelans invited by Piñe… https://t.co/MufVgRJL1r, pronunciation=@Farid_nicolas @nancysalas233 @Leasclabos @luque_paulina Ahhh.. 1,000 Cubans and 9,000 Venezuelans invited by Piñe… https://t.co/MufVgRJL1r, extra_data="{'translat...") 
+
+0.0  | Tweet 2583: Translated(src=es, dest=en, text=@Ceciliayjanito @VERONICACASTMON @ALEADESISMO Let's ask Piñera what he invited to the summit of right-wing governments… https://t.co/uCknHTeoky, pronunciation=@Ceciliayjanito @VERONICACASTMON @ALEADESISMO Let's ask Piñera what he invited to the summit of right-wing governments… https://t.co/uCknHTeoky, extra_data="{'translat...") 
+
+0.3462  | Tweet 2584: Translated(src=es, dest=en, text=The right-wing media in this country is very wealthy and opportunistic; They are already in Cucuta in the… https://t.co/DhpFdq9Gpm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7351  | Tweet 2585: Translated(src=es, dest=en, text=@CancilleriaVE: «The sister nations will give each other a big literary hug #LaPazNosUne in the cities of Cúcuta and San Cristóbal, with the…, pronunciation=@CancilleriaVE: «The sister nations will give each other a big literary hug #LaPazNosUne in the cities of Cúcuta and San Cristóbal, with the…, extra_data="{'translat...") 
+
+0.0  | Tweet 2586: Translated(src=es, dest=en, text=He goes to Cúcuta to look for more Venezuelans. https://t.co/opxh37CpKD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.765  | Tweet 2587: Translated(src=es, dest=en, text=@StichTamitoSnow: @irene36051280 Luckily it didn't go to Cúcuta, otherwise we'd be full of Venezuelans., pronunciation=@StichTamitoSnow: @irene36051280 Luckily it didn't go to Cúcuta, otherwise we'd be full of Venezuelans., extra_data="{'translat...") 
+
+0.0  | Tweet 2588: Translated(src=es, dest=en, text=@AgustinLaje @dannyejecutivo What is being uncovered is the business that Piñera went to Cúcuta to do in exchange for… https://t.co/FiEjdIDo8p, pronunciation=@AgustinLaje @dannyejecutivo What is being uncovered is the business that Piñera went to Cúcuta to do in exchange for… https://t.co/FiEjdIDo8p, extra_data="{'translat...") 
+
+0.765  | Tweet 2589: Translated(src=es, dest=en, text=@irene36051280 Luckily he didn't go to Cúcuta, otherwise we would be full of Venezuelans., pronunciation=@irene36051280 Luckily he didn't go to Cúcuta, otherwise we would be full of Venezuelans., extra_data="{'translat...") 
+
+0.9313  | Tweet 2590: Translated(src=es, dest=en, text=@mbmunozi @ultimominuto_22 But Piñera won a democratic election before going to Cúcuta to invite the Venezuelans… https://t.co/YchS9gyw8m, pronunciation=@mbmunozi @ultimominuto_22 But Piñera won a democratic election before going to Cúcuta to invite the Venezuelans… https://t.co/YchS9gyw8m, extra_data="{'translat...") 
+
+0.0  | Tweet 2591: Translated(src=es, dest=en, text=@ImpactoVE: The first binational meeting between congressmen will be in Cúcuta this #25Sep
+
+https://t.co/wVi9eWjRaU, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.941  | Tweet 2592: Translated(src=es, dest=en, text=@rbascu1 Going to Cúcuta to bring Venezuelans...with the number of problems we have, it's sickly evil!!.., pronunciation=@rbascu1 Going to Cúcuta to bring Venezuelans...with the number of problems we have, it's sickly evil!!.., extra_data="{'translat...") 
+
+0.0  | Tweet 2593: Translated(src=es, dest=en, text=The first binational meeting between congressmen will be in Cúcuta this #25Sep
+
+https://t.co/wVi9eWjRaU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 2594: Translated(src=es, dest=en, text=@JohnCal13720880: @soyoctavo @PetroEsPueblo Hundreds of Venezuelans come to Cucuta every day to receive medical care because in Ve…, pronunciation=@JohnCal13720880: @soyoctavo @PetroEsPueblo Hundreds of Venezuelans come to Cucuta every day to receive medical care because in Ve…, extra_data="{'translat...") 
+
+0.0  | Tweet 2595: Translated(src=es, dest=en, text=@AntonioPompa @fmdc17 @jguaido @fmendoza7 From the outside are the funds raised at the Cúcut concert… https://t.co/vHqEtX6cfl, pronunciation=@AntonioPompa @fmdc17 @jguaido @fmendoza7 From the outside are the funds raised at the Cúcut concert… https://t.co/vHqEtX6cfl, extra_data="{'translat...") 
+
+0.819  | Tweet 2596: Translated(src=es, dest=en, text=@racusen19: @DiegoHipocrita @24HorasTVN Surely the left went to Cúcuta to put on a tremendous show to invite Venezuelans, find out…, pronunciation=@racusen19: @DiegoHipocrita @24HorasTVN Surely the left went to Cúcuta to put on a tremendous show to invite Venezuelans, find out…, extra_data="{'translat...") 
+
+-0.7772  | Tweet 2597: Translated(src=es, dest=en, text=@malfaro54: @rbascu1 Even worse to go to Cúcuta and invite Venezuelans to Chile when this country was falling apart!, pronunciation=@malfaro54: @rbascu1 Even worse to go to Cúcuta and invite Venezuelans to Chile when this country was falling apart!, extra_data="{'translat...") 
+
+0.0  | Tweet 2598: Translated(src=es, dest=en, text=@annacegarsua @omarbula They have always been open going through the trails. The Venezuelans who will go to Cúcuta… https://t.co/DTjGyNKVm8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2599: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/WDQlVnSB85, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/WDQlVnSB85, extra_data="{'translat...") 
+
+0.7003  | Tweet 2600: Translated(src=es, dest=en, text=@ReporteYa @BluRadioCo The good thing about the opening is that many Venezuelan merchants should compete against prices… https://t.co/cW8Y8v91lC, pronunciation=@ReporteYa @BluRadioCo The good thing about the opening is that many Venezuelan merchants should compete against prices… https://t.co/cW8Y8v91lC, extra_data="{'translat...") 
+
+0.5859  | Tweet 2601: Translated(src=es, dest=en, text=@lacrovsky1: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and l…, pronunciation=@lacrovsky1: I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Piñera government and l…, extra_data="{'translat...") 
+
+0.0  | Tweet 2602: Translated(src=es, dest=en, text=@MdeFrancisco12 Go to Cúcuta and ask the thousands of Venezuelans who cross daily to flee from "LA DICTADU… https://t.co/CioQn9NHnj, pronunciation=@MdeFrancisco12 Go to Cúcuta and ask the thousands of Venezuelans who cross daily to flee from "LA DICTADU… https://t.co/CioQn9NHnj, extra_data="{'translat...") 
+
+0.0  | Tweet 2603: Translated(src=es, dest=en, text=THIS SUNDAY! MEETING between Colombian and Venezuelan congressmen will be in Cúcuta https://t.co/wVi9eW2gjm #ImpactoVenezuela, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7772  | Tweet 2604: Translated(src=es, dest=en, text=@rbascu1 Even worse to go to Cúcuta and invite Venezuelans to Chile when this country was falling apart!, pronunciation=@rbascu1 Even worse to go to Cúcuta and invite Venezuelans to Chile when this country was falling apart!, extra_data="{'translat...") 
+
+-0.7717  | Tweet 2605: Translated(src=es, dest=en, text=@petrogustavo Today I apologize to Maduro for the thousands of poor Venezuelans who offended him. He imprisoned them, tor… https://t.co/nD6UZQlONz, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4215  | Tweet 2606: Translated(src=es, dest=en, text=@oritsy74 #Politics | Deputy Rojas: "Biden lies about the migratory figures of Venezuelans in his country"
+https://t.co/kPPTVfeTgR…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2607: Translated(src=es, dest=en, text=@EstebanReinesAr: @marceloecf @PabloIglesias And what do we have to do with Venezuela? They bring it up as a shotgun. We wouldn't be..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2608: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/YGYGPQOaD6, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/YGYGPQOaD6, extra_data="{'translat...") 
+
+0.6486  | Tweet 2609: Translated(src=es, dest=en, text=@nelsonsando007 @juliamonely @biobio That is good to play jote @tomasmosciatti, that Venezuela, a thousand times. No… https://t.co/xnhlZzNUMw, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 2610: Translated(src=es, dest=en, text=@danieljadue @FlorenciaLagosN piñeraqliao traveled to Cucuta to sow discord between the Venezuelan and Colombian peoples… https://t.co/MTwhaWrn84, pronunciation=@danieljadue @FlorenciaLagosN piñeraqliao traveled to Cucuta to sow discord between the Venezuelan and Colombian peoples… https://t.co/MTwhaWrn84, extra_data="{'translat...") 
+
+0.0  | Tweet 2611: Translated(src=es, dest=en, text=@ahjimenezv @marceloecf @carolalara7 @PabloIglesias The Venezuelans began to arrive long before the speech of… https://t.co/cw4GfjhVHv, pronunciation=@ahjimenezv @marceloecf @carolalara7 @PabloIglesias The Venezuelans began to arrive long before the speech of… https://t.co/cw4GfjhVHv, extra_data="{'translat...") 
+
+0.0  | Tweet 2612: Translated(src=es, dest=en, text=@marceloecf @PabloIglesias And what do we have to do with Venezuela? They bring it up as a shotgun. I would not be… https://t.co/XZRhARqPtD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6808  | Tweet 2613: Translated(src=es, dest=en, text=@MdeFrancisco12 You were with @MamerMoure in 1996 in Cucuta at a rock band event promoted by Radioactiv… https://t.co/oF03Alk89G, pronunciation=@MdeFrancisco12 You were with @MamerMoure in 1996 in Cucuta at a rock band event promoted by Radioactiv… https://t.co/oF03Alk89G, extra_data="{'translat...") 
+
+-0.5007  | Tweet 2614: Translated(src=es, dest=en, text=@madriga_esteban @AgustinLaje Juan, what credibility did Agustín Laje lose??? As a Politician is going to speak in the ON… https://t.co/wXbn73tfDw, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7906  | Tweet 2615: Translated(src=es, dest=en, text=@VillegasPoljak: "Peace unites us": motto of the Meeting of Venezuelan and Colombian poets convened for this weekend in #Cúcuta and…, pronunciation=@VillegasPoljak: "Peace unites us": motto of the Meeting of Venezuelan and Colombian poets convened for this weekend in #Cúcuta and…, extra_data="{'translat...") 
+
+0.0  | Tweet 2616: Translated(src=es, dest=en, text=@albaciudad: (VIDEO) Venezuelan ministers Freddy Ñáñez @luchaalmada and Ernesto Villegas @VillegasPoljak, together with the governor of Tachir…, pronunciation=@albaciudad: (VIDEO) Venezuelan ministers Freddy Ñáñez @luchaalmada and Ernesto Villegas @VillegasPoljak, together with the governor of Tachir…, extra_data="{'translat...") 
+
+0.6597  | Tweet 2617: Translated(src=es, dest=en, text=At our service point and with the cooperation of different organizations, we help Venezuelans who emigrate… https://t.co/UcpC9dTAOP, pronunciation=At our service point and with the cooperation of different organizations, we help Venezuelans who emigrate… https://t.co/UcpC9dTAOP, extra_data="{'translat...") 
+
+-0.8402  | Tweet 2618: Translated(src=es, dest=en, text=@LsdiazRojas @AntonellaLapil1 @aldomasia @gabrielboric The disastrous and declared the worst president is Piñera. The… https://t.co/FA6dn0SyiI, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7506  | Tweet 2619: Translated(src=es, dest=en, text=@sum51325 @gabrielboric Those who kill, directly or by assassins, we thank Piñera who went to Cúcuta to invite… https://t.co/zML3vtS5Lu, pronunciation=@sum51325 @gabrielboric Those who kill, directly or by assassins, we thank Piñera who went to Cúcuta to invite… https://t.co/zML3vtS5Lu, extra_data="{'translat...") 
+
+-0.4939  | Tweet 2620: Translated(src=es, dest=en, text=@Alejandritaa_a @gabrielboric What happens in Chile is the fault of Piñera who went to Cúcuta to invite Venezuelans and co… https://t.co/gvJL9Teceu, pronunciation=@Alejandritaa_a @gabrielboric What happens in Chile is the fault of Piñera who went to Cúcuta to invite Venezuelans and co… https://t.co/gvJL9Teceu, extra_data="{'translat...") 
+
+-0.5829  | Tweet 2621: Translated(src=es, dest=en, text=@SoulMate_SUA @gabrielboric You are absolutely right.
+Crime is the product of Piñera who went to Cúcuta to invite… https://t.co/J51iaUuZkT, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8555  | Tweet 2622: Translated(src=es, dest=en, text=@ Mariperl2 @ gabrielboric Make me laugh was the one who went to Cúcuta to invite Venezuelans and Colombians to come to "paraí… https://t.co/5WXpI0uFwT, pronunciation=@ Mariperl2 @ gabrielboric Make me laugh was the one who went to Cúcuta to invite Venezuelans and Colombians to come to "paraí… https://t.co/5WXpI0uFwT, extra_data="{'translat...") 
+
+0.0  | Tweet 2623: Translated(src=es, dest=en, text=@CNNEE In Venezuela, the communist socialists also did the same with CNN when the motilon de cucuta matured… https://t.co/ifLlMppBeL, pronunciation=@CNNEE In Venezuela, the communist socialists also did the same with CNN when the motilon de cucuta matured… https://t.co/ifLlMppBeL, extra_data="{'translat...") 
+
+0.296  | Tweet 2624: Translated(src=es, dest=en, text=@Crossroads_666 @gabrielboric Ask Piñera that he went to Cúcuta to invite Venezuelans and Colombians to come… https://t.co/Q0rvki3uon, pronunciation=@Crossroads_666 @gabrielboric Ask Piñera that he went to Cúcuta to invite Venezuelans and Colombians to come… https://t.co/Q0rvki3uon, extra_data="{'translat...") 
+
+0.0  | Tweet 2625: Translated(src=es, dest=en, text=@Analitica: Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, as part of…, pronunciation=@Analitica: Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, as part of…, extra_data="{'translat...") 
+
+0.0  | Tweet 2626: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/C04rAxmw9F, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/C04rAxmw9F, extra_data="{'translat...") 
+
+-0.8271  | Tweet 2627: Translated(src=es, dest=en, text=@AsambleaVE: Dip. @Sivolicarmenm: "I witnessed, on September 16, the harassment and abuse by the Táchira state police…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2628: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/848RjTkEJf, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/848RjTkEJf, extra_data="{'translat...") 
+
+0.5023  | Tweet 2629: Translated(src=es, dest=en, text=@esilva7araya: @elanonimo2211 @biobio No, nobody
+But the New York Times treated him like a clown, when he went to Cucuta, to offer the democratic visa…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2630: Translated(src=es, dest=en, text=@blueman0904: I've had enough of the Venezuelans. Using minors to beg on the streets of Santiago. @sebastianpinera when you go…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 2631: Translated(src=es, dest=en, text=@crcontrerasbus1 @Silentdude8 @soyrecoletano @biobio @gabrielboric @ChilePeriodista He was well informed when he left… https://t.co/o7mESp2uK0, pronunciation=@crcontrerasbus1 @Silentdude8 @soyrecoletano @biobio @gabrielboric @ChilePeriodista He was well informed when he left… https://t.co/o7mESp2uK0, extra_data="{'translat...") 
+
+0.0  | Tweet 2632: Translated(src=es, dest=en, text=Venezuelans fed me up. Using minors to beg on the streets of Santiago. @sebastianpinera cua… https://t.co/WtJxRAS880, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2633: Translated(src=es, dest=en, text=@SofiaStefany13 @thaubyfernando The invitation in Cúcuta to Venezuelans was made by Piñera, then Kast boy, went to b… https://t.co/pIp59g07ZQ, pronunciation=@SofiaStefany13 @thaubyfernando The invitation in Cúcuta to Venezuelans was made by Piñera, then Kast boy, went to b… https://t.co/pIp59g07ZQ, extra_data="{'translat...") 
+
+0.3612  | Tweet 2634: Translated(src=es, dest=en, text=@pocoagradable @biobio To piñera
+the New York Times, treated him like a clown, when he went to Cucuta, to offer the democratic visa… https://t.co/X6s7TI1Qnl, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5023  | Tweet 2635: Translated(src=es, dest=en, text=@elanonimo2211 @biobio No, nobody
+But the New York Times treated him like a clown, when he went to Cucuta, to offer the visa to… https://t.co/wkBodbpEIq, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2636: Translated(src=es, dest=en, text=@luis_toro_t: @Inspectorvalle2 The border was opened by Piñera, his foreign minister, in Cúcuta. They invited to come to Chile to…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 2637: Translated(src=es, dest=en, text=@yosman12 @PetroDivisa The exchange houses in Colombia are instruments of aggression that the governments of the US and… https://t.co/jWwR2aPyUr, pronunciation=@yosman12 @PetroDivisa The exchange houses in Colombia are instruments of aggression that the governments of the US and… https://t.co/jWwR2aPyUr, extra_data="{'translat...") 
+
+0.0  | Tweet 2638: Translated(src=es, dest=en, text=@VTVcanal8: #EnVideo📹| Authorities inaugurate meeting of Venezuelan and Colombian poets in Cúcuta
+
+#PoetryIsPeace
+
+https://t.co/YImTo…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7906  | Tweet 2639: Translated(src=es, dest=en, text=@DiegoHipocrita @24HorasTVN Surely the left went to stick the tremendous show to Cúcuta to invite the Venezuelans… https://t.co/7bgVt2Of1T, pronunciation=@DiegoHipocrita @24HorasTVN Surely the left went to stick the tremendous show to Cúcuta to invite the Venezuelans… https://t.co/7bgVt2Of1T, extra_data="{'translat...") 
+
+0.0  | Tweet 2640: Translated(src=es, dest=en, text=@RNVinformative: #Video | We have an appointment this Saturday September 17 from 3 pm to attend the Meeting of Venezuelan Poets..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 2641: Translated(src=es, dest=en, text=@andreslongton @gabrielboric Mr. Parliamentarian asked you, did you say the same thing to your friend @sebastianpinera? Remember… https://t.co/lGvFib0ObG, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2642: Translated(src=es, dest=en, text=#Politics | Jorge Rodríguez, reported this Tuesday, September 20, that the deputies of Venezuela and Colombia met… https://t.co/qAAqmd3tbk, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2643: Translated(src=es, dest=en, text=Rómulo Bustos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held… https://t.co/6wdiXEi65w, pronunciation=Rómulo Bustos was one of the Colombians participating in the Meeting of Venezuelan and Colombian Poets held… https://t.co/6wdiXEi65w, extra_data="{'translat...") 
+
+0.0  | Tweet 2644: Translated(src=es, dest=en, text=Vielsi Arias was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held… https://t.co/vkFUt78eRS, pronunciation=Vielsi Arias was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets held… https://t.co/vkFUt78eRS, extra_data="{'translat...") 
+
+0.0  | Tweet 2645: Translated(src=es, dest=en, text=Angelica Hoyos was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets performs… https://t.co/eTWh9RtyLA, pronunciation=Angelica Hoyos was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets performs… https://t.co/eTWh9RtyLA, extra_data="{'translat...") 
+
+0.0  | Tweet 2646: Translated(src=es, dest=en, text=Leonardo Ruiz Tirado was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets… https://t.co/ltoKjzeVOt, pronunciation=Leonardo Ruiz Tirado was one of the compatriots participating in the Meeting of Venezuelan and Colombian Poets… https://t.co/ltoKjzeVOt, extra_data="{'translat...") 
+
+0.0  | Tweet 2647: Translated(src=es, dest=en, text=Yorlady Ruiz was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets held… https://t.co/KYUXyi65sv, pronunciation=Yorlady Ruiz was one of the Colombian participants in the Meeting of Venezuelan and Colombian Poets held… https://t.co/KYUXyi65sv, extra_data="{'translat...") 
+
+0.2235  | Tweet 2648: Translated(src=es, dest=en, text=They do not take long to write that I am Xenophobic, and other things. I live in Cucuta, here the V did not stop receiving… https://t.co/l75L9Jm1jv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2649: Translated(src=es, dest=en, text=#Politics | Jorge Rodríguez reported this Tuesday, September 20, that the deputies of Venezuela and Colombia met… https://t.co/EtApAKTPla, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7184  | Tweet 2650: Translated(src=es, dest=en, text=#Politics l The deputies of Venezuela and Colombia will meet on Sunday #25Sep between the state of Táchira and Cúcuta… https://t.co/XnUO2jfvX2, pronunciation=#Politics l The deputies of Venezuela and Colombia will meet on Sunday #25Sep between the state of Táchira and Cúcuta… https://t.co/XnUO2jfvX2, extra_data="{'translat...") 
+
+0.0  | Tweet 2651: Translated(src=es, dest=en, text=#21Sep 🇨🇴🇻🇪 Colombian and Venezuelan deputies will meet this Sunday 25Sep in the state of Táchira (Venezuela)… https://t.co/phEWM2ayFo, pronunciation=#21Sep 🇨🇴🇻🇪 Colombian and Venezuelan deputies will meet this Sunday 25Sep in the state of Táchira (Venezuela)… https://t.co/phEWM2ayFo, extra_data="{'translat...") 
+
+0.0  | Tweet 2652: Translated(src=es, dest=en, text=@FEDEL78: 🚨🚨 CUCUTA POLICE CONFIRMS US
+MUSIC NEWS
+SOUND NETWORK RADIO CALI 1,500 AM
+SATURDAYS 3PM
+🎤 Captured in CUCUTA 4 Venezuelans i…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0772  | Tweet 2653: Translated(src=es, dest=en, text=#NATIONALS ⏩ | "We want to announce that within the framework of the normalization of relations between Venezuela and Colombia… https://t.co/28faWB6Eqi, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5994  | Tweet 2654: Translated(src=es, dest=en, text=@MaxiPatriota And did you argue when Piñera even took his children to China?
+You argued when he traveled to Cucuta to request… https://t.co/ceRITXH4Sy, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2655: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/jj1tMNot1U, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/jj1tMNot1U, extra_data="{'translat...") 
+
+0.8402  | Tweet 2656: Translated(src=es, dest=en, text=@cbofillr Who would have been the President who, for appearing and winning votes, would have gone to Cucuta to invite the Venez… https://t.co/SHzHtozxXQ, pronunciation=@cbofillr Who would have been the President who, for appearing and winning votes, would have gone to Cucuta to invite the Venez… https://t.co/SHzHtozxXQ, extra_data="{'translat...") 
+
+-0.8316  | Tweet 2657: Translated(src=es, dest=en, text=@FotoMultaSocial Unfortunately all these offenders are Venezuelans, that's how they drive there, in Cúcuta and throughout the… https://t.co/MURatioFLd, pronunciation=@FotoMultaSocial Unfortunately all these offenders are Venezuelans, that's how they drive there, in Cúcuta and throughout the… https://t.co/MURatioFLd, extra_data="{'translat...") 
+
+0.0  | Tweet 2658: Translated(src=es, dest=en, text=@sggt: @andreabrucher 3- ..this government and the next try to bring the country back to how it was at least before March 11, 201…, pronunciation=@sggt: @andreabrucher 3- ..this government and the next try to bring the country back to how it was at least before March 11, 201…, extra_data="{'translat...") 
+
+0.0  | Tweet 2659: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/oRJOnnPOU7, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/oRJOnnPOU7, extra_data="{'translat...") 
+
+0.296  | Tweet 2660: Translated(src=es, dest=en, text=@Kurtalptraum @Osukuro_ @claudionarea @PublimetroChile Who went to Cúcuta to invite the Venezuelans, gave them a visa… https://t.co/KtuNqSEc9V, pronunciation=@Kurtalptraum @Osukuro_ @claudionarea @PublimetroChile Who went to Cúcuta to invite the Venezuelans, gave them a visa… https://t.co/KtuNqSEc9V, extra_data="{'translat...") 
+
+0.0  | Tweet 2661: Translated(src=es, dest=en, text=@HenrylealbIX @ribarra2611 And of course, as its President Piñera went so many times.... but he went to Cucuta to look for the ve… https://t.co/5U7lW9HPcC, pronunciation=@HenrylealbIX @ribarra2611 And of course, as its President Piñera went so many times.... but he went to Cucuta to look for the ve… https://t.co/5U7lW9HPcC, extra_data="{'translat...") 
+
+-0.4019  | Tweet 2662: Translated(src=es, dest=en, text=@armando_gaete @desbordes @andreamy4 @gabrielboric and that problem is from 6 months ago or what?
+Piñera was the one who went to… https://t.co/tB7phDM6bQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2663: Translated(src=es, dest=en, text=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/tB8aQOEChI, pronunciation=Parliamentarians from Venezuela and Colombia will meet at the border of both countries, on September 26, with… https://t.co/tB8aQOEChI, extra_data="{'translat...") 
+
+0.0  | Tweet 2664: Translated(src=es, dest=en, text=@Inspectorvalle2 The border was opened by Piñera, his foreign minister, in Cúcuta. They invited to come to… https://t.co/BkarB5nEAo, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2665: Translated(src=es, dest=en, text=@andreabrucher 3- ..this government and the next try to bring the country back to how it was at least before 9/11… https://t.co/RJnXXmbBYS, pronunciation=@andreabrucher 3- ..this government and the next try to bring the country back to how it was at least before 9/11… https://t.co/RJnXXmbBYS, extra_data="{'translat...") 
+
+0.0  | Tweet 2666: Translated(src=es, dest=en, text=Cúcuta should be an 'exit hub for Venezuelans'. https://t.co/aQnOLImq5v, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2667: Translated(src=en, dest=en, text=@AliciaJ37423546 @Glorita29460595 @alealejandroisn @janomatusmc @Senado_Chile @Camara_cl @RNchile @udipopular… https://t.co/VmUDjVONUZ, pronunciation=@AliciaJ37423546 @Glorita29460595 @alealejandroisn @janomatusmc @Senado_Chile @Camara_cl @RNchile @udipopular… https://t.co/VmUDjVONUZ, extra_data="{'translat...") 
+
+0.8271  | Tweet 2668: Translated(src=es, dest=en, text=@JennyMoreno70: My expectations that the opening of the border will benefit Venezuelans are low, but I am sure that…, pronunciation=@JennyMoreno70: My expectations that the opening of the border will benefit Venezuelans are low, but I am sure that…, extra_data="{'translat...") 
+
+0.0  | Tweet 2669: Translated(src=en, dest=en, text=@Tropatriunfante: @Klobo91 @Samurai31860445 @WilfredoNc @MarioNolio @OJOVENE @1961Tokio @LaLadil30301091 @CatalinoMeltro2 @Luis__Crespo_…, pronunciation=@Tropatriunfante: @Klobo91 @Samurai31860445 @WilfredoNc @MarioNolio @OJOVENE @1961Tokio @LaLadil30301091 @CatalinoMeltro2 @Luis__Crespo_…, extra_data="{'translat...") 
+
+0.0  | Tweet 2670: Translated(src=es, dest=en, text=@carturorincon7 Don't believe me, but here in Cucuta they are paying Venezuelans to go out and march, don't believe me I repeat., pronunciation=@carturorincon7 Don't believe me, but here in Cucuta they are paying Venezuelans to go out and march, don't believe me I repeat., extra_data="{'translat...") 
+
+0.0  | Tweet 2671: Translated(src=en, dest=en, text=@Klobo91 @Samurai31860445 @WilfredoNc @MarioNolio @OJOVENE @1961Tokio @LaLadil30301091 @CatalinoMeltro2… https://t.co/RV4UkUHcIn, pronunciation=@Klobo91 @Samurai31860445 @WilfredoNc @MarioNolio @OJOVENE @1961Tokio @LaLadil30301091 @CatalinoMeltro2… https://t.co/RV4UkUHcIn, extra_data="{'translat...") 
+
+0.0  | Tweet 2672: Translated(src=es, dest=en, text=Venezuelan migrants receive medical assistance in Panama https://t.co/S6pljZsYFz… #Mundo https://t.co/A1XCiZJvjZ, pronunciation=Venezuelan migrants receive medical assistance in Panama https://t.co/S6pljZsYFz… #Mundo https://t.co/A1XCiZJvjZ, extra_data="{'translat...") 
+
+0.5423  | Tweet 2673: Translated(src=es, dest=en, text=@VillegasPoljak: Peace and poetry are also news.
+
+#Venezuela and #Colombia meet again in poetry with the Meeting of Poets..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.5423  | Tweet 2674: Translated(src=es, dest=en, text=@Primeracomando: Meeting of Poets for Peace. 10 Venezuelan poets and 10 Colombian poets will meet in Cúcuta
+ and San Cristobal l…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2675: Translated(src=es, dest=en, text=@Ciudad_Ccs: 📰 #CiudadCCS
+🇻🇪 #Nationals
+
+Colombian and Venezuelan parliamentarians meet this Sunday
+
+The meeting of legislator..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2676: Translated(src=es, dest=en, text=📰 #CityCCS
+🇻🇪 #Nationals
+
+Colombian and Venezuelan parliamentarians meet this Sunday
+
+The meeting of him… https://t.co/zXxdovvr36, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.8271  | Tweet 2677: Translated(src=es, dest=en, text=dip. @Sivolicarmenm: "I witnessed, on September 16, the harassment and abuse by the state police.… https://t.co/8IvwLhHjHh, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5803  | Tweet 2678: Translated(src=es, dest=en, text=@ jcliz42 Hear a question, how long ago did the Venezuelan channels stop being seen in the open signal in Cúcuta?, pronunciation=@ jcliz42 Hear a question, how long ago did the Venezuelan channels stop being seen in the open signal in Cúcuta?, extra_data="{'translat...") 
+
+0.7906  | Tweet 2679: Translated(src=es, dest=en, text=@SomosRMNoticias: #Culture ✒️ Meeting of Venezuelan and Colombian Poets for Peace, begins programming this Saturday #17Sep with nutri…, pronunciation=@SomosRMNoticias: #Culture ✒️ Meeting of Venezuelan and Colombian Poets for Peace, begins programming this Saturday #17Sep with nutri…, extra_data="{'translat...") 
+
+0.0  | Tweet 2680: Translated(src=es, dest=en, text=@eapc_86 @p4r4m4n4n4 @aarosenberg Do you have to say it on every trip you take abroad?
+
+Also, I remind you that… https://t.co/teBmVRoNfD, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.948  | Tweet 2681: Translated(src=es, dest=en, text=IT IS NO LONGER CUCUTA, THE VENEZUELAN MIGRANT CRISIS MOVED TO THE FRONT... https://t.co/wGaXIe8ZBT via @YouTube, pronunciation=IT IS NO LONGER CUCUTA, THE VENEZUELAN MIGRANT CRISIS MOVED TO THE FRONT... https://t.co/wGaXIe8ZBT via @YouTube, extra_data="{'translat...") 
+
+0.5859  | Tweet 2682: Translated(src=es, dest=en, text=I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Pi government… https://t.co/OpGB7gOy2D, pronunciation=I come from Chile where an official named Wladimir Pizarro Baltra was a security official for the Pi government… https://t.co/OpGB7gOy2D, extra_data="{'translat...") 
+
+-0.7003  | Tweet 2683: Translated(src=es, dest=en, text=@felipekast @gabrielboric Piñera went to Cúcuta to worry about Venezuelans and never went to La Araucania to worry… https://t.co/JW29GGRQL5, pronunciation=@felipekast @gabrielboric Piñera went to Cúcuta to worry about Venezuelans and never went to La Araucania to worry… https://t.co/JW29GGRQL5, extra_data="{'translat...") 
+
+0.0772  | Tweet 2684: Translated(src=es, dest=en, text=#COLOMBIA #SuccessFactorMagazineNEWS
+Cúcuta must be a 'exit hub for Venezuelans'.
+Do you want to know more about… https://t.co/EI6cRodE0D, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 2685: Translated(src=es, dest=en, text=@TorrUgenia: President @NicolasMaduro greeted the Meeting of Venezuelan and Colombian Poets held in Cúcuta and San Cristóbal before…, pronunciation=@TorrUgenia: President @NicolasMaduro greeted the Meeting of Venezuelan and Colombian Poets held in Cúcuta and San Cristóbal before…, extra_data="{'translat...") 
+
+0.9693  | Tweet 2686: Translated(src=es, dest=en, text=What a laugh, you must think like the people who speak Cúcuta hahahahahahaha and that Piñera invited us XD and if he hadn't gone… https://t.co/lKismdAVkC, pronunciation=What a laugh, you must think like the people who speak Cúcuta hahahahahahaha and that Piñera invited us XD and if he hadn't gone… https://t.co/lKismdAVkC, extra_data="{'translat...") 
+
+0.0  | Tweet 2687: Translated(src=es, dest=en, text=@PetroEsPueblo They did that in Venezuela and Venezuelans come to Cucuta to ask for medical services because they don't work… https://t.co/ZvEDzmWITV, pronunciation=@PetroEsPueblo They did that in Venezuela and Venezuelans come to Cucuta to ask for medical services because they don't work… https://t.co/ZvEDzmWITV, extra_data="{'translat...") 
+
+-0.5574  | Tweet 2688: Translated(src=es, dest=en, text=@soyoctavo @PetroEsPueblo Shit talker, because thousands of Venezuelans come to CUCUTA for medical attention. T… https://t.co/GnYngNtqD8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2689: Translated(src=es, dest=en, text=@AsambleaVE: #SessionAN | Information point in charge of the Dip. @Sivolicarmenm about the mistreatment of Venezuelans who return to the country..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2690: Translated(src=es, dest=en, text=@AsambleaVE: #SessionAN | dip. @Sivolicarmenm: "Venezuelans returning from Cúcuta, came with their personal purchases and more on this date…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2691: Translated(src=es, dest=en, text=🚨🚨 CUCUTA POLICE CONFIRMS US
+MUSIC NEWS
+SOUND NETWORK RADIO CALI 1,500 AM
+SATURDAYS 3PM
+🎤 Captured in CUCUTA 4 Ve… https://t.co/N6lqKWuzV2, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.948  | Tweet 2692: Translated(src=es, dest=en, text=IT IS NO LONGER CUCUTA, THE VENEZUELAN MIGRANT CRISIS MOVES TO THE FRONT... https://t.co/KqVVLkO058 via @YouTube, pronunciation=IT IS NO LONGER CUCUTA, THE VENEZUELAN MIGRANT CRISIS MOVES TO THE FRONT... https://t.co/KqVVLkO058 via @YouTube, extra_data="{'translat...") 
+
+0.7506  | Tweet 2693: Translated(src=es, dest=en, text=@laopinioncucuta: #Companies | Cotelco and Anato referred to the public tourism policy that must be built hand in hand with the government…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 2694: Translated(src=es, dest=en, text=#Companies | Cotelco and Anato referred to the public tourism policy that must be built hand in hand with the go… https://t.co/OSGGbTusFO, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4767  | Tweet 2695: Translated(src=es, dest=en, text=@ostravision You ask if we will pass the international shame that Piñera made us pass with the
+Cop 25 in 2019?
+Or… https://t.co/bwWrzve44g, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2696: Translated(src=es, dest=en, text=@DayraMRivasR: On September 17 and 18, 2022, the meeting of Venezuelan and Colombian Poets will be held in #SanCristóbal and #Cúcuta…, pronunciation=@DayraMRivasR: On September 17 and 18, 2022, the meeting of Venezuelan and Colombian Poets will be held in #SanCristóbal and #Cúcuta…, extra_data="{'translat...") 
+
+0.0  | Tweet 2697: Translated(src=es, dest=en, text=#SessionAN | dip. @Sivolicarmenm: "The Venezuelans who returned from Cúcuta came with their personal purchases and more in… https://t.co/IBUFfpeJXd, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2698: Translated(src=es, dest=en, text=#SessionAN | Information point in charge of the Dip. @Sivolicarmenm on the mistreatment of returning Venezuelans… https://t.co/oMykzlfGZ2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 2699: Translated(src=es, dest=en, text=@soyoctavo @PetroEsPueblo Every day hundreds of Venezuelans arrive in Cucuta to receive medical care because in… https://t.co/7UOaTaIS5g, pronunciation=@soyoctavo @PetroEsPueblo Every day hundreds of Venezuelans arrive in Cucuta to receive medical care because in… https://t.co/7UOaTaIS5g, extra_data="{'translat...") 
+
+0.0  | Tweet 2700: Translated(src=es, dest=en, text=#WithyouCHV
+Inheritance of Piñera. Detailed report of the #TrenDeAguara even the boss had a social file, a visa.… https://t.co/teEVukny4N, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 2701: Translated(src=es, dest=en, text=Venezuelan migrants receive medical assistance in Panama https://t.co/S6pljZsYFz… #Mundo https://t.co/OTqayL8lwA, pronunciation=Venezuelan migrants receive medical assistance in Panama https://t.co/S6pljZsYFz… #Mundo https://t.co/OTqayL8lwA, extra_data="{'translat...") 
+
+0.0  | Tweet 2702: Translated(src=es, dest=en, text=The Venezuelan William Osuna was one of the participants in the Meeting of Venezuelan and Colombian Poets made… https://t.co/10Xge8a4hH, pronunciation=The Venezuelan William Osuna was one of the participants in the Meeting of Venezuelan and Colombian Poets made… https://t.co/10Xge8a4hH, extra_data="{'translat...") 
+
+0.0  | Tweet 2703: Translated(src=es, dest=en, text=Originally from the Wayú ethnic group, the Colombian poet Víctor Apushana recited in Wayuunaiki at the Venetian Poets Meeting… https://t.co/crPSSSAyhH, pronunciation=Originally from the Wayú ethnic group, the Colombian poet Víctor Apushana recited in Wayuunaiki at the Venetian Poets Meeting… https://t.co/crPSSSAyhH, extra_data="{'translat...") 
+

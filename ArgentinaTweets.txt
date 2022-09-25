@@ -2981,3 +2981,850 @@ The Bolivarian government transferred the relatives of the Venezuelans kidnapped
 
 0.1531  | Tweet 1326: Translated(src=es, dest=en, text=#OfInterest | We invite you to know the story of the Venezuelan communicator Milangela Balza: Towards a path of… https://t.co/8HjC54q98u, pronunciation=[[]], extra_data="{'translat...") 
 
+0.4588  | Tweet 1327: Translated(src=es, dest=en, text=@lubrio Those kids you name, do they come out well prepared?
+Because many of the graduates in the past decade have a… https://t.co/570mCcQFPm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1328: Translated(src=es, dest=en, text=@afoca13 @gusrojasmatute @fiorellalucca @EnoeAlvarez @frajosecordoba Here in Buenos Aires there is a wave of Venezuelan… https://t.co/W8LNb13zt4, pronunciation=@afoca13 @gusrojasmatute @fiorellalucca @EnoeAlvarez @frajosecordoba Here in Buenos Aires there is a wave of Venezuelan… https://t.co/W8LNb13zt4, extra_data="{'translat...") 
+
+-0.7906  | Tweet 1329: Translated(src=es, dest=en, text=I'm realizing that half the population in Buenos Aires is pure VENEZUELAN and in Córdoba there isn't even #BuenosAires #venezolanos #fuck, pronunciation=I'm realizing that half the population in Buenos Aires is pure VENEZUELAN and in Córdoba there isn't even #BuenosAires #venezolanos #fuck, extra_data="{'translat...") 
+
+0.0  | Tweet 1330: Translated(src=es, dest=en, text=@McJudicator We Venezuelans currently have a monopoly in Buenos Aires on kiosk managers outside the… https://t.co/bMOtXEj6yi, pronunciation=@McJudicator We Venezuelans currently have a monopoly in Buenos Aires on kiosk managers outside the… https://t.co/bMOtXEj6yi, extra_data="{'translat...") 
+
+0.3566  | Tweet 1331: Translated(src=es, dest=en, text=#VenezuelaInTheWorld | 🇦🇷 Dog sitter, a job that more and more Venezuelans join in Buenos Aires 🐕 🦺
+https://t.co/M0OINy1HPw, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1332: Translated(src=es, dest=en, text=@aracalacana In Buenos Aires there are many Venezuelans, anyone can teach you!, pronunciation=@aracalacana In Buenos Aires there are many Venezuelans, anyone can teach you!, extra_data="{'translat...") 
+
+-0.1027  | Tweet 1333: Translated(src=es, dest=en, text=@TonyFrangieM: Further south, an appeals court in Argentina authorized 12 of the 19 crew members of the Emtra plane to leave the country…, pronunciation=@TonyFrangieM: Further south, an appeals court in Argentina authorized 12 of the 19 crew members of the Emtra plane to leave the country…, extra_data="{'translat...") 
+
+0.0  | Tweet 1334: Translated(src=es, dest=en, text=Further south, an appeals chamber in Argentina authorized the departure of 12 of the 19 crew members of the plane from the country… https://t.co/YvTeVcIEXX, pronunciation=Further south, an appeals chamber in Argentina authorized the departure of 12 of the 19 crew members of the plane from the country… https://t.co/YvTeVcIEXX, extra_data="{'translat...") 
+
+-0.6597  | Tweet 1335: Translated(src=es, dest=en, text=@cocando: Orlenys Ortiz arrived in Argentina just when the Emtrasur plane was detained in Ezeiza with its 14 Venezuelan crew members and…, pronunciation=@cocando: Orlenys Ortiz arrived in Argentina just when the Emtrasur plane was detained in Ezeiza with its 14 Venezuelan crew members and…, extra_data="{'translat...") 
+
+-0.1531  | Tweet 1336: Translated(src=es, dest=en, text=@cocando: On the Argentine side, no one claims to know her. Nor if she was accredited to do any specific work. But her messages in l…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1337: Translated(src=es, dest=en, text=Orlenys Ortiz arrived in Argentina just when the Emtrasur plane was held in Ezeiza with its 14 crew members… https://t.co/bCJPudPU3Q, pronunciation=Orlenys Ortiz arrived in Argentina just when the Emtrasur plane was held in Ezeiza with its 14 crew members… https://t.co/bCJPudPU3Q, extra_data="{'translat...") 
+
+-0.0536  | Tweet 1338: Translated(src=es, dest=en, text=We treat the poor Venezuelans with 10 billion dollars in oil, we will never pay them. They defend… https://t.co/q8jYo5m3nb, pronunciation=We treat the poor Venezuelans with 10 billion dollars in oil, we will never pay them. They defend… https://t.co/q8jYo5m3nb, extra_data="{'translat...") 
+
+-0.1531  | Tweet 1339: Translated(src=es, dest=en, text=On the Argentine side, no one claims to know her. Nor if she was accredited to do any specific work. But hers me… https://t.co/Qu6jsVehXb, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1340: Translated(src=es, dest=en, text=@MarielaILopez: #16Sep|
+❗This is how the twelve crew members, eleven Venezuelans and one Iranian, from the hijacked #EMTRASUR plane arrived in Venezuela..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8316  | Tweet 1341: Translated(src=es, dest=en, text=@Zulemaborens At the time I worked with Venezuelans and what everyone loved most about Buenos Aires was the cultural offer… https://t.co/L25UloRHD3, pronunciation=@Zulemaborens At the time I worked with Venezuelans and what everyone loved most about Buenos Aires was the cultural offer… https://t.co/L25UloRHD3, extra_data="{'translat...") 
+
+0.0  | Tweet 1342: Translated(src=es, dest=en, text=@WalterDossier: 12 crew members of the Emtrasur plane from Venezuela arrived on Venezuelan soil, held unjustly for 3 months and without charge…, pronunciation=@WalterDossier: 12 crew members of the Emtrasur plane from Venezuela arrived on Venezuelan soil, held unjustly for 3 months and without charge…, extra_data="{'translat...") 
+
+0.0  | Tweet 1343: Translated(src=es, dest=en, text=#UFCVegas60 in tune from Buenos Aires… my wife Ysmalys and our baby Siro. Connected… Venezuelans in ar… https://t.co/Ib4bGDzH5q, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1344: Translated(src=es, dest=en, text=Venezuelans who live in Argentina believe that if you are not in the City of Buenos Aires, you live in the forest j… https://t.co/Np74aR2P7O, pronunciation=Venezuelans who live in Argentina believe that if you are not in the City of Buenos Aires, you live in the forest j… https://t.co/Np74aR2P7O, extra_data="{'translat...") 
+
+0.0  | Tweet 1345: Translated(src=es, dest=en, text=@AM_1080: 📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who finally arrived in Buenos Aires last June…, pronunciation=@AM_1080: 📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who finally arrived in Buenos Aires last June…, extra_data="{'translat...") 
+
+0.3612  | Tweet 1346: Translated(src=es, dest=en, text=@EsportsMaxTv: The Venezuelans from Sotano Gamer are ready to participate in the #SDA in Buenos Aires, Argentina.
+
+The #CSG event..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1347: Translated(src=es, dest=en, text=@npyoficial: 📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally…, pronunciation=@npyoficial: 📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally…, extra_data="{'translat...") 
+
+0.0  | Tweet 1348: Translated(src=es, dest=en, text=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/ZIytskFB63, pronunciation=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/ZIytskFB63, extra_data="{'translat...") 
+
+0.0  | Tweet 1349: Translated(src=es, dest=en, text=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/Hn4TTkqizs, pronunciation=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/Hn4TTkqizs, extra_data="{'translat...") 
+
+0.0  | Tweet 1350: Translated(src=es, dest=en, text=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/w9o0DKKBw5, pronunciation=📌 At @UltimaHoracom ➡️ Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June… https://t.co/w9o0DKKBw5, extra_data="{'translat...") 
+
+0.0  | Tweet 1351: Translated(src=es, dest=en, text=@TiaGorrito: 11 Venezuelans and 1 Iranian from the #Emtrasur plane returned to Venezuela, after being held for three months in Argentina, lived…, pronunciation=@TiaGorrito: 11 Venezuelans and 1 Iranian from the #Emtrasur plane returned to Venezuela, after being held for three months in Argentina, lived…, extra_data="{'translat...") 
+
+0.0  | Tweet 1352: Translated(src=es, dest=en, text=I open Thread (Venezuela Topic)
+
+In 2016 I came to live in Argentina, my Venezuelan documents were due to expire… https://t.co/s0xyG40fUC, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1027  | Tweet 1353: Translated(src=es, dest=en, text=@Gbastidas: The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four Iranians are still unable to leave Arge..., pronunciation=@Gbastidas: The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four Iranians are still unable to leave Arge..., extra_data="{'translat...") 
+
+0.0  | Tweet 1354: Translated(src=es, dest=en, text=#16Sep|
+❗This is how the twelve crew members, eleven Venezuelans and one Iranian, from the #EMTRASUR plane, kidnapped… https://t.co/Ps5ISgAZC9, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1355: Translated(src=es, dest=en, text=@UltimaHoracom: Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally left Argentina..., pronunciation=@UltimaHoracom: Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally left Argentina..., extra_data="{'translat...") 
+
+0.0  | Tweet 1356: Translated(src=es, dest=en, text=Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally left Ar… https://t.co/HGo9ukjsnD, pronunciation=Eleven Venezuelans and an Iranian from the Emtrasur plane who arrived in Buenos Aires last June finally left Ar… https://t.co/HGo9ukjsnD, extra_data="{'translat...") 
+
+0.0  | Tweet 1357: Translated(src=es, dest=en, text=12 crew members of the Emtrasur plane from Venezuela arrived on Venezuelan soil, held unfairly for 3 months and without… https://t.co/dURMzwcDOu, pronunciation=12 crew members of the Emtrasur plane from Venezuela arrived on Venezuelan soil, held unfairly for 3 months and without… https://t.co/dURMzwcDOu, extra_data="{'translat...") 
+
+0.0  | Tweet 1358: Translated(src=es, dest=en, text=@ReporteYa: #16Sep #IranianPlane
+@Gbastidas: The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four Iranians…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1359: Translated(src=es, dest=en, text=#16Sep #IranianPlane
+@Gbastidas: The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four… https://t.co/YLVPFZ7jz4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1360: Translated(src=es, dest=en, text=The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four Iranians are still unable to leave… https://t.co/tmeWCaN14Y, pronunciation=The Emtrasur plane remains seized in Buenos Aires, and three Venezuelans and four Iranians are still unable to leave… https://t.co/tmeWCaN14Y, extra_data="{'translat...") 
+
+0.0  | Tweet 1361: Translated(src=es, dest=en, text=11 Venezuelans and 1 Iranian from the #Emtrasur plane returned to Venezuela, after being held for three months in Argentina… https://t.co/G0FWPTuHjW, pronunciation=11 Venezuelans and 1 Iranian from the #Emtrasur plane returned to Venezuela, after being held for three months in Argentina… https://t.co/G0FWPTuHjW, extra_data="{'translat...") 
+
+0.3612  | Tweet 1362: Translated(src=es, dest=en, text=The Venezuelans of Sotano Gamer are ready to participate in the #SDA in Buenos Aires, Argentina.
+
+The event of… https://t.co/yv9exbZajG, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6962  | Tweet 1363: Translated(src=es, dest=en, text=@cocando: His messages on the networks are more than clear since he always acted as a link between the Venezuelan crew members and the regime…, pronunciation=@cocando: His messages on the networks are more than clear since he always acted as a link between the Venezuelan crew members and the regime…, extra_data="{'translat...") 
+
+0.6962  | Tweet 1364: Translated(src=es, dest=en, text=His messages on the networks are more than clear since he always acted as a link between the Venezuelan crew members… https://t.co/yOsVouyXjF, pronunciation=His messages on the networks are more than clear since he always acted as a link between the Venezuelan crew members… https://t.co/yOsVouyXjF, extra_data="{'translat...") 
+
+0.9744  | Tweet 1365: Translated(src=es, dest=en, text=@useful_eater @arg_endatos @Plataforma_R4V To a large extent yes, the great attraction of growth and vine conditions… https://t.co/QSlVrwbuAB, pronunciation=@useful_eater @arg_endatos @Plataforma_R4V To a large extent yes, the great attraction of growth and vine conditions… https://t.co/QSlVrwbuAB, extra_data="{'translat...") 
+
+0.6124  | Tweet 1366: Translated(src=es, dest=en, text=@BLUSantanderes: The governor of Santander @MAguilarHurtado asked @MigracionCol for greater controls on Venezuelans who come to work…, pronunciation=@BLUSantanderes: The governor of Santander @MAguilarHurtado asked @MigracionCol for greater controls on Venezuelans who come to work…, extra_data="{'translat...") 
+
+0.8591  | Tweet 1367: Translated(src=es, dest=en, text=What a beautiful bagpipe and what a spirit those Venezuelans, a shame not to have been there to enjoy them.
+The beauty of Good… https://t.co/zV9JAqwHoQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1368: Translated(src=es, dest=en, text=@Actualidad: The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked
+
+https://t.co…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1369: Translated(src=es, dest=en, text=@webnotitarde: #15Sep | A group of Venezuelan crew members, who were held at the Ezeiza Airport in Buenos Aires, boarded…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1370: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/2EZY7v6Xst, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/2EZY7v6Xst, extra_data="{'translat...") 
+
+0.0  | Tweet 1371: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked - https://t.co/c6T7uHOLur #, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked - https://t.co/c6T7uHOLur #, extra_data="{'translat...") 
+
+0.0  | Tweet 1372: Translated(src=es, dest=en, text=Russia Today | The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/pYZmxQluVs, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1373: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/aOUj0m3JGG, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/aOUj0m3JGG, extra_data="{'translat...") 
+
+0.0  | Tweet 1374: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/3Iz1L6KgcC, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/3Iz1L6KgcC, extra_data="{'translat...") 
+
+0.0  | Tweet 1375: Translated(src=es, dest=en, text=#15Sep | A group of Venezuelan crew members, who were held at the Ezeiza Airport in Buenos Aires, sub… https://t.co/NfNX2MeHnY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1376: Translated(src=es, dest=en, text=The first group of Venezuelan crew members who were held at the Buenos Aires airport are embarked https://t.co/ykXb85KxJ3, pronunciation=The first group of Venezuelan crew members who were held at the Buenos Aires airport are embarked https://t.co/ykXb85KxJ3, extra_data="{'translat...") 
+
+0.0  | Tweet 1377: Translated(src=es, dest=en, text=@avalgh1: The first group of Venezuelan crew members who were held at the Buenos Aires airport are embarked https://t.co/GXAGaq…, pronunciation=@avalgh1: The first group of Venezuelan crew members who were held at the Buenos Aires airport are embarked https://t.co/GXAGaq…, extra_data="{'translat...") 
+
+0.0  | Tweet 1378: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/GXAGaq5txC, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked https://t.co/GXAGaq5txC, extra_data="{'translat...") 
+
+0.0  | Tweet 1379: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/2aWBBBIwHq, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/2aWBBBIwHq, extra_data="{'translat...") 
+
+0.0  | Tweet 1380: Translated(src=es, dest=en, text=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/3aFgGc4TqD, pronunciation=The first group of Venezuelan crew members that was held at the Buenos Aires airport is embarked… https://t.co/3aFgGc4TqD, extra_data="{'translat...") 
+
+0.0  | Tweet 1381: Translated(src=es, dest=en, text=#UNGA In Argentina, a "pastoral address". In Colombia, a “magisterial” intervention. In the US and EU? Security… https://t.co/1cyekWqiaO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1382: Translated(src=es, dest=en, text=@JulianRooUS In Argentina millions of Venezuelans crossed the border as political refugees and we will never know… https://t.co/IxIBsQHepK, pronunciation=@JulianRooUS In Argentina millions of Venezuelans crossed the border as political refugees and we will never know… https://t.co/IxIBsQHepK, extra_data="{'translat...") 
+
+-0.8506  | Tweet 1383: Translated(src=es, dest=en, text=@carola_amoroso @PatriciaTappata IN VENEZUELA HUMAN RIGHTS HAVE BEEN VIOLATED FOR YEARS, THERE ARE MANY VENEZUELANS… https://t.co/6wl6roWwR0, pronunciation=@carola_amoroso @PatriciaTappata IN VENEZUELA HUMAN RIGHTS HAVE BEEN VIOLATED FOR YEARS, THERE ARE MANY VENEZUELANS… https://t.co/6wl6roWwR0, extra_data="{'translat...") 
+
+0.0  | Tweet 1384: Translated(src=es, dest=en, text=@AlidaFreites_tw: #MaduroEnLaONU Venezuelans who are in Colombia, Peru, Ecuador, Chile and Argentina. It will be what they are in conditions of p…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1385: Translated(src=es, dest=en, text=#MaduroEnLaONU Venezuelans who are in Colombia, Peru, Ecuador, Chile and Argentina. It will be what they are in a position to… https://t.co/iRS2zec1Ih, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7774  | Tweet 1386: Translated(src=es, dest=en, text=@ Naranjazos10 Today the reality of Venezuelan players is very poor, almost all of them do not have continuity in… https://t.co/gUv1JwVtHo, pronunciation=@ Naranjazos10 Today the reality of Venezuelan players is very poor, almost all of them do not have continuity in… https://t.co/gUv1JwVtHo, extra_data="{'translat...") 
+
+0.0  | Tweet 1387: Translated(src=es, dest=en, text=@escovargabriela Venezuelans who live in Argentina are also leaving., pronunciation=@escovargabriela Venezuelans who live in Argentina are also leaving., extra_data="{'translat...") 
+
+-0.4003  | Tweet 1388: Translated(src=es, dest=en, text=Attention! 🇻🇪🇦🇷 | Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years… https://t.co/GBlliqp1Os, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1389: Translated(src=es, dest=en, text=@LianRz: This very real phenomenon of Venezuelans in Chile going to Argentina because they can't stand Chile, and Venezuelans in Argentina coming…, pronunciation=@LianRz: This very real phenomenon of Venezuelans in Chile going to Argentina because they can't stand Chile, and Venezuelans in Argentina coming…, extra_data="{'translat...") 
+
+-0.2023  | Tweet 1390: Translated(src=es, dest=en, text=@josemigrante: @PetroDivisa Conviasa has to pay what they owe to Venezuelans, canceled flights and compensation for the t…, pronunciation=@josemigrante: @PetroDivisa Conviasa has to pay what they owe to Venezuelans, canceled flights and compensation for the t…, extra_data="{'translat...") 
+
+0.0  | Tweet 1391: Translated(src=es, dest=en, text=@teleSURtv Take away the Venezuelan worms we have in Argentina, pronunciation=@teleSURtv Take away the Venezuelan worms we have in Argentina, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1392: Translated(src=es, dest=en, text=@OldenburgLuis: The situational room in Miraflores putting together strategies that distort the brains of many Venezuelans who end up…, pronunciation=@OldenburgLuis: The situational room in Miraflores putting together strategies that distort the brains of many Venezuelans who end up…, extra_data="{'translat...") 
+
+0.8802  | Tweet 1393: Translated(src=es, dest=en, text=@andaacomprar: @FroySilvio @claudioxyayo @__agm7 well... in Argentina the police are open to bribery, so yes, in Argentina..., pronunciation=@andaacomprar: @FroySilvio @claudioxyayo @__agm7 well... in Argentina the police are open to bribery, so yes, in Argentina..., extra_data="{'translat...") 
+
+-0.1531  | Tweet 1394: Translated(src=es, dest=en, text=@NicolasMaduro Hunger adorers of the people: there are 5 million Venezuelans in South America pitying themselves, begging for alms… https://t.co/Se2fJezXKz, pronunciation=@NicolasMaduro Hunger adorers of the people: there are 5 million Venezuelans in South America pitying themselves, begging for alms… https://t.co/Se2fJezXKz, extra_data="{'translat...") 
+
+-0.7906  | Tweet 1395: Translated(src=es, dest=en, text=Because it will be that on twitter the sepoy who emigrated is reflected a lot and continues to remember Argentina in a bad way jsjs… https://t.co/uN9r77yeHZ, pronunciation=Because it will be that on twitter the sepoy who emigrated is reflected a lot and continues to remember Argentina in a bad way jsjs… https://t.co/uN9r77yeHZ, extra_data="{'translat...") 
+
+-0.2023  | Tweet 1396: Translated(src=es, dest=en, text=@PetroDivisa Conviasa has to pay what they owe Venezuelans, canceled flights and compensation for… https://t.co/iDaFhPo98X, pronunciation=@PetroDivisa Conviasa has to pay what they owe Venezuelans, canceled flights and compensation for… https://t.co/iDaFhPo98X, extra_data="{'translat...") 
+
+0.0  | Tweet 1397: Translated(src=es, dest=en, text=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/6KBGfHM6qz, pronunciation=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/6KBGfHM6qz, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1398: Translated(src=es, dest=en, text=The Miraflores situational room putting together strategies that distort the brain of many Venezuelans who are going to stop… https://t.co/dxGx1mai5U, pronunciation=The Miraflores situational room putting together strategies that distort the brain of many Venezuelans who are going to stop… https://t.co/dxGx1mai5U, extra_data="{'translat...") 
+
+0.0  | Tweet 1399: Translated(src=es, dest=en, text=This very real phenomenon of Venezuelans in Chile going to Argentina because they can't stand Chile, and Venezuelans in Argentina… https://t.co/OoQQwiHvjY, pronunciation=This very real phenomenon of Venezuelans in Chile going to Argentina because they can't stand Chile, and Venezuelans in Argentina… https://t.co/OoQQwiHvjY, extra_data="{'translat...") 
+
+0.0  | Tweet 1400: Translated(src=es, dest=en, text=That is the health that the regime offers Venezuelans, while our doctors are in Chile, Peru, Ecuador, A… https://t.co/9XLFC50lhB, pronunciation=That is the health that the regime offers Venezuelans, while our doctors are in Chile, Peru, Ecuador, A… https://t.co/9XLFC50lhB, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1401: Translated(src=es, dest=en, text=@YuryHdz08: #BREAKING| 🇦🇷✈️Already boarded on the plane the 1st group of Venezuelan crew members who lifted the ban on their…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5574  | Tweet 1402: Translated(src=es, dest=en, text=How curious, now they know in all the towns of Argentina that the Venezuelans in the gallery where I work are also… https://t.co/3E6maHwDrt, pronunciation=How curious, now they know in all the towns of Argentina that the Venezuelans in the gallery where I work are also… https://t.co/3E6maHwDrt, extra_data="{'translat...") 
+
+0.8802  | Tweet 1403: Translated(src=es, dest=en, text=@FroySilvio @claudioxyayo @__agm7 well... in Argentina the police are open to bribery, so yes, in Arg… https://t.co/e14GYXDpk4, pronunciation=@FroySilvio @claudioxyayo @__agm7 well... in Argentina the police are open to bribery, so yes, in Arg… https://t.co/e14GYXDpk4, extra_data="{'translat...") 
+
+0.886  | Tweet 1404: Translated(src=es, dest=en, text=@jorgerpsuv: Today we received with immense joy 12 of the 19 Venezuelan crew members in Argentina. They return to their good homeland. He loves them..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.4404  | Tweet 1405: Translated(src=es, dest=en, text=@Rowkoeljodedor @CEVAZ11 @ElZoroark @DepravedWeb Bass; Peru is good people with Argentina, I must oppose your idea.… https://t.co/oyrsjjqK6P, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1406: Translated(src=es, dest=en, text=@OrlenysOV: This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, along with 11 Venezuelans from the EMTRAS plane…, pronunciation=@OrlenysOV: This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, along with 11 Venezuelans from the EMTRAS plane…, extra_data="{'translat...") 
+
+-0.9432  | Tweet 1407: Translated(src=es, dest=en, text=So that #Venezuelans in #Argentina understand: the death of #CarlitosBalá is as if Popy had died, c… https://t.co/HmzIPux3uB, pronunciation=So that #Venezuelans in #Argentina understand: the death of #CarlitosBalá is as if Popy had died, c… https://t.co/HmzIPux3uB, extra_data="{'translat...") 
+
+0.6597  | Tweet 1408: Translated(src=es, dest=en, text=@MichelCaballero You must help Venezuelan planes not to be the first to travel, since they are p… https://t.co/N2hMws5AvJ, pronunciation=@MichelCaballero You must help Venezuelan planes not to be the first to travel, since they are p… https://t.co/N2hMws5AvJ, extra_data="{'translat...") 
+
+0.0  | Tweet 1409: Translated(src=es, dest=en, text=@Argentinabeis @WBCBaseball With the 200 thousand Venezuelans who live in Argentina today they are going to learn something about baseball, pronunciation=@Argentinabeis @WBCBaseball With the 200 thousand Venezuelans who live in Argentina today they are going to learn something about baseball, extra_data="{'translat...") 
+
+0.0  | Tweet 1410: Translated(src=es, dest=en, text=The milk, sardines and coffee are Venezuelan. If I had seen milk from New Zealand, sugar from Nicaragua, pasta… https://t.co/70ZHR8g5I6, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5719  | Tweet 1411: Translated(src=es, dest=en, text=@EliTrotta: Do you know what the "Hate Law" has meant for Venezuelans, which Maduro proposed for Argentina?
+
+Since the regime…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1412: Translated(src=es, dest=en, text=@mattfu90 @LucasDeckner @TRightTimes In Venezuela there is a mass exodus of Venezuelans fleeing the Narcodictatorship of… https://t.co/uhwBNDROOF, pronunciation=@mattfu90 @LucasDeckner @TRightTimes In Venezuela there is a mass exodus of Venezuelans fleeing the Narcodictatorship of… https://t.co/uhwBNDROOF, extra_data="{'translat...") 
+
+0.9153  | Tweet 1413: Translated(src=es, dest=en, text=@ElPitazoTV Here they break their clothes flattering the former president of Uruguay, José Mujica, a great rascal, who is called… https://t.co/oTu2SVtRse, pronunciation=@ElPitazoTV Here they break their clothes flattering the former president of Uruguay, José Mujica, a great rascal, who is called… https://t.co/oTu2SVtRse, extra_data="{'translat...") 
+
+0.0  | Tweet 1414: Translated(src=es, dest=en, text=They ask to investigate two Venezuelan managers of Emtrasur and three Iranian crew members held in Argentina #Venezuela https://t.co/yX3o566xk1, pronunciation=They ask to investigate two Venezuelan managers of Emtrasur and three Iranian crew members held in Argentina #Venezuela https://t.co/yX3o566xk1, extra_data="{'translat...") 
+
+-0.8506  | Tweet 1415: Translated(src=es, dest=en, text=@SigloXXI1: THEY ARE CRIMINAL, THEY USURP THE PUBLIC POWERS IN VENEZUELA, HOWEVER, THEY FORCE THE VENEZUELAN CITIZENS TO GIVE THEM…, pronunciation=@SigloXXI1: THEY ARE CRIMINAL, THEY USURP THE PUBLIC POWERS IN VENEZUELA, HOWEVER, THEY FORCE THE VENEZUELAN CITIZENS TO GIVE THEM…, extra_data="{'translat...") 
+
+0.0  | Tweet 1416: Translated(src=es, dest=en, text=@escovargabriela Where will the Venezuelans who emigrated to Argentina go now? This is another of the many crises that… https://t.co/FzWMkTH1uJ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4767  | Tweet 1417: Translated(src=es, dest=en, text=@blagos_ @oprohens @ElAntiTuitero @Las___Verdades I have observed that in my Venezuelan friends. There are some who respect… https://t.co/drH3d7jsCX, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8095  | Tweet 1418: Translated(src=es, dest=en, text=@LoAlternopc: @Datoworld Csm. What scarcity is serious. Njdas Yes Argentina is the best in Soccer. Do not be offended Venezuelan brothers.…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8095  | Tweet 1419: Translated(src=es, dest=en, text=@Datoworld Csm. What scarcity is serious. Njdas Yes Argentina is the best in Soccer. Do not be offended Venezo brothers… https://t.co/liawqV23ht, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4404  | Tweet 1420: Translated(src=es, dest=en, text=@danielajf @SantinoMarchet @cmilt1 @uncafe0001 Sorry, I walk every night at night with my cell phone in my hand. Ins… https://t.co/VD95qG5WoQ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.296  | Tweet 1421: Translated(src=es, dest=en, text=For losing a friendly with Iceland 1-0 It is not to crucify Professor Pekerman, in Russia 2018 Argentina De Mess… https://t.co/yFlQjKgUx2, pronunciation=For losing a friendly with Iceland 1-0 It is not to crucify Professor Pekerman, in Russia 2018 Argentina De Mess… https://t.co/yFlQjKgUx2, extra_data="{'translat...") 
+
+0.0  | Tweet 1422: Translated(src=es, dest=en, text=Venezuelans living in Argentina seeing what the wetlands law is really about. https://t.co/lVicXfAsx4, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5574  | Tweet 1423: Translated(src=es, dest=en, text=@VenezuelaSaime Please, what happens to Venezuelans who need their passport in Argentina, because it takes so long… https://t.co/WRWMEg1ayA, pronunciation=@VenezuelaSaime Please, what happens to Venezuelans who need their passport in Argentina, because it takes so long… https://t.co/WRWMEg1ayA, extra_data="{'translat...") 
+
+-0.8506  | Tweet 1424: Translated(src=es, dest=en, text=THEY ARE CRIMINAL, THEY USURP THE PUBLIC POWERS IN VENEZUELA, HOWEVER, THEY FORCE THE VENEZUELAN CITIZENS… https://t.co/gqyOps8yQi, pronunciation=THEY ARE CRIMINAL, THEY USURP THE PUBLIC POWERS IN VENEZUELA, HOWEVER, THEY FORCE THE VENEZUELAN CITIZENS… https://t.co/gqyOps8yQi, extra_data="{'translat...") 
+
+0.0  | Tweet 1425: Translated(src=es, dest=en, text=@arg_endatos: In recent years, 6.8 million people emigrated from Venezuela. 84% live in Latin America and the Caribbean, and Argentina…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2732  | Tweet 1426: Translated(src=es, dest=en, text=@paria385 @el_pais How they started with socialism. The Cubans warned the Venezuelans and did not believe them… https://t.co/gXAQ6iOcEh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1427: Translated(src=es, dest=en, text=@rochiyito: @DoliaEstevez @LicDeDios López with his personal airport at the Santa Lucía base lets in Venezuelans, Cubans, Russians and c…, pronunciation=@rochiyito: @DoliaEstevez @LicDeDios López with his personal airport at the Santa Lucía base lets in Venezuelans, Cubans, Russians and c…, extra_data="{'translat...") 
+
+-0.2928  | Tweet 1428: Translated(src=es, dest=en, text=The Argentine investors and entrepreneurs who went to Spain must be more sorry than the Venezuelans who… https://t.co/AUPe8zWj9C, pronunciation=The Argentine investors and entrepreneurs who went to Spain must be more sorry than the Venezuelans who… https://t.co/AUPe8zWj9C, extra_data="{'translat...") 
+
+0.0  | Tweet 1429: Translated(src=es, dest=en, text=THE NEWS ABOUT THE DARK IRANIAN VENEZUELAN PLANES COMES TO MIND, LANDING IN CHILE IN A TR… https://t.co/yY7Qvhastb, pronunciation=THE NEWS ABOUT THE DARK IRANIAN VENEZUELAN PLANES COMES TO MIND, LANDING IN CHILE IN A TR… https://t.co/yY7Qvhastb, extra_data="{'translat...") 
+
+0.0  | Tweet 1430: Translated(src=es, dest=en, text=@JMileiMilei. How slow, Argentina, how slow.
+Venezuelans have known for a while that JxC is the functional opposition… https://t.co/sWXIktkJsD, pronunciation=[[]], extra_data="{'translat...") 
+
+0.2023  | Tweet 1431: Translated(src=es, dest=en, text=@Apolinario_Mam: The Russians escaping from Putin, the Venezuelans escaping from Maduro, in Cuba the largest exodus in history is taking place A…, pronunciation=@Apolinario_Mam: The Russians escaping from Putin, the Venezuelans escaping from Maduro, in Cuba the largest exodus in history is taking place A…, extra_data="{'translat...") 
+
+-0.1139  | Tweet 1432: Translated(src=es, dest=en, text=@D3nkid3nshi @notaw0rd @DUALIPA Without counting the number of Paraguayans, Venezuelans and Chileans who live in Argentina… https://t.co/FjLd9GleBt, pronunciation=@D3nkid3nshi @notaw0rd @DUALIPA Without counting the number of Paraguayans, Venezuelans and Chileans who live in Argentina… https://t.co/FjLd9GleBt, extra_data="{'translat...") 
+
+-0.4003  | Tweet 1433: Translated(src=es, dest=en, text=Attention! 🇻🇪🇦🇷 | Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years… https://t.co/lzkh4S3sCZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1434: Translated(src=es, dest=en, text=@marcelovenegas: Conviasa's trips to Chile may have something to do with it, a plane held in Argentina for bringing Iranian and Venezuelan experts..., pronunciation=@marcelovenegas: Conviasa's trips to Chile may have something to do with it, a plane held in Argentina for bringing Iranian and Venezuelan experts..., extra_data="{'translat...") 
+
+-0.8625  | Tweet 1435: Translated(src=es, dest=en, text=@ theoldplayer0 Argentina, Acapulco (if a mosquito bites you, you are dead or you also get a disease, until and… https://t.co/edePr1sEBa, pronunciation=@ theoldplayer0 Argentina, Acapulco (if a mosquito bites you, you are dead or you also get a disease, until and… https://t.co/edePr1sEBa, extra_data="{'translat...") 
+
+0.0  | Tweet 1436: Translated(src=es, dest=en, text=Three Venezuelans living in Argentina participate in the World Cup for Doctors https://t.co/RR6awGOTHU via @ES RE VIRAL, pronunciation=Three Venezuelans living in Argentina participate in the World Cup for Doctors https://t.co/RR6awGOTHU via @ES RE VIRAL, extra_data="{'translat...") 
+
+0.0  | Tweet 1437: Translated(src=es, dest=en, text=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/PvNfhrHVx0, pronunciation=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/PvNfhrHVx0, extra_data="{'translat...") 
+
+0.0  | Tweet 1438: Translated(src=es, dest=en, text=They will have something to do with conviasa's trips to Chile, a plane held in Argentina for bringing Iranian and Venetian experts… https://t.co/jQZFtFJLj2, pronunciation=They will have something to do with conviasa's trips to Chile, a plane held in Argentina for bringing Iranian and Venetian experts… https://t.co/jQZFtFJLj2, extra_data="{'translat...") 
+
+0.2023  | Tweet 1439: Translated(src=es, dest=en, text=The Russians escaping from Putin, the Venezuelans escaping from Maduro, in Cuba the largest exodus in history is taking place… https://t.co/LWjL0SF6ln, pronunciation=The Russians escaping from Putin, the Venezuelans escaping from Maduro, in Cuba the largest exodus in history is taking place… https://t.co/LWjL0SF6ln, extra_data="{'translat...") 
+
+0.0  | Tweet 1440: Translated(src=es, dest=en, text=#Sep 22 Three Venezuelans living in Argentina participate in the World Cup for Doctors https://t.co/ADVhq7vk4U https://t.co/sV6iRI94Mi, pronunciation=#Sep 22 Three Venezuelans living in Argentina participate in the World Cup for Doctors https://t.co/ADVhq7vk4U https://t.co/sV6iRI94Mi, extra_data="{'translat...") 
+
+0.0  | Tweet 1441: Translated(src=es, dest=en, text=@ Morcilla17: If Argentina had the economy of Peru, there would be only 25 Venezuelans in Peru., pronunciation=@ Morcilla17: If Argentina had the economy of Peru, there would be only 25 Venezuelans in Peru., extra_data="{'translat...") 
+
+0.0  | Tweet 1442: Translated(src=es, dest=en, text=Florida sends two planes loaded with immigrants to Martha’s Vineyard https://t.co/eS4hrvQoEE IF THEY WERE WELL… https://t.co/ldcdecO4gl, pronunciation=Florida sends two planes loaded with immigrants to Martha’s Vineyard https://t.co/eS4hrvQoEE IF THEY WERE WELL… https://t.co/ldcdecO4gl, extra_data="{'translat...") 
+
+0.9001  | Tweet 1443: Translated(src=es, dest=en, text=@AntGainos Let's be realistic, who will welcome the Russians, let's think that, in this decade, they have dedicated themselves to traveling to… https://t.co/6Hw3tbAZUx, pronunciation=@AntGainos Let's be realistic, who will welcome the Russians, let's think that, in this decade, they have dedicated themselves to traveling to… https://t.co/6Hw3tbAZUx, extra_data="{'translat...") 
+
+-0.6124  | Tweet 1444: Translated(src=es, dest=en, text=Argentina is experiencing a socialist VIACRUCIS, that anyone would think that people are on a hunger strike like… https://t.co/2jTS3MBKSs, pronunciation=Argentina is experiencing a socialist VIACRUCIS, that anyone would think that people are on a hunger strike like… https://t.co/2jTS3MBKSs, extra_data="{'translat...") 
+
+0.6808  | Tweet 1445: Translated(src=es, dest=en, text=@SerbinPont Greetings, incredible and to think so many Venezuelans who emigrated to Argentina, right now a private worker… https://t.co/PITnUO4eBe, pronunciation=@SerbinPont Greetings, incredible and to think so many Venezuelans who emigrated to Argentina, right now a private worker… https://t.co/PITnUO4eBe, extra_data="{'translat...") 
+
+0.6908  | Tweet 1446: Translated(src=es, dest=en, text=Venezuelan collectives?
+In Venezuela, motorcycle gangs gained popularity when they came out armed to m… https://t.co/avNP7Wk8xp, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8957  | Tweet 1447: Translated(src=es, dest=en, text=@SantinoMarchet @jac_coello @cmilt1 @uncafe0001 If you give me 7 friends they left in April that way they approved vi… https://t.co/i3zckhSl6E, pronunciation=@SantinoMarchet @jac_coello @cmilt1 @uncafe0001 If you give me 7 friends they left in April that way they approved vi… https://t.co/i3zckhSl6E, extra_data="{'translat...") 
+
+-0.6441  | Tweet 1448: Translated(src=es, dest=en, text=@Jescanillam So they say
+But the people of Argentina have a bidet in all bathrooms no matter how poor they are. They wash… https://t.co/ZgFITkSl2E, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4019  | Tweet 1449: Translated(src=es, dest=en, text=@ANMTVLA: Yes, in Mexico and Argentina, the dubbing actors were able to claim their rights. What happened to the Venezuelan actors to f…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 1450: Translated(src=es, dest=en, text=In Venezuela, Chávez also in his 40 HRS speech and what happened, Venezuelans started Chile Peru Argent like rats… https://t.co/WsytOf651S, pronunciation=In Venezuela, Chávez also in his 40 HRS speech and what happened, Venezuelans started Chile Peru Argent like rats… https://t.co/WsytOf651S, extra_data="{'translat...") 
+
+0.0  | Tweet 1451: Translated(src=es, dest=en, text=⚠️ Remains held in Argentina: 3 Venezuelans (two managers + one mechanic) and 4 Iranians, until further notice.
+
+Have you… https://t.co/drg4aV37HE, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 1452: Translated(src=es, dest=en, text=The most sensitive case of the group that managed to leave Argentina is the medical emergency of one of the Venezuelan pilots… https://t.co/CL2D6yPrcN, pronunciation=The most sensitive case of the group that managed to leave Argentina is the medical emergency of one of the Venezuelan pilots… https://t.co/CL2D6yPrcN, extra_data="{'translat...") 
+
+0.0  | Tweet 1453: Translated(src=es, dest=en, text=This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together with 11 Venezuelans on the plane… https://t.co/zubLCHPUHR, pronunciation=This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together with 11 Venezuelans on the plane… https://t.co/zubLCHPUHR, extra_data="{'translat...") 
+
+0.0  | Tweet 1454: Translated(src=es, dest=en, text=@madeleintlSUR: This is how we expanded the information on the release of 12 of the 19 crew members held illegally for 3 months in #…, pronunciation=@madeleintlSUR: This is how we expanded the information on the release of 12 of the 19 crew members held illegally for 3 months in #…, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1455: Translated(src=es, dest=en, text=@madeleintlSUR: #LastMinute| The 1st group of #Venezuelan crew members who lifted the ban on…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6199  | Tweet 1456: Translated(src=es, dest=en, text=@alferdez I still think that shame is not your forte...you would have stayed home...defended Maduro???? I know… https://t.co/2SDsLjoxWO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1457: Translated(src=es, dest=en, text=@itriago_camejo I remember that the Venezuelan candidates for Parliament are in close alliance with those of Argentina… https://t.co/GSr1NwHjeO, pronunciation=@itriago_camejo I remember that the Venezuelan candidates for Parliament are in close alliance with those of Argentina… https://t.co/GSr1NwHjeO, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1458: Translated(src=es, dest=en, text=@VeneSys__Alpha7: #Informate 📌 Who are the Venezuelans from the Emtrasur plane who remain detained in Argentina? https://t.co/fJ…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.8957  | Tweet 1459: Translated(src=es, dest=en, text=@Defensoria_Vzla: Said request expresses the desire for the defense entity to join the international accompaniment and defense of…, pronunciation=@Defensoria_Vzla: Said request expresses the desire for the defense entity to join the international accompaniment and defense of…, extra_data="{'translat...") 
+
+0.0  | Tweet 1460: Translated(src=es, dest=en, text=Yes, in Mexico and Argentina, the dubbing actors were able to claim for their rights. What happened to the venezuelan actors… https://t.co/1mRUhGbvjO, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1461: Translated(src=es, dest=en, text=AHHH-SPENDING SAYS SAVING COULD START WITH CRIS, APPOINTMENTS IN THE SENATE, DEMOCRACY IN ARGENTINA EX… https://t.co/38EbwtwBEi, pronunciation=AHHH-SPENDING SAYS SAVING COULD START WITH CRIS, APPOINTMENTS IN THE SENATE, DEMOCRACY IN ARGENTINA EX… https://t.co/38EbwtwBEi, extra_data="{'translat...") 
+
+0.0  | Tweet 1462: Translated(src=es, dest=en, text=@AlidaFreites_tw: #VenezuelaProductiva Venezuelans who are in Colombia, Peru, Ecuador, Chile and Argentina. Will they be in condition..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.8625  | Tweet 1463: Translated(src=es, dest=en, text=@luis1210 It is that "the enlightened super objectives" are like that. They did the same with the Venezuelans who are in Arg… https://t.co/oHZ9XoBHCU, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9274  | Tweet 1464: Translated(src=es, dest=en, text=I became everything I swore to destroy complaining about the Venezuelans who come to Argentina and complain absolutely… https://t.co/dH4r1q6mt0, pronunciation=I became everything I swore to destroy complaining about the Venezuelans who come to Argentina and complain absolutely… https://t.co/dH4r1q6mt0, extra_data="{'translat...") 
+
+0.4019  | Tweet 1465: Translated(src=es, dest=en, text=@adrianjo6 @MundoEConflicto Yes, why not? Ask the Venezuelans who live in Argentina. Ubers and deliveries, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1466: Translated(src=es, dest=en, text=@YendelPalencia: Venezuelans in Argentina https://t.co/6Slo9bU3S3, pronunciation=@YendelPalencia: Venezuelans in Argentina https://t.co/6Slo9bU3S3, extra_data="{'translat...") 
+
+0.0  | Tweet 1467: Translated(src=es, dest=en, text=@TAMARA_SUJU @alferdez Here Argentina is full of Venezuelans, especially in the capital, he is aware of the situation… https://t.co/qvAKuxLIkz, pronunciation=@TAMARA_SUJU @alferdez Here Argentina is full of Venezuelans, especially in the capital, he is aware of the situation… https://t.co/qvAKuxLIkz, extra_data="{'translat...") 
+
+0.802  | Tweet 1468: Translated(src=es, dest=en, text=@jguaido @edufeiok @radiomitre See the positive side @jguaido some Venezuelans will listen to you in a province of… https://t.co/7H3T0LSwro, pronunciation=@jguaido @edufeiok @radiomitre See the positive side @jguaido some Venezuelans will listen to you in a province of… https://t.co/7H3T0LSwro, extra_data="{'translat...") 
+
+0.0  | Tweet 1469: Translated(src=es, dest=en, text=Venezuelans in Argentina https://t.co/6Slo9bU3S3, pronunciation=Venezuelans in Argentina https://t.co/6Slo9bU3S3, extra_data="{'translat...") 
+
+0.1531  | Tweet 1470: Translated(src=es, dest=en, text=@Ivanelov @Repost56 @lubrio @NicolasMaduro Isn't the amount exorbitant? I invite you to go through Colombia, Brazil, P… https://t.co/It5szEMeU8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1471: Translated(src=es, dest=en, text=@RafaAleR @baeles2 @OniSilverMorph @mdant_ Veneco is a word that only Venezuelans can use by default.… https://t.co/WXJaL3sI5p, pronunciation=@RafaAleR @baeles2 @OniSilverMorph @mdant_ Veneco is a word that only Venezuelans can use by default.… https://t.co/WXJaL3sI5p, extra_data="{'translat...") 
+
+0.0  | Tweet 1472: Translated(src=es, dest=en, text=If Argentina had the economy of Peru, there would be only 25 Venezuelans in Peru., pronunciation=If Argentina had the economy of Peru, there would be only 25 Venezuelans in Peru., extra_data="{'translat...") 
+
+0.0  | Tweet 1473: Translated(src=es, dest=en, text=#VenEx | Oliver "La Locura" Parra and DT José Ferrer headed to the @LibertadoresFS with the Ecuadorian champion… https://t.co/OqWRdryfUA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1474: Translated(src=es, dest=en, text=#VenezuelaProductiva Venezuelans who are in Colombia, Peru, Ecuador, Chile and Argentina. It will be that they are in condition… https://t.co/hGS32kOKZj, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7351  | Tweet 1475: Translated(src=es, dest=en, text=@IzquierdaUnid15: The #IzquierdaUnida rejoices at the release of 11 of the Venezuelan crew members arbitrarily held in #Arge…, pronunciation=@IzquierdaUnid15: The #IzquierdaUnida rejoices at the release of 11 of the Venezuelan crew members arbitrarily held in #Arge…, extra_data="{'translat...") 
+
+0.0  | Tweet 1476: Translated(src=es, dest=en, text=@latablablog: Meet the leaders of #ZoeGate who scammed thousands of unsuspecting people in at least 8 countries (including Venezuela). The sect sec…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1477: Translated(src=es, dest=en, text=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/g8iXUzBcBF, pronunciation=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/g8iXUzBcBF, extra_data="{'translat...") 
+
+0.0  | Tweet 1478: Translated(src=es, dest=en, text=@PInsomne1: @Fariacrt @alferdez @NicolasMaduro @delcyrodriguezv @vladimirpadrino @VTVcanal8 We are still waiting for the plane hijacked by…, pronunciation=@PInsomne1: @Fariacrt @alferdez @NicolasMaduro @delcyrodriguezv @vladimirpadrino @VTVcanal8 We are still waiting for the plane hijacked by…, extra_data="{'translat...") 
+
+0.0  | Tweet 1479: Translated(src=es, dest=en, text=@EliTrotta: Together with @Robergmoritan and @kienast_marina, CABA legislators, we talked about the integration of Venezuelans in 🇦🇷..., pronunciation=@EliTrotta: Together with @Robergmoritan and @kienast_marina, CABA legislators, we talked about the integration of Venezuelans in 🇦🇷..., extra_data="{'translat...") 
+
+0.0  | Tweet 1480: Translated(src=es, dest=en, text=@esreviral: #19Sep #Argentina Venezuelan athletes achieved second place in a Crossfit competition https://t.co/m7656YcqMy h…, pronunciation=@esreviral: #19Sep #Argentina Venezuelan athletes achieved second place in a Crossfit competition https://t.co/m7656YcqMy h…, extra_data="{'translat...") 
+
+0.0  | Tweet 1481: Translated(src=es, dest=en, text=Together with @Robergmoritan and @kienast_marina, CABA legislators, we talked about the integration of Venezuelans… https://t.co/bOCqlp7PUI, pronunciation=Together with @Robergmoritan and @kienast_marina, CABA legislators, we talked about the integration of Venezuelans… https://t.co/bOCqlp7PUI, extra_data="{'translat...") 
+
+0.0  | Tweet 1482: Translated(src=es, dest=en, text=Bolipuertos_: @OrlenysOV: This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together… https://t.co/SoW95q2WFf, pronunciation=Bolipuertos_: @OrlenysOV: This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together… https://t.co/SoW95q2WFf, extra_data="{'translat...") 
+
+0.0  | Tweet 1483: Translated(src=es, dest=en, text=@CampeonCuba2: The 1st group of crew members of the Venezuelan plane, held for more than 3 months in Argentina, arrived in 🇻🇪Venezuela lu…, pronunciation=@CampeonCuba2: The 1st group of crew members of the Venezuelan plane, held for more than 3 months in Argentina, arrived in 🇻🇪Venezuela lu…, extra_data="{'translat...") 
+
+0.6369  | Tweet 1484: Translated(src=es, dest=en, text=@peladofq: The Argentine programs when they are going to compare Uruguay vs. Argentina in terms of players, they use these squads, they are alive when they see them…, pronunciation=@peladofq: The Argentine programs when they are going to compare Uruguay vs. Argentina in terms of players, they use these squads, they are alive when they see them…, extra_data="{'translat...") 
+
+0.7579  | Tweet 1485: Translated(src=es, dest=en, text=Milei has taken the cultural battle in Argentina to another level. We have to win the minds and hearts of the Vene… https://t.co/zEA9XssHDh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 1486: Translated(src=es, dest=en, text=Poor Venezuelans who came to Argentina, they did not imagine that it was like changing cabins on the Titanic., pronunciation=Poor Venezuelans who came to Argentina, they did not imagine that it was like changing cabins on the Titanic., extra_data="{'translat...") 
+
+0.0  | Tweet 1487: Translated(src=es, dest=en, text=@Fariacrt @alferdez @NicolasMaduro @delcyrodriguezv @vladimirpadrino @VTVcanal8 We are still waiting for the hijacked plane… https://t.co/5SZtUXqNBH, pronunciation=@Fariacrt @alferdez @NicolasMaduro @delcyrodriguezv @vladimirpadrino @VTVcanal8 We are still waiting for the hijacked plane… https://t.co/5SZtUXqNBH, extra_data="{'translat...") 
+
+-0.802  | Tweet 1488: Translated(src=es, dest=en, text=@dun4lun4: @EmmaRincon @alferdez Kirchnerism spends its time bragging about human rights and then they go and shit on the human rights of the vene…, pronunciation=@dun4lun4: @EmmaRincon @alferdez Kirchnerism spends its time bragging about human rights and then they go and shit on the human rights of the vene…, extra_data="{'translat...") 
+
+0.0  | Tweet 1489: Translated(src=es, dest=en, text=#MLBxESPN @MLB should give us a commission in $ to all Venezuelans who are expanding baseball throughout… https://t.co/KCBs7zA4yo, pronunciation=#MLBxESPN @MLB should give us a commission in $ to all Venezuelans who are expanding baseball throughout… https://t.co/KCBs7zA4yo, extra_data="{'translat...") 
+
+0.0  | Tweet 1490: Translated(src=es, dest=en, text=@EliTrotta @alferdez The president of Argentina, a nation that has seen the arrival of thousands of Venezuelan migrants… https://t.co/m6VtwOZVf6, pronunciation=@EliTrotta @alferdez The president of Argentina, a nation that has seen the arrival of thousands of Venezuelan migrants… https://t.co/m6VtwOZVf6, extra_data="{'translat...") 
+
+-0.802  | Tweet 1491: Translated(src=es, dest=en, text=@EmmaRincon @alferdez Kirchnerism spends its time bragging about human rights and then they go and shit on the human rights of… https://t.co/lsSCtsnb9m, pronunciation=@EmmaRincon @alferdez Kirchnerism spends its time bragging about human rights and then they go and shit on the human rights of… https://t.co/lsSCtsnb9m, extra_data="{'translat...") 
+
+0.0  | Tweet 1492: Translated(src=es, dest=en, text=Venezuelans in Argentina (and Argentines can also be) how much is the salary per month in dollars making the change to the blue dollar (287)? 🇦🇷, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7783  | Tweet 1493: Translated(src=es, dest=en, text=Disgusting this guy, politicians generate indifference to me because they are by nature miserable and poorly educated p… https://t.co/ZKOedxvUm1, pronunciation=Disgusting this guy, politicians generate indifference to me because they are by nature miserable and poorly educated p… https://t.co/ZKOedxvUm1, extra_data="{'translat...") 
+
+0.0  | Tweet 1494: Translated(src=es, dest=en, text=This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together with 11 Venezuelans on the plane… https://t.co/Vd87PnCpwr, pronunciation=This is how Mahdi Mouseli is received by his family in Tehran, the Iranian crew member who, together with 11 Venezuelans on the plane… https://t.co/Vd87PnCpwr, extra_data="{'translat...") 
+
+0.6597  | Tweet 1495: Translated(src=es, dest=en, text=@alejotuits Not only from Chile, Venezuelans in Argentina too, that is, they are doing us a favor, pronunciation=@alejotuits Not only from Chile, Venezuelans in Argentina too, that is, they are doing us a favor, extra_data="{'translat...") 
+
+-0.4003  | Tweet 1496: Translated(src=es, dest=en, text=Attention! 🇻🇪🇦🇷 | Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years… https://t.co/l5BjyJWSwU, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4003  | Tweet 1497: Translated(src=es, dest=en, text=ATTENTION! Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/GoML6Dv74U, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1498: Translated(src=es, dest=en, text=@MarcusArgentum I returned to Argentina at the age of 15 since I was 4 years old when I lived in Spain, a few years ago, and the times that… https://t.co/ftfoXpsjpB, pronunciation=@MarcusArgentum I returned to Argentina at the age of 15 since I was 4 years old when I lived in Spain, a few years ago, and the times that… https://t.co/ftfoXpsjpB, extra_data="{'translat...") 
+
+0.8957  | Tweet 1499: Translated(src=es, dest=en, text=Said request expresses the desire for the defense entity to join the international accompaniment and defense of the… https://t.co/uhMNBiNdsb, pronunciation=Said request expresses the desire for the defense entity to join the international accompaniment and defense of the… https://t.co/uhMNBiNdsb, extra_data="{'translat...") 
+
+-0.7906  | Tweet 1500: Translated(src=es, dest=en, text=The niches and thugs arrived in Chile, Peru, Colombia, Argentina and left Venezuelans in a bad light now… https://t.co/j8zWcTpcYx, pronunciation=The niches and thugs arrived in Chile, Peru, Colombia, Argentina and left Venezuelans in a bad light now… https://t.co/j8zWcTpcYx, extra_data="{'translat...") 
+
+0.2023  | Tweet 1501: Translated(src=es, dest=en, text=@Ikigai_O_Sagasu: @Nelsonpvzla1 The defender of the position has already left at a press conference (without questions, of course), to ask for those held in…, pronunciation=@Ikigai_O_Sagasu: @Nelsonpvzla1 The defender of the position has already left at a press conference (without questions, of course), to ask for those held in…, extra_data="{'translat...") 
+
+-0.4939  | Tweet 1502: Translated(src=es, dest=en, text=@MichelCaballero Comment loaded with bad intentions. The largest number of Venezuelans are concentrated in Colombia… https://t.co/6pjz1aRc8Z, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1503: Translated(src=es, dest=en, text=@taihen_kam @GaelinhoNG @cesarakd2 @Lawyerestimates @eldiariodedross Camilo, in Venezuela Chávez did not appear as… https://t.co/Y9ewLVoeK3, pronunciation=@taihen_kam @GaelinhoNG @cesarakd2 @Lawyerestimates @eldiariodedross Camilo, in Venezuela Chávez did not appear as… https://t.co/Y9ewLVoeK3, extra_data="{'translat...") 
+
+0.0  | Tweet 1504: Translated(src=es, dest=en, text=@ElJuanElIgnacio @Gon_Barrio @BrunoZubieta @0800Cj Oh look at you, then the Venezuelans who say they are Venezuelans, n… https://t.co/dJiz6WuLC3, pronunciation=@ElJuanElIgnacio @Gon_Barrio @BrunoZubieta @0800Cj Oh look at you, then the Venezuelans who say they are Venezuelans, n… https://t.co/dJiz6WuLC3, extra_data="{'translat...") 
+
+0.0  | Tweet 1505: Translated(src=es, dest=en, text=@LeishaMedina @crunchyroll_la @funimation_la But it seems to me that now they are sending more projects to other countries c… https://t.co/u52bbhrfQL, pronunciation=@LeishaMedina @crunchyroll_la @funimation_la But it seems to me that now they are sending more projects to other countries c… https://t.co/u52bbhrfQL, extra_data="{'translat...") 
+
+0.2023  | Tweet 1506: Translated(src=es, dest=en, text=@Nelsonpvzla1 The defender of the position has already left at a press conference (without questions, of course), to ask for the detainees… https://t.co/8HGfTyh2MV, pronunciation=@Nelsonpvzla1 The defender of the position has already left at a press conference (without questions, of course), to ask for the detainees… https://t.co/8HGfTyh2MV, extra_data="{'translat...") 
+
+0.0  | Tweet 1507: Translated(src=es, dest=en, text=The rhetoric of socialists is the environment. And I don't see Nicaragua, Venezuela, Argentina, Chile, Cuba, doing… https://t.co/PDu7uQFaA2, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1508: Translated(src=es, dest=en, text=@Wadegareth89: @0800Cj Each country has its accent or its dialect, Venezuelans say: “hey pana” in Chile: “weon” In Argentina: Che bol…, pronunciation=@Wadegareth89: @0800Cj Each country has its accent or its dialect, Venezuelans say: “hey pana” in Chile: “weon” In Argentina: Che bol…, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1509: Translated(src=es, dest=en, text=Who are the Venezuelans on the Emtrasur plane who remain detained in Argentina? https://t.co/kg0Yzzja4f https://t.co/VXpdybXcB3, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 1510: Translated(src=es, dest=en, text=Who are the Venezuelans on the Emtrasur plane who remain detained in Argentina? https://t.co/9ecqldwzrN https://t.co/ZZ95HlbXHZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1511: Translated(src=es, dest=en, text=The Argentine programs when they are going to compare Uruguay vs Argentina in players use these campuses, they are re viv… https://t.co/7jj7brsd1l, pronunciation=The Argentine programs when they are going to compare Uruguay vs Argentina in players use these campuses, they are re viv… https://t.co/7jj7brsd1l, extra_data="{'translat...") 
+
+-0.8689  | Tweet 1512: Translated(src=es, dest=en, text=I was disappointed by all the Venezuelans in Argentina, they lost their accent😑🙄, pronunciation=I was disappointed by all the Venezuelans in Argentina, they lost their accent😑🙄, extra_data="{'translat...") 
+
+0.0  | Tweet 1513: Translated(src=es, dest=en, text=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/jbBePcLxTL, pronunciation=Venezuelan 6th grade students obtained above average results in an evaluation carried out in A… https://t.co/jbBePcLxTL, extra_data="{'translat...") 
+
+0.0  | Tweet 1514: Translated(src=es, dest=en, text=@AgenciaVN_: #ÚltimaHora
+
+The Court of Appeals of La Plata authorizes the departure from Argentina of 11 Venezuelans and 1 Iranian from the crew of ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 1515: Translated(src=es, dest=en, text=@kmiis @gabriel_lanacba @silviac10973498 Of course, because in Argentina there are no Colombians, Venezuelans, Dominicans, Af… https://t.co/WPUQElmepa, pronunciation=@kmiis @gabriel_lanacba @silviac10973498 Of course, because in Argentina there are no Colombians, Venezuelans, Dominicans, Af… https://t.co/WPUQElmepa, extra_data="{'translat...") 
+
+0.0  | Tweet 1516: Translated(src=es, dest=en, text=@PMedio: Presented the first Chamber of Venezuelan Entrepreneurs and Entrepreneurs in Argentina (CEEVA) https://t.co/dwxaMTbuVx, pronunciation=@PMedio: Presented the first Chamber of Venezuelan Entrepreneurs and Entrepreneurs in Argentina (CEEVA) https://t.co/dwxaMTbuVx, extra_data="{'translat...") 
+
+-0.6597  | Tweet 1517: Translated(src=es, dest=en, text=@MiguelM56289654 @silvioravel Miguel I don't know whether to believe that you have seen first-hand the problem in Argentina… https://t.co/vczb0kkjoS, pronunciation=@MiguelM56289654 @silvioravel Miguel I don't know whether to believe that you have seen first-hand the problem in Argentina… https://t.co/vczb0kkjoS, extra_data="{'translat...") 
+
+0.6124  | Tweet 1518: Translated(src=es, dest=en, text=When half the population of Venezuelans stops being in Argentina, do you think, respect the country that feeds you 🙃 https://t.co/85q1TsdXdo, pronunciation=When half the population of Venezuelans stops being in Argentina, do you think, respect the country that feeds you 🙃 https://t.co/85q1TsdXdo, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1519: Translated(src=es, dest=en, text=@mujeresdenegro: ASERNE VENEZUELA: Who are the Venezuelans from the Emtrasur plane who remain detained in Argentina? (cont) http…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7294  | Tweet 1520: Translated(src=es, dest=en, text=THOSE 40 WHO WENT TO NEW YORK WITH THE GOVERNMENT ARE YOU SURE THEY ARE NOT THE DANGEROUS IRANIANS AND VENEZUELANS THAT WE HAVE IN ARGENTINA? 🤔, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 1521: Translated(src=es, dest=en, text=@ElPitazoTV: 12 members of the Venezuelan-Iranian company flight detained in Argentina since June, arrived in Venezuela. However…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 1522: Translated(src=es, dest=en, text=12 members of the Venezuelan-Iranian company flight detained in Argentina since June, arrived in Venezuela.… https://t.co/74sQvtI9QK, pronunciation=12 members of the Venezuelan-Iranian company flight detained in Argentina since June, arrived in Venezuela.… https://t.co/74sQvtI9QK, extra_data="{'translat...") 
+
+0.0  | Tweet 1523: Translated(src=es, dest=en, text=@almalibreArg1: Does anyone know how the "theme" of the plane with the Venezuelans and Iranians here in Argentina continues??? How is things????!!!…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1524: Translated(src=es, dest=en, text=@0800Cj Each country has its accent or its dialect, Venezuelans say: "hey pana" in Chile: "weon" In Argentina: C… https://t.co/AmxHjIwShq, pronunciation=@0800Cj Each country has its accent or its dialect, Venezuelans say: "hey pana" in Chile: "weon" In Argentina: C… https://t.co/AmxHjIwShq, extra_data="{'translat...") 
+
+-0.4003  | Tweet 1525: Translated(src=es, dest=en, text=ATTENTION! Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/MdxzGc9YQ0, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1526: Translated(src=es, dest=en, text=@teleSURtv: #ENVIDEO | The crew of the Emtrasur plane arrived in Bolivia ✈️
+
+In Argentina there are still 7 crew members, 4 Iranians and 3…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1527: Translated(src=es, dest=en, text=Presented the first Chamber of Venezuelan Entrepreneurs and Entrepreneurs in Argentina (CEEVA) https://t.co/dwxaMTbuVx, pronunciation=Presented the first Chamber of Venezuelan Entrepreneurs and Entrepreneurs in Argentina (CEEVA) https://t.co/dwxaMTbuVx, extra_data="{'translat...") 
+
+-0.4003  | Tweet 1528: Translated(src=es, dest=en, text=Attention! 🇻🇪🇦🇷 | Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years… https://t.co/aVNoFdgcec, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1529: Translated(src=es, dest=en, text=Via @venezolanos.futsal
+CABARCAS IS ALREADY IN URUGUAY
+
+The Vinotinto pivot @wilmitocabarcas is already on the ground with… https://t.co/gi17YJLfTf, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 1530: Translated(src=es, dest=en, text=@Bolipuertos_: 🇻🇪 The fight and tenacity of the #Bolivarian Government led by our Pdte. @NicolasMaduro is a sign of commitment and love towards…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.128  | Tweet 1531: Translated(src=es, dest=en, text=@madeleintlSUR: 5. What will happen to the 7 crew members left in #Argentina?
+
+We spoke with the defense attorney for the case of…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1532: Translated(src=es, dest=en, text=@OmarAlarkon @efrainruizp @DanielMartinezD It can't be a maracucho... For me, it's someone who wants to imitate the accent... https://t.co/WRqIttjL4G, pronunciation=@OmarAlarkon @efrainruizp @DanielMartinezD It can't be a maracucho... For me, it's someone who wants to imitate the accent... https://t.co/WRqIttjL4G, extra_data="{'translat...") 
+
+0.0  | Tweet 1533: Translated(src=es, dest=en, text=Venezuelans in Argentina https://t.co/xl4dyOZRoU https://t.co/86M8IDKMQw, pronunciation=Venezuelans in Argentina https://t.co/xl4dyOZRoU https://t.co/86M8IDKMQw, extra_data="{'translat...") 
+
+0.0  | Tweet 1534: Translated(src=es, dest=en, text=Does anyone know how the "theme" of the plane with the Venezuelans and Iranians continues here in Argentina??? How's things going????!!!!!!👀👀👀👀👀, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.802  | Tweet 1535: Translated(src=es, dest=en, text=@cgtnenespanol: With tears in their eyes, the relatives of the Venezuelan crew members detained in Argentina received their beings who…, pronunciation=@cgtnenespanol: With tears in their eyes, the relatives of the Venezuelan crew members detained in Argentina received their beings who…, extra_data="{'translat...") 
+
+0.0  | Tweet 1536: Translated(src=es, dest=en, text=#Sep 19 #Argentina Venezuelan athletes achieved second place in a Crossfit competition… https://t.co/5ABYXM08Op, pronunciation=#Sep 19 #Argentina Venezuelan athletes achieved second place in a Crossfit competition… https://t.co/5ABYXM08Op, extra_data="{'translat...") 
+
+-0.2023  | Tweet 1537: Translated(src=es, dest=en, text=@VzlaAlLimit: Some people find it hard to understand that when Venezuelans migrated to Peru, Chile, Argentina, Ecuador, Colombia,…, pronunciation=@VzlaAlLimit: Some people find it hard to understand that when Venezuelans migrated to Peru, Chile, Argentina, Ecuador, Colombia,…, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1538: Translated(src=es, dest=en, text=ASERNE VENEZUELA: Who are the Venezuelans from the Emtrasur plane who remain detained in Argentina? (cont) https://t.co/TpktRGPjDh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1539: Translated(src=es, dest=en, text=@teleSURtv: #ENVIDEO | Among the conversations with the crew members who return to #Venezuela🇻🇪 one of them talks about the companions..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 1540: Translated(src=es, dest=en, text=Of all Latin America I think that Argentina is the country where the Venezuelans did the best match. In general I think… https://t.co/OrQtVvP8QZ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 1541: Translated(src=es, dest=en, text=@mccoam friend I come from consulting at the Venezuelan embassy in Argentina. For an Argentine child of parents to see… https://t.co/Z6LLJVeBxH, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1542: Translated(src=es, dest=en, text=@ stellamor17 did you just think about it? I told him one day Bolivian greengrocer of course he told me if it weren't for us… https://t.co/QDuQ4MgBRv, pronunciation=@ stellamor17 did you just think about it? I told him one day Bolivian greengrocer of course he told me if it weren't for us… https://t.co/QDuQ4MgBRv, extra_data="{'translat...") 
+
+0.0  | Tweet 1543: Translated(src=es, dest=en, text=@HEADLINENEWSVZL: dw_espanol: Crew members of the plane seized in #Argentina arrive in Caracas
+
+The freighter of the Venezuelan #Emtrasur follows…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9325  | Tweet 1544: Translated(src=es, dest=en, text=@GrimaldiAndre @pbarbieri 😂😂 doubly shit for life, Argentina lives from crisis to crisis, and now El Salvador… https://t.co/45LAD69hNB, pronunciation=@GrimaldiAndre @pbarbieri 😂😂 doubly shit for life, Argentina lives from crisis to crisis, and now El Salvador… https://t.co/45LAD69hNB, extra_data="{'translat...") 
+
+-0.2023  | Tweet 1545: Translated(src=es, dest=en, text=«I no longer have tears from so much that I have cried, since I left Argentina crying, from happiness. Justice was done… https://t.co/jf93iTxEKl, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 1546: Translated(src=es, dest=en, text=Some people find it hard to understand that when Venezuelans migrated to Peru, Chile, Argentina, Ecuador, Col… https://t.co/t5jZ8qAclk, pronunciation=Some people find it hard to understand that when Venezuelans migrated to Peru, Chile, Argentina, Ecuador, Col… https://t.co/t5jZ8qAclk, extra_data="{'translat...") 
+
+-0.3875  | Tweet 1547: Translated(src=es, dest=en, text=@bostonrex Living here in Argentina I realized that Venezuelans are not sexist, or well not as much as we thought, pronunciation=@bostonrex Living here in Argentina I realized that Venezuelans are not sexist, or well not as much as we thought, extra_data="{'translat...") 
+
+0.0  | Tweet 1548: Translated(src=es, dest=en, text=Regarding Venezuelans, I have the social theory that different groups or strata choose different countries. In Argentina… https://t.co/NMoBzV3iE8, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1549: Translated(src=es, dest=en, text=The education minister asks the UN for Argentina to send the emtrasur plane so that with its fortnight it arrives… https://t.co/buwbAi8CWp, pronunciation=The education minister asks the UN for Argentina to send the emtrasur plane so that with its fortnight it arrives… https://t.co/buwbAi8CWp, extra_data="{'translat...") 
+
+0.7496  | Tweet 1550: Translated(src=es, dest=en, text=@EAristeguieta There are very good Venezuelan doctors in Colombia (in Argentina and Chile too), with the suitcases I have… https://t.co/UfN9BBw3Az, pronunciation=@EAristeguieta There are very good Venezuelan doctors in Colombia (in Argentina and Chile too), with the suitcases I have… https://t.co/UfN9BBw3Az, extra_data="{'translat...") 
+
+-0.2023  | Tweet 1551: Translated(src=es, dest=en, text=«I no longer have tears from so much that I have cried, since I left Argentina crying, from happiness. Justice was done… https://t.co/5NViC8Qj3L, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1552: Translated(src=es, dest=en, text=@Lunizulfarias @Pagniok But in Brazil they took out taxes, they come to Argentina and spend the money because they have it, do… https://t.co/8CZ9EGRhDK, pronunciation=@Lunizulfarias @Pagniok But in Brazil they took out taxes, they come to Argentina and spend the money because they have it, do… https://t.co/8CZ9EGRhDK, extra_data="{'translat...") 
+
+0.0  | Tweet 1553: Translated(src=es, dest=en, text=@valerciopa @vicky___v @StarkDSC Before Perón, Europeans came by boat to live in Argentina. After ta… https://t.co/e5KLy7Njsp, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.126  | Tweet 1554: Translated(src=es, dest=en, text=Find out! These are the members of the flight who were authorized to leave and arrived in Venezuela https://t.co/qmSnw8Q8Cv, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1555: Translated(src=ilo, dest=en, text=@Alcyonemito @adrianUltraD @alexisaguirre72 @MacaSuarezVE Oooohhhhh but what a coincidence that OS is sent by everyone... https://t.co/7C4kiTUbtc, pronunciation=@Alcyonemito @adrianUltraD @alexisaguirre72 @MacaSuarezVE Oooohhhhh but what a coincidence that OS is sent by everyone... https://t.co/7C4kiTUbtc, extra_data="{'translat...") 
+
+0.0  | Tweet 1556: Translated(src=es, dest=en, text=@zeta93fm @AndyMontanezPR_ Perhaps qualifying the headline a bit: That's how #Colombians, #Venezuelans and… https://t.co/LgbWXCAJc6, pronunciation=@zeta93fm @AndyMontanezPR_ Perhaps qualifying the headline a bit: That's how #Colombians, #Venezuelans and… https://t.co/LgbWXCAJc6, extra_data="{'translat...") 
+
+-0.9325  | Tweet 1557: Translated(src=es, dest=en, text=@carlos81956718: Andronico Luksic, Angelini, matte, George Soros, Bill Gates, the UN, criminal gangs, illegal Venezuelans is..., pronunciation=@carlos81956718: Andronico Luksic, Angelini, matte, George Soros, Bill Gates, the UN, criminal gangs, illegal Venezuelans is..., extra_data="{'translat...") 
+
+-0.4003  | Tweet 1558: Translated(src=es, dest=en, text=ATTENTION! Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/JGpkucMUTU, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1559: Translated(src=es, dest=en, text=@madeleintlSUR: 2. Mahdi Mouseli is the only Iranian who was released and arrived with the 11 #Venezuelan crew members.
+
+In #Argentina there are..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.6239  | Tweet 1560: Translated(src=gn, dest=en, text=@EVTVMiami: #PrideEVTV Venezuelans win architecture contest in Argentina!
+Silvia Uzcategui, Genesis Loizaga, Albamarina Silva., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1561: Translated(src=es, dest=en, text=@ConnectasOrg: #Argentina
+The businesses of populism: #CristinaFernandez and Hugo Chávez guaranteed a millionaire business selling p…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6249  | Tweet 1562: Translated(src=es, dest=en, text=Argentina stars in the largest exodus of emigrants to Galicia since the 2008 crisis
+
+👉 Three arrive a day and in all… https://t.co/zvBuCn5ps8, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 1563: Translated(src=es, dest=en, text=Who are the Venezuelans on the Emtrasur plane who remain detained in Argentina? https://t.co/wJgDPypaRm https://t.co/CTav80EFXJ, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1564: Translated(src=es, dest=en, text=@Migue_Aquino @AgustinLaje Why not also analyze that earthquakes a country without a fucking notarial resource except hydroelectric… https://t.co/A4Zg9ntOIs, pronunciation=@Migue_Aquino @AgustinLaje Why not also analyze that earthquakes a country without a fucking notarial resource except hydroelectric… https://t.co/A4Zg9ntOIs, extra_data="{'translat...") 
+
+0.0  | Tweet 1565: Translated(src=es, dest=en, text=#Argentina
+The businesses of populism: #CristinaFernandez and Hugo Chávez guaranteed a millionaire sales business… https://t.co/hUViK8uDxm, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1566: Translated(src=es, dest=en, text=@ElPitazoTV: Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #18Sep https://t.co…, pronunciation=@ElPitazoTV: Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #18Sep https://t.co…, extra_data="{'translat...") 
+
+0.0  | Tweet 1567: Translated(src=es, dest=en, text=Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #18Sep https://t.co/qmSnw8Q8Cv, pronunciation=Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #18Sep https://t.co/qmSnw8Q8Cv, extra_data="{'translat...") 
+
+-0.1901  | Tweet 1568: Translated(src=es, dest=en, text=@AnibalGarzon But if Venezuelans escape to Argentina to work in rappi. stop fucking lefty asshole, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 1569: Translated(src=es, dest=en, text=@Tito5003Tito: @wilmermm31 We Venezuelans hope that he does have them to remove the dictatorship that Gabrie is imposing on them…, pronunciation=@Tito5003Tito: @wilmermm31 We Venezuelans hope that he does have them to remove the dictatorship that Gabrie is imposing on them…, extra_data="{'translat...") 
+
+0.0  | Tweet 1570: Translated(src=es, dest=en, text=12 crew members who were traveling on the plane held in Argentina for more than three months arrive in Venezuela.
+Still… https://t.co/PhMf0XoqsP, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1571: Translated(src=es, dest=en, text=@dw_espanol: Crew members of the plane seized in #Argentina arrive in Caracas
+
+The freighter of the Venezuelan #Emtrasur is still held in Arg ..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.802  | Tweet 1572: Translated(src=es, dest=en, text=With tears in their eyes, the relatives of the Venezuelan crew members detained in Argentina received their ser... https://t.co/h9aGy61UUK, pronunciation=With tears in their eyes, the relatives of the Venezuelan crew members detained in Argentina received their ser... https://t.co/h9aGy61UUK, extra_data="{'translat...") 
+
+-0.6597  | Tweet 1573: Translated(src=es, dest=en, text=@ElPitazoTV: The arrival of the 12 crew members of the Venezuelan-Iranian plane who were detained for three months in Argentina was bittersweet.…, pronunciation=@ElPitazoTV: The arrival of the 12 crew members of the Venezuelan-Iranian plane who were detained for three months in Argentina was bittersweet.…, extra_data="{'translat...") 
+
+-0.6597  | Tweet 1574: Translated(src=es, dest=en, text=The arrival of the 12 crew members of the Venezuelan-Iranian plane who were detained for three months in Argentina was ag… https://t.co/m8EFCzif3J, pronunciation=The arrival of the 12 crew members of the Venezuelan-Iranian plane who were detained for three months in Argentina was ag… https://t.co/m8EFCzif3J, extra_data="{'translat...") 
+
+0.0  | Tweet 1575: Translated(src=es, dest=en, text=@ElPitazoTV: #Internationals | Of the seven people who traveled in the Boing 744 and were under investigation in the Argentine capital..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1576: Translated(src=es, dest=en, text=#Internationals | Of the seven people who traveled in the Boing 744 and were under investigation in the capital at… https://t.co/oTpD48p0sA, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6249  | Tweet 1577: Translated(src=es, dest=en, text=This tweet is for 🇪🇸
+
+Argentina is the worst example, all the garbage that they try here and it works because zombie society is… https://t.co/phcxHZzDZf, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.3182  | Tweet 1578: Translated(src=es, dest=en, text=@a_b_berurier Yes, go for it. And since they are delayed with osde, they will also attack Venezuelans in Arg again… https://t.co/9quJUJLlXR, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 1579: Translated(src=es, dest=en, text=Seven Venezuelans from the Emtrasur plane arrested in Argentina ... https://t.co/FHT6V5GVyG #nationals, pronunciation=Seven Venezuelans from the Emtrasur plane arrested in Argentina ... https://t.co/FHT6V5GVyG #nationals, extra_data="{'translat...") 
+
+0.6369  | Tweet 1580: Translated(src=es, dest=en, text=@fallattimlu It's what they want, like Maduro, leave and they stay with their narco-state living gr… https://t.co/kU23I4oons, pronunciation=@fallattimlu It's what they want, like Maduro, leave and they stay with their narco-state living gr… https://t.co/kU23I4oons, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1581: Translated(src=es, dest=en, text=See "Venezuelan crew members detained in Argentina released" on YouTube
+https://t.co/bxQU8PG84F, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1582: Translated(src=es, dest=en, text=@SoyArellan: This Friday 🇻🇪 part of the crew of the Venezuelan plane hijacked in Argentina 🇦🇷 arrived in Venezuela. The court of…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1583: Translated(src=es, dest=en, text=@DoliaEstevez @LicDeDios López with his personal airport at the Santa Lucía base lets Venezuelans, Cubans,… https://t.co/769G9O0tXs, pronunciation=@DoliaEstevez @LicDeDios López with his personal airport at the Santa Lucía base lets Venezuelans, Cubans,… https://t.co/769G9O0tXs, extra_data="{'translat...") 
+
+-0.5267  | Tweet 1584: Translated(src=es, dest=en, text=Four Iranians are still prohibited from leaving Argentina (including Gholamrez Ghasemi, accused of belonging to… https://t.co/hoMkqJimoY, pronunciation=Four Iranians are still prohibited from leaving Argentina (including Gholamrez Ghasemi, accused of belonging to… https://t.co/hoMkqJimoY, extra_data="{'translat...") 
+
+0.0  | Tweet 1585: Translated(src=es, dest=en, text=@marianalongo11 The +58 beverage can is a malt made by Venezuelans in Argentina., pronunciation=@marianalongo11 The +58 beverage can is a malt made by Venezuelans in Argentina., extra_data="{'translat...") 
+
+0.0  | Tweet 1586: Translated(src=es, dest=en, text=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/y0DDok…, pronunciation=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/y0DDok…, extra_data="{'translat...") 
+
+-0.25  | Tweet 1587: Translated(src=es, dest=en, text=@EmmaRincon @NBCNews @NBCLatino It is the result of uncontrolled migration. They see us as garbage in Colombia, Ecuador… https://t.co/rInvu2RLnq, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.7351  | Tweet 1588: Translated(src=es, dest=en, text=Seven Venezuelans from the Emtrasur plane arrested in Argentina https://t.co/dmPY3dvOhy, pronunciation=Seven Venezuelans from the Emtrasur plane arrested in Argentina https://t.co/dmPY3dvOhy, extra_data="{'translat...") 
+
+0.0  | Tweet 1589: Translated(src=es, dest=en, text=@KIMBERL19234339: 🇦🇷🇻🇪✈️ The first group of airplane crew members held in Argentina arrived in Venezuela:
+
+11 Venezuelans and an Iranian, trip…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 1590: Translated(src=es, dest=en, text=In our house we wanted to adopt a dog and those from the adoption center told us that we could not because as we are… https://t.co/D39HU1FtP3, pronunciation=In our house we wanted to adopt a dog and those from the adoption center told us that we could not because as we are… https://t.co/D39HU1FtP3, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1591: Translated(src=es, dest=en, text=DolarToday: Who are the Venezuelans from the Emtrasur plane who remain detained in Argentina? https://t.co/UNzKigpON4, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 1592: Translated(src=es, dest=en, text=Four Iranians are still prohibited from leaving Argentina (including Gholamrez Ghasemi, accused of belonging to… https://t.co/kArHUhsm7N, pronunciation=Four Iranians are still prohibited from leaving Argentina (including Gholamrez Ghasemi, accused of belonging to… https://t.co/kArHUhsm7N, extra_data="{'translat...") 
+
+0.0  | Tweet 1593: Translated(src=es, dest=en, text=@alferdezprensa
+@alferdez
+@CFKArgentina
+Finally a group of 12 Venezuelans kidnapped in Argentina were able to return… https://t.co/F3aeBchKHJ, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.584  | Tweet 1594: Translated(src=es, dest=en, text=@danielm_j @prgwolf @MovPorVzla You read the answer and you see the enormous envy that Venezuelans have for Cubans… https://t.co/E20uzfOa7z, pronunciation=@danielm_j @prgwolf @MovPorVzla You read the answer and you see the enormous envy that Venezuelans have for Cubans… https://t.co/E20uzfOa7z, extra_data="{'translat...") 
+
+-0.4019  | Tweet 1595: Translated(src=es, dest=en, text=#Informate 📌 Who are the Venezuelans from the Emtrasur plane who remain detained in Argentina? https://t.co/fJ1IAyHbHy, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 1596: Translated(src=es, dest=en, text=@OdaPnt: From Argentina, the Plaza de Mayo, a place full of history for being a symbol of the fight for human rights, the #FreeAle Movement was created…, pronunciation=@OdaPnt: From Argentina, the Plaza de Mayo, a place full of history for being a symbol of the fight for human rights, the #FreeAle Movement was created…, extra_data="{'translat...") 
+
+-0.34  | Tweet 1597: Translated(src=es, dest=en, text=@eldiario: Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years | @georgettesahhar https…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5859  | Tweet 1598: Translated(src=es, dest=en, text=Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/cbzYwODk31, pronunciation=Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/cbzYwODk31, extra_data="{'translat...") 
+
+0.0  | Tweet 1599: Translated(src=es, dest=en, text=@ElPitazoTV: 3 Venezuelans and 4 Iranians are still under investigation by the Argentine authorities #17Sep Learn more details https://t.co/q…, pronunciation=@ElPitazoTV: 3 Venezuelans and 4 Iranians are still under investigation by the Argentine authorities #17Sep Learn more details https://t.co/q…, extra_data="{'translat...") 
+
+0.0  | Tweet 1600: Translated(src=es, dest=en, text=@vickyche57: @VenezuelaSaime In Argentina they give Venezuelans an appointment once the passport fee has been paid, but they do not assign them c…, pronunciation=@vickyche57: @VenezuelaSaime In Argentina they give Venezuelans an appointment once the passport fee has been paid, but they do not assign them c…, extra_data="{'translat...") 
+
+0.128  | Tweet 1601: Translated(src=es, dest=en, text=5. What will happen to the 7 crew members left in #Argentina?
+
+We talked with the defense attorney for the cause… https://t.co/J6qH9rnJ5n, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 1602: Translated(src=es, dest=en, text=@JairoHDavidN: THAT'S HOW IT WAS
+
+The return of Venezuelans kidnapped in Argentina by the pirate orders of the outlaw and abusive government..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.5267  | Tweet 1603: Translated(src=es, dest=en, text=This must be spread to a million so that they can see it in Argentina. The criminal siege of the FBI on San Martin soil to… https://t.co/ZkruzBgpFe, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1604: Translated(src=es, dest=en, text=2. Mahdi Mouseli is the only Iranian who was released and arrived with the 11 #Venezuelan crew members.
+
+In #Argentina what… https://t.co/sMMlIgSwQg, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 1605: Translated(src=es, dest=en, text=For security reasons, in my current job, I return by taxi. 3/4 tacheros are Venezuelans and there is not ONE that… https://t.co/dZtw6bkZMS, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1606: Translated(src=es, dest=en, text=dw_english: Crew members of the plane seized in #Argentina arrive in Caracas
+
+The freighter of the Venezuelan #Emtrasur is… https://t.co/V0LAVjLGlR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3818  | Tweet 1607: Translated(src=es, dest=en, text=@an_cap17: Argentines were always at the top of the migrants here, they were displaced as the first by the Venezuelan hu..., pronunciation=@an_cap17: Argentines were always at the top of the migrants here, they were displaced as the first by the Venezuelan hu..., extra_data="{'translat...") 
+
+-0.1606  | Tweet 1608: Translated(src=es, dest=en, text=I have eaten asado in Argentina 🇦🇷 asado as they call it there, but nothing like a veal prepared in the Venezuelan plains… https://t.co/f3tvOKyFk5, pronunciation=I have eaten asado in Argentina 🇦🇷 asado as they call it there, but nothing like a veal prepared in the Venezuelan plains… https://t.co/f3tvOKyFk5, extra_data="{'translat...") 
+
+0.3903  | Tweet 1609: Translated(src=es, dest=en, text=@colomba_huacha @Carlaasfj I'm talking about health, not the economy! But show me which country here in America is buoyant in e… https://t.co/ysZ4K4tTai, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1610: Translated(src=es, dest=en, text=How long does it take to assign you an appointment to apostille Venezuelan documents here in Argentina?
+
+For example, for me it happens… https://t.co/USIpRRATaL, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6369  | Tweet 1611: Translated(src=es, dest=en, text=@GeraTapie Because Argentina is heading to be Venezuela, not because we are the paradise dreamed by anyone; they crack as before… https://t.co/x57SI5W74i, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1612: Translated(src=es, dest=en, text=🇻🇪 The fight and tenacity of the #Bolivarian Government led by our Pdte. @NicolasMaduro is a sign of commitment and love… https://t.co/UsWQCD2yuy, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4003  | Tweet 1613: Translated(src=es, dest=en, text=ATTENTION! Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/K5u2xhBD4f, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3818  | Tweet 1614: Translated(src=es, dest=en, text=Argentines were always at the top of the migrants here, they were displaced as the first by the Venetian… https://t.co/0zKJfudXnS, pronunciation=Argentines were always at the top of the migrants here, they were displaced as the first by the Venetian… https://t.co/0zKJfudXnS, extra_data="{'translat...") 
+
+-0.8481  | Tweet 1615: Translated(src=es, dest=en, text=@fargosi ​​One thing is a pepelón
+And another very different thing is to be terrorists and today all of you are terrorists and… https://t.co/BkG2gzR7Ge, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1616: Translated(src=es, dest=en, text=Crew members of the plane held in #Argentina arrive in Caracas
+
+The Venezuelan freighter #Emtrasur continues to be held… https://t.co/J63Voxy29z, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6124  | Tweet 1617: Translated(src=es, dest=en, text=I always complain that the only disrespectful Venezuelans in all of Argentina are in the department of… https://t.co/Ur0TEeNrFX, pronunciation=I always complain that the only disrespectful Venezuelans in all of Argentina are in the department of… https://t.co/Ur0TEeNrFX, extra_data="{'translat...") 
+
+0.7506  | Tweet 1618: Translated(src=es, dest=en, text=@OrlenysOV: I am left with this moment in which Ricardo, one of the Venezuelan pilots, makes a gesture of strength and puts up with his comrades…, pronunciation=@OrlenysOV: I am left with this moment in which Ricardo, one of the Venezuelan pilots, makes a gesture of strength and puts up with his comrades…, extra_data="{'translat...") 
+
+0.0  | Tweet 1619: Translated(src=es, dest=en, text=@ElPitazoTV: Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #17Sep https://t.co…, pronunciation=@ElPitazoTV: Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities #17Sep https://t.co…, extra_data="{'translat...") 
+
+0.0  | Tweet 1620: Translated(src=es, dest=en, text=The 1st group of crew members of the Venezuelan plane, held for more than 3 months in Argentina, arrived in 🇻🇪Venezu… https://t.co/0GTElFsjaV, pronunciation=The 1st group of crew members of the Venezuelan plane, held for more than 3 months in Argentina, arrived in 🇻🇪Venezu… https://t.co/0GTElFsjaV, extra_data="{'translat...") 
+
+-0.93  | Tweet 1621: Translated(src=es, dest=en, text=@Liza60695454: Nojoda will continue, with the story that Alex Saab was kidnapped and is being held prisoner for a thief, a corrupt swindler.. One of…, pronunciation=@Liza60695454: Nojoda will continue, with the story that Alex Saab was kidnapped and is being held prisoner for a thief, a corrupt swindler.. One of…, extra_data="{'translat...") 
+
+0.0  | Tweet 1622: Translated(src=es, dest=en, text=@Sascenzi The regime using women to wash conviasa's face. after leaving a lot of Venezuelan… https://t.co/kHU5Ej2trh, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1623: Translated(src=es, dest=en, text=3 Venezuelans and 4 Iranians are still under investigation by the Argentine authorities #17Sep Learn more details https://t.co/qmSnw8yxdV, pronunciation=3 Venezuelans and 4 Iranians are still under investigation by the Argentine authorities #17Sep Learn more details https://t.co/qmSnw8yxdV, extra_data="{'translat...") 
+
+0.0  | Tweet 1624: Translated(src=es, dest=en, text=@PatoBullrich: This week, together with @SilvanaGiudici, we received @RichardBlancoOf, deputy of the National Assembly of Venezuela.
+We want…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6597  | Tweet 1625: Translated(src=es, dest=en, text=12 members of the Venezuelan-Iranian company flight detained in Argentina since June, arrived in Venezuela.… https://t.co/eehphhHrjA, pronunciation=12 members of the Venezuelan-Iranian company flight detained in Argentina since June, arrived in Venezuela.… https://t.co/eehphhHrjA, extra_data="{'translat...") 
+
+0.0  | Tweet 1626: Translated(src=es, dest=en, text=@Lluvya03: #17Sep| 11 Venezuelans and an Iranian, crew members of the Emtrasur plane, arrived this Friday at the International airport ..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1627: Translated(src=es, dest=en, text=Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities # 17Sep https://t.co/qmSnw8Q8Cv, pronunciation=Seven members of the Emtrasur flight team are still in the custody of the Argentine authorities # 17Sep https://t.co/qmSnw8Q8Cv, extra_data="{'translat...") 
+
+0.0  | Tweet 1628: Translated(src=es, dest=en, text=@madeleintlSUR: #LastMinute| The crew members of the #EMTRASUR plane have already arrived in #Bolivia, including the only woman Victoria Valdiv..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.1139  | Tweet 1629: Translated(src=es, dest=en, text=Contrary to our hijacked plane in Argentina, those traitorous Venezuelans are back here, we do NOT want them… https://t.co/adSf00RzeO, pronunciation=Contrary to our hijacked plane in Argentina, those traitorous Venezuelans are back here, we do NOT want them… https://t.co/adSf00RzeO, extra_data="{'translat...") 
+
+0.0  | Tweet 1630: Translated(src=es, dest=en, text=This Friday arrived in Venezuela 🇻🇪 part of the crew of the Venezuelan plane hijacked in Argentina 🇦🇷. The tribe… https://t.co/FUNibmeLQA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1631: Translated(src=es, dest=en, text=#17Sep| 11 Venezuelans and an Iranian, crew members of the Emtrasur plane, arrived at the airport this Friday… https://t.co/tqO5phhXuW, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1632: Translated(src=es, dest=en, text=The first group of crew members of the #Emtrasur plane, held for more than 3 months in #Argentina, arrived at… https://t.co/Xs6uznrNsZ, pronunciation=The first group of crew members of the #Emtrasur plane, held for more than 3 months in #Argentina, arrived at… https://t.co/Xs6uznrNsZ, extra_data="{'translat...") 
+
+0.0  | Tweet 1633: Translated(src=es, dest=en, text=THAT'S HOW IT WENT
+
+The return of Venezuelans kidnapped in Argentina by the pirate orders of the outlaw government and ab… https://t.co/zBHNRJQXOM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1634: Translated(src=es, dest=en, text=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/9MXllzCMLB, pronunciation=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/9MXllzCMLB, extra_data="{'translat...") 
+
+0.0  | Tweet 1635: Translated(src=es, dest=en, text=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/IOgYGkJQCC, pronunciation=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/IOgYGkJQCC, extra_data="{'translat...") 
+
+0.0  | Tweet 1636: Translated(src=es, dest=en, text=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/5lrk6I6rYr, pronunciation=11 Venezuelan crew members and an Iranian from the plane seized in Argentina arrive in the country https://t.co/5lrk6I6rYr, extra_data="{'translat...") 
+
+0.0  | Tweet 1637: Translated(src=es, dest=en, text=@happifabiol @coragamarnik You live in a tupperware.
+There was never as much Argentine immigration as with the K
+The same as… https://t.co/DLwBB7foLN, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 1638: Translated(src=es, dest=en, text=«I no longer have tears from so much that I have cried, since I left Argentina crying, from happiness. Justice was done… https://t.co/kjvazHl1FC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1639: Translated(src=es, dest=en, text=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/Ndxg84…, pronunciation=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/Ndxg84…, extra_data="{'translat...") 
+
+0.0  | Tweet 1640: Translated(src=es, dest=en, text=@infopublicave: 📢 This Friday afternoon, 12 crew members of the Venezuelan-Iranian plane arrived at the Maiquetía International Airport,…, pronunciation=@infopublicave: 📢 This Friday afternoon, 12 crew members of the Venezuelan-Iranian plane arrived at the Maiquetía International Airport,…, extra_data="{'translat...") 
+
+0.8957  | Tweet 1641: Translated(src=es, dest=en, text=#17Sep| 🇻🇪 📢 💛💙❤️🙏
+
+▶️ #LaPazNosUne
+@Marbely008
+@jamn1309721
+@NicolasMaduro
+@Mippcivzla
+ 
+✅ They arrive in Venezuela 12… https://t.co/TqWFKgkKTM, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1642: Translated(src=es, dest=en, text=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/y0DDok91nk, pronunciation=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/y0DDok91nk, extra_data="{'translat...") 
+
+0.0  | Tweet 1643: Translated(src=es, dest=en, text=🇦🇷🇻🇪✈️ The first group of aircraft crew members held in Argentina arrived in Venezuela:
+
+11 Venezuelans and an Iranian, t… https://t.co/tvGYxQmPHc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1644: Translated(src=es, dest=en, text=📢 This Friday afternoon, 12 crew members of the Venezuelan plane arrived at Maiquetía International Airport… https://t.co/AIIQfiLBLJ, pronunciation=📢 This Friday afternoon, 12 crew members of the Venezuelan plane arrived at Maiquetía International Airport… https://t.co/AIIQfiLBLJ, extra_data="{'translat...") 
+
+0.1531  | Tweet 1645: Translated(src=es, dest=en, text=@Liza60695454: A propaganda in @venevision about the plane seized in Argentina says that Venezuela is one of the countries that respects l…, pronunciation=@Liza60695454: A propaganda in @venevision about the plane seized in Argentina says that Venezuela is one of the countries that respects l…, extra_data="{'translat...") 
+
+0.8225  | Tweet 1646: Translated(src=es, dest=en, text=@RafaRebelde200 // Top story: @jorgerpsuv: 'Today we welcome 12 of the 19 Venezuelan crew members with immense joy… https://t.co/1BXjiZckzv, pronunciation=@RafaRebelde200 // Top story: @jorgerpsuv: 'Today we welcome 12 of the 19 Venezuelan crew members with immense joy… https://t.co/1BXjiZckzv, extra_data="{'translat...") 
+
+0.0  | Tweet 1647: Translated(src=es, dest=en, text=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/ecytHz…, pronunciation=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/ecytHz…, extra_data="{'translat...") 
+
+0.0  | Tweet 1648: Translated(src=es, dest=en, text=Últimas Noticias says: In Argentina there are still seven crew members, including four Iranians and three… https://t.co/1xcjz0sSh7, pronunciation=Últimas Noticias says: In Argentina there are still seven crew members, including four Iranians and three… https://t.co/1xcjz0sSh7, extra_data="{'translat...") 
+
+0.0  | Tweet 1649: Translated(src=es, dest=en, text=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/ecytHzS8Q7, pronunciation=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/ecytHzS8Q7, extra_data="{'translat...") 
+
+0.25  | Tweet 1650: Translated(src=es, dest=en, text=@Vaaelor @Rafael23252902 Hahaha poor brother but if you said a reality, people concentrated more on one word… https://t.co/dfY11DA99m, pronunciation=@Vaaelor @Rafael23252902 Hahaha poor brother but if you said a reality, people concentrated more on one word… https://t.co/dfY11DA99m, extra_data="{'translat...") 
+
+-0.6597  | Tweet 1651: Translated(src=es, dest=en, text=12 Iranian Venezuelan plane crew members detained in Argentina arrive in the country https://t.co/WHLYSHDhiB, pronunciation=12 Iranian Venezuelan plane crew members detained in Argentina arrive in the country https://t.co/WHLYSHDhiB, extra_data="{'translat...") 
+
+0.7717  | Tweet 1652: Translated(src=es, dest=en, text=Today we receive with immense joy 12 of the 19 Venezuelan crew members in Argentina. They return to their good homeland. L… https://t.co/omnWcXeLuR, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1653: Translated(src=es, dest=en, text=@AgenciaVN_: #EsNews
+ 
+12 crew members of the Emtrasur plane arrived in Bolivia.
+ 
+In Argentina there are still seven crew members, among…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.6124  | Tweet 1654: Translated(src=es, dest=en, text=@ wilmermm31 We Venezuelans hope that he does have them to remove the dictatorship that is imposing them… https://t.co/40VUpS6M4O, pronunciation=@ wilmermm31 We Venezuelans hope that he does have them to remove the dictatorship that is imposing them… https://t.co/40VUpS6M4O, extra_data="{'translat...") 
+
+0.0  | Tweet 1655: Translated(src=es, dest=en, text=#16Sep | Moment when they are boarded on the plane to Bolivia, the first group of Venezuelan crew members who… https://t.co/u1gMfgS2y1, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.2023  | Tweet 1656: Translated(src=es, dest=en, text=«I no longer have tears from so much that I have cried, since I left Argentina crying, from happiness. Justice was done… https://t.co/99otD1Mr6f, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1657: Translated(src=es, dest=en, text=@TVVnoticias: 12 of the 19 crew members of the Emtrasur plane, who had been held in Argentina since June 8, arrived this…, pronunciation=@TVVnoticias: 12 of the 19 crew members of the Emtrasur plane, who had been held in Argentina since June 8, arrived this…, extra_data="{'translat...") 
+
+0.0  | Tweet 1658: Translated(src=es, dest=en, text=@BonettSol: 🗞 12 Emtrasur crew members kidnapped in Argentina arrive in Venezuela
+
+In Argentina there are still seven crew members, between l…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1659: Translated(src=es, dest=en, text=12 of the 19 crew members of the Emtrasur plane, who had been held in Argentina since June 8, arrived… https://t.co/vhuvCxtfeZ, pronunciation=12 of the 19 crew members of the Emtrasur plane, who had been held in Argentina since June 8, arrived… https://t.co/vhuvCxtfeZ, extra_data="{'translat...") 
+
+0.7783  | Tweet 1660: Translated(src=es, dest=en, text=The Argentine Justice still retains four Iranian and three Venezuelan crew members of the plane seized for alleged… https://t.co/fMCLyjlOKi, pronunciation=The Argentine Justice still retains four Iranian and three Venezuelan crew members of the plane seized for alleged… https://t.co/fMCLyjlOKi, extra_data="{'translat...") 
+
+0.0  | Tweet 1661: Translated(src=es, dest=en, text=@BloombergLineaC: #ÚltimaHoraBL | 🇻🇪 11 Venezuelans and one Iranian, crew members of the Emtrasur plane, a subsidiary airline of the Venezuelan state..., pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1662: Translated(src=es, dest=en, text=#LastHoraBL | 🇻🇪 11 Venezuelans and one Iranian, crew members of the Emtrasur plane, a subsidiary airline of the state-owned ve… https://t.co/bdnfew6CzE, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1663: Translated(src=es, dest=en, text=#LastHoraBL | 🇻🇪 11 Venezuelans and one Iranian, crew members of the Emtrasur plane, a subsidiary airline of the state-owned ve… https://t.co/9epsuGAy0B, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1664: Translated(src=es, dest=en, text=#BREAKING The Venezuelan crew released from the Iranian-Venezuelan plane held in Argentina arrive in Venezuela… https://t.co/YFYNQYB0bh, pronunciation=#BREAKING The Venezuelan crew released from the Iranian-Venezuelan plane held in Argentina arrive in Venezuela… https://t.co/YFYNQYB0bh, extra_data="{'translat...") 
+
+-0.128  | Tweet 1665: Translated(src=es, dest=en, text=@pp_retro @CarlosAJimnez4 That's another matter. The point is that the kks is playing with fire. He is not only a narco gob… https://t.co/cvZt090TsY, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1666: Translated(src=es, dest=en, text=@800News_: #16Sep | Moment in which they are boarded on the plane to Bolivia, the 1st group of Venezuelan crew members who l…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4019  | Tweet 1667: Translated(src=es, dest=en, text=12 crew members of 19 detained 3 months ago in Argentina arrive in the Venezuelan Territory. There were 4 Iranians and 3 V… https://t.co/dVYkCYY87i, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1668: Translated(src=es, dest=en, text=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/pEB7Cp…, pronunciation=@UNoticias: In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/pEB7Cp…, extra_data="{'translat...") 
+
+0.0  | Tweet 1669: Translated(src=es, dest=en, text=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/pEB7CpiQ9y, pronunciation=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/pEB7CpiQ9y, extra_data="{'translat...") 
+
+0.0  | Tweet 1670: Translated(src=es, dest=en, text=Those released, including 11 Venezuelans and an Iranian, landed around 6:30 p.m. local time (22… https://t.co/qQ4uR9Q5Je, pronunciation=Those released, including 11 Venezuelans and an Iranian, landed around 6:30 p.m. local time (22… https://t.co/qQ4uR9Q5Je, extra_data="{'translat...") 
+
+0.0  | Tweet 1671: Translated(src=es, dest=en, text=🗞 12 Emtrasur crew members kidnapped in Argentina arrive in Venezuela
+
+In Argentina there are still seven crew members… https://t.co/rfo3Jta8ud, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1672: Translated(src=es, dest=en, text=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/Ndxg84IYEe, pronunciation=In Argentina there are still seven crew members, including four Iranians and three Venezuelans https://t.co/Ndxg84IYEe, extra_data="{'translat...") 
+
+0.0  | Tweet 1673: Translated(src=es, dest=en, text=@BorisCastellano Hi Boris. I am in tune with the 360 ​​program watching the return of the Venezuelan brothers who are… https://t.co/cMSw3xAe9F, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.765  | Tweet 1674: Translated(src=es, dest=en, text=majority politics. That difficult path to overcome the crisis we cannot continue to think will be achieved only by… https://t.co/BS1035tltH, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4003  | Tweet 1675: Translated(src=es, dest=en, text=ATTENTION! Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years |… https://t.co/JPkEK0lWtB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1676: Translated(src=es, dest=en, text=#ENVIDEO | Among the conversations with the crew members who return to #Venezuela🇻🇪 one of them talks about the co… https://t.co/OISn2wUpEm, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.34  | Tweet 1677: Translated(src=es, dest=en, text=@OrlenysOV: Who is missing?
+
+There are still 4 crew members left (3🇻🇪/1🇮🇷), who will leave Ezeiza tonight for Caracas on the same route, as…, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6808  | Tweet 1678: Translated(src=es, dest=en, text=@OrlenysOV: The most sensitive case of the group that managed to leave Argentina is the medical emergency of one of the Venezuelan pilots, Zeus R…, pronunciation=@OrlenysOV: The most sensitive case of the group that managed to leave Argentina is the medical emergency of one of the Venezuelan pilots, Zeus R…, extra_data="{'translat...") 
+
+-0.8555  | Tweet 1679: Translated(src=es, dest=en, text=@ChuchoRZ I hated Venezuelans when I was in Venezuela, imagine now that I have lived in Argentina for 12 years, pronunciation=@ChuchoRZ I hated Venezuelans when I was in Venezuela, imagine now that I have lived in Argentina for 12 years, extra_data="{'translat...") 
+
+0.0  | Tweet 1680: Translated(src=es, dest=en, text=#16Sep | Moment when they are boarded on the plane to Bolivia, the first group of Venezuelan crew members who… https://t.co/97Ar5IrZl8, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.6369  | Tweet 1681: Translated(src=es, dest=en, text=From Argentina, the Plaza de Mayo, a place full of history for being a symbol of the fight for human rights, the Movimie was created… https://t.co/xC86KhHNh1, pronunciation=From Argentina, the Plaza de Mayo, a place full of history for being a symbol of the fight for human rights, the Movimie was created… https://t.co/xC86KhHNh1, extra_data="{'translat...") 
+
+-0.4588  | Tweet 1682: Translated(src=es, dest=en, text=A propaganda in @venevision about the plane seized in Argentina says that Venezuela is one of the countries that res... https://t.co/3ljqu5hVns, pronunciation=A propaganda in @venevision about the plane seized in Argentina says that Venezuela is one of the countries that res... https://t.co/3ljqu5hVns, extra_data="{'translat...") 
+
+0.0  | Tweet 1683: Translated(src=es, dest=en, text=@ChicoMigraa18 @chochewetzel @camilaemiliasv ? Why? Look on September 4, more than 8 million bots voted so… https://t.co/ozHbTa6Ga8, pronunciation=None, extra_data="{'translat...") 
+
+-0.8689  | Tweet 1684: Translated(src=es, dest=en, text=@REDHNNA: The delay in the regularization of migrant children and adolescents in that country is due to the poor identification system…, pronunciation=@REDHNNA: The delay in the regularization of migrant children and adolescents in that country is due to the poor identification system…, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1685: Translated(src=es, dest=en, text=The delay of up to 3 years in the regularization of migrant children and adolescents in Argentina is due to the def… https://t.co/Nj7ymJuuOT, pronunciation=The delay of up to 3 years in the regularization of migrant children and adolescents in Argentina is due to the def… https://t.co/Nj7ymJuuOT, extra_data="{'translat...") 
+
+-0.5574  | Tweet 1686: Translated(src=es, dest=en, text=The delay in the regularization of migrant children and adolescents in that country is due to the deficient system of… https://t.co/NWwdknhk3T, pronunciation=The delay in the regularization of migrant children and adolescents in that country is due to the deficient system of… https://t.co/NWwdknhk3T, extra_data="{'translat...") 
+
+0.0  | Tweet 1687: Translated(src=es, dest=en, text=@VenezuelaSaime In Argentina they give Venezuelans an appointment once the passport fee has been paid, but they are not… https://t.co/7pVGn9mH8P, pronunciation=@VenezuelaSaime In Argentina they give Venezuelans an appointment once the passport fee has been paid, but they are not… https://t.co/7pVGn9mH8P, extra_data="{'translat...") 
+
+-0.296  | Tweet 1688: Translated(src=es, dest=en, text=@ViviCerda2 @rmorenoconcha @kikiwk66 They. Actually, Venezuela no more and not all Venezuelans.
+Argentina is… https://t.co/7awx2d4wEK, pronunciation=[[]], extra_data="{'translat...") 
+
+-0.9437  | Tweet 1689: Translated(src=es, dest=en, text=Nojoda will continue, with the story that Alex Saab was kidnapped this prisoner by a thief, corrupt swindler .. U… https://t.co/KJivwgEtO4, pronunciation=Nojoda will continue, with the story that Alex Saab was kidnapped this prisoner by a thief, corrupt swindler .. U… https://t.co/KJivwgEtO4, extra_data="{'translat...") 
+
+-0.8674  | Tweet 1690: Translated(src=es, dest=en, text=@ESS75146018 @NoVive_Socialis @MamelaFialloFlo Venezuelans earn this hate, most of them are criminals… https://t.co/9iNnflglq3, pronunciation=@ESS75146018 @NoVive_Socialis @MamelaFialloFlo Venezuelans earn this hate, most of them are criminals… https://t.co/9iNnflglq3, extra_data="{'translat...") 
+
+0.0  | Tweet 1691: Translated(src=es, dest=en, text=@RedRadioVe: #ATTENTION | This is how they embarked the first group of Venezuelan crew members held in Argentina who raised the pro..., pronunciation=[[]], extra_data="{'translat...") 
+
+-0.4003  | Tweet 1692: Translated(src=es, dest=en, text=Attention! 🇻🇪🇦🇷 | Venezuelans in Argentina denounce that the DNI for children and adolescents can take up to three years… https://t.co/EhLdXwUelA, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5719  | Tweet 1693: Translated(src=es, dest=en, text=@ayepez80: Yesterday I was talking to a Venezuelan opposition girl in Argentina and when I told her about Chávez she was happy. I realize that…, pronunciation=None, extra_data="{'translat...") 
+
+0.5719  | Tweet 1694: Translated(src=es, dest=en, text=Yesterday I was talking to a Venezuelan opposition girl in Argentina and when I told her about Chávez she was happy. I realized c… https://t.co/LvLAXJrClB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.0  | Tweet 1695: Translated(src=id, dest=en, text=@ggohom: @abremollera @LOQUEDIGAELFMI @LailaTajeldine @esilvacuadra @McMinnsWorld @carlosmartinezr @Zapay @DaniMayakovski @malu1508 @A…, pronunciation=@ggohom: @abremollera @LOQUEDIGAELFMI @LailaTajeldine @esilvacuadra @McMinnsWorld @carlosmartinezr @Zapay @DaniMayakovski @malu1508 @A…, extra_data="{'translat...") 
+
+0.4939  | Tweet 1696: Translated(src=es, dest=en, text=@elpais_america: 🇦🇷 Argentina authorizes 12 of the crew members of the seized Venezuelan plane to leave the country. Justice retains…, pronunciation=[[]], extra_data="{'translat...") 
+
+0.4939  | Tweet 1697: Translated(src=es, dest=en, text=🇦🇷 Argentina authorizes 12 of the crew of the seized Venezuelan plane to leave the country. Justice retains… https://t.co/5XcxlQ6ZFB, pronunciation=[[]], extra_data="{'translat...") 
+
+0.7506  | Tweet 1698: Translated(src=es, dest=en, text=I am left with this moment in which Ricardo, one of the Venezuelan pilots, makes a gesture of strength and endurance to… https://t.co/aG7YSUL8xY, pronunciation=I am left with this moment in which Ricardo, one of the Venezuelan pilots, makes a gesture of strength and endurance to… https://t.co/aG7YSUL8xY, extra_data="{'translat...") 
+
+0.0  | Tweet 1699: Translated(src=es, dest=en, text=#ItsNews
+ 
+12 crew members of the Emtrasur plane arrived in Bolivia.
+ 
+In Argentina there are still seven crew members… https://t.co/H4oXgdv8wC, pronunciation=[[]], extra_data="{'translat...") 
+
+0.3612  | Tweet 1700: Translated(src=es, dest=en, text=@DrPotemYT It's always been like this, only now he has a channel where he expresses his opinions.
+Just as an observation,… https://t.co/F6ZidgIpg7, pronunciation=[[]], extra_data="{'translat...") 
+
+0.5093  | Tweet 1701: Translated(src=es, dest=en, text=@Marelmarti How cute indeed, this represents us as Venezuelans, no! The rope of thugs that are recorded in… https://t.co/uuRtAVy8Zc, pronunciation=[[]], extra_data="{'translat...") 
+
+0.34  | Tweet 1702: Translated(src=es, dest=en, text=@Samuelclemente Venezuelans have played WBC with Colombia, Spain, Italy. And at some point we will see them with Argenti… https://t.co/AeOjap5Koc, pronunciation=[[]], extra_data="{'translat...") 
+
